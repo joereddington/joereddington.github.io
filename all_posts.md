@@ -1,7 +1,6 @@
 ---
 layout: list
 title: All posts
-permalink: /about/
 list_title: Articles
 ---
 This is the set of articles written for this blog.
