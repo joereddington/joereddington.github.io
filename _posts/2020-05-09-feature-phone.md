@@ -7,9 +7,6 @@ _I'm aware there is a lot of priviledge in this post_
 
 My phone broke last year (I'm late writing up this post) and I've took the opportunity to try going low tech. I spent about £25 buying [one of these](https://en.wikipedia.org/wiki/Nokia_3310) from eBay with a charger and £10 credit.  It's effectively a burner phone and I feel very spy-like. 
 
-![A Nokia 3310](https://commons.wikimedia.org/wiki/File:Nokia_3310_blue.jpg) 
-
-
 I've learned the following things. 
 
 * I *really* miss Google Maps. 
