@@ -1,8 +1,6 @@
 <html>
 <head> 
 <title>I'm writing a book about memory    </title>
-<link rel="stylesheet" type="text/css" href="mystyle.css">
-<meta charset="utf-8"/>
 </head>
 <body> 
 <h1>Memory Palaces</h1> 
