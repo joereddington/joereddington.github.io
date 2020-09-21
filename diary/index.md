@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Logs"
-hidden: true
+title:  ""
+visible: 0 
 --- 
 
 ## 07/09/20 09:19 to 09:49, Upgrading +EQT emails 
