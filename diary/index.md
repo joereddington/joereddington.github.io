@@ -229,10 +229,30 @@ I've stopped the script with a view to improving other parts
 ## 19/09/20 15:06 to 15:49, More on Mps 
 It's now on Facebook and stuff, asking for comments 
 
+hiding log page
+
+## 20/09/20 07:46 to 07:58, Writing up notes 
+
+## 21/09/20 06:38 to 07:24, Fixing the +EQT timesheet  
+There's a script and so on that now works. 
+
+## 21/09/20 07:38 to 09:50, Really attacked the personal todo list
+I started with 34 items, but got to about 25. Included some DIY, phone calls, weeding out some doubles, that sort of thing. Was worthwhile.  Included reviewing my feedly feeds which was _just better_ than getting information from social media. 
+
+## 21/09/20 10:01 to 10:18, Small baby break 
+
+## 21/09/20 10:38 to 11:05, So what's the plan for the ML videos? 
+* Watch them at the time? (At desk, with Leo?) 
+* Have a set of notes? 
+ * Oh, can I import the notes somewhere? 
+* Should I blog it? 
 
 
 
+## 22/09/20 07:28 to 08:37, Personal todo list gain 
 
 
-
+## 23/09/20 22:09 to 22:30, Late night sprint
+* Sorting Littlefinger 
+* Mapping a project 
 
