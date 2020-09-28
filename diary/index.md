@@ -256,3 +256,21 @@ I started with 34 items, but got to about 25. Included some DIY, phone calls, we
 * Sorting Littlefinger 
 * Mapping a project 
 
+
+## 24/09/20 08:22 to 10:08, Email +EQT
+## 25/09/20 07:32 to 11:14, Email again. +EQT
+* Including making a start on the contacts database 
+
+## 25/09/20 15:36 to 16:13, General todo.txt 
+* Did some blogging 
+* Added reminders 
+
+## 28/09/20 06:33 to 07:28, Writing the 'the role of a Trustee' document for +EQT
+
+## 28/09/20 07:51 to 08:15, Doing the Monday Social Networking 
+* Replied to messages 
+* Replied to comments
+* Did two vegans of Luton posts. 
+* Took exactly an hour. I don't plan to look again until Thursday
+
+
