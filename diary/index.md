@@ -274,3 +274,79 @@ I started with 34 items, but got to about 25. Included some DIY, phone calls, we
 * Took exactly an hour. I don't plan to look again until Thursday
 
 
+## 28/09/20 09:06 to 09:16, I'm doing to work out the times taken for my tasks 
+
+## 28/09/20 09:27 to 09:49, Mostly looking at DELORES right now.https://github.com/joereddington/Projects-Private/issues/38
+* Cloned the old python repo but didn't like it
+* Decided to write something myself 
+* Found examples of actual business processing languages 
+* Downloaded one to try out. 
+
+## 28/09/20 09:49 to 10:41, Ticking off various todos. 
+* Also cutting down the log.md 
+
+## 29/09/20 07:08 to 07:26, Working on todo list
+## 29/09/20 07:26 to 08:05, working on social media calendar per https://github.com/equalitytime/public/issues/107
+## 29/09/20 08:06 to 08:22, children. 
+
+## 29/09/20 08:22 to 09:17, working on  +EQT list 
+* everything in the list has been checked. 
+* lots of notes to follow up added to email list 
+* lost of bits added to social media calendar 
+* feeling much more relaxed about the whole thing. 
+* there's quite a lot of open funding ideas and a few other bits. 
+* going have to be relatively selective about my time. 
+* down to 50 tasks by the end of the sprint 
+* we called Amazon again, if the credit limit is denied we can apparently appeal. 
+
+## 29/09/20 09:18 to 10:08, Tidying up QuickBooks +EQT
+things to do 
+* reconciliation between bank and QuickBooks 
+* check all bills 
+* check cashflow and balance sheet and budgets 
+* check invoices 
+
+i have 
+* reconciled up to 30/6/2020
+* remembered how to do it. 
+
+## 29/09/20 10:08 to 11:09, visitor and finance conversation with kat
+
+
+## 29/09/20 11:09 to 11:48, +EQT QuickBooks again
+* I have reconciled with the bank up to year end. 
+* I have checked the invoices and found one that i need to chase. 
+* I've cleared out a bunch of bills that shouldn't be there. 
+* I have found some expenses that i need to put into unity
+* but - i need to check that they (and my wages) didn't go out in September. 
+* internet banking is unavailable 
+
+
+## 01/10/20 06:26 to 11:10, Processing emails +EQT 
+
+
+
+## 01/10/20 11:10, making a cup of tea and having baby 
+
+## 01/10/20 12:49 to 15:06, More email +EQT 
+* Including looking at mailchimp
+
+
+## 03/10/20 16:39 to 16:58, I'm working out my keyboard
+* Playing with my new keyboard
+
+## 03/10/20 21:03 to 21:25, I would, however, like to get better at using keyboard only navigation and I am inspired by my new keyboard  
+* Playing with my new keyboard.
+* Added an extension that removes cookies 
+
+## 04/10/20 05:06 to 05:36, Clear donwloads folder 
+* Clearing files 
+* Uploading Nova's climbing videos 
+* Reading up on music project. 
+
+## 04/10/20 05:37 to 06:00, Writing up notes. 
+
+
+## 04/10/20 06:00, Time to go and get a workout done. 
+
+
