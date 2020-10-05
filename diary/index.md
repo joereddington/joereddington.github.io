@@ -347,6 +347,44 @@ i have
 ## 04/10/20 05:37 to 06:00, Writing up notes. 
 
 
-## 04/10/20 06:00, Time to go and get a workout done. 
+## 04/10/20 06:30 to 06:50, I have Nova now. Fail on the getting STUFF done this morning.  
+
+## 04/10/20 06:54 to 07:02, Checking timesheet +EQT
+36 hours in September. I was meant to do... eight hours a week, so, that's... actually right? Except that I did some of them in October...
+
+## 04/10/20 07:19 to 07:27, Okay let's map the reconciliation 
+* Open the damn file 
+* Work out the last time that the joka spending was moved accross 
+
+## 04/10/20 09:32 to 09:51, Checking Zwifts estimates 
+* Turns out it's fairly accurate and I'm NOT up to the workouts yet. 
+
+## 04/10/20 11:14 to 11:47, Reconciling household accounts
+
+## 04/10/20 14:20 to 15:07, Sarah call +EQT 
+Including working out the Dropbox sizes and calling mum about sorting the folders out. 
+
+## 05/10/20 08:00 to 08:11, Getting started +EQT
+* Did sarah's Dropbox 
+* Cleared the downloads folder. 
+* Cleared up this file. 
+
+## 05/10/20 08:11 to 08:37, Email. +EQT
+## 05/10/20 09:00 to 09:55, Doing the +EQT bit of faecbook including the social media calendar o
+## 05/10/20 10:54 to 11:40, Emails again +EQT
+
+
+## 05/10/20 15:22 to 15:27, Writing up notes. 
+
+
+
+
+
+
+
+
+
+
+
 
 
