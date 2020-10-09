@@ -376,6 +376,16 @@ Including working out the Dropbox sizes and calling mum about sorting the folder
 
 ## 05/10/20 15:22 to 15:27, Writing up notes. 
 
+## 05/10/20 15:38 to 16:02, Moving a blog over, with spelling and STUFF 
+* it's the Ubuntu one - I'm sort of inspired to start using my laptop for more work and THINGs. It can be a streaming machine without much effort. 
+
+## 05/10/20 19:56 to 20:49, Personal todo list time. 
+## 07/10/20 19:31 to 21:04, +EQT meeting 
+## 08/10/20 09:36 to 11:44, +EQT email
+## 09/10/20 07:30, Hello. 
+I want to edit this file down. 
+
+
 
 
 
