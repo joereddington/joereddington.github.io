@@ -382,10 +382,35 @@ Including working out the Dropbox sizes and calling mum about sorting the folder
 ## 05/10/20 19:56 to 20:49, Personal todo list time. 
 ## 07/10/20 19:31 to 21:04, +EQT meeting 
 ## 08/10/20 09:36 to 11:44, +EQT email
-## 09/10/20 07:30, Hello. 
-I want to edit this file down. 
+
+## 09/10/20 07:36 to 08:24, Email again now +EQT
+We're going to go until it's cleaned out. 
+Done-Done with linkedin and j
+
+## 09/10/20 08:24 to 09:12, Gratitude
+(and processing Faceook
+## 09/10/20 09:34, Done, logged out of everything. Oh Strava
+
+## 11/10/20 05:36 to 06:06, Working on todo.txt 
 
 
+## 12/10/20 06:49 to 07:42, working on https://github.com/joereddington/Projects-Private/issues/38
+
+## 12/10/20 07:42 to 08:58, Tiding this file and processing stack 
+* Fair amount of faff really. lots could have been trimmed. 
+
+## 12/10/20 09:04 to 10:41, Working on the co-design for that Project that we haven't named yet. +EQT
+This was a really good example of staying with the problem and actually working THINGs out. I've got a solution and I'm happy with it, but it involved a lot of dead-ends and blanks  
+
+I Solved it! I'm so clever! I'm retroactively forgiving myself all of the twitter time earlier.  
+
+
+## 12/10/20 15:48 to 16:15, Tiding this file also dealing with contractors and watching kids. 
+
+ 
+## 12/10/20 16:22 to 16:33, (A ) buy mouse and pens from amazon so there is a sale +EQT
+## 12/10/20 16:35 to 17:15, Work on Book.  
+Working on the tree chapter after several false starts 
 
 
 
