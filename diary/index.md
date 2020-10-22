@@ -413,6 +413,63 @@ I Solved it! I'm so clever! I'm retroactively forgiving myself all of the twitte
 Working on the tree chapter after several false starts 
 
 
+## 13/10/20 08:58 to 09:04, Tidying up 
+* Done downloads
+* Now history  
+
+## 13/10/20 09:04 to 09:30, Messaging about Careers advice 
+
+
+## 13/10/20 10:00 to 11:16, Meeting +EQT 
+## 13/10/20 11:19 to 11:50, +EQT Having an idea about Driving Seat project 
+## 13/10/20 13:16 to 13:36, Driving Seat Project +EQT 
+## 13/10/20 14:12 to 14:39, Making the deck +EQT
+## 13/10/20 16:50 to 17:12, Finishing Deck +EQT
+
+
+## 15/10/20 07:15 to 10:11, +EQT email and NOT equal meeting 
+## 15/10/20 10:33 to 11:19, More email and +EQT social media. 
+
+
+# 16/10/20 08:23 to 08:49, Doing the regeneration of the post. 
+This is a cool site: https://euangoddard.github.io/clipboard2markdown/ 
+
+
+## 16/10/20 09:36 to 09:59, washington run 
+
+## 16/10/20 09:59 to 11:30, +EQT livestream
+
+## 16/10/20 15:56 to 16:46, Having a good work through the list. 
+
+## 18/10/20 06:09 to 07:31, Here for book
+I did a long awaited review and restoration of the first ten of my memory palace 
+
+## 19/10/20 07:58 to 08:55, working on book 
+
+
+## 20/10/20 07:52 to 08:44, email time +EQT 
+* Interrupted by a quick fixing of a Book camp for Richard 
+
+## 20/10/20 08:53 to 09:28, Carestar 
+
+## 20/10/20 09:28 to 11:05, email +EQT
+
+## 20/10/20 11:05 to 11:16, taking a break to make websites https +EQT
+
+## 21/10/20 05:58 to 08:49, big +EQT sprint 
+* Emails 
+* AGM organisting 
+* Freaking myself out with the balance sheet 
+* Lots on the NOTequal grant 
+
+
+
+
+
+
+
+
+
 
 
 
