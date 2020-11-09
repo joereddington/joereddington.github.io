@@ -463,6 +463,62 @@ I did a long awaited review and restoration of the first ten of my memory palace
 * Lots on the NOTequal grant 
 
 
+## 22/10/20 09:20 to 09:26, Sorting this file. 
+
+
+## 22/10/20 09:35, Long term goals. 
+* I want to complete the book 
+* I want to do the cookery course. 
+* I want to read all my books. 
+* I want, desperately want, to keep to my food plan. How many days has it been? I ate the truffles, so it CAN'T have been that far behind. has it been a week? Oh, yes, I can check 
+* I started on the 16th.   
+
+## 22/10/20 09:46 to 11:02, conspiracy paper +EQT and meeting 
+* Dan employment 
+* Ethics 
+
+## 23/10/20 07:59 to 08:05, Morning. Preparing to go live.  +EQT
+
+## 23/10/20 08:05 to 9:45, Live, working on book. https://www.youtube.com/watch?v=r9JpGhFMZAs
+* Slightly estimated 
+
+## 26/10/20 05:25 to 06:16, Book. 
+
+
+## 27/10/20 10:05 to 11:40, Working on Quickbooks +EQT
+Making the finance forms for trustees
+Doing the reconciliation because the errors are making the balance sheet look worse than it is. 
+
+Need to add in some invoices. 
+
+## 27/10/20 19:36 to 19:50, sending out forms +EQT
+
+## 28/10/20 21:09 to 21:40, Working on book. 
+28691 to 29166
+
+## 30/10/20 08:00 to 08:44, following up on old funding. +EQT
+Panicy phone conversation but it was okay. 
+
+## 30/10/20 12:13 to 08:51, Graham died and I've been doing the relevent emails. 
+
+## 02/11/20 07:15 to 07:47, +EQT emails 
+
+## 02/11/20 15:34 to 15:59, +EQT emails 
+
+## 03/11/20 06:57 to 08:30, Emails +EQT
+* Including sending out some invoices 
+* Fixing some other parts 
+
+## 03/11/20 08:54 to 10:43, Reading the paper for the reading group +EQT
+* small interrupt for call for Mum. 
+
+## 03/11/20 11:02 to 11:55, Reviewing documents for Yvonne +EQT
+Files to be available by password only and data encrypted 
+
+## 06/11/20 08:17, Hello. 
+## 06/11/20 08:24 to 08:51, Writing up notes 
+* Opening history 
+* Working thought. 
 
 
 
