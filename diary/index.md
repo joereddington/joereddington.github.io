@@ -520,19 +520,40 @@ Files to be available by password only and data encrypted
 * Opening history 
 * Working thought. 
 
+## 06/11/20 08:51 to 08:58 to 09:39, Working on Marketing 
+* Wrote a draft, make a list of journalists 
 
+## 07/11/20 04:28 to 04:52, The child is asleep, let's see about being productive. 
+* Added to Amazon wishlists 
+* Messaged flask people. 
+* Worked on blogs to write 
 
+## 07/11/20 04:53 to 05:16, Merging memory book files. 
 
+## 07/11/20 05:16 to 05:40, Editing photos 
 
+## 08/11/20 05:40 to 06:14, Working while Leo sleeps. 
+* Notebook 
+* Camera lens 
+* Asked this question of seasoned advice https://cooking.stackexchange.com/questions/112530/why-is-the-nutrition-information-for-these-two-items-so-different 
 
+## 09/11/20 05:21 to 06:00, writing letters to children. 
 
+## 09/11/20 19:36 to 19:55, Tidying 
+* Today was (intentional) terrible for logging, but was reasonable for Getting Things Done. 
+* Moving the letter to the folder
+* Where do I put the blog drafts? 
+  * In the equality time blog. 
+* Moving THINGs to the index. 
 
+## 09/11/20 19:55 to 20:05, Todo list rewrite. 
+I'm working on the todo list - I've removed all the priorities, times and contexts and I'm rewriting them anew. It's a bit of a displacement activity, but it's helping me gain some clarity. 
 
+* My first sticking point is 'work on carestar', but I'm a bit 'over' reaching out for the moment. 
 
+## 09/11/20 20:21 to 20:48, Working on Vision. 
+I'm getting vision to distinguish between public and private projects. I didn't complete the work because I decided after a while that it wasn't worth the effort, but I did add a small bit of functionality. 
 
-
-
-
-
-
+## 09/11/20 20:53 to 21:04, Back to todo list rewrite. 
+Completed, down to 17 items. Nice. Time for a break   
 
