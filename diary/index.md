@@ -479,8 +479,19 @@ I did a long awaited review and restoration of the first ten of my memory palace
 
 ## 23/10/20 07:59 to 08:05, Morning. Preparing to go live.  +EQT
 
-## 23/10/20 08:05 to 9:45, Live, working on book. https://www.youtube.com/watch?v=r9JpGhFMZAs
-* Slightly estimated 
+## 23/10/20 08:28 to 09:44, Working on  https://github.com/eQualityTime/ovfplayer/issues/89 +EQT
+and https://github.com/eQualityTime/ovfplayer/issues/135 
+
+Created some test files for obz. Was slowed down a lot by not being about to zip files properly again. 
+
+https://stackoverflow.com/a/23372210 gave me an answer that worked. 
+
+
+## 23/10/20 10:36 to 11:29, Book work. 
+## 23/10/20 15:23 to 17:03, Book work again 
+I was about to ask Kat about a section 
+
+
 
 ## 26/10/20 05:25 to 06:16, Book. 
 
