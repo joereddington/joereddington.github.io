@@ -526,6 +526,8 @@ Panicy phone conversation but it was okay.
 ## 03/11/20 11:02 to 11:55, Reviewing documents for Yvonne +EQT
 Files to be available by password only and data encrypted 
 
+## 04/11/20 20:07 to 22:00, +EQT monthly meeting (actually AGM) 
+
 ## 06/11/20 08:17, Hello. 
 ## 06/11/20 08:24 to 08:51, Writing up notes 
 * Opening history 
@@ -567,4 +569,94 @@ I'm getting vision to distinguish between public and private projects. I didn't 
 
 ## 09/11/20 20:53 to 21:04, Back to todo list rewrite. 
 Completed, down to 17 items. Nice. Time for a break   
+
+## 10/11/20 03:23 to 05:15, Email.+EQT
+* Downgrading goodiebag 
+* For the moment, I'm skipping Universal Capture. 
+* Did a reddit post 
+* Sent timesheet 
+* Moved to work inbox 'proper' at 4:10
+* Cleared the chaff but there is a lot here. 
+* Worked out the finance STUFF that I have to do. 
+	* Check What invoices came in
+	* Raise/fix missing payments. 
+	* Reconcile with statements 
+- 10/11/20 smallest next step:  I'm getting statment 41 to check that those transactions are in before getting statements 43 and 44 
+
+## 10/11/20 04:59, Emails to journalists 
+Sent the first one, now for the rest. 
+- 10/11/20 smallest next step:  get Francesa files 
+
+## 10/11/20 10:28 to 11:19, Email +EQT but mostly related to accounts
+* I've downloaded transactions from unity and done a reconilation. 
+* I've used the audit lot to replace a few errors. 
+* Mum Is coming back to me with the right amounts to pay HMRC 
+* I've checked and the prison money hasn't arrived yet. 
+  * I've set a calendar alert to get back to thme. 
+* Next action is to put all of the payments into Unity 
+. Then email someone (Sarah) to pay them
+
+
+## 10/11/20 11:30 to 11:37, Writing up. 
+* I have to get Nova shortly so NOT doing more accounts now. 
+* Message 
+
+## 10/11/20 14:00 to 14:29, Finished reading the paper for this afternoon +EQT
+## 10/11/20 16:00 to 17:29, Paper reading group +EQT
+
+## 11/11/20 15:00 to 15:40, Call with Charlotte. +EQT
+
+
+## 12/11/20 08:40 to 12:30, Conference and conference prep +EQT
+Including rewriting a presentation
+ 
+## 12/11/20 13:30 to 15:30, Conference +EQT
+
+## 13/11/20 06:11 to 10:27, Email and banking +EQT
+
+## 13/11/20 13:26 to 14:24, Checking out an OVF bug +EQT
+It definately doesn't work online throught the website. 
+
+## 13/11/20 14:30 to 15:23, Talking to Rachel about being a trustee +EQT
+
+## 13/11/20 15:23 to 16:21, More wokring on this OVF bug +EQT
+
+## 14/11/20 02:56 to 03:41, Finally ticked off the inbox +EQT
+
+
+
+
+## 15/11/20 07:44 to 08:45, Doing cookery course. 
+* Baking soda - if you have 'too much' baking soda to react with the acid, it's probably there to increase browning. 
+* Sous vide doens't only cook meat precisely - it's got a characteristic 'edge to edge is the same level of done' rather than '25% of your stake is more done that one want it' 
+* The old CTO of microsoft is really interesting. 
+* Heat diffiusion constants all turn out to be between like 1.2 and 1.8, and that turns out to be because water has a constant of 1.4 so the L=root(4dt)=root(5.6t) is a good aproximation 
+* Rule of thumb - 4 minutes to go one cm.  Now, if you have a six cm baked potatoe, then you  need, 16 minutes for two, and then an hour for four cm. 
+* It would be interesting to compare with the set heating times for oven THINGs 
+
+## 16/11/20 08:40 to 10:32, Livestreaming +EQT work 
+
+## 17/11/20 06:44 to 08:57, Email day! +EQT
+
+## 17/11/20 15:32 to 14:50, reviewing paper +EQT 
+
+## 18/11/20 07:59 to 08:10, Want to try out the google ad grant . +EQT
+
+## 18/11/20 15:41 to 15:47, Lets do some rewriting 
+
+## 19/11/20 07:55 to 07:59, Fixing the disability ranking +EQT 
+
+I changed the script and it's running now
+
+## 19/11/20 08:43 to 08:50, Morning routinue with delores 
+
+## 19/11/20 08:51 to 09:03, Working on repo for watching buffer
+* I've created a new git repo https://github.com/joereddington/watching
+...and I'm testing in on my desktop. 
+* I also updated vimrc and pushed version changes to the repo - it might have consequences. 
+* Also cleared up the filesystem and the downloads
+
+## 19/11/20 09:04 to 09:21,  Now we tidy this log file. +EQT
+* Including some EQT timesheet STUFF, shoudl probably label this
+
 
