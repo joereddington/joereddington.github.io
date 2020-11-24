@@ -165,6 +165,9 @@ Sorting out confirmation statment, including removing Seb
 ## 15/09/20 09:15 to 09:39, Bloging the new website. +EQT
 * Also putting on facebook and linkedin and messing Richard the information about updating the sheets
 
+
+## 16/11/20 08:40 to 10:30, Livesteaming +EQT project reorganisation.
+
 ## 17/09/20 06:06 to 07:35, Email +EQT
 * I've asked amazon to extend my credit limit 
 * I'm also migrating my old email. 
@@ -659,4 +662,24 @@ I changed the script and it's running now
 ## 19/11/20 09:04 to 09:21,  Now we tidy this log file. +EQT
 * Including some EQT timesheet STUFF, shoudl probably label this
 
+
+## 20/11/20 10:30 to 11:28, Call with Ricahrd +EQT 
+## 20/11/20 19:18 to 21:01, Games night 
+
+## 22/11/20 13:30 to 14:24, Call with Sarah +EQT  
+
+## 23/11/20 06:25 to 06:44, Testing the Google Ad Grants +EQT
+* I've set up a campaign of $10 a day. Will check back in a week.  
+* This search https://www.google.com/search?client=firefox-b-d&q=%22This+payments+account+is+not+billed%22 suggests that we really have got the money. 
+
+
+## 23/11/20 08:50 to 09:01, Delores
+* Tidying up, checking in on THINGs, generally being on top. 
+* Not planning on doing any EQT work today. 
+
+
+## 23/11/20 09:02 to 09:34, Doing the stack. 
+* Messages about funeral 
+* Messaging Electriction 
+* Clearing whatsapp 
 
