@@ -683,3 +683,16 @@ I changed the script and it's running now
 * Messaging Electriction 
 * Clearing whatsapp 
 
+
+## 24/11/20 06:40 to 11:01, Email. +EQT
+
+## 24/11/20 15:37 to 17:00, Paper group paper +EQT 
+Including reading the paper
+
+## 25/11/20 10:13 to 10:40, Going to send out meeting requests +EQT 
+
+## 26/11/20 11:05 to 11:14, Tidying up this file 
+* And replying to some messages 
+
+
+
