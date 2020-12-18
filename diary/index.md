@@ -694,5 +694,34 @@ Including reading the paper
 ## 26/11/20 11:05 to 11:14, Tidying up this file 
 * And replying to some messages 
 
+## 01/12/20 07:45 to 08:06, Email +EQT 
+Still doing 
+
+## 03/12/20 08:51 to 10:07, Preping for Not EQual meeting +EQT 
+## 03/12/20 20:20 to 20:59, Preping for Not EQual meeting +EQT 
+
+## 07/12/20 13:38 to 13:55, Writing blog. +EQT 
+
+## 12/12/20 13:05 to 13:37, Working on the list. 
+
+## 17/12/20 08:23 to 09:47, Trying to fix the keyboard
+Wasted a lot of time on it. 
+
+## 17/12/20 10:56, Let's think about cookery processes. 
+If I want to document cookery experiments then I also want to write them up. But, they are likely to be very multimedia, very link based, and should b e done reflectively.  That says blog to me. It also means  Ishould practice my food photography. 
 
 
+## 18/12/20 09:18 to 09:23, Setting up email properly on Thunderbird. 
+* Also checking timings for games night. 
+* It is amazing how much internet history you can generate for simple tasks in a morning. 
+
+## 18/12/20 09:27 to 09:55, Tidying up. and messaging people. 
+* Tidy Desk
+* Tidy file.
+* Thinking about the best way of using the log files. 
+
+## 18/12/20 10:56 to 11:02, Leo down, more tidying
+* Completed this file. 
+* Decided that files should be properly temporary 
+  * To the extent that they are edits to the blog, because they should be written properly. 
+* I'm going to do a proper example now. 
