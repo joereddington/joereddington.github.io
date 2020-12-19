@@ -725,3 +725,23 @@ If I want to document cookery experiments then I also want to write them up. But
 * Decided that files should be properly temporary 
   * To the extent that they are edits to the blog, because they should be written properly. 
 * I'm going to do a proper example now. 
+
+## 18/12/20 11:09 to 11:30, Working on Sibs draft. 
+This is quite hard, and they've written it in a much less positive way than I would phrase it. It's also directly linked to me as a person.  I have spoken to mum and shared it with her to check that she is okay with the general tone. 
+
+## 18/12/20 11:32, Leo again
+* Also cooking. 
+
+## 18/12/20 12:42 to 13:22, Working on Book
+## 18/12/20 16:18 to 16:40, 
+I'm working the book. I've emailed the cover designer and I'm doing some work on the index. I think it would make a nice blog. 
+
+Currently I'm tidying up the index with vim's vimgrep command and quickfix list. 
+
+I started using simplewriter on the class chapter
+
+
+## 19/12/20 05:52 to 06:02, Writing blog post for book.  
+
+
+
