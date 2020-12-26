@@ -732,16 +732,107 @@ This is quite hard, and they've written it in a much less positive way than I wo
 ## 18/12/20 11:32, Leo again
 * Also cooking. 
 
-## 18/12/20 12:42 to 13:22, Working on Book
-## 18/12/20 16:18 to 16:40, 
-I'm working the book. I've emailed the cover designer and I'm doing some work on the index. I think it would make a nice blog. 
-
-Currently I'm tidying up the index with vim's vimgrep command and quickfix list. 
-
-I started using simplewriter on the class chapter
+## 18/12/20 12:42 to 13:22, Working on Book https://joereddington.github.io/2020/12/19/book-update.html 
+## 18/12/20 16:18 to 16:40, Working on Book https://joereddington.github.io/2020/12/19/book-update.html 
+## 19/12/20 05:52 to 06:02, Working on Book (blog post)  https://joereddington.github.io/2020/12/19/book-update.html 
 
 
-## 19/12/20 05:52 to 06:02, Writing blog post for book.  
+## 19/12/20 06:04, Next action is the +EQT reconciliation. 
+## 19/12/20 08:05 to 08:32, +EQT
+* We check quickbooks to see when the last inport was. 
+* I reconciled up to 31/10/2020 on 10/11/2020 
+* That was the last date I uploaded any files according to the audit log. 
+* The way I checked that I wouldn't import transactions multiple times was that I started the reconciliation and checked if any transactions turned up (this is probably good practice anyway. 
+* I've reconcilled now. 
+* Finding out how to sort bills. 
+* Okay let me explain this. 
+
+Okay Joe, next time you reconcile an account here's how you do it. 
+
+* Get the paper copy. 
+* Optional - tick off the bills (on paper) that should have been paid
+* Start the reconciliation (it will fail), putting in the end date and ending balance.* If there are any transactions to sort out, they should appear, but in general, there shouldn't be any tranactions to reconcile. 
+* Download the month's figures from Unity and import. Remember to select format before the statment name
+* As you import, tick off the amounts on the bank statement. Make sure that anything that should be a bill, is matched to one. 
+* IMPORTANT - double check the bills list and make sure the right THINGs have gone out.
+* Complete reconciliation. 
+
+I've added these instructions to the calendar 
+
+## 19/12/20 08:50 to 09:03, Drafting for personal social media
+
+
+## 23/12/20 10:00 to 10:25, Trying QuickMouse.xcoderpoj +MouseSniper
+* I really want to get the hang of keyboard only darktable. 
+  * I'm going to need a list then. 
+* Maybe the answer is a *really* programmable keyboard 
+* Maybe the answer is that I write my own...
+	* This is the python library for: 
+		* Moving and clicking the mouse: https://pyautogui.readthedocs.io/en/latest/ 
+	* I wrote https://stackoverflow.com/questions/65422713/how-to-use-python-to-show-a-grid-over-my-screen 
+	* What's the list.... 
+		* Python to show image 
+		* Python to take and show screenshot 
+		* Refresh screenshot on enter 
+		* click on enter 
+		* change the grid based on numberpad 
+		* Python to take and show screenshot with grid 
+		* Python to take and show screenshot with grid from shortcut 
+
+## 23/12/20 11:58 to 13:45, Working on Mouse-Sniper with Leo (and may interuptions) 
+* We have showing of an image, 
+* We're currently installing the screenshot library (took ages) 
+* I don't know if we'll ever have a system shortcut 
+* Installed the `keyboard' module but ultimately discarded it when I found pyautogui could do the same thing
+
+
+## 23/12/20 20:10 to 20:59, Working on Mouse-Sniper
+* While writing a Stack Overflow question I fixed the issue :) 
+* This is a good time to try a debugger tho right? 
+* Implemented zoom 
+
+## 23/12/20 21:54 to 22:59, Working on Mouse Sniper
+* Lots of rewriting 
+* Put it at https://github.com/joereddington/Mouse-Sniper/tree/main and the next action is to write the blog 
+
+
+## 24/12/20 13:20 to 13:30, Working on Mouse Sniper 
+
+For my own personal amusement I try to use the mouse as little as possible during the working day.  You could, I suppose, make the argument that it's more efficient to do everything by keyboard shortcut, and I suppose it is, but it's far less of an efficiency gain than a hundred other things I could do. 
+
+I approach this quite sportingly. I use [whatpulse](XXX) to keep track of the ratio of keystokes to mouseclicks over time, and spend a certain amount of fascinated time looking up obscure shortcut keys of all types.  
+
+Professionally, I do also have a general interest in keyboard control of devices from a accessibility perspective, but I should be clear that my main motivation is a general playfulness (I won't deny that it's useful to have a good working knowledge of what sites and organisations are good for accessibility, and it feels good to support them) 
+With this motivation, I'm put together a short Python script recently that lets me quickly arrange mouse clicks via the keyboard.  It was a nice little project for the Christmas break.   
+
+
+
+
+
+## 25/12/20 11:09, Small break to do some refactoring. 
+
+
+## 25/12/20 12:35, https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html Return
+n o
+
+## 25/12/20 12:45, https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.htmhttps://www.geeksforgeeks.org/python-pil-image-crop-method/l
+
+https://www.geeksforgeeks.org/python-pil-image-crop-method/
+
+
+## 25/12/20 20:16, back
+
+## 26/12/20 06:11 to 06:21, Doing some quick work with Leo 
+* Fixed a bug, updating the readme, rewriting these notes and wrioting a blog 
+
+
+
+
+
+
+
+
+
 
 
 
