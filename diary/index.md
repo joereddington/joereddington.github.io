@@ -869,6 +869,32 @@ https://www.geeksforgeeks.org/python-pil-image-crop-method/
 
 
 
+## 10/01/21 13:35 to 14:16, Doing some gentle working 
+These are the tasks I did 'on my way to' doing my todo list. 
+
+* Lots of inturptions to answer door, make tea, ect. 
+* Tidying up my startup items. 
+* Working mouselessly. 
+* Updated software as it turn
+* Why is whatpulse not where it should be? 
+* Trying to work 'properly' got in a mess working out Spectacle (needed to use the mouse in the end) 
+* Sorted out this file. 
+* Added a task to get the keyboard sorted on this account. (use label maker to put it on the bottom of the keybaord, that would be nice) 
+* Added regular updating to mouse sniper. ( Really want to add the second set of lines
+
+
+## 11/01/21 07:38 to 09:56, Livestream of todo list work. 
+Cleared off lots of tasks, but mostly little ones - the big ones need more focus and looking at.  Some highlights: 
+* Finally got the measurements to the architects 
+* Send a number of messages I needed to.  
+* Fixed Alexa 
+* Worked out the value of Kat's watch 
+
+
+
+
+
+
 
 
 
