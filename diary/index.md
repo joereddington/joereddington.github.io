@@ -805,33 +805,181 @@ I approach this quite sportingly. I use [whatpulse](XXX) to keep track of the ra
 Professionally, I do also have a general interest in keyboard control of devices from a accessibility perspective, but I should be clear that my main motivation is a general playfulness (I won't deny that it's useful to have a good working knowledge of what sites and organisations are good for accessibility, and it feels good to support them) 
 With this motivation, I'm put together a short Python script recently that lets me quickly arrange mouse clicks via the keyboard.  It was a nice little project for the Christmas break.   
 
+## 25/12/20 11:09, (and various other times) Working on Mouse Sniper 
+* Got the cropping working so it's a bit faster
+* Did lots of refactoring 
+* Fixed bugs  
+* used https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html Return
+* used https://www.geeksforgeeks.org/python-pil-image-crop-method/
+
+## 26/12/20 06:11 to 06:33, Doing some quick work with Leo 
+* Fixed a bug, updating the readme, rewriting these notes and writing a blog 
+* Also changing nappies, that sort of thing
+* Blog written up here:  http://127.0.0.1:4000/2020/12/26/mouse-sniper.html 
+
+## 26/12/20 06:33, Want to get ready for codereview 
+
+## 26/12/20 14:06, The thing that slows me down at the moment is that I can't launch it by hotkey, and that I don't have the 
+
+## 26/12/20 20:10, Some general testing of the concept and I'm certainly making use of it. 
+
+## 26/12/20 20:10, Onmouseover
+
+## 26/12/20 20:19, Okay, Onmouse over is simply a matter of clicking once rather than twice, so I only need seperate click and double click events
+
+## 26/12/20 20:34, Okay, I've done the click and double click speration. 
+
+## 26/12/20 21:55, Hmm. I'm playing around a little more (I've added the always on top) 
+* I think the solution to a hotkey is to use automator, which is a shame for sharing, but still quite fun. 
+o
+
+lnn
+ ## 26/12/20 22:04, DAMNIT! Whatpulse clicks count! 
+
+## 27/12/20 07:54, Hmm, the whatpulse thing is slighlty annoying, The loca 
+The logical solution is to add a count in my mouse snipe, but that feels like a lot of work for software I'd like to be more broadly used. 
+
+It's also far too early to put it in - as it gets easier to use, it will get used more, and once it's at the point of being used properly then it will start aquiring click
+s
+
+There is an art to the statistics collection though - the average keypresses-per-click, will be interesting, as will be the number of resets - then the *really* interesting thing will be 'time to click' - because if it approaches a mouse, then that's quite interesting.  
 
 
 
-
-## 25/12/20 11:09, Small break to do some refactoring. 
-
-
-## 25/12/20 12:35, https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html Return
-n o
-
-## 25/12/20 12:45, https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.htmhttps://www.geeksforgeeks.org/python-pil-image-crop-method/l
-
-https://www.geeksforgeeks.org/python-pil-image-crop-method/
-
-
-## 25/12/20 20:16, back
-
-## 26/12/20 06:11 to 06:21, Doing some quick work with Leo 
-* Fixed a bug, updating the readme, rewriting these notes and wrioting a blog 
+## 27/12/20 09:51, Facetiming home 
 
 
 
+## 28/12/20 09:22, Time to do the todo list. 
+* Commit and push
+* Run the script
+* Commit and psuh again 
+* Message kat 
+* Washington run through. 
 
 
 
+## 28/12/20 09:31, Starting washington run through.
+
+## 28/12/20 10:17, Did a commit. Got an hour to do a real attack. 
+
+## 28/12/20 15:24, I have lost track of my process, that is poor.o
+
+## 28/12/20 15:24, Fortunately I have delores.  
+
+## 28/12/20 15:24, Except except, the problem is igor. 
+
+## 28/12/20 15:25, In fact, the problem is mostly that I'm checking it out at all. 
+## 28/12/20 15:25, Done properly, I should be doing this read only, then ticking things off after a session.  
+
+## 28/12/20 15:25, So why would I need to clone it regularly? 
+
+## 28/12/20 15:26, The issue is igor, but I can do igor by hand as well... 
+
+## 28/12/20 15:26, I'm going around the house with my inbox. 
+
+## 28/12/20 15:33, Now work on Novel - the next bit of that is to just start rewriting with the xkcd simple writer. Start at the begining and work through like a rolling pin.  
+
+## 29/12/20 06:20 to 06:44, stopped to work out the vim dictionary locations 
 
 
+## 29/12/20 06:38, Dragging is going to be hard with the mouse sniper, unless I `store` the first click and then have it execute slowly. 
+* That does actually sound like a solution
+
+
+
+## 29/12/20 09:01 to 10:28, Doing simplewriter on book 
+* Started with 169 pages 
+* Reached `Contributions'. 
+* Actually finnished with 169 pages as well, that's funny. 
+## 29/12/20 09:28, We started with 169 pages before this madness 
+
+## 29/12/20 10:13, I have reached the (old) page 17... that's better than I thought, but we'll see. 
+
+## 29/12/20 10:28, P20 I have reached 'contributions' - that's actually a solid 90 minutes, time to do something else.  
+
+## 29/12/20 10:34, Okay, I'm looking at my list.  I've onde at least the firsto ne. 
+
+
+## 01/01/21 09:37 to 09:39, Good morning. Let's do this right. 
+* I'm working directly from the todo.txt list on https://github.com/joereddington/todo.txt/blob/master/todo.txt
+* First one is done, the second one is... not done. Let's do an hour on that. 
+
+## 01/01/21 09:40 to 10:13, Working on the memory book 
+* - 01/01/21 smallest next step:  rewrite 'overview' (line 300) so that it talks about how the first few chapters help you make some early decisions. 
+
+## 01/01/21 10:14 to 10:59, +EQT email to do. 
+* I've send the Trustee meeting email. 
+
+## 01/01/21 10:59, What next? More on the memory book? More tidying this file? More onthe todo? 
+
+## 01/01/21 11:00, 
+Let's do the todo. 
+
+
+## 01/01/21 11:29, Got some supplies 
+
+## 01/01/21 11:30, Going to go and see if Nova wants to do boxes and curtains 
+
+
+
+## 02/01/21 09:35, This file, Let's sort this file. 
+
+## 02/01/21 09:36, < 2 min task 
+* Bought some exentions leads 
+* Messaged Kat about the pasta maker 
+* Did the 'hello my name is' post on facebook. 
+
+## 04/01/21 10:28, Good morning, what are we doing? Bit of DELORES would be good right? 
+
+## 04/01/21 10:36, Go and get the damn boko. 
+
+## 04/01/21 11:06, 
+* Started return of light 
+* Checked out keyboard shortcuts for darkable 
+* Bought new light
+* Sorted out charger for office kindle. 
+
+## 04/01/21 11:07, Signing up to mircosoft teams 
+
+## 04/01/21 11:31, I'm looking at https://www.apple.com/uk/shop/buy-watch/apple-watch-se/44mm-cellular-space-grey-aluminium-black-sport-band-sm-ml-se?part=Z0YQ 
+
+
+## 04/01/21 11:40, Christ, where am I? 
+
+## 04/01/21 11:41, 
+
+## 04/01/21 11:41, Better update todo. 
+
+## 05/01/21 07:28, My last photo critque was March last year... 
+
+## 06/01/21 07:41 to 08:28, Doing +EQT email. 
+
+
+
+## 06/01/21 08:49 to 09:23, Back to +EQT 
+
+
+
+## 06/01/21 10:27, Back again 
+
+
+
+## 07/01/21 09:00 to 10:13, +EQT
+* Talk to the Not Equal Funder 
+* Valitate Day deadline  
+* Sort out emotional risk assessment. 
+
+## 07/01/21 09:30, Risk assessment 
+* Inaproperet topics 
+* 
+
+
+# stack 
+* Update todo.txt 
+* Graitude post 
+(B) Edit photos 
+(E) Sort kindle out in office. 
 
 
 
