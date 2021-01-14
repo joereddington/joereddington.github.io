@@ -662,6 +662,17 @@ I changed the script and it's running now
 ## 19/11/20 09:04 to 09:21,  Now we tidy this log file. +EQT
 * Including some EQT timesheet STUFF, shoudl probably label this
 
+## 19/11/20 09:31 to 10:25, Okay it's a mess in here. 
+Today I basically practiced 'working well', with a list and a log file and relatively few distractions. 
+
+There wasn't much high quality work that got done. What did happen is: 
+
+* Properly looking at the rest of things to do on the book
+* Getting everything tidy and getting macvim and watching working 
+* Clearing the todo backlog 
+* Investigating the 'solid colours' feature of osx 
+* adding notes to delores on good ways of working 
+
 
 ## 20/11/20 10:30 to 11:28, Call with Ricahrd +EQT 
 ## 20/11/20 19:18 to 21:01, Games night 
@@ -683,6 +694,14 @@ I changed the script and it's running now
 * Messaging Electriction 
 * Clearing whatsapp 
 
+## 23/11/20 09:41 to 11:18, Working on https://github.com/joereddington/Projects-Public/issues/35 
+* I've temporarily put in a list of tables 
+* I've made some changes and I'm uploading again to check if I've solved the overun
+* Mostly working on the amazon print errors. 
+  * Moved on to the references 
+* I have fixed the print issues! 
+* I need to talk to Kat about some of her issues. 
+* Did a big chunk of speech writing for the conclusion. 
 
 ## 24/11/20 06:40 to 11:01, Email. +EQT
 
@@ -693,6 +712,27 @@ Including reading the paper
 
 ## 26/11/20 11:05 to 11:14, Tidying up this file 
 * And replying to some messages 
+
+## 27/11/20 08:09 to 11:29, Live, working on book
+Starting with 30,225 and 168 pages 
+Finishing with 29,734 and 164 pages after three hours solid work. 
+
+* I completed the conclusions chapter 
+* I split off and completely rewrote the maintenance chapter
+* I removed the chapter on my memory palace 
+* I completed all the proof corrections until page 90. 
+
+I've got a list of bits to do.
+* Put in all of the paper corrections
+* Put in missing diagrams 
+* Fix all the labels and other issues 
+* Finish the accounts example 
+* Rewrite the 'putting it together' chapter 
+  * Needs introduction and summary 
+* Find a tree for yourself. 
+* Do another example in the fluffy stuff chapter 
+  * Kipling's if. 
+* Index? Hardly useful for beta readers. 
 
 ## 01/12/20 07:45 to 08:06, Email +EQT 
 Still doing 
@@ -847,6 +887,32 @@ There is an art to the statistics collection though - the average keypresses-per
 
 
 ## 27/12/20 09:51, Facetiming home 
+
+## 10/01/21 13:35 to 14:16, Doing some gentle working 
+These are the tasks I did 'on my way to' doing my todo list. 
+
+* Lots of inturptions to answer door, make tea, ect. 
+* Tidying up my startup items. 
+* Working mouselessly. 
+* Updated software as it turn
+* Why is whatpulse not where it should be? 
+* Trying to work 'properly' got in a mess working out Spectacle (needed to use the mouse in the end) 
+* Sorted out this file. 
+* Added a task to get the keyboard sorted on this account. (use label maker to put it on the bottom of the keybaord, that would be nice) 
+* Added regular updating to mouse sniper. ( Really want to add the second set of lines
+
+
+## 11/01/21 07:38 to 09:56, Livestream of todo list work. 
+Cleared off lots of tasks, but mostly little ones - the big ones need more focus and looking at.  Some highlights: 
+* Finally got the measurements to the architects 
+* Send a number of messages I needed to.  
+* Fixed Alexa 
+* Worked out the value of Kat's watch 
+
+
+
+
+
 
 
 
