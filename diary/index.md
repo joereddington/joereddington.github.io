@@ -945,10 +945,19 @@ Let's do the todo.
 * Valitate Day deadline  
 * Sort out emotional risk assessment. 
 
-
-
-
-
 ## 14/01/21 09:12 to 10:02, Meeting with YS and DJ +EQT 
 
 
+## 14/01/21 10:05, Somenotes on Vimdiff. 
+
+The commands are: 
+
+]c and [c to move around 
+:diffput and :diffget to make changes 
+ - I tried :do and :dp but now I've read up, I think it should have been dp and do in normal mode rather than command 
+
+
+- 14/01/21 smallest next step:  work out a script/vim THING for new jekyll post 
+
+
+## 14/01/21 10:09 to 10:14, Trying a script for new posts in https://benjamincongdon.me/blog/2016/03/21/Jekyll-New-Post-Script/
