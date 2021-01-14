@@ -857,24 +857,9 @@ With this motivation, I'm put together a short Python script recently that lets 
 * Also changing nappies, that sort of thing
 * Blog written up here:  http://127.0.0.1:4000/2020/12/26/mouse-sniper.html 
 
-## 26/12/20 06:33, Want to get ready for codereview 
-
-## 26/12/20 14:06, The thing that slows me down at the moment is that I can't launch it by hotkey, and that I don't have the 
-
-## 26/12/20 20:10, Some general testing of the concept and I'm certainly making use of it. 
-
-## 26/12/20 20:10, Onmouseover
-
-## 26/12/20 20:19, Okay, Onmouse over is simply a matter of clicking once rather than twice, so I only need seperate click and double click events
-
-## 26/12/20 20:34, Okay, I've done the click and double click speration. 
-
-## 26/12/20 21:55, Hmm. I'm playing around a little more (I've added the always on top) 
+## 26/12/20 20:10 to 22:05, Working on Mouse-sniper
 * I think the solution to a hotkey is to use automator, which is a shame for sharing, but still quite fun. 
-o
 
-lnn
- ## 26/12/20 22:04, DAMNIT! Whatpulse clicks count! 
 
 ## 27/12/20 07:54, Hmm, the whatpulse thing is slighlty annoying, The loca 
 The logical solution is to add a count in my mouse snipe, but that feels like a lot of work for software I'd like to be more broadly used. 
@@ -882,69 +867,13 @@ The logical solution is to add a count in my mouse snipe, but that feels like a 
 It's also far too early to put it in - as it gets easier to use, it will get used more, and once it's at the point of being used properly then it will start aquiring click
 s
 
-There is an art to the statistics collection though - the average keypresses-per-click, will be interesting, as will be the number of resets - then the *really* interesting thing will be 'time to click' - because if it approaches a mouse, then that's quite interesting.  
-
-
-
-## 27/12/20 09:51, Facetiming home 
-
-## 10/01/21 13:35 to 14:16, Doing some gentle working 
-These are the tasks I did 'on my way to' doing my todo list. 
-
-* Lots of inturptions to answer door, make tea, ect. 
-* Tidying up my startup items. 
-* Working mouselessly. 
-* Updated software as it turn
-* Why is whatpulse not where it should be? 
-* Trying to work 'properly' got in a mess working out Spectacle (needed to use the mouse in the end) 
-* Sorted out this file. 
-* Added a task to get the keyboard sorted on this account. (use label maker to put it on the bottom of the keybaord, that would be nice) 
-* Added regular updating to mouse sniper. ( Really want to add the second set of lines
-
-
-## 11/01/21 07:38 to 09:56, Livestream of todo list work. 
-Cleared off lots of tasks, but mostly little ones - the big ones need more focus and looking at.  Some highlights: 
-* Finally got the measurements to the architects 
-* Send a number of messages I needed to.  
-* Fixed Alexa 
-* Worked out the value of Kat's watch 
-
-
-
-
-
-
-
-
-## 28/12/20 09:22, Time to do the todo list. 
+## 28/12/20 09:22 to 10:17, Happily smacking my todo lit. 
 * Commit and push
 * Run the script
 * Commit and psuh again 
 * Message kat 
 * Washington run through. 
 
-
-
-## 28/12/20 09:31, Starting washington run through.
-
-## 28/12/20 10:17, Did a commit. Got an hour to do a real attack. 
-
-## 28/12/20 15:24, I have lost track of my process, that is poor.o
-
-## 28/12/20 15:24, Fortunately I have delores.  
-
-## 28/12/20 15:24, Except except, the problem is igor. 
-
-## 28/12/20 15:25, In fact, the problem is mostly that I'm checking it out at all. 
-## 28/12/20 15:25, Done properly, I should be doing this read only, then ticking things off after a session.  
-
-## 28/12/20 15:25, So why would I need to clone it regularly? 
-
-## 28/12/20 15:26, The issue is igor, but I can do igor by hand as well... 
-
-## 28/12/20 15:26, I'm going around the house with my inbox. 
-
-## 28/12/20 15:33, Now work on Novel - the next bit of that is to just start rewriting with the xkcd simple writer. Start at the begining and work through like a rolling pin.  
 
 ## 29/12/20 06:20 to 06:44, stopped to work out the vim dictionary locations 
 
@@ -982,23 +911,11 @@ Cleared off lots of tasks, but mostly little ones - the big ones need more focus
 ## 01/01/21 11:00, 
 Let's do the todo. 
 
-
 ## 01/01/21 11:29, Got some supplies 
 
 ## 01/01/21 11:30, Going to go and see if Nova wants to do boxes and curtains 
 
-
-
-## 02/01/21 09:35, This file, Let's sort this file. 
-
-## 02/01/21 09:36, < 2 min task 
-* Bought some exentions leads 
-* Messaged Kat about the pasta maker 
-* Did the 'hello my name is' post on facebook. 
-
 ## 04/01/21 10:28, Good morning, what are we doing? Bit of DELORES would be good right? 
-
-## 04/01/21 10:36, Go and get the damn boko. 
 
 ## 04/01/21 11:06, 
 * Started return of light 
@@ -1006,18 +923,10 @@ Let's do the todo.
 * Bought new light
 * Sorted out charger for office kindle. 
 
-## 04/01/21 11:07, Signing up to mircosoft teams 
-
-## 04/01/21 11:31, I'm looking at https://www.apple.com/uk/shop/buy-watch/apple-watch-se/44mm-cellular-space-grey-aluminium-black-sport-band-sm-ml-se?part=Z0YQ 
 
 
-## 04/01/21 11:40, Christ, where am I? 
-
-## 04/01/21 11:41, 
 
 ## 04/01/21 11:41, Better update todo. 
-
-## 05/01/21 07:28, My last photo critque was March last year... 
 
 ## 06/01/21 07:41 to 08:28, Doing +EQT email. 
 
@@ -1031,22 +940,15 @@ Let's do the todo.
 
 
 
-## 07/01/21 09:00 to 10:13, +EQT
+## 07/01/21 09:00 to 10:13, +EQT meeting with YS and DJ 
 * Talk to the Not Equal Funder 
 * Valitate Day deadline  
 * Sort out emotional risk assessment. 
 
-## 07/01/21 09:30, Risk assessment 
-* Inaproperet topics 
-* 
 
 
-# stack 
-* Update todo.txt 
-* Graitude post 
-(B) Edit photos 
-(E) Sort kindle out in office. 
 
 
+## 14/01/21 09:12 to 10:02, Meeting with YS and DJ +EQT 
 
 
