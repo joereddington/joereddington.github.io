@@ -961,3 +961,12 @@ The commands are:
 
 
 ## 14/01/21 10:09 to 10:14, Trying a script for new posts in https://benjamincongdon.me/blog/2016/03/21/Jekyll-New-Post-Script/
+
+## 16/01/21 11:06 to 11:42, Playing with my vim configuration. 
+* Asked [this question](https://vi.stackexchange.com/questions/28767/why-is-visualbell-failing-to-work-in-macvim) which is a good summary. 
+
+## 17/01/21 13:42 to 13:54, Here to tidy up. 
+* Done the public account 
+
+
+
