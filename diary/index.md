@@ -4,6 +4,55 @@ title:  ""
 visible: 0 
 --- 
 
+## 03/03/20 14:41 to 17:05, Working on WWW site.  +EQT
+
+## 10/03/20 05:45 to 07:21, Working on memory book
+
+## 10/03/20 14:15 to 15:53, Working on memory book 
+
+## 11/03/20 06:26 to 08:44, Working on memory book. 
+I've got 53 pages (75 sized for 6 by 9). There's going to be maybe five pages of diagrams, and another page of references. How much more have I got to write?      
+
+Chapters
+* Completely restructure the opening chapter, cut it down and make it reasonable. 
+  * Do the list of what we want people to know and understand in the first chapter 
+* The types chapter is acutally reasonable okay, might put more in as it grows, but otherwise happy to leave it for now until polish.   
+* Linked list needs properly writing. There's nothing there 
+* Arrays also isn't done. The structure exists but it's just chat.  
+* Classes needs reformatting: a way of properly refering to classes and to have also really worked out a nice way of separating the image from the explanation 
+* Trees needs some editing and the images, but the material is mostly there. I feel like it would benefit from some exercises. 
+
+In general: 
+* Look for definitions and key words: link, mnemonic and put them into the text 
+  * As part of this work out how we refer to the process 'lock in' a memory??  
+  * Rewrite the opennings to all chapters and start again. 
+
+
+
+## 15/03/20 08:17 
+I want to have 30,000 words at peak so I can edit down.  That looks like being a reasonable thing.    
+
+Ways of increasing the page count: 
+
+* Diagrams, a diagram for every image/link we have  
+* Exercises -  a page of exercises at the end of every chapter 
+* Introductions and conclusions "This chapter will, this chapter has"  
+* Lists of examples 
+* Pithy quotes form other people about usefulness 
+* Put all the rubbish in the appendixes 
+
+## 15/03/20 08:20 
+One of the things that will help will be finding a nice way of typesetting the difference between images and the things they refer to.   
+
+
+## 17/03/20 06:32 to 08:05, Working on memory book: 
+Started on  12776, ended on 13822
+
+
+## 17/03/20 18:11 to 21:47, Memory book
+ 13,822 to 15,348
+
+
 ## 07/09/20 09:19 to 09:49, Upgrading +EQT emails 
 So right now I can send mail (to gmail) from joe@equalitytime.co.uk from G-suite -but the autoresponder goes to joeequalitytime@gmail (which should happen) 
 
