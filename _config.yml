@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 show_excerpts: False
 # Exclude from processing.
@@ -52,3 +53,6 @@ show_excerpts: False
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+
+url: "https://example.com" # the base hostname & protocol for your site
