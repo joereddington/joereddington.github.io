@@ -994,6 +994,21 @@ Let's do the todo.
 * Valitate Day deadline  
 * Sort out emotional risk assessment. 
 
+## 13/01/21 19:56 to 20:04, Writing introduction for networking event.
+
+Alright people, let's do this one last time. My name is Joe Reddington. I was a postdoc and then I was bitten by a radioactive nonprofit. And for the last seven years I've been running the one and only eQuality Time. 
+
+I'm pretty sure you know the rest.  You see I won some grants, lost a lot more, fell in love, worked with a lot of schools, MAYBE too many. Wrote code, worked with researchers, worked without researchers. Made art. Tried therapy, started massively oversharing, had kids, found out about the lockdown while in literal prison FFS, and waved goodbye to our income for 2020, I'm now finding a way back. 
+
+## 13/01/21 20:04, Still here. 
+
+
+## 14/01/21 07:37 to 08:21, Working on +EQT emails 
+Clear inbox... 
+
+
+
+
 ## 14/01/21 09:12 to 10:02, Meeting with YS and DJ +EQT 
 
 
@@ -1011,11 +1026,49 @@ The commands are:
 
 ## 14/01/21 10:09 to 10:14, Trying a script for new posts in https://benjamincongdon.me/blog/2016/03/21/Jekyll-New-Post-Script/
 
+## 15/01/21 11:40, 
+This is quite the one liner: 
+
+grep "2[0123]:.." history.html | sed 's/<li> ..:.. //g' |  sort | uniq -c | sort | tail -n 30 
+ 
+
+## 15/01/21 13:10 to 14:05, Thinking about diet
+
 ## 16/01/21 11:06 to 11:42, Playing with my vim configuration. 
 * Asked [this question](https://vi.stackexchange.com/questions/28767/why-is-visualbell-failing-to-work-in-macvim) which is a good summary. 
 
 ## 17/01/21 13:42 to 13:54, Here to tidy up. 
 * Done the public account 
+
+## 17/01/21 19:48 to 19:58, Enjoying fixing a git bug. 
+
+## 17/01/21 20:04 to 20:14, Adding a second layer to the grid in mouse snipe. 
+
+## 17/01/21 20:14 to 20:23, Now sorting out the git. 
+
+
+## 18/01/21 08:37, Getting started. 
+
+## 18/01/21 08:42 to 09:06,  (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+
+## 18/01/21 09:06 to 09:16, (A) Ring jewelers about return dates  
+
+## 18/01/21 09:18 to 09:18, (B) 10 Check birthday sheet  on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+
+## 18/01/21 09:18,(B) 60 1 hour SimpleWriter on book  
+Seems fair.  
+
+## 18/01/21 09:19, The main question is: where did I get to? 
+
+## 18/01/21 09:21 to 09:40, Hey, you know what, I really want to have a version of simplewriter for vim, which is surely achieveable by switching the dictionary locaiton... 
+
+
+## 18/01/21 09:40 to 10:12, Writing up notes as a blog post 
+
+## 18/01/21 10:13, It's NOT done done until I sort the vimrc 
+
+## 18/01/21 10:15 to 10:21, Looking up a EQT bid
+* They want local 
 
 
 
