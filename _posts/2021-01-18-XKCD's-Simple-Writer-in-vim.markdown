@@ -20,7 +20,7 @@ to take out the numbers and saved it as kilodic.txt. I used
 
      :mkspell! .vim/kilodic.txt
 
-to make a vim spelling dictionary from it. I can now use: 
+to make a vim spelling dictionary from it (and saved it as .vim/spell/kilodic.utf-8.spl). I can now use: 
 
 	:set spelllang=kilodic
 
