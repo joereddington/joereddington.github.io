@@ -1072,3 +1072,9 @@ Seems fair.
 
 
 
+
+## 18/01/21 13:15, At Lyle's Crucible
+The link is: http://bit.ly/cruciblemiro 
+
+Currently watching the vidoes
+
