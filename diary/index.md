@@ -1073,8 +1073,88 @@ Seems fair.
 
 
 
-## 18/01/21 13:15, At Lyle's Crucible
+## 18/01/21 13:15 to 15:00, At Lyle's Crucible
 The link is: http://bit.ly/cruciblemiro 
 
 Currently watching the vidoes
+
+
+## 18/01/21 19:55 to 20:17, Looking at Google Search Console and creating a site map. 
+I've submitted the sitemap but will have to look into it later. 
+Sitemap url is https://joereddington.github.io/sitemap.xml 
+
+## 18/01/21 20:38, Working on list gently
+
+
+## 19/01/21 06:39, Emails. 
+* Still getting the sitemap error 
+
+## 19/01/21 07:42, Big job for today is the fore applicaiton 
+
+
+## 20/01/21 07:22 to 08:27, Working on the fore application 
+Sent the email - the numbers turned out to be a pain. 
+
+## 20/01/21 08:40, Okay, now what? 
+
+## 21/01/21 06:47 to 06:49, Distraction. 
+
+## 21/01/21 06:49, Processing Calendar.  
+
+
+
+## 21/01/21 07:01 to 07:30, Writing decent sized email to the media trust. +EQT 
+
+Then some faffing around in vim. 
+
+
+## 21/01/21 08:16, 
+I'm going to review the google doc from yesterday
+
+## 21/01/21 08:22 to 08:40,  Working on the Fake People Fake News +EQT 
+
+## 21/01/21 09:00 to 10:31, Meeting with fake news people +EQT 
+
+## 21/01/21 11:32 to 11:53, time for gratidute. 
+
+
+## 21/01/21 12:49, Some notes on the game: 
+you aren't going to get many blue cards in a multiplayer game unless they get dealt. 
+
+I scored 70 points today out of 33 draws, and I think you probably want to be aiming for that as a return. i.e. looking at 
+
+
+## 21/01/21 13:36, I've been looking at a vim problem. 
+
+## 21/01/21 13:37, Writing my Nova routine. 
+
+## 22/01/21 13:45, Which I should definately review 
+
+## 22/01/21 13:45 to 14:28, Turning Mouse-Sniper into an app. 
+I recently wrote about Mouse Sniper, a small python script I built over Christmas. Today I took the time to turn it into a proper mac Application, and these are my notes on how it was done. 
+
+The github branch and commit I used was [this one](https://github.com/joereddington/Mouse-Sniper/commit/4cf0d89333bbc9b4ed5ca429781e08e684564455) and I used the library py2app to perform the conversion.  The documentation for that library confused me, and I got a lot more out of [this blog](http://www.marinamele.com/from-a-python-script-to-a-portable-mac-application-with-py2app) and a number of Stack Exchange threads - the setup.py file I ended up with is the best summary of what I learned. 
+
+It's something I've never done before, and reveals me as a seriously under experienced programmer, but it's also something that was fun to learn about. 
+
+## 22/01/21 14:28, Writing the blog 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
