@@ -1107,7 +1107,6 @@ Sent the email - the numbers turned out to be a pain.
 
 Then some faffing around in vim. 
 
-
 ## 21/01/21 08:16, 
 I'm going to review the google doc from yesterday
 
@@ -1117,30 +1116,24 @@ I'm going to review the google doc from yesterday
 
 ## 21/01/21 11:32 to 11:53, time for gratidute. 
 
-
-## 21/01/21 12:49, Some notes on the game: 
-you aren't going to get many blue cards in a multiplayer game unless they get dealt. 
-
-I scored 70 points today out of 33 draws, and I think you probably want to be aiming for that as a return. i.e. looking at 
-
-
-## 21/01/21 13:36, I've been looking at a vim problem. 
-
-## 21/01/21 13:37, Writing my Nova routine. 
-
-## 22/01/21 13:45, Which I should definately review 
+## 21/01/21 13:37 to 13:45, Writing my Nova routine. 
 
 ## 22/01/21 13:45 to 14:28, Turning Mouse-Sniper into an app. 
-I recently wrote about Mouse Sniper, a small python script I built over Christmas. Today I took the time to turn it into a proper mac Application, and these are my notes on how it was done. 
+* All details at today's blog 
 
-The github branch and commit I used was [this one](https://github.com/joereddington/Mouse-Sniper/commit/4cf0d89333bbc9b4ed5ca429781e08e684564455) and I used the library py2app to perform the conversion.  The documentation for that library confused me, and I got a lot more out of [this blog](http://www.marinamele.com/from-a-python-script-to-a-portable-mac-application-with-py2app) and a number of Stack Exchange threads - the setup.py file I ended up with is the best summary of what I learned. 
-
-It's something I've never done before, and reveals me as a seriously under experienced programmer, but it's also something that was fun to learn about. 
-
-## 22/01/21 14:28, Writing the blog 
+## 22/01/21 14:28 to 14:45, Writing/pushing the blog
+* Also learned how to reference an internal blog 
 
 
+## 25/01/21 07:15, 
+The next THING to do with Mousesniper is to get it to do drags. So I want a system where I store a click, and then hold it down. 
 
+That should be simple. 
+
+Add a keybinding (I like times) that flipped a boolean and stored an x/y
+Change the click so that they check the boolean (and slowly move) 
+
+## 25/01/21 07:32, Have been tidying
 
 
 
