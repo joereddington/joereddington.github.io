@@ -1157,9 +1157,20 @@ Add a keybinding (I like times) that flipped a boolean and stored an x/y
 Change the click so that they check the boolean (and slowly move) 
 
 
+## 25/01/21 09:10 to 0942, Learning about vimdiff
+What did I learn? 
+
+That using vimdiff in git opens four  windows, and the easiest way to process is to close the middle one and concentrate on getting the top two in sync. 
+
+If there is a time the top two aren't in sync, check it with the bottom one .
+
+Also, I'd really really like to be able to sort entires by time. 
 
 
 
+
+
+## 25/01/21 10:05, My sitemap has 48 errors, and, very stragnely, is all example.com.
 
 
 
