@@ -55,4 +55,4 @@ show_excerpts: False
 #   - vendor/ruby/
 #
 
-url: "https://example.com" # the base hostname & protocol for your site
+url: "https://joereddington.github.io" # the base hostname & protocol for your site
