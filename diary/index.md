@@ -1070,6 +1070,16 @@ Seems fair.
 ## 18/01/21 10:15 to 10:21, Looking up a EQT bid
 * They want local 
 
+## 18/01/21 10:28 to 10:39, Phone call from mother 
+
+## 18/01/21 10:39 to 11:36, (B) 60 1 hour SimpleWriter on book  
+* Starting to wonder if I need another dictionary with more common words 
+* Added a citation when I borrowed a line, that's probably overkill. 
+* Got to line 381, feels like I'm really slow. But made it to the second chapter at least  
+* I'm thinking that I shouldn't simplify the language in the imagry, but I should simplify the structure
+
+## 18/01/21 11:37 to 11:55, Fixing a bug in the simplewriter 
+
 
 
 
@@ -1091,11 +1101,17 @@ Sitemap url is https://joereddington.github.io/sitemap.xml
 
 ## 19/01/21 07:42, Big job for today is the fore applicaiton 
 
+## 19/01/21 09:44 to 11:42, Drafting an application to the fore +EQT
+Next action is to:
 
-## 20/01/21 07:22 to 08:27, Working on the fore application 
+* Put the finance information in
+* Email the trustees 
+
+## 20/01/21 07:22 to 08:27, Working on the fore application  +EQT 
 Sent the email - the numbers turned out to be a pain. 
 
 ## 20/01/21 08:40, Okay, now what? 
+
 
 ## 21/01/21 06:47 to 06:49, Distraction. 
 
@@ -1137,7 +1153,16 @@ The github branch and commit I used was [this one](https://github.com/joeredding
 
 It's something I've never done before, and reveals me as a seriously under experienced programmer, but it's also something that was fun to learn about. 
 
-## 22/01/21 14:28, Writing the blog 
+## 22/01/21 08:45, Working on the Fore Grant again. +EQT
+* This is a useful url: https://drive.google.com/drive/recent
+* I've processed the changes from my reviewer
+* Adding pictures.  
+* Send to FB 
+
+## 25/01/21 07:47 to 07:59, Submitting the Fore grant files.  +EQT 
+* Trustee has reviewed, I understand we only have to submit. 
+* Getting the link from email took ages, This would have been solved if I'd done a github issue properly. 
+
 
 
 
