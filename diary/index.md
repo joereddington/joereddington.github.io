@@ -1170,17 +1170,55 @@ Also, I'd really really like to be able to sort entires by time.
 
 
 
-## 25/01/21 10:05, My sitemap has 48 errors, and, very stragnely, is all example.com.
+## 25/01/21 10:05 to 10:08, Checking sitemap on joereddington.github.com
+There was a problem that the sitemap was only using 'example.com' generated urls. 
+I've fixed it and put in a new version. 
+It took six days to read the sitemap, so I'm going to put in a note to check next Tuesday 
+
+
+## 25/01/21 11:08 to 11:58, Meeting and updating tracking code +EQT
+Nice chat and then spent some time adding conversion code to the website - I choose emails as a conversion metric, but I should probably have chosen 'contact us' as an option. 
+
+Later edit: conversion code did actually work
+
+## 26/01/21 09:12 to 09:23, Checking sitemap
+Hey! 48 found urls!  
+But they aren't listed on coverage. Maybe best to wait some more. 
+
+## 26/01/21 09:23 to 09:40, 
+Having some small thinking about markdown images now that I know some vimscript. 
+
+Steps are: 
+* Take the image
+* Copy the image to a local folder and insert the text. 
+* Really what I want is an abrevation that let's me grab a filetype 
+
+I [asked a question on vim stack exchange](https://vi.stackexchange.com/questions/28906/how-do-i-get-filename-completion-to-ignore-a-leading), and the reply was broadly "no", but pointed out some options in Jekyll
+
+Vim issue  was fixed later when tidying up. 
+
+
+## 26/01/21 09:44 to 10:08, Emails, including time playing with thunderbird.
+* [Here's the list of of shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts) 
+* The reason there was a problem with sending mail was that I hadn't opened the 'sent mail' folder on gmail.  I imagine it will work on my laptop again now.  
+	* Update, it's going to be annoying syncing the settings between devices. 
 
 
 
+## 26/01/21 10:08 to 11:30, +EQT emails
+I lost some content from yesterday, this is best guess for +EQT emails (I definitely had a break in the middle)
 
 
+## 27/01/21 07:38 to 08:00, Been sorting out signitures FOR 20 MINUTES! 
+## 27/01/21 08:02 to 08:15, Personal Emails now. 
 
+## 27/01/21 08:15 to 09:17, +EQT emails now 
+A lot of that was on the Google Ads. 
+And the rest of was writing follow up emails from the Crucible.
 
-
-
-
-
+## 27/01/21 13:21 to 13:51, Tidying this file 
+...and checking sitemap
+* Checking Sitemap, we've gone up to 29 valid files. (but there are 38 posts so...)* Ah, it lists 20 files that have been discovered and are waiting to be indexed. That's a start.   
+* Also Reviewed the inserting of images into this file. I've updated the approach and I'm happy with it. Got it closer to 2 minutes, which still feels very long. 
 
 
