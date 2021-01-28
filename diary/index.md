@@ -1244,6 +1244,39 @@ Turns out I'm on top of that one.
 Are we at 'go public? I think we are... 
 
 
+## 28/01/21 06:08, New day, 
+
+Today I'm focusing on the todolist, and working top to bottom, while also segmenting the videos a bit with good descriptions.  
+
+
+## 28/01/21 06:14 to 06:35, (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+
+## 28/01/21 06:36 to 06:41, (A) Review +EQT todo and put a note in igor 
+. Put in Igor first in case interrupted. 
+. There's nothing on fire, but a lot I'd like to to.
+
+## 28/01/21 06:41 to 06:48, (B) Fix DBS 
+I investigated this for the enhanced one: https://www.onlinedbschecks.co.uk/dbs-faqs/, but they outsource the check to me, which is hard in a lockdown.  Looks like basic check it is. 
+
+
+## 28/01/21 06:48 to 07:21, (B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+
+Done, and really interesting. There's lots in there that I want to do, and it feels like a much happier level to work at than the one I'm currently doing. 
+
+## 28/01/21 07:22, Just looking into the editing.  (B) One hour simple writer on book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+
+
+
+## 28/01/21 09:00 to 09:52, +EQT meeting about Fake news 
+
+
+
+## 28/01/21 10:19, Been responding to the Small Charity CEO group 
+
+## 28/01/21 10:23, let's have a quick, you know, blog post. 
+
+
+
 
 
 
