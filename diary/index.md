@@ -1222,3 +1222,28 @@ And the rest of was writing follow up emails from the Crucible.
 * Also Reviewed the inserting of images into this file. I've updated the approach and I'm happy with it. Got it closer to 2 minutes, which still feels very long. 
 
 
+
+## 27/01/21 13:52 to 14:25, I want to think more about this inserting of images idea. 
+I think I've solved the 'write markdown to insert the image' problem, but I don't believe I've fixed the 'get file into the right place, ideally without a mouse' problem. 
+
+This was interesting to build. I couldn't get it to call the function I'd created (although I could get the function to run independently) 
+
+	:command! -nargs=+ -complete=file Joe Insertimage(<f-args>) 
+
+
+I think the most simple way will be to drag and use the abbreviation. Let it bed in. 
+
+## 27/01/21 14:28, In any case, I should probably do some light blogging. 
+
+
+
+## 28/01/21 05:46 to 05:56, faffing for 10 minutes
+## 28/01/21 05:57 to 05:58, Time to look at the actions from last week. +EQT 
+Turns out I'm on top of that one. 
+
+Are we at 'go public? I think we are... 
+
+
+
+
+
