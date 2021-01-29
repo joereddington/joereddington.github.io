@@ -1273,7 +1273,17 @@ Done, and really interesting. There's lots in there that I want to do, and it fe
 
 ## 28/01/21 10:19, Been responding to the Small Charity CEO group 
 
-## 28/01/21 10:23, let's have a quick, you know, blog post. 
+## 28/01/21 10:23 to 11:08, blog post. 
+Did several, quite happy
+
+## 28/01/21 11:09, Next todo is measurements forarchitect
+
+## 28/01/21 11:35 to 11:46, Doing my DBS 
+
+
+
+
+
 
 
 
