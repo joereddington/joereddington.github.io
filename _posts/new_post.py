@@ -6,8 +6,6 @@ TEMPLATE = """\
 ---
 layout:     post
 title:      {0}
-date:       {1}
-tags:       {2}
 ---
 
 """
@@ -23,7 +21,7 @@ if __name__ == "__main__":
     file_name = datestamp + "-" + "-".join(title.split(" ")) + ".markdown"
 
     with open(file_name, "w+") as file:
-        file.write(TEMPLATE.format(title, timestamp, categories))
+        file.write(TEMPLATE.format(title))
     print file_name
 
 
