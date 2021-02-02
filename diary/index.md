@@ -1278,7 +1278,7 @@ Did several, quite happy
 
 ## 28/01/21 11:09, Next todo is measurements forarchitect
 
-## 28/01/21 11:35 to 11:46, Doing my DBS 
+## 28/01/21 11:35 to 11:46, Doing my DBS +EQT
 
 
 ## 01/02/21 12:55 to 13:13, (A) 10 Set up a paypal buisness acount at https://www.paypal.com/bizsignup/  +EQT @private
@@ -1291,11 +1291,38 @@ Did several, quite happy
 
 
 
-## 02/02/21 06:19, I'm still going with +EQT emails 
-(Started this note on laptop) 
+## 02/02/21 06:19 to 07:17, I'm still going with +EQT emails 
 
 
+## 02/02/21 07:18 to 07:55, Editing photos to do the gratitude. 
 
+Specifically my 161th weekly gratitude post (It's probably slightly less because a few weeks go missed here and there). Gratitude! 
+
+(I did this photo with Nova at a similar age, so it might look familar) 
+
+I'm thankful for a lovely Nova birthday. For snowballs, snowmen, snow angels, making an ice-rink and generally running around in the snow. Thank you for a lovely engagement balloon, for beautiful embrodiery for Leo's room, for Nova's lovely gifts (particular hits were the remote control car, the roller skates and Sylvanian Families).  I'm proud of Nova for doing the big slide on her own.  
+
+I'm thankful I got to carve a lot of time out this week for doing book work: you can tell it's nearing the difficult bit because I keep getting strong urges to start entirely different projects. I'm grateful for exercise, ball pit baths, Leo loving his trike to bits, dancing before bathtime, building towers with megablocks, a clean house, meeting new people, night time running, sending off funding bids, a clean house, Nova being super cute, fancy candlight takeaway, a permissive attitude to spelling, and RICHARD GETTING A VACCINE. 
+
+
+That took a long time. 
+
+## 02/02/21 08:03, 
+What's next? 
+
+## 02/02/21 08:05, (B) 10 Write down 20 nice things about eating with family. @private
+
+
+## 02/02/21 08:28, Taking a while. 
+
+## 02/02/21 08:36, Oooh, so grumpy, so grumpy so fast. 
+
+## 02/02/21 09:05, Found a mirror, but gone off subject. 
+
+## 02/02/21 09:38 to 09:48, (C) 15 Add Contact page to White Water Writers @private (because CAN'T run ruby on public for some reason) +EQT 
+
+## 02/02/21 09:58, (E) 03 order book for Kate @private
+Done contact list  
 
 
 
