@@ -1281,6 +1281,21 @@ Did several, quite happy
 ## 28/01/21 11:35 to 11:46, Doing my DBS 
 
 
+## 01/02/21 12:55 to 13:13, (A) 10 Set up a paypal buisness acount at https://www.paypal.com/bizsignup/  +EQT @private
+
+* Seems okay. 
+* I used the charity number as the registration unmber because it was under the right bit. 
+* I keep getting odd error messages
+* Works best on chrome... 
+
+
+
+
+## 02/02/21 06:19, I'm still going with +EQT emails 
+(Started this note on laptop) 
+
+
+
 
 
 
