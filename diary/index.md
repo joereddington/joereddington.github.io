@@ -1325,7 +1325,21 @@ What's next?
 Done contact list  
 
 
+## 02/02/21 11:23 to 11:38, 
+Looking up about school.s 
 
+Nova was born Jan 2018. 
+
+According to this: https://m.luton.gov.uk/Page/Show/Education_and_learning/Schools_and_colleges/School%20admissions/children-under-five/Pages/My%20child%20is%20under%20four%20years%20old%20-%20whey%20do%20I%20need%20to%20apply%20for%20a%20school%20place.aspx 
+
+she'll start reception in Sept 2022 and we should apply from October 2021 with a clasing date of 15th Jan. 
+
+This is the process: https://www.goodschoolsguide.co.uk/choosing-a-school/state-schools/primary-school-admissions
+
+The local private school starts at £12K and moves up to £15k a year. 
+
+
+## 02/02/21 12:03, Okay. Looked at some search STUFF.   
 
 
 

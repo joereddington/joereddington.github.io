@@ -4,7 +4,7 @@ title:      Gratitude
 ---
 
 
-![Leo in Space Suit]({% link assets/images/2021-02-02-grat.jpg/ %})
+![Leo in Space Suit]({% link assets/images/2021-02-02-grat.jpg %})
 
 
 Specifically my 161th weekly gratitude post (It's probably slightly less because a few weeks go missed here and there). Gratitude! 
