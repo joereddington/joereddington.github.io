@@ -1,0 +1,4 @@
+[submodule "diary/watson"]
+	path = diary/watson
+	url = https://github.com/joereddington/watson/
+	branch = dr_wat
