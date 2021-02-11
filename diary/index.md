@@ -478,12 +478,11 @@ Working on the tree chapter after several false starts
 ## 13/10/20 14:12 to 14:39, Making the deck +EQT
 ## 13/10/20 16:50 to 17:12, Finishing Deck +EQT
 
-
 ## 15/10/20 07:15 to 10:11, +EQT email and NOT equal meeting 
 ## 15/10/20 10:33 to 11:19, More email and +EQT social media. 
 
 
-# 16/10/20 08:23 to 08:49, Doing the regeneration of the post. 
+## 16/10/20 08:23 to 08:49, Doing the regeneration of the post. 
 This is a cool site: https://euangoddard.github.io/clipboard2markdown/ 
 
 
@@ -1324,30 +1323,7 @@ The total amount of streaming was  5 hours 34 minutes, which I worked out with t
 
 ## 04/02/21 09:03 to 10:03, what am I avoiding? +EQT
 Going through the list and writing the email. 
-
-
-Hello, 
-
-You replied to the post I made yesterday.  I've now gone through the people who were interested and I've pulled out X that we'd like to talk to.  Things we liked about you were: 
-
-* X
-* X 
-* X 
-
-I'm going to give you as much information as I can here. The next steps are: 
-
-* We have a quick call with you to cover any questions you might have and get a sense of you as a person. 
-* We pick the people we want to use for the first couple of sessions.  
-* You get a date and time and some short guidlines. 
-
-
-Some things I could do with knowing from you are: 
-* Do you have a DBS? If not that's something we can possibly arrange if we know soon enough
-* Have you had a look at the script and is it cool? 
-
-
-
-
+Did a draft that was used on Monday the 8th 
 
 ## 04/02/21 11:08 to 11:29, Reviewing Nt equal  +EQT
 * Ethics took a while 
@@ -1361,65 +1337,106 @@ Some things I could do with knowing from you are:
 
 ## 04/02/21 16:00 to 16:50, +EQT NOT equal meeting (With Yvonne and Daniel) 
 
-## 05/02/21 20:18 to 20:22, Ordering Paying in book +EQT
+# Friday
 
-## 05/02/21 20:25, It would be nice if the rule was: CMD+something for THINGs that worked in every application, and something else for triggering special applications (The Fkeys should probably start doing sometihng. 
-
-## 05/02/21 20:29, Getting music stored 
-
-## 05/02/21 20:36 to 20:42, Setting up instapaper and reviewing read it latter
+## 05/02/21 20:18 to 20:42, Gentle doing STUFF 
+* Would have been good if I had been copy pasting the done ones into the file. 
 
 
-## 05/02/21 21:23, Spent some time dealing with my mum. 
+## 06/02/21 10:04 to 10:37, Intergrating Watson into homepage
+## 06/02/21 13:41 to 14:01, Intergrating Watson into homepage
+* First action is to learn about submodules
+	* Commiting the main (super) project, says "The superproject is linked to the current commit of the subproject" so when updating, you pull the subproject, then commit the superproject.
+	* It is possible to merge files back in and preserve history
+
+	Git 2.23 (Q3 2019): if you want to clone and update the submodules to their latest revision:
+
+	git clone --recurse-submodules --remote-submodules
+
+	If you just want to clone them at their recorded SHA1:
+
+	git clone --recurse-submodules
 
 
-## 05/02/21 21:23, So, what is the plan for tomorrow? 
-* Lots of water. 
-* Do everything right. 
+	git submodule init
+	git submodule update
+* I checked watson online - there was nothing to push
+* I added the submodule to my homepage with the following command
+     git submodule add -b dr_wat https://github.com/joereddington/watson/ diary/watson
 
-## 05/02/21 21:37, I'm unpluging now. 
+* I ran ./watson ../index.md and it failed. 
+* I ran tests, they worked, I created a new one for index.md 
+* As a distraction, I found out that I could make tag files with 
 
-## 06/02/21 10:02, Hello. Leo is down. I'd like these to be calendar events and it would be cool to have that as a small project.  
+    ctags *.py
 
+* I cut down the example, and wrote some simplifying test cases. 
+* While simplifying I came accross another simple error - the Entry class didn't check it was being passed a string. I fixed it, and created a test to check. 
+   * In the process, I learned the python for testing an exception is thrown. 
+* Oddly, I couldn't get the bug to trigger when I imported the code directly. 
+Well that's strange, it works fine when I don't use get content... 
+* I continued drilling down, I found some print statements that suggested I'd tried this before. 
+* I tried altering the function, but other tests failed (this was the second time other tests had caught a problem), eventually I made the constructor ensure that there was always a valid for entry.end 
+* I (finally) managed a sucessful rebase - by putting the reword at the top and the squashes below it. 
+* After all that, the code is working as I hoped it already was. 
 
-## 06/02/21 10:04, Now I want to learn about submodules
-
-* Okay, I want to: 
-  * Read the top submodule stackexchange answers 
-  * Check that watson is properly pushed
-  * Add watson as a submodule of diary. 
-* Then, bonus, seperate out igor and watson in the todo setup
-
-
-Notes on Submodules: 
-
-
-* Commiting the main (super) project, says "The superproject is linked to the current commit of the subproject" so when updating, you pull the subproject, then commit the superproject.
-* It is possible to merge files back in and preserve history
-
-Git 2.23 (Q3 2019): if you want to clone and update the submodules to their latest revision:
-
-git clone --recurse-submodules --remote-submodules
-
-If you just want to clone them at their recorded SHA1:
-
-git clone --recurse-submodules
-
-
-git submodule init
-git submodule update
-
-
-## 06/02/21 10:17, Okay, Now to check watson 
-
-Watson is detached head, so we'd 
-
-If you are already in the right placej 
+## 06/02/21 15:06 to 15:23, Rewriting this document
 
 
 
+## 08/02/21 06:33 to 07:11, Good morning +EQT
+* I feel like I've got a lot of stressy work on today. 
+* Okay, I've checked the email. 
+* Having to sort out zoom rubbish
+* I ended up creating a new account 
+* Okay, confirmed meeting with Ian as well (he's accepted the invite) 
+* I've reordered. There's truthfully NOTthat much work. 
 
 
+## 08/02/21 07:11 to 07:40, Writing 'hello and welcome' document for domain experts
+
+## 08/02/21 07:41 to 08:01, Made a stab at a nondisclosure doucment. It's on google drive. 
+## 08/02/21 08:16 to 08:48, +EQT Checked bank transactions had happened, sorted invoice, broke down risk assessment.
+## 08/02/21 08:50 to 08:55,  Okay, so what are the blog titles I need to write? +EQT
+* I've put the list in the Google Doc
+
+## 08/02/21 08:55 to 09:35,  +EQT meeting about google grants. 
+I have some notes to follow up, and I really need to make this into a github issue
+
+## 08/02/21 09:58 to 10:15, back on it. Doing the influencers.  
+## 08/02/21 11:00 to 12:00 On call with funding guy  +EQT
+* Also sending the last two messages
+
+## 09/02/21 07:10 to 08:11, Checking and confirming times with influencers +EQT
+* Including writing a short script for the call. 
 
 
+## 09/02/21 09:00 to 09:18, Had domain expert call. +EQT
+## 09/02/21 09:18 to 10:08, Getting through some emails. +EQT 
+## 09/02/21 10:08 to 10:20, Switching to personal emails
+## 09/02/21 10:20 to 10:33, Domain expert call +EQT
+## 09/02/21 10:33 to 11:12, personal emails again. 
+## 09/02/21 11:12 to 11:15, Working on an +EQT google ads issue
+## 09/02/21 11:15 to 11:32, Back to personal emails. 
 
+## 09/02/21 15:07 to 16:00, Working on personal emails
+## 09/02/21 16:00 to 17:00, paper reading group. 
+* The paper had a 1000 citations. It was crazy. 
+* I had quite a moan. 
+
+## 10/02/21 08:16 to 08:30, preping for talk +EQT
+## 10/02/21 08:30 to 08:54, Talking to domain expert. +EQT
+Nice guy, wants to write a book. 
+
+## 10/02/21 08:57 to 09:21, Back to the tidying of this file. 
+* Looking into vim folding 
+	*  I added a submodule, then had to remove it, then added a new one, but the removal went wrong somehow. 
+
+
+## 10/02/21 14:17 to 14:31, Tidying this file. 
+* Okay this file is tidy, now to work out the stack 
+	
+
+# Stack 
+* Finish emails 
+* Write some blogs 
