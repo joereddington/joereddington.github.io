@@ -1437,6 +1437,19 @@ Nice guy, wants to write a book.
 * Okay this file is tidy, now to work out the stack 
 	
 
+## 11/02/21 07:05 to 07:23, Getting started. 
+* The file is tidy so emails 
+* First problem is a build errror 
+	* When I try Junle serve I get 
+		"Could not find mini_portile2-2.5.0 in any of the sources"
+	* I'm trying 'bundle install'
+	* Install was fine, now serve is hanging. 
+	* Okay, it turns out that it's processing the watson file. 
+		* I'm looking up excluding files:https://idratherbewriting.com/documentation-theme-jekyll/mydoc_exluding_files.html 
+		* I've added an exclusion to the _config and now it's building. Time for a push
+
+
 # Stack 
+* Message all the influencers about monday. 
 * Finish emails 
 * Write some blogs 

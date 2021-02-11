@@ -57,5 +57,8 @@ show_excerpts: False
 
 url: "https://joereddington.github.io" # the base hostname & protocol for your site
 
+# Excluding submodule as per https://idratherbewriting.com/documentation-theme-jekyll/mydoc_exluding_files.html 
+exclude: 
+- diary/watson/
 
 
