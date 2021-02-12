@@ -478,12 +478,11 @@ Working on the tree chapter after several false starts
 ## 13/10/20 14:12 to 14:39, Making the deck +EQT
 ## 13/10/20 16:50 to 17:12, Finishing Deck +EQT
 
-
 ## 15/10/20 07:15 to 10:11, +EQT email and NOT equal meeting 
 ## 15/10/20 10:33 to 11:19, More email and +EQT social media. 
 
 
-# 16/10/20 08:23 to 08:49, Doing the regeneration of the post. 
+## 16/10/20 08:23 to 08:49, Doing the regeneration of the post. 
 This is a cool site: https://euangoddard.github.io/clipboard2markdown/ 
 
 
@@ -1156,8 +1155,9 @@ The next THING to do with Mousesniper is to get it to do drags. So I want a syst
 Add a keybinding (I like times) that flipped a boolean and stored an x/y
 Change the click so that they check the boolean (and slowly move) 
 
+## 25/01/21 08:34 to 08:39, Doing some light email +EQT 
 
-## 25/01/21 09:10 to 0942, Learning about vimdiff
+## 25/01/21 09:10 to 09:42, Learning about vimdiff
 What did I learn? 
 
 That using vimdiff in git opens four  windows, and the easiest way to process is to close the middle one and concentrate on getting the top two in sync. 
@@ -1282,65 +1282,209 @@ Did several, quite happy
 
 
 ## 01/02/21 12:55 to 13:13, (A) 10 Set up a paypal buisness acount at https://www.paypal.com/bizsignup/  +EQT @private
-
-* Seems okay. 
-* I used the charity number as the registration unmber because it was under the right bit. 
-* I keep getting odd error messages
-* Works best on chrome... 
-
-
-
+I keep running into an unhelpful error message
 
 ## 02/02/21 06:19 to 07:17, I'm still going with +EQT emails 
 
 
 ## 02/02/21 07:18 to 07:55, Editing photos to do the gratitude. 
-
-Specifically my 161th weekly gratitude post (It's probably slightly less because a few weeks go missed here and there). Gratitude! 
-
-(I did this photo with Nova at a similar age, so it might look familar) 
-
-I'm thankful for a lovely Nova birthday. For snowballs, snowmen, snow angels, making an ice-rink and generally running around in the snow. Thank you for a lovely engagement balloon, for beautiful embrodiery for Leo's room, for Nova's lovely gifts (particular hits were the remote control car, the roller skates and Sylvanian Families).  I'm proud of Nova for doing the big slide on her own.  
-
-I'm thankful I got to carve a lot of time out this week for doing book work: you can tell it's nearing the difficult bit because I keep getting strong urges to start entirely different projects. I'm grateful for exercise, ball pit baths, Leo loving his trike to bits, dancing before bathtime, building towers with megablocks, a clean house, meeting new people, night time running, sending off funding bids, a clean house, Nova being super cute, fancy candlight takeaway, a permissive attitude to spelling, and RICHARD GETTING A VACCINE. 
+Wrote this post: https://joereddington.github.io/2021/02/02/Gratitude.html 
 
 
-That took a long time. 
+## 02/02/21 08:05 to 08:28, (B) 10 Write down 20 nice things about eating with family. @private
 
-## 02/02/21 08:03, 
-What's next? 
-
-## 02/02/21 08:05, (B) 10 Write down 20 nice things about eating with family. @private
-
-
-## 02/02/21 08:28, Taking a while. 
-
-## 02/02/21 08:36, Oooh, so grumpy, so grumpy so fast. 
-
-## 02/02/21 09:05, Found a mirror, but gone off subject. 
-
-## 02/02/21 09:38 to 09:48, (C) 15 Add Contact page to White Water Writers @private (because CAN'T run ruby on public for some reason) +EQT 
+## 02/02/21 09:38 to 09:48, (C) 15 Add Contact page to White Water Writers @private  +EQT 
 
 ## 02/02/21 09:58, (E) 03 order book for Kate @private
-Done contact list  
+
+## 02/02/21 11:23 to 11:38, Working on https://github.com/joereddington/Projects-Private/issues/166 
+
+## 02/02/21 13:02, I've done my linkedin post, 
+The total amount of streaming was  5 hours 34 minutes, which I worked out with this post: https://webapps.stackexchange.com/a/143119/10707 
+
+## 02/02/21 13:19 to 13:21, Brief look at Watson 
+* The important THING is that I work out how submodules work. That's the major next action.  
+
+## 03/02/21 08:36 to 09:04, Working on Not Equal. +EQT
+
+## 03/02/21 20:04 to 21:10, Logging in for +EQT meeting 
+* Working on paypal while I wait. 
+![Paypal screensht]({% link assets/images/paypal.png %})
+
+## 04/02/21 07:45, I'm processing a calendar 
+
+## 04/02/21 08:06 to 08:41, Tidying 
+* The size of gmail 
+* The downloads
+* This file. 
 
 
-## 02/02/21 11:23 to 11:38, 
-Looking up about school.s 
+## 04/02/21 08:53, Not going live because everything to make is private. 
 
-Nova was born Jan 2018. 
+## 04/02/21 09:03 to 10:03, what am I avoiding? +EQT
+Going through the list and writing the email. 
+Did a draft that was used on Monday the 8th 
 
-According to this: https://m.luton.gov.uk/Page/Show/Education_and_learning/Schools_and_colleges/School%20admissions/children-under-five/Pages/My%20child%20is%20under%20four%20years%20old%20-%20whey%20do%20I%20need%20to%20apply%20for%20a%20school%20place.aspx 
-
-she'll start reception in Sept 2022 and we should apply from October 2021 with a clasing date of 15th Jan. 
-
-This is the process: https://www.goodschoolsguide.co.uk/choosing-a-school/state-schools/primary-school-admissions
-
-The local private school starts at £12K and moves up to £15k a year. 
+## 04/02/21 11:08 to 11:29, Reviewing Nt equal  +EQT
+* Ethics took a while 
+* We're checking that we can legit use other countries, or 
+* Which bit is most interesting to you. 
 
 
-## 02/02/21 12:03, Okay. Looked at some search STUFF.   
 
+## 04/02/21 13:30 to 14:20, +EQT NOT equal meeting 
+
+
+## 04/02/21 16:00 to 16:50, +EQT NOT equal meeting (With Yvonne and Daniel) 
+
+# Friday
+
+## 05/02/21 20:18 to 20:42, Gentle doing STUFF 
+* Would have been good if I had been copy pasting the done ones into the file. 
+
+
+## 06/02/21 10:04 to 10:37, Intergrating Watson into homepage
+## 06/02/21 13:41 to 14:01, Intergrating Watson into homepage
+* First action is to learn about submodules
+	* Commiting the main (super) project, says "The superproject is linked to the current commit of the subproject" so when updating, you pull the subproject, then commit the superproject.
+	* It is possible to merge files back in and preserve history
+
+	Git 2.23 (Q3 2019): if you want to clone and update the submodules to their latest revision:
+
+	git clone --recurse-submodules --remote-submodules
+
+	If you just want to clone them at their recorded SHA1:
+
+	git clone --recurse-submodules
+
+
+	git submodule init
+	git submodule update
+* I checked watson online - there was nothing to push
+* I added the submodule to my homepage with the following command
+     git submodule add -b dr_wat https://github.com/joereddington/watson/ diary/watson
+
+* I ran ./watson ../index.md and it failed. 
+* I ran tests, they worked, I created a new one for index.md 
+* As a distraction, I found out that I could make tag files with 
+
+    ctags *.py
+
+* I cut down the example, and wrote some simplifying test cases. 
+* While simplifying I came accross another simple error - the Entry class didn't check it was being passed a string. I fixed it, and created a test to check. 
+   * In the process, I learned the python for testing an exception is thrown. 
+* Oddly, I couldn't get the bug to trigger when I imported the code directly. 
+Well that's strange, it works fine when I don't use get content... 
+* I continued drilling down, I found some print statements that suggested I'd tried this before. 
+* I tried altering the function, but other tests failed (this was the second time other tests had caught a problem), eventually I made the constructor ensure that there was always a valid for entry.end 
+* I (finally) managed a sucessful rebase - by putting the reword at the top and the squashes below it. 
+* After all that, the code is working as I hoped it already was. 
+
+## 06/02/21 15:06 to 15:23, Rewriting this document
+
+
+
+## 08/02/21 06:33 to 07:11, Good morning +EQT
+* I feel like I've got a lot of stressy work on today. 
+* Okay, I've checked the email. 
+* Having to sort out zoom rubbish
+* I ended up creating a new account 
+* Okay, confirmed meeting with Ian as well (he's accepted the invite) 
+* I've reordered. There's truthfully NOTthat much work. 
+
+
+## 08/02/21 07:11 to 07:40, Writing 'hello and welcome' document for domain experts
+
+## 08/02/21 07:41 to 08:01, Made a stab at a nondisclosure doucment. It's on google drive. 
+## 08/02/21 08:16 to 08:48, +EQT Checked bank transactions had happened, sorted invoice, broke down risk assessment.
+## 08/02/21 08:50 to 08:55,  Okay, so what are the blog titles I need to write? +EQT
+* I've put the list in the Google Doc
+
+## 08/02/21 08:55 to 09:35,  +EQT meeting about google grants. 
+I have some notes to follow up, and I really need to make this into a github issue
+
+## 08/02/21 09:58 to 10:15, back on it. Doing the influencers.  
+## 08/02/21 11:00 to 12:00 On call with funding guy  +EQT
+* Also sending the last two messages
+
+## 09/02/21 07:10 to 08:11, Checking and confirming times with influencers +EQT
+* Including writing a short script for the call. 
+
+
+## 09/02/21 09:00 to 09:18, Had domain expert call. +EQT
+## 09/02/21 09:18 to 10:08, Getting through some emails. +EQT 
+## 09/02/21 10:08 to 10:20, Switching to personal emails
+## 09/02/21 10:20 to 10:33, Domain expert call +EQT
+## 09/02/21 10:33 to 11:12, personal emails again. 
+## 09/02/21 11:12 to 11:15, Working on an +EQT google ads issue
+## 09/02/21 11:15 to 11:32, Back to personal emails. 
+
+## 09/02/21 15:07 to 16:00, Working on personal emails
+## 09/02/21 16:00 to 17:00, paper reading group. 
+* The paper had a 1000 citations. It was crazy. 
+* I had quite a moan. 
+
+## 10/02/21 08:16 to 08:30, preping for talk +EQT
+## 10/02/21 08:30 to 08:54, Talking to domain expert. +EQT
+Nice guy, wants to write a book. 
+
+## 10/02/21 08:57 to 09:21, Back to the tidying of this file. 
+* Looking into vim folding 
+	*  I added a submodule, then had to remove it, then added a new one, but the removal went wrong somehow. 
+
+
+## 10/02/21 14:17 to 14:31, Tidying this file. 
+* Okay this file is tidy, now to work out the stack 
+	
+
+## 11/02/21 07:05 to 07:23, Getting started. 
+* The file is tidy so emails 
+* First problem is a build errror 
+	* When I try Junle serve I get 
+		"Could not find mini_portile2-2.5.0 in any of the sources"
+	* I'm trying 'bundle install'
+	* Install was fine, now serve is hanging. 
+	* Okay, it turns out that it's processing the watson file. 
+		* I'm looking up excluding files:https://idratherbewriting.com/documentation-theme-jekyll/mydoc_exluding_files.html 
+		* I've added an exclusion to the _config and now it's building. Time for a push
+## 11/02/21 07:24, Got another page build error. Sigh.  
+* Accoring to https://docs.github.com/en/github/working-with-github-pages/using-submodules-with-github-pages there are problems with submodules. Let me remove it and see what happens. 
+* Removing the submodules. I found I had to run the commands: 
+	git submodule deinit diary/watson/
+	git rm diary/watson/
+
+(which editing the .gitmodules file themselves, despite what SE says) 
+* I've now pushed again. 
+## 11/02/21 07:39, Sigh, page build erorr
+* Okay, that's all I have time for, the next action is surely :roll back to the last working version. 
+
+
+## 11/02/21 07:42 to 08:00, Write a blog  +EQT
+Wrote this: https://equalitytime.co.uk/6493/2021/02/11/new-fake-news-project/ 
+
+## 11/02/21 08:00 to 08:34, Personal email
+(Also, waiting for a call) 
+
+## 11/02/21 09:00 to 09:49, Fake news +EQT call 
+## 11/02/21 10:10 to 10:30, Fakenews +EQT call 
+## 11/02/21 10:49, Personal email reviewing 
+## 11/02/21 10:56, Going to confirm charity status to reduce fee. +EQT
+## 11/02/21 11:04 to 11:50, Replying to emails +EQT
+
+
+## 12/02/21 07:28, Let's fix this site 
+No, let's push everything else and then fix the site live. 
+
+## 12/02/21 07:34, 
+Hey, I learned about https://github.com/joereddington/joereddington.github.io/compare 
+
+# Stack 
+* Gratitdue post
+* Message all the influencers about monday. 
+* Message All influencers you have email for with a summary 
+* Take Kat through all the backups on the hard drive. 
+* Write some blogs 
+* Fix the build error. 
 
 
 
