@@ -1475,6 +1475,8 @@ Wrote this: https://equalitytime.co.uk/6493/2021/02/11/new-fake-news-project/
 ## 12/02/21 07:28, Let's fix this site 
 No, let's push everything else and then fix the site live. 
 
+## 12/02/21 07:34, 
+Hey, I learned about https://github.com/joereddington/joereddington.github.io/compare 
 
 # Stack 
 * Gratitdue post
