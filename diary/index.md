@@ -1156,9 +1156,8 @@ The next THING to do with Mousesniper is to get it to do drags. So I want a syst
 Add a keybinding (I like times) that flipped a boolean and stored an x/y
 Change the click so that they check the boolean (and slowly move) 
 
-## 25/01/21 08:34 to 08:39, Doing some light email +EQT 
 
-## 25/01/21 09:10 to 09:42, Learning about vimdiff
+## 25/01/21 09:10 to 0942, Learning about vimdiff
 What did I learn? 
 
 That using vimdiff in git opens four  windows, and the easiest way to process is to close the middle one and concentrate on getting the top two in sync. 
@@ -1283,140 +1282,64 @@ Did several, quite happy
 
 
 ## 01/02/21 12:55 to 13:13, (A) 10 Set up a paypal buisness acount at https://www.paypal.com/bizsignup/  +EQT @private
-I keep running into an unhelpful error message
+
+* Seems okay. 
+* I used the charity number as the registration unmber because it was under the right bit. 
+* I keep getting odd error messages
+* Works best on chrome... 
+
+
+
 
 ## 02/02/21 06:19 to 07:17, I'm still going with +EQT emails 
 
 
 ## 02/02/21 07:18 to 07:55, Editing photos to do the gratitude. 
-Wrote this post: https://joereddington.github.io/2021/02/02/Gratitude.html 
+
+Specifically my 161th weekly gratitude post (It's probably slightly less because a few weeks go missed here and there). Gratitude! 
+
+(I did this photo with Nova at a similar age, so it might look familar) 
+
+I'm thankful for a lovely Nova birthday. For snowballs, snowmen, snow angels, making an ice-rink and generally running around in the snow. Thank you for a lovely engagement balloon, for beautiful embrodiery for Leo's room, for Nova's lovely gifts (particular hits were the remote control car, the roller skates and Sylvanian Families).  I'm proud of Nova for doing the big slide on her own.  
+
+I'm thankful I got to carve a lot of time out this week for doing book work: you can tell it's nearing the difficult bit because I keep getting strong urges to start entirely different projects. I'm grateful for exercise, ball pit baths, Leo loving his trike to bits, dancing before bathtime, building towers with megablocks, a clean house, meeting new people, night time running, sending off funding bids, a clean house, Nova being super cute, fancy candlight takeaway, a permissive attitude to spelling, and RICHARD GETTING A VACCINE. 
 
 
-## 02/02/21 08:05 to 08:28, (B) 10 Write down 20 nice things about eating with family. @private
+That took a long time. 
 
-## 02/02/21 09:38 to 09:48, (C) 15 Add Contact page to White Water Writers @private  +EQT 
+## 02/02/21 08:03, 
+What's next? 
+
+## 02/02/21 08:05, (B) 10 Write down 20 nice things about eating with family. @private
+
+
+## 02/02/21 08:28, Taking a while. 
+
+## 02/02/21 08:36, Oooh, so grumpy, so grumpy so fast. 
+
+## 02/02/21 09:05, Found a mirror, but gone off subject. 
+
+## 02/02/21 09:38 to 09:48, (C) 15 Add Contact page to White Water Writers @private (because CAN'T run ruby on public for some reason) +EQT 
 
 ## 02/02/21 09:58, (E) 03 order book for Kate @private
-
-## 02/02/21 11:23 to 11:38, Working on https://github.com/joereddington/Projects-Private/issues/166 
-
-## 02/02/21 13:02, I've done my linkedin post, 
-The total amount of streaming was  5 hours 34 minutes, which I worked out with this post: https://webapps.stackexchange.com/a/143119/10707 
-
-## 02/02/21 13:19 to 13:21, Brief look at Watson 
-* The important THING is that I work out how submodules work. That's the major next action.  
-
-## 03/02/21 08:36 to 09:04, Working on Not Equal. +EQT
-
-## 03/02/21 20:04 to 21:10, Logging in for +EQT meeting 
-* Working on paypal while I wait. 
-![Paypal screensht]({% link assets/images/paypal.png %})
-
-## 04/02/21 07:45, I'm processing a calendar 
-
-## 04/02/21 08:06 to 08:41, Tidying 
-* The size of gmail 
-* The downloads
-* This file. 
+Done contact list  
 
 
-## 04/02/21 08:53, Not going live because everything to make is private. 
+## 02/02/21 11:23 to 11:38, 
+Looking up about school.s 
 
-## 04/02/21 09:03 to 10:03, what am I avoiding? +EQT
-Going through the list and writing the email. 
+Nova was born Jan 2018. 
 
+According to this: https://m.luton.gov.uk/Page/Show/Education_and_learning/Schools_and_colleges/School%20admissions/children-under-five/Pages/My%20child%20is%20under%20four%20years%20old%20-%20whey%20do%20I%20need%20to%20apply%20for%20a%20school%20place.aspx 
 
-Hello, 
+she'll start reception in Sept 2022 and we should apply from October 2021 with a clasing date of 15th Jan. 
 
-You replied to the post I made yesterday.  I've now gone through the people who were interested and I've pulled out X that we'd like to talk to.  Things we liked about you were: 
+This is the process: https://www.goodschoolsguide.co.uk/choosing-a-school/state-schools/primary-school-admissions
 
-* X
-* X 
-* X 
-
-I'm going to give you as much information as I can here. The next steps are: 
-
-* We have a quick call with you to cover any questions you might have and get a sense of you as a person. 
-* We pick the people we want to use for the first couple of sessions.  
-* You get a date and time and some short guidlines. 
+The local private school starts at £12K and moves up to £15k a year. 
 
 
-Some things I could do with knowing from you are: 
-* Do you have a DBS? If not that's something we can possibly arrange if we know soon enough
-* Have you had a look at the script and is it cool? 
-
-
-
-
-
-## 04/02/21 11:08 to 11:29, Reviewing Nt equal  +EQT
-* Ethics took a while 
-* We're checking that we can legit use other countries, or 
-* Which bit is most interesting to you. 
-
-
-
-## 04/02/21 13:30 to 14:20, +EQT NOT equal meeting 
-
-
-## 04/02/21 16:00 to 16:50, +EQT NOT equal meeting (With Yvonne and Daniel) 
-
-## 05/02/21 20:18 to 20:22, Ordering Paying in book +EQT
-
-## 05/02/21 20:25, It would be nice if the rule was: CMD+something for THINGs that worked in every application, and something else for triggering special applications (The Fkeys should probably start doing sometihng. 
-
-## 05/02/21 20:29, Getting music stored 
-
-## 05/02/21 20:36 to 20:42, Setting up instapaper and reviewing read it latter
-
-
-## 05/02/21 21:23, Spent some time dealing with my mum. 
-
-
-## 05/02/21 21:23, So, what is the plan for tomorrow? 
-* Lots of water. 
-* Do everything right. 
-
-## 05/02/21 21:37, I'm unpluging now. 
-
-## 06/02/21 10:02, Hello. Leo is down. I'd like these to be calendar events and it would be cool to have that as a small project.  
-
-
-## 06/02/21 10:04, Now I want to learn about submodules
-
-* Okay, I want to: 
-  * Read the top submodule stackexchange answers 
-  * Check that watson is properly pushed
-  * Add watson as a submodule of diary. 
-* Then, bonus, seperate out igor and watson in the todo setup
-
-
-Notes on Submodules: 
-
-
-* Commiting the main (super) project, says "The superproject is linked to the current commit of the subproject" so when updating, you pull the subproject, then commit the superproject.
-* It is possible to merge files back in and preserve history
-
-Git 2.23 (Q3 2019): if you want to clone and update the submodules to their latest revision:
-
-git clone --recurse-submodules --remote-submodules
-
-If you just want to clone them at their recorded SHA1:
-
-git clone --recurse-submodules
-
-
-git submodule init
-git submodule update
-
-
-## 06/02/21 10:17, Okay, Now to check watson 
-
-Watson is detached head, so we'd 
-
-If you are already in the right placej 
-
-
+## 02/02/21 12:03, Okay. Looked at some search STUFF.   
 
 
 
