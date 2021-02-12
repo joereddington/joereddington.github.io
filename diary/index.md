@@ -1447,9 +1447,44 @@ Nice guy, wants to write a book.
 	* Okay, it turns out that it's processing the watson file. 
 		* I'm looking up excluding files:https://idratherbewriting.com/documentation-theme-jekyll/mydoc_exluding_files.html 
 		* I've added an exclusion to the _config and now it's building. Time for a push
+## 11/02/21 07:24, Got another page build error. Sigh.  
+* Accoring to https://docs.github.com/en/github/working-with-github-pages/using-submodules-with-github-pages there are problems with submodules. Let me remove it and see what happens. 
+* Removing the submodules. I found I had to run the commands: 
+	git submodule deinit diary/watson/
+	git rm diary/watson/
+
+(which editing the .gitmodules file themselves, despite what SE says) 
+* I've now pushed again. 
+## 11/02/21 07:39, Sigh, page build erorr
+* Okay, that's all I have time for, the next action is surely :roll back to the last working version. 
+
+
+## 11/02/21 07:42 to 08:00, Write a blog  +EQT
+Wrote this: https://equalitytime.co.uk/6493/2021/02/11/new-fake-news-project/ 
+
+## 11/02/21 08:00 to 08:34, Personal email
+(Also, waiting for a call) 
+
+## 11/02/21 09:00 to 09:49, Fake news +EQT call 
+## 11/02/21 10:10 to 10:30, Fakenews +EQT call 
+## 11/02/21 10:49, Personal email reviewing 
+## 11/02/21 10:56, Going to confirm charity status to reduce fee. +EQT
+## 11/02/21 11:04 to 11:50, Replying to emails +EQT
+
+
+## 12/02/21 07:28, Let's fix this site 
+No, let's push everything else and then fix the site live. 
 
 
 # Stack 
+* Gratitdue post
 * Message all the influencers about monday. 
-* Finish emails 
+* Message All influencers you have email for with a summary 
+* Take Kat through all the backups on the hard drive. 
 * Write some blogs 
+* Fix the build error. 
+
+
+
+
+
