@@ -1471,23 +1471,24 @@ Wrote this: https://equalitytime.co.uk/6493/2021/02/11/new-fake-news-project/
 ## 11/02/21 11:04 to 11:50, Replying to emails +EQT
 
 
-## 12/02/21 07:28 to 07:48, Let's fix this site 
-No, let's push everything else and then fix the site live. 
+## 12/02/21 07:28 to 08:07, Fixing joereddington.github.io
+That was interesting. 
+* It's still unclear where the error was, I think it might have been a combination of a problem with a missing image in index.md and a seperate problem with the submodule I added. 
+* I used the "git revert HEAD" command to 'reverse' the last commit (it appends an extra on on the end) and later I used the command "git revert X" to reverse only commit X. That was awesome. 
+* In the end I created a new main branch with only the commits on it that I liked. That was fun. 
+* I used the "git cherry-pick c096635" command, which let me grab a single commit from another branch and bang it on the end
+* I'd be willing to try the submodule again. 
 
-## 12/02/21 07:34, 
-Hey, I learned about https://github.com/joereddington/joereddington.github.io/compare 
+## 12/02/21 08:14 to 08:22, 
+* I thought this was interesting:  https://www.matuzo.at/blog/testing-with-tab/ in the context of keyboard only usage of websites.   
+I've generally been faffing though. It's really time for some good gratitude posting! 
 
-## 12/02/21 07:48,  
 
-## 12/02/21 07:54, OMG, it's this diary file causing a problem! 
+## 12/02/21 20:23 to 21:23, Switching to public  
 
-# Stack 
-* Gratitdue post
-* Message all the influencers about monday. 
-* Message All influencers you have email for with a summary 
-* Take Kat through all the backups on the hard drive. 
-* Write some blogs 
-* Fix the build error. 
+## 15/02/21 08:21 to 08:27, Tidying this file.  
+
+
 
 
 
