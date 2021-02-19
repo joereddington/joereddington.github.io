@@ -1489,6 +1489,81 @@ I've generally been faffing though. It's really time for some good gratitude pos
 ## 15/02/21 08:21 to 08:27, Tidying this file.  
 
 
+## 16/02/21 08:01 to 08:50, Email day! 
+## 16/02/21 08:54 to 09:25, Sorted out a review system. It was silly. 
+* It turns out that I haven't effectively reviewed work emails for a long time 
+## 16/02/21 09:25 to 09:46, Personal Inbox Done 
+## 16/02/21 09:46 to 10:57, working on +EQT inbox. 
+## 16/02/21 15:27 to 17:00, Reading a paper and taking part in the group. 
+
+* Think about cooking This paper is pre-youtube, which does a certain amount of making the invisitble visible 
+* I'm going to handle THINGs differently. 
+* At times I felt I'd be better simply reading the rollins book.
+* Very timely remote work wise. 
+
+I liked it, I loved it, I want some more of it. 
+
+* In 20 years your all going to start working from home and this will hurt. 
+
+## 16/02/21 16:10, Paper moving 
+
+
+## 17/02/21 08:04, Okay, what needs doing? 
+
+More musili? That seems reaonsble.  
+
+## 17/02/21 08:38, You know, sooner or later I'm going to have to admit to myself that it's useful having files handy. 
+
+## 17/02/21 08:53, Trying the shared folder 
+
+## 18/02/21 07:43, Goodmorning. 
+
+## 18/02/21 07:43 to 08:38, Writing the fear blog +EQT 
+
+## 18/02/21 09:00 to 10:10, Fake news meeting +EQT 
+
+
+
+## 19/02/21 05:02, Well, this is early. 
+
+## 19/02/21 05:07, I want to be working on this file and the todo list. 
+
+## 19/02/21 05:13 to 05:28, Clearing out Personal Inbox 
+## 19/02/21 05:28 to 05:57, Now clearing out work inbox. 
+Paypal code is 7812 
+
+## 19/02/21 05:57, Done, everything is clear. 
+Now this file .
+
+# Stack 
+* Get richard a label maker 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
