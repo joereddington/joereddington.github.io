@@ -1682,7 +1682,43 @@ Which involved:
     * Downloading a new terminal app. 
 Sigh. 
 
+## 19/02/21 08:22 to 08:55, Live working on book.
+I believe I've solved the first example.  
+I'm still missing a couple of good examples, particularly around sorting. I might do years.  
+Years of books?  Create a tree with the years that fictional books are set in. What is the point? Simple to construct, relatively easy to write out a list of 'nearby' dates (split long books into several parts)
+* Disadvantaces (hard to search by film, hard to check something is already in (no it isn't!)   
+* Oh, means that you can keep adding questions. 
+* Walking the path is good context. 
+* Can include biographies, films, and some history books. 
+Yes, I think this might be a goer. 
+
+I've done the big thinking. 
+I want an example that is 'years of historical fiction books' 
+I want an example that is 'inventions arranged in a tree' (subclasses still work) 
+
+That gives me two more examples for a: 
+
+* Introduction example 
+* Sorting example
+	* Invention sorting example. 
+* Decision Tree example 
+
+That's probably enough. 
 
 
 
+
+## 19/02/21 10:19, You can use 'git stash clear' to clear stashes  
+
+
+
+
+
+
+
+
+
+# Stack 
+* Move .vim to /User/Shared (if that's possible)  
+* Move memorybook to /UserShared 
 
