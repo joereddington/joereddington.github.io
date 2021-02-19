@@ -1160,7 +1160,7 @@ Change the click so that they check the boolean (and slowly move)
 ## 25/01/21 09:10 to 09:42, Learning about vimdiff
 What did I learn? 
 
-That using vimdiff in git opens four  windows, and the easiest way to process is to close the middle one and concentrate on getting the top two in sync. 
+That using vimdiff in git with the command 'git mergetool' opens four  windows, and the easiest way to process is to close the middle one and concentrate on getting the top two in sync. 
 
 If there is a time the top two aren't in sync, check it with the bottom one .
 
@@ -1489,6 +1489,8 @@ I've generally been faffing though. It's really time for some good gratitude pos
 ## 15/02/21 08:21 to 08:27, Tidying this file.  
 
 
+
+
 ## 16/02/21 08:01 to 08:50, Email day! 
 ## 16/02/21 08:54 to 09:25, Sorted out a review system. It was silly. 
 * It turns out that I haven't effectively reviewed work emails for a long time 
@@ -1544,6 +1546,141 @@ Sigh.
 
 
 
+||||||| 5df3f22
+=======
+## 28/01/21 07:40 to 08:53, (B) One hour simple writer on book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+* I have reached the linked list chapter 
+* Updating the pdf - I've reached page 49 of the text. 
+* Let's do another ten minutes. 
+* Got as far as the presidents, nearly the end of the chapter. 
+
+## 28/01/21 20:10 to 21:01, More book 
+* Okay, got as far as the knowledge. I think I'm halfway though, but there will be a lot more work in the later chapters. 
+
+
+## 29/01/21 07:10 to 08:13, More book 
+I've reached 'you got to here with the indexes 
+
+
+## 29/01/21 08:17, Accounts section
+* 171 pages? That's cool. I really though we'd drop 20 in this process.  I'm up to 111 of this review as well (although I think there is a lot more work now) 
+* Fixed an early bug  
+* I've fixed the next table Now I need another one beause I have to do the major system THING  
+* We'll do the index when we come to that bit of the pdf 
+
+- 29/01/21 smallest next step:  generate the major system keywords for the accounts and keep writing  
+
+
+## 29/01/21 14:17 to 15:21, More book. 
+Started by dealing with the footnotes
+We're accdientally 175 pages! 
+Now to commit
+
+
+## 29/01/21 19:39 to 20:18, Back again.  
+- 29/01/21 smallest next step:  Rewriting the Accounts example from the start. 
+* Going to go through looking for caption/lable order problems 
+* Also going through looking for undefined references 
+* In future will need to sort citations.
+* Back to rewriting. 
+
+
+## 29/01/21 20:32 to 21:17,Book  
+* I'm rewriting the accounts example 
+* The class examples need two clear blank lines between them 
+* Something has gone wrong with spelling :( 
+- 29/01/21 smallest next step:  do work on summary, need to make sure those bits are in the main chapter
+
+## 30/01/21 12:53 to 13:24, Book. Working on summary  
+Working on the bullet point lines. I decided to go with all captials, all full stops (unless they are sentence fragments or word lists and to hell with the colon for the start
+\(^.\{12}\d\d:\d\d\).*, is apparently the search I'm using but I think it's 
+
+/\\item.*[^.]$ to find all the lines without full stops.  
+
+## 30/01/21 14:56 to 15:41, Book again
+* Done the bullets 
+* Completed classes entirely 
+* Rewrote the start of Trees 
+
+We should note - there might be so much to rewrite from this point forward that it would be worth doing another simplewriter from the Trees Chapter onwards.
+
+## 30/01/21 19:33, Back again
+
+## 30/01/21 19:34, Oh wow - I wrote most of the tree chapter before the class chapter and it really shows. I've changed a lot of the terms and methods. 
+
+## 30/01/21 19:51, I think I need to build this example properly. 
+
+## 30/01/21 20:00, Okay, it's very simple to do with with three people per node, and then having external links. 
+
+
+But it's two people per node. 
+
+I need each of the people to be linked to a country, and be linked to another countiry. 
+
+## 30/01/21 20:01, Let's do it myself. 
+
+Couples. No, film antagonists. I have them murder a character from a previosu film 
+
+France beat croatia \link Da Vinci Code, tom hanks is made of bagets and the monk is very proud of his cravat 
+
+## 31/01/21 13:04 to 14:29, I'm back. Let's try this from the top. 
+* Learning about Cntl-O in vim insert mode, it's quite the key saver
+* Started a major rewrite, almost from scratch, of the first example in the tree chapter. I feel like I'm going to be here for a while.  
+
+I think I want a bit of a break, but what's the next action. 
+
+Next action is start again with the wriing at line 2010. This one is a slog.  
+
+
+## 01/02/21 06:50, 
+Ten thousand facebook hits feels like a lot. A lot.  
+
+## 01/02/21 07:17 to 08:01, Delores
+* Now doing the notebooks and the reminders
+* Hey, found some urgent STUFF. 
+* Now notebook, which was empty. Cool 
+
+## 01/02/21 08:12 to 11:34, today I'd like to do a 'washington run through' which means I touch every time before I stop at... 11:30.  
+* Didn't manage it, but did a really solid morning of ticking bits off. Lots got moved forward, lots got done, lots of STUFF got dumped. 
+
+
+
+## 12/02/21 20:38 to 21:23, Memory book. 
+It's been almost two weeks since I worked on this. Going to have to probably start from the start of the tree chapter again
+
+Just rewriting from the start 
+
+## 12/02/21 21:23, 
+This chapter is hard. Make it more honest: 
+I don't use this for family trees, and I suggest you don't because I don't know which of these are siblings, but I can make a point about balanced trees.  
+  
+
+## 16/02/21 08:01 to 08:50, Email day! 
+
+## 16/02/21 08:54 to 09:25, Sorted out a review system. It was silly. 
+* It turns out that I haven't effectively reviewed work emails for a long time 
+## 16/02/21 09:25 to 09:46, Personal Inbox Done 
+## 16/02/21 09:46 to 10:57, working on +EQT inbox. 
+## 16/02/21 15:27 to 17:00, Reading a paper and taking part in the group. 
+I've written up my notes at ../_posts/2021-02-19-Paper-reading---Layers-of-Silence.markdown
+
+## 17/02/21 08:04 to 08:38, Just facebook and +faff
+
+## 18/02/21 07:43 to 08:38, Writing the fear blog +EQT 
+## 18/02/21 09:00 to 10:10, Fake news meeting +EQT 
+## 18/02/21 11:30 to 12:00, Fake news meeting +EQT with domain expert
+
+
+
+## 19/02/21 05:13 to 05:28, Clearing out Personal Inbox 
+## 19/02/21 05:28 to 05:57, Now clearing out work inbox. 
+
+## 19/02/21 05:57 to 06:30, working on this file. 
+Which involved: 
+* Deciding to write a blog post 
+  * Wanting to change the colours on an ssh 
+    * Downloading a new terminal app. 
+Sigh. 
 
 
 
