@@ -1708,17 +1708,152 @@ That's probably enough.
 
 
 
-## 19/02/21 10:19, You can use 'git stash clear' to clear stashes  
+## 19/02/21 10:19 to 10:27, Clearing up my git repos
+* You can use 'git stash clear' to clear stashes  
+* I've also been setting upstreams and STUFFj k:w
+* Okay, the git is all nicely organised, that's nice. 
+
+I would be nice to do some Mouse Sniper work. That starts by putting the mouse in the box and finding the first THING I have a problem with. 
+
+
+## 19/02/21 10:35 to 11:12, (E) Write a python script for 'commands in this time window'
+19/02/21 10:35, git clone http://github.com/joereddington/watson
+19/02/21 10:58, pip3 install icalendar
+* Converted to python3
+* SE pointed out that I should read the .bash_history rather than the output of the history command.  
+* Had the wrong branch for a while and tests were failing.
+This might be a nice way of doing this. 
+
+## 19/02/21 14:10 to 14:59, Working on the new watson 
+I've discovered the annoying fact that this WON'T work on public because I didn't set up the history problems 
+
+## 22/02/21 06:25 to 07:22, +EQT 
+Getting a bit of a panic on working on WWW STUFF 
+* Got a desktop glow account 
+* Found out that thunderbird doens't write to mac contacts
+* Found out that amazon buisness accounts post to lockers 
+
+## 22/02/21 07:23 to 07:36, Review child protection policies
+## 22/02/21 07:36 to 07:45, Been doing some git and so on work. 
+
+
+## 22/02/21 07:47, Okay, DELORES 
+
+## 22/02/21 08:50 to 09:34, Delores
+* including testing out the command reader for the first time, is good for showing the more work. 
+* Completely lost the last ten minutes. 
+* Okay, any blogs I can write? No, NOT really. Well, yes, the risotto one... 
+* Lot's of faff. 
+
+## 22/02/21 09:34, (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+## 22/02/21 09:44 to 10:20, (B) Send Sarah the lists of payments.  +EQT
+* The users are reddingtont and joereddington
+* I've got a list of payments. 
+* I am using tags. It's okay.  
+* There is now a report in quickbooks. 
 
 
 
+## 22/02/21 10:30 to 10:40, Wrote update for Sarah +EQT
+
+## 22/02/21 10:40 to 10:56, Fafffing with config. 
+* Learned that C-W-r rotates splits 
+* Made a new macro for opening urls 
+
+## 22/02/21 10:57 to 11:17, (C Google Ads Volunteer) Make this a proper form on google analytics https://www.theopenvoicefactory.org/upload_board.html +EQT
+Did lots of thinking and ended up with this: https://github.com/eQualityTime/Public/issues/119, which is probably going to take an hour and then some.  
+
+## 22/02/21 11:19 to 11:44, (C Kat Facebook) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+I rewrote https://github.com/joereddington/Projects-Public/issues/43 
+
+## 22/02/21 11:44 to 11:46, Messages
+I'm going to check the stairgate
+
+## 22/02/21 11:53, (C Kat) 30 Work out goals for the year.  @private
+Well, glad we ran out of time here! 
+
+## 22/02/21 11:54, Small social media before locking phone away
+
+## 22/02/21 20:28 to 20:49, Moving the vim file before I go to bed and read book.  
+22/02/21 20:29, /Users/Shared/git/multi-git-status/mgitstatus
+22/02/21 20:31, ln -s /Users/Shared/git/.vim/vimrc ~/.vimrc
+22/02/21 20:46, cp ~/.bash_profile /Users/Shared/bash_profile
+
+Hmm, working except for THINGs like folding
+
+
+## 23/02/21 06:05 to 06:13, Going on line for emails 
+Used these commands to generate a ssh key for github, that was interesting
+23/02/21 06:10, ssh-keygen -t ed25519 -C "joe.reddington@gmail.com"
+23/02/21 06:12, pbcopy < ~/.ssh/id_ed25519.pub
+
+
+## 23/02/21 06:14 to 06:34,  Partner and child
+
+## 23/02/21 06:36 to 06:58, Work inbox cleared out, that was quick and cool. 
+
+Wait, I should be checeking the damn calendar
+
+
+## 23/02/21 07:08 to 07:31, emailed trusteses +EQT 
+
+Emailing the trustees. 
+
+## 23/02/21 07:31 to 07:38, Sorting out calendar 
+
+## 23/02/21 07:59, gratitude
+
+## 23/02/21 08:38, Writing influence THING
+
+## 23/02/21 10:41, Just back from run 
+
+## 23/02/21 14:02, Funder intergview. j
+
+840 applications 
+
+Send the finance report. 
+
+Two pilots per year. 
+
+## 23/02/21 21:51 to 22:00, Looked at email to get me in the right mood. 
+
+## 23/02/21 22:10 to 22:27, Writing the targets +EQT 
+
+## 23/02/21 22:27 to 23:37, Building a comic layout
+Working on this: https://github.com/joereddington/Projects-Public/issues/45#issuecomment-784919304
+
+
+## 24/02/21 07:54 to 08:06,  Sending the +EQT emails 
+* Including forwarding them to gemma
+
+## 24/02/21 08:09 to 08:40, let's three picture story
+* Mum called in the middle of it
+* Interesting THING about when the top of the image is hidden under the text - I an move it down with top:30px or so, but that causes it's own problem.  Probably worth talking about
+* I'm putting image css in the images, and that's probably NOT best practice. 
 
 
 
+## 24/02/21 08:44 to 09:00, I have a three panel layout. Let's do some commiting and so on
+* I have commited and the gh-pages should be at: https://joereddington.github.io/Comics/
+* Updated the logs 
+* I'd like to try that link 
 
+
+## 24/02/21 09:12, More comic
+* With the aid of https://medium.com/@ricardozea/sass-for-beginners-the-friendliest-guide-about-how-to-install-use-sass-on-windows-22ff4a32c1f7 I'm playing with scss, but I've more been generting the css to play with
+
+## 24/02/21 09:18, Can't get it to work, going out. 
+## 24/02/21 20:32 to 21:31, Lets try something else.   
+* The github pages site works! 
+* I also managed to insert it into the main joereddington page for a blog! 
+
+
+ 
 
 
 # Stack 
-* Move .vim to /User/Shared (if that's possible)  
-* Move memorybook to /UserShared 
+* Investigate the folding plugin NOT working. 
+* Write fore grant blog post
+* Do DELORES 
+
 
