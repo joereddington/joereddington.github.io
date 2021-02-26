@@ -1792,9 +1792,6 @@ Used these commands to generate a ssh key for github, that was interesting
 
 ## 23/02/21 06:36 to 06:58, Work inbox cleared out, that was quick and cool. 
 
-Wait, I should be checeking the damn calendar
-
-
 ## 23/02/21 07:08 to 07:31, emailed trusteses +EQT 
 
 Emailing the trustees. 
@@ -1807,53 +1804,25 @@ Emailing the trustees.
 
 ## 23/02/21 10:41, Just back from run 
 
-## 23/02/21 14:02, Funder intergview. j
-
-840 applications 
-
-Send the finance report. 
-
-Two pilots per year. 
-
+## 23/02/21 14:02 to 15:00, Funder interview for Fore Grant +EQT
 ## 23/02/21 21:51 to 22:00, Looked at email to get me in the right mood. 
+## 23/02/21 22:10 to 22:27, Writing targets for Fore Grant +EQT 
 
-## 23/02/21 22:10 to 22:27, Writing the targets +EQT 
-
-## 23/02/21 22:27 to 23:37, Building a comic layout
-Working on this: https://github.com/joereddington/Projects-Public/issues/45#issuecomment-784919304
+## 23/02/21 22:27 to 23:37, Comic https://github.com/joereddington/Projects-Public/issues/45#issuecomment-784919304
 
 
 ## 24/02/21 07:54 to 08:06,  Sending the +EQT emails 
 * Including forwarding them to gemma
 
-## 24/02/21 08:09 to 08:40, let's three picture story
-* Mum called in the middle of it
-* Interesting THING about when the top of the image is hidden under the text - I an move it down with top:30px or so, but that causes it's own problem.  Probably worth talking about
-* I'm putting image css in the images, and that's probably NOT best practice. 
+## 24/02/21 08:09 to 08:40, Comic https://github.com/joereddington/Projects-Public/issues/45
+## 24/02/21 08:44 to 09:18, Comic https://github.com/joereddington/Projects-Public/issues/45
+## 24/02/21 20:32 to 21:31, Comic https://github.com/joereddington/Projects-Public/issues/45
 
-
-
-## 24/02/21 08:44 to 09:00, I have a three panel layout. Let's do some commiting and so on
-* I have commited and the gh-pages should be at: https://joereddington.github.io/Comics/
-* Updated the logs 
-* I'd like to try that link 
-
-
-## 24/02/21 09:12, More comic
-* With the aid of https://medium.com/@ricardozea/sass-for-beginners-the-friendliest-guide-about-how-to-install-use-sass-on-windows-22ff4a32c1f7 I'm playing with scss, but I've more been generting the css to play with
-
-## 24/02/21 09:18, Can't get it to work, going out. 
-## 24/02/21 20:32 to 21:31, Lets try something else.   
-* The github pages site works! 
-* I also managed to insert it into the main joereddington page for a blog! 
-
-
- 
+## 26/02/21 08:18 to 08:22, Rewriting this file. 
 
 
 # Stack 
 * Investigate the folding plugin NOT working. 
 * Write fore grant blog post
 * Do DELORES 
-
 
