@@ -432,6 +432,22 @@ Including working out the Dropbox sizes and calling mum about sorting the folder
 * it's the Ubuntu one - I'm sort of inspired to start using my laptop for more work and THINGs. It can be a streaming machine without much effort. 
 
 ## 05/10/20 19:56 to 20:49, Personal todo list time. 
+
+
+## 06/10/20 07:49 to 11:33, Working on book 
+
+Installing Latex and doing a test creation: the cover turned out to be not ideal. 
+
+Wrote some notes that ended up in https://joereddington.github.io/2020/12/19/book-update.html 
+
+Nice big jobs 
+* Index 
+* Fixing the tables 
+* Fixing the rest of the references that are pottering around. 
+
+## 06/10/20 14:38 to 15:28, Working on memory book,
+* Ordered a new paper copy
+
 ## 07/10/20 19:31 to 21:04, +EQT meeting 
 ## 08/10/20 09:36 to 11:44, +EQT email
 
@@ -788,6 +804,8 @@ Still doing
 ## 03/12/20 08:51 to 10:07, Preping for Not EQual meeting +EQT 
 ## 03/12/20 20:20 to 20:59, Preping for Not EQual meeting +EQT 
 
+## 04/12/20 05:00 to 06:05, Working on fake poeple fake news +EQT 
+
 ## 07/12/20 13:38 to 13:55, Writing blog. +EQT 
 
 ## 12/12/20 13:05 to 13:37, Working on the list. 
@@ -993,6 +1011,11 @@ Let's do the todo.
 * Valitate Day deadline  
 * Sort out emotional risk assessment. 
 
+
+
+
+## 12/01/21 11:17 to 11:49, Doing the media trust. +EQT
+
 ## 13/01/21 19:56 to 20:04, Writing introduction for networking event.
 
 Alright people, let's do this one last time. My name is Joe Reddington. I was a postdoc and then I was bitten by a radioactive nonprofit. And for the last seven years I've been running the one and only eQuality Time. 
@@ -1038,6 +1061,9 @@ grep "2[0123]:.." history.html | sed 's/<li> ..:.. //g' |  sort | uniq -c | sort
 
 ## 17/01/21 13:42 to 13:54, Here to tidy up. 
 * Done the public account 
+
+## 17/01/21 14:20 to 14:32, Tidying filesystem on joepublic 
+## 17/01/21 16:39 to 16:48, Tidying Filesystem on Laptop. 
 
 ## 17/01/21 19:48 to 19:58, Enjoying fixing a git bug. 
 
@@ -1284,8 +1310,8 @@ Did several, quite happy
 ## 01/02/21 12:55 to 13:13, (A) 10 Set up a paypal buisness acount at https://www.paypal.com/bizsignup/  +EQT @private
 I keep running into an unhelpful error message
 
-## 02/02/21 06:19 to 07:17, I'm still going with +EQT emails 
-
+## 02/02/21 05:09 to 05:38, Doing email. 
+## 02/02/21 05:38 to 07:17, Work +EQT email 
 
 ## 02/02/21 07:18 to 07:55, Editing photos to do the gratitude. 
 Wrote this post: https://joereddington.github.io/2021/02/02/Gratitude.html 
@@ -1727,6 +1753,28 @@ This might be a nice way of doing this.
 ## 19/02/21 14:10 to 14:59, Working on the new watson 
 I've discovered the annoying fact that this WON'T work on public because I didn't set up the history problems 
 
+## 20/02/21 16:14 to 16:26, Working on vim command history
+
+## 21/02/21 06:38 to 07:12, I'm working on the vim command history
+Commands of interest:
+21/02/21 06:48, python3 command_list.py "## 21/02/21 06:37 to 07:32,  Worki"
+21/02/21 06:51, vim command_list.py
+
+Actions: 
+* I've updated the local vim to match master and added a missing plugin
+* I've added the ability to be called from the command line to python
+* I've run HISTTIMEFORMAT="%d/%m/%y %T " and that appeared to have had an effect on the laptop. 
+* I've found out that history doesn't include repeated commands 
+* I used  r !python3 git/watson/command_list.py "## 21/02/21 06:37 to 07:32,  Worki" which worked from the command line. 
+* I've found out that the ": is the expression register
+* I've written the lnc command which inserts the commands relabily, but it's using hardcoded data (and currently whipes the clipboard.
+
+
+## 21/02/21 07:12 to 07:21, Updating this file 
+* Rewrote the notes 
+* Added the register use to lnc
+* Commiting 
+
 ## 22/02/21 06:25 to 07:22, +EQT 
 Getting a bit of a panic on working on WWW STUFF 
 * Got a desktop glow account 
@@ -1818,8 +1866,11 @@ Emailing the trustees.
 ## 24/02/21 08:44 to 09:18, Comic https://github.com/joereddington/Projects-Public/issues/45
 ## 24/02/21 20:32 to 21:31, Comic https://github.com/joereddington/Projects-Public/issues/45
 
-## 26/02/21 08:18 to 08:22, Rewriting this file. 
+## 25/02/21 20:20 to 20:44, Checking +EQT tasks
+* Just peacefully tidying
 
+## 26/02/21 08:18 to 08:32, Rewriting this file. 
+And bringing in logs from +EQT
 
 # Stack 
 * Investigate the folding plugin NOT working. 
