@@ -1847,12 +1847,60 @@ Working on this: https://github.com/joereddington/Projects-Public/issues/45#issu
 * The github pages site works! 
 * I also managed to insert it into the main joereddington page for a blog! 
 
+## 24/02/21 21:50, Okay, so that was all quite exciting. Let's see what the next bits are: 
+* The cover 
+* Extracting photos to instagram  
+* This looks awesome https://softwarerecs.stackexchange.com/a/50279/70551 
 
+## 24/02/21 21:56, 
+http://kb.mozillazine.org/Command_line_arguments can now run headless mode
+
+https://dev.webonomic.nl/how-to-run-firefox-headless-and-make-a-screenshot
+
+(It's probably going to be easist to screenshot and post, but that's annoying. 
  
 
 
+## 25/02/21 08:05 to 08:07, Here. Quick confirm of the email +EQT
+
+## 25/02/21 08:07 to 08:27, because I want to
+* I've made a reasonable start on the cover, but now I need to properly enguage wit refactoring it so that THINGs are only said once. 
+
+
+## 25/02/21 09:00 to 10:00, +EQT meeting 
+
+Was fun 
+
+
+## 25/02/21 10:10, 
+* Found out that you can use variables in css: https://www.w3schools.com/css/css3_variables.asp That's cool. 
+* Got a way of automatically generating the QR codes
+* The cover is pretty done.  
+* Now to push and see what it looks like on the phone
+  * It looks bad. Which is annoyign. 
+* Ah, it also looks bad on chrome Same issue 
+* And safari, okay, this looks persistent
+## 25/02/21 08:27, I've made a reasonable star
+
+
+
+## 25/02/21 19:32 to 19:43, Turns out you can do a global ignore 
+25/02/21 19:42, git config --global core.excludesFile '/Users/Shared/git/.gitignore'
+
+## 26/02/21 04:24 to 05:34, Got slides to do +EQT
+Did the slides 
+
+## 26/02/21 05:35 to 05:51,  I have done the email.
+
+## 26/02/21 06:02, Okay, dangerously close to faffing
+
+## 26/02/21 06:42 to 06:53, but can I do the history
+
+
 # Stack 
-* Investigate the folding plugin NOT working. 
+* Weight self
+* Push/pull todo.txt 
+* Email trustees
 * Write fore grant blog post
 * Do DELORES 
 
