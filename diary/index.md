@@ -1877,3 +1877,43 @@ And bringing in logs from +EQT
 * Write fore grant blog post
 * Do DELORES 
 
+## 26/02/21 13:35 to 14:08, Try the history export
+* Okay, ~/.mozilla/firefox/45rq5ecl.default/places.sqlite databases/ is the location 
+* It takes 179 seconds to run
+* After profiling, it turns out that it's all in the listcomp function. I took that out (I don't need it) and it drops to 16 seconds. 
+
+
+## 26/02/21 15:05 to 15:25, History export again 
+* Don't really feel good enough at python to optimise much futher. 
+* Eventually realised that what I want is actually a function that passes the dates to SQL 
+* This looks useful https://gist.github.com/floriancargoet/2022422
+
+## 26/02/21 21:10 to 21:54, History export again 
+I've got a working command line function.
+* It's hacky. Like, it feels really hacky. 
+* It's pushed to the repo.  
+* I decided to move the relevent code to watson
+
+## 28/02/21 07:17 to 07:30,working on https://github.com/eQualityTime/Public/issues/120 +EQT
+
+## 28/02/21 07:31 to 08:26, Flowers for Turing site. +EQT
+I was happy to find that I'd already made a site, also that some of the images weren't on the wordpress site at all - they were linking to old images from my CS website- that would have been sad to lose. 
+
+I installed Jekyll from https://jekyllrb.com/docs/ - it gets easier every time.
+
+I decided to make the existing content into blog posts. They are events that happen on a date.  I moved over the 2013 post (which is probably the longest and most complicated) and the FAQ 
+
+
+Started using some cool commands to copy accross images 
+
+wget -i `wget -qO- http://www.flowersforturing.equalitytime.co.uk/?page_id=3903 | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'`
+
+That one was quite cool, I'll be using that again for the other pages.   
+
+It needs maybe another hour, two, to move accross the rest of the pages and so on. Then I ask for proofreadin.
+
+
+## 01/03/21 07:30 to 07:38, Tidying this file. 
+
+
+
