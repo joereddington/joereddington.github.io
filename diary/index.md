@@ -804,7 +804,7 @@ Still doing
 ## 03/12/20 08:51 to 10:07, Preping for Not EQual meeting +EQT 
 ## 03/12/20 20:20 to 20:59, Preping for Not EQual meeting +EQT 
 
-## 04/12/20 05:00 to 06:05, Working on fake poeple fake news +EQT 
+## 04/12/20 05:00 to 06:05, Working on fake people fake news +EQT 
 
 ## 07/12/20 13:38 to 13:55, Writing blog. +EQT 
 
@@ -1543,8 +1543,6 @@ Which involved:
     * Downloading a new terminal app. 
 Sigh. 
 
-# Stack 
-* Get richard a label maker 
 
 
 
@@ -1554,26 +1552,6 @@ Sigh.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-||||||| 5df3f22
-=======
 ## 28/01/21 07:40 to 08:53, (B) One hour simple writer on book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 * I have reached the linked list chapter 
 * Updating the pdf - I've reached page 49 of the text. 
@@ -1866,16 +1844,44 @@ Emailing the trustees.
 ## 24/02/21 08:44 to 09:18, Comic https://github.com/joereddington/Projects-Public/issues/45
 ## 24/02/21 20:32 to 21:31, Comic https://github.com/joereddington/Projects-Public/issues/45
 
+## 24/02/21 21:56, 
+http://kb.mozillazine.org/Command_line_arguments can now run headless mode
+https://dev.webonomic.nl/how-to-run-firefox-headless-and-make-a-screenshot
+
+## 25/02/21 08:05 to 08:07, Here. Quick confirm of the email +EQT
+
+## 25/02/21 08:07 to 08:27, because I want to
+* I've made a reasonable start on the cover, but now I need to properly enguage wit refactoring it so that THINGs are only said once. 
+
+## 25/02/21 10:10, 
+* Found out that you can use variables in css: https://www.w3schools.com/css/css3_variables.asp That's cool. 
+* Got a way of automatically generating the QR codes
+* The cover is pretty done.  
+* Now to push and see what it looks like on the phone
+  * It looks bad. Which is annoyign. 
+* Ah, it also looks bad on chrome Same issue 
+* And safari, okay, this looks persistent
+
+
 ## 25/02/21 20:20 to 20:44, Checking +EQT tasks
 * Just peacefully tidying
 
+## 25/02/21 09:00 to 10:00, +EQT meeting 
+
+## 25/02/21 19:32 to 19:43, Turns out you can do a global ignore 
+25/02/21 19:42, git config --global core.excludesFile '/Users/Shared/git/.gitignore'
+
+## 26/02/21 04:24 to 05:34, Got slides to do +EQT
+Did the slides 
+
+## 26/02/21 05:35 to 05:51,  I have done the email.
+
+## 26/02/21 06:02, Okay, dangerously close to faffing
+
+## 26/02/21 06:42 to 06:53, but can I do the history
+
 ## 26/02/21 08:18 to 08:32, Rewriting this file. 
 And bringing in logs from +EQT
-
-# Stack 
-* Investigate the folding plugin NOT working. 
-* Write fore grant blog post
-* Do DELORES 
 
 ## 26/02/21 13:35 to 14:08, Try the history export
 * Okay, ~/.mozilla/firefox/45rq5ecl.default/places.sqlite databases/ is the location 
@@ -1914,6 +1920,4 @@ It needs maybe another hour, two, to move accross the rest of the pages and so o
 
 
 ## 01/03/21 07:30 to 07:38, Tidying this file. 
-
-
 
