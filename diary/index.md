@@ -1963,8 +1963,103 @@ We'll have to work backwards from what has been paid
 
 Uggh. 
 
+## 02/03/21 11:54, Finally done with email 
+
+## 02/03/21 13:58, Baby asleep what shall I do? 
+* I have sorted out the phoen automation. 
+
+## 02/03/21 14:18 to 14:24, conversaion goals would be interesting
+* I want to sort out a conversion coal for 
+  * Open Voice Factory
+  * White Water Writers.
+
+I'm doing the WWW one because it's a bit easier (a lot easier) - I've copied and pasted in the code and I've added the conversion
 
 
+## 02/03/21 16:12, Listening to the meeting 
+* The quote I copy pasted was "In effect, the guide’s ‘users’ are askedto reimagine their life as an asset management systemwith inputs and outputs" 
+* I also liked the switch from miliary to self care I enjoyed hat
+* I'm still digesting it 
+
+
+## 02/03/21 21:07 to 21:18, Reconsilation +EQT
+Okay, reconcilation has been done!J
+TODO: 
+* Check the remaining bills 
+* Go through the invoices  
+  * Including fixing the paypal ones. 
+* next action: make the bills and unity match
+* Review all the double authenticated payments
+
+For the blog: 
+* It's nice to do everything monthly. Reconcile with the bank, put up all the payments, check (and chase) all the invoices. 
+* We've now got a paypal account, which I'm nervous about because PayPal doens't allow multiple approval, but it was the only way to take in bills.
+
+## 02/03/21 21:26 to 21:29, Process tweetdeck 
+
+
+## 03/03/21 05:52 to 07:04, Dealing with the accounts
+* I've evidenced all the transations and messaged the treasurer
+* I've writen a blog https://equalitytime.co.uk/6505/2021/03/03/finace-upgrades/ 
+* The invoices are broadly in order
+* Traced various payments right through the system. It was quite fun. Although I did have to look in Quickbooks, unity, Dropbox, Google Drive and Gmail.  
+
+## 03/03/21 07:15, Processing Tweet deck  
+
+## 03/03/21 07:18 to 08:11, ready for the first proper facebook process.
+Almost an hour? Wow - That was: 
+1 post in main
+1 post in vegan
+1 post in Charity CEos 
+A review of the vegan group
+A review of the charity group
+Replying to all the comments 
+Working through the feed - 
+
+* I Didn't even do posts for the WWW and EQT pages 
+
+That's certainly a more thorough way of doing it, and I probably got more out of it. And it's probably more time-efficient if I don't look again. But Wow.  
+
+
+## 03/03/21 09:53, Doing a review
+
+
+## 03/03/21 07:58 to 08:11, so I think that's probably enought right. Did all the groups. Oh the feed. 
+Properly done all of it 
+
+## 03/03/21 20:01 to 21:20, Prep for meeintg, meeting, and fixing a domain expert problem +EQT
+
+## 04/03/21 06:01 to 06:04,(A) Sign the damn contract +EQT
+No, don't sign the contract - I'm now going to invoice Glasgow! 
+
+## 04/03/21 06:06 to 06:25, Wrote a blog about furlough +EQT
+Let's have a look. 
+
+ 
+## 04/03/21 06:43, (C) Write expense form for 22/2/21 books +EQT @private
+* This is one of those tasks 
+* Moving the file into drive. 
+
+## 04/03/21 07:06, Apply online for work from home tax relief
+https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online
+
+"We couldn't confirm your identity" will try again another day
+
+## 04/03/21 07:07, The two big THINGs I want to sort before my meeting are running and social media. Although I supose I could push the social media until afterwards
+
+## 04/03/21 07:16, I don't even know where I would have stored expenses
+* It's in the very very big file. Did we move that over to Drive or is it still in Excel 
+
+## 04/03/21 07:26, I'm going to take a break for some photo editing and blogging
+
+So, what would make this a super solid day? 
+* One process of social media 
+* Good meeting 
+* Run 
+* Blog 
+* Brainstorm 
+* Doing all the birthday cards
+* Something cool with the children
 
 
 
@@ -1975,5 +2070,9 @@ Uggh.
 
 
 # Stack
+* Write post about dinner 
 * Change zoom level on vim by default. 
 * Find out what happened to the syntax highlighting for todo
+
+
+
