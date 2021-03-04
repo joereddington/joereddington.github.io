@@ -1883,22 +1883,11 @@ Did the slides
 ## 26/02/21 08:18 to 08:32, Rewriting this file. 
 And bringing in logs from +EQT
 
-## 26/02/21 13:35 to 14:08, Try the history export
-* Okay, ~/.mozilla/firefox/45rq5ecl.default/places.sqlite databases/ is the location 
-* It takes 179 seconds to run
-* After profiling, it turns out that it's all in the listcomp function. I took that out (I don't need it) and it drops to 16 seconds. 
+## 26/02/21 13:35 to 14:08, Working on https://github.com/joereddington/Projects-Public/issues/9 
 
+## 26/02/21 15:05 to 15:25, Working on ## 26/02/21 13:35 to 14:08, Try the history export
 
-## 26/02/21 15:05 to 15:25, History export again 
-* Don't really feel good enough at python to optimise much futher. 
-* Eventually realised that what I want is actually a function that passes the dates to SQL 
-* This looks useful https://gist.github.com/floriancargoet/2022422
-
-## 26/02/21 21:10 to 21:54, History export again 
-I've got a working command line function.
-* It's hacky. Like, it feels really hacky. 
-* It's pushed to the repo.  
-* I decided to move the relevent code to watson
+## 26/02/21 21:10 to 21:54, Working on https://github.com/joereddington/Projects-Public/issues/9 
 
 ## 28/02/21 07:17 to 07:30,working on https://github.com/eQualityTime/Public/issues/120 +EQT
 
@@ -1919,5 +1908,72 @@ That one was quite cool, I'll be using that again for the other pages.
 It needs maybe another hour, two, to move accross the rest of the pages and so on. Then I ask for proofreadin.
 
 
-## 01/03/21 07:30 to 07:38, Tidying this file. 
+## 01/03/21 07:30 to 08:15, Tidying this file. 
+So much faff, using tools that are actually meant to help. 
 
+## 01/03/21 08:15, Okay, MAYBE now we can get started? 
+
+No, running now. then coming back to fix other THINGs 
+
+
+
+## 01/03/21 10:42 to 10:43, 
+First action, update the todo list.
+
+
+## 01/03/21 10:51, (C Kat) Get tape measure to Measure stairgate for custom install. 
+
+## 01/03/21 10:53, (C Kat) Phone dentist (number in phone) to make appointment
+ 
+Wed 31st March 9:10
+
+## 01/03/21 10:54, (C Kat) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+
+
+## 01/03/21 10:59 to 11:49, I'm going to try and fix the www site +EQT
+The problem was that the plugin used to generate the pages isn't gituhb friendly, so I'm building locally and pushing the site in the docs directory. 
+
+I fixed the issues with the pages and improved the css. There is more to do but I'm happy with it.  
+
+
+## 01/03/21 14:08 to 14:25, Start of stream again (D Google Ads Volunteer) 30 Write a supertitle landing page @eqt 
+So the problem with this is that a supertitle landing page means that the project page gets broken up. 
+
+There's some other problems with the project page: 
+* White Water Writers doesn't have posts listed with it. 
+* I think this boils down to 'implement the issues raised by the google ad words people. 
+
+
+## 02/03/21 06:39 to 08:40, Processing personal email. 
+
+## 02/03/21 08:40 to 08:40, Doing a single +EQT email
+
+## 02/03/21 08:50 to 09:28, Doing gratitude 
+Wow! That took a while. 
+
+## 02/03/21 09:30 to 09:45, now the work email. 
+## 02/03/21 09:45, Four left, but they are all hard. 
+
+## 02/03/21 09:54, Trying to find D's payslip 
+
+## 02/03/21 09:59, Sigh, Nothing matches
+We'll have to work backwards from what has been paid 
+
+## 02/03/21 10:42 to 10:57, suddnely NOTemail 
+
+Uggh. 
+
+
+
+
+
+
+
+
+
+
+
+
+# Stack
+* Change zoom level on vim by default. 
+* Find out what happened to the syntax highlighting for todo
