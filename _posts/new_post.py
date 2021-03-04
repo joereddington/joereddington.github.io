@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
     with open(file_name, "w+") as file:
         file.write(TEMPLATE.format(title))
-    print file_name
+    print(file_name)
 
 
 # from https://benjamincongdon.me/blog/2016/03/21/Jekyll-New-Post-Script/
