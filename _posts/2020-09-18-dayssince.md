@@ -18,6 +18,7 @@ add_to_list("Kat Vegan",'2016-03-19');
 add_to_list("Relationship length",'2014-12-31');
 //add_to_list("Juice",'2014-06-24');
 add_to_list("Nova",'2018-01-26');
+add_to_list("Leo",'2020-05-03');
 add_to_list("Stopped being sick",'2020-01-14');
 add_to_list("Klout",'2014-04-28');
 add_to_list("Cold Showers",'2019-02-22');//date messaged Pete about it
