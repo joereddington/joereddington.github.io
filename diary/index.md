@@ -1686,7 +1686,7 @@ Which involved:
     * Downloading a new terminal app. 
 Sigh. 
 
-## 19/02/21 08:22 to 08:55, Live working on book.
+## 19/02/21 08:22 to 08:55, Live working on memory book book.
 I believe I've solved the first example.  
 I'm still missing a couple of good examples, particularly around sorting. I might do years.  
 Years of books?  Create a tree with the years that fictional books are set in. What is the point? Simple to construct, relatively easy to write out a list of 'nearby' dates (split long books into several parts)
@@ -2004,7 +2004,8 @@ For the blog:
 * The invoices are broadly in order
 * Traced various payments right through the system. It was quite fun. Although I did have to look in Quickbooks, unity, Dropbox, Google Drive and Gmail.  
 
-## 03/03/21 07:15, Processing Tweet deck  
+## 03/03/21 07:15 to 07:18, Processing Tweet deck  
+Tweetdeck turns out to NOT take very long
 
 ## 03/03/21 07:18 to 08:11, ready for the first proper facebook process.
 Almost an hour? Wow - That was: 
@@ -2020,59 +2021,62 @@ Working through the feed -
 
 That's certainly a more thorough way of doing it, and I probably got more out of it. And it's probably more time-efficient if I don't look again. But Wow.  
 
-
-## 03/03/21 09:53, Doing a review
-
-
-## 03/03/21 07:58 to 08:11, so I think that's probably enought right. Did all the groups. Oh the feed. 
-Properly done all of it 
-
-## 03/03/21 20:01 to 21:20, Prep for meeintg, meeting, and fixing a domain expert problem +EQT
-
-## 04/03/21 06:01 to 06:04,(A) Sign the damn contract +EQT
-No, don't sign the contract - I'm now going to invoice Glasgow! 
-
-## 04/03/21 06:06 to 06:25, Wrote a blog about furlough +EQT
-Let's have a look. 
-
+## 03/03/21 20:01 to 21:20, Prep for meeting, the meeting, and fixing a domain expert problem +EQT
+Trustees are cool. 
+## 04/03/21 06:00 to 06:25, Wrote a blog about furlough +EQT
+* Also worked out that I don't have to sign the Glasgow contract yet
  
-## 04/03/21 06:43, (C) Write expense form for 22/2/21 books +EQT @private
+## 04/03/21 06:43 to 07:06, (C) Write expense form for 22/2/21 books +EQT @private
 * This is one of those tasks 
-* Moving the file into drive. 
+* Moving the expenses file into drive. 
 
 ## 04/03/21 07:06, Apply online for work from home tax relief
-https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online
+ https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online
 
 "We couldn't confirm your identity" will try again another day
 
-## 04/03/21 07:07, The two big THINGs I want to sort before my meeting are running and social media. Although I supose I could push the social media until afterwards
+## 04/03/21 07:26 to 08:04, Blogging
 
-## 04/03/21 07:16, I don't even know where I would have stored expenses
-* It's in the very very big file. Did we move that over to Drive or is it still in Excel 
+## 04/03/21 09:12 to 11:16, Fake news +EQT
+* Meeting and then sitting in on next meeting
 
-## 04/03/21 07:26, I'm going to take a break for some photo editing and blogging
+## 04/03/21 11:19 to 12:01, Social media
 
-So, what would make this a super solid day? 
-* One process of social media 
-* Good meeting 
-* Run 
-* Blog 
-* Brainstorm 
-* Doing all the birthday cards
-* Something cool with the children
+## 04/03/21 14:06, Okay, I working on the memory book. 
+* I appear to have lost my notes
 
+## 05/03/21 05:47 to 06:40, Working on Memory Book 
+I've set up the situation for the trees - It took a while. And there will be quite a few more hours involved. 
 
+## 04/03/21 21:39 to 22:00, Working on website +EQT
+* Rewrote most of the main page, removed a write for us page. 
+* Need to add a 'call for action' and rewrite the project pages. Maybe spin off everything else into it's own site.  
 
-
-
-
+## 05/03/21 06:58 to 07:06, Connecting Ads and Analytics +EQT 
+* Had to enable 2F authentication on the analytics account
 
 
+## 05/03/21 07:13, Rewriting this file 
+I should ask myself how many monthly visitors is worth me learning how Google Analytics works. A hundred a month? 
 
-# Stack
-* Write post about dinner 
-* Change zoom level on vim by default. 
-* Find out what happened to the syntax highlighting for todo
+Well, I'm getting 100 a day. So that's quite a lot, but I'm looking at the THINGs we're spending our google ad money on and it's hardly the right targeting
+
+I mean, I really want it the other way around - I want to get, say, 10 emails a week, and have the conversation work.  
+
+## 05/03/21 07:29, A 100 a day is enough. I'll need to get my analytics perfect.  
+
+## 05/03/21 07:31, Okay, I really would have liked to have written a blog so that I felt like I'd had a really good morning. But that can wait for today. 
+
+
+## 05/03/21 07:34 to 07:57, Social media
+* I reviewed the social media calendar. It looks much nicer. 
+Now tweetdeck
+* Been looking, but I'm NOT finding that much to respond to. Which is sort of nice right? Hmm.  Would be nice to have a post today. I'll do that leo shot   
+* Okay, that's that done then. Hmm. Nothing to scheule or anything. Got my book to focus on from now
+
+
+
+## 08/03/21 07:04, Clearing up. 
 
 
 
