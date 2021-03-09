@@ -2076,7 +2076,63 @@ Now tweetdeck
 
 
 
-## 08/03/21 07:04, Clearing up. 
+
+## 08/03/21 07:04 to 07:18, Clearing up. 
+* I think mouse sniper might NOT be workign because of the permissions on iterm
+  * Hmm, definately still works from terminals. I suspect restarting will fix it, but that can happen next time
+* Todo is up to date
+
+## 08/03/21 07:18 to 07:26, (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+Calendar is fine. 
+* Reminders.
+
+
+
+
+## 08/03/21 07:26 to 07:32, (A) Check Mozfest Schedule
+
+## 08/03/21 07:32 to 09:15, (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+Okay, well this is a THING that I really don't actually want to do, so I should do it.
+* The next action is to create the tree of the sorted books.
+* Well I'm definately filling up pages. 
+* May as well create the balanced tree before I go 
+* Okay now done? Is there one more THING I can quickly sort? Maybe finnish the in-order traveral? Oh go on.  
+* Quite pleased with this as a sprint.
+
+## 08/03/21 09:21 to 09:26, (C Kat) Pick some sessions on https://schedule.mozillafestival.org/schedule
+* Okay, I keep just opening it and that is it.  
+
+## 08/03/21 09:26 to 09:46, Just going through tasks now
+Done to 70. 
+
+
+## 08/03/21 09:46 to 10:36, Social Media Processing
+* Tweetdeck firs
+* Facebook was the rest. Mostly comments and then a lot of time trying to make sure that I've sucked every morcel of interet dry.  Need to be blogging first. Not as fun this way.  
+
+
+## 08/03/21 20:01, Doing some email before Mozfest 
+
+## 08/03/21 20:26, Trying to delete email
+
+## 09/03/21 06:30 to 06:45, Email 
+* Okay, but I should start actually doing it. 
+
+## 09/03/21 07:07, Fixed a quickbooks issue +EQT
+
+## 09/03/21 07:13, Ahggh-I'm halfway through like five tasks
+
+# Stack
+* Set up redirect for the baby advice aspect.  https://joereddington.com/6477/2018/06/28/saving-keystrokes-baby-advice..../ 
+* Get in contact with the mozfest peopl
+* Try the Mozfest Common Spaces
+* Find out if there is a mozfest facebook group - and to algorithm
+* Gather the +Garage tasks
+
+# Social 
+* Find out about mozfest facebook group
+* Gratitude post 
+* Edit photo of food  
 
 
 
