@@ -2111,28 +2111,165 @@ Done to 70.
 * Facebook was the rest. Mostly comments and then a lot of time trying to make sure that I've sucked every morcel of interet dry.  Need to be blogging first. Not as fun this way.  
 
 
-## 08/03/21 20:01, Doing some email before Mozfest 
-
-## 08/03/21 20:26, Trying to delete email
+## 08/03/21 20:01 to 20:45, Mozfest session
 
 ## 09/03/21 06:30 to 06:45, Email 
-* Okay, but I should start actually doing it. 
+* Mostly attempting to delete a lot of mail
 
-## 09/03/21 07:07, Fixed a quickbooks issue +EQT
+## 09/03/21 06:45 to 08:32, Work email +EQT
+* Including sorting out a 'begining balance off' issue in quickbooks
+* Putting invoices into banking
+* And fixing some other invoices
+* Now minutes
 
-## 09/03/21 07:13, Ahggh-I'm halfway through like five tasks
+## 09/03/21 08:32 to 11:13, Analytics course +EQT
+I went right through the Google Analytics for Beginners course at https://analytics.google.com/analytics/academy/ 
+* I'm now happy with Goals and setting up funnels. Also the connection of search consoles and Google Ad accounts
+* I like that I can annotate traffic
+* I like that I can now make links a lot more trackable with the URL builder  https://ga-dev-tools.appspot.com/campaign-url-builder/ 
+* I know a bit more about my own webpages - suprised by some THINGs. 
+  * My personal blog has a massive bounce rate. Massive. 
+* I have big plans to test a lot of this STUFF in anger on the FFT website
+* I think the next step is really that I do some work on the websites themselfs: 
+   * Adding calls to action and clear paths through on landing pages and popular ones.
+   * Fix the mobile usability on the EQT site
+   * OVF is getting traffic oganically quite well, we should look into why and why 
+* But there are direct analytics things to build
+   * Make sure that outbound links are tracked on the EQT website
+   * Set up a funnel for the OVF site to show how effective it is being.  (including how many of them are sucessful) 
 
-# Stack
-* Set up redirect for the baby advice aspect.  https://joereddington.com/6477/2018/06/28/saving-keystrokes-baby-advice..../ 
-* Get in contact with the mozfest peopl
-* Try the Mozfest Common Spaces
-* Find out if there is a mozfest facebook group - and to algorithm
-* Gather the +Garage tasks
+Got a certificate https://analytics.google.com/analytics/academy/certificate/LO54niEeTgqoX1Asax0ARA 
 
-# Social 
-* Find out about mozfest facebook group
-* Gratitude post 
-* Edit photo of food  
+## 09/03/21 11:17 to 11:40, Okay, social media processing 
+
+## 09/03/21 15:25 to 15:41, Stack
+
+
+## 09/03/21 15:42 to 16:30,(A) Mother's day card(S)
+Turning into game of house of books 
+
+## 09/03/21 16:34, Okay, that was good, that was a nice long sprint. Turned it around a bit there. What can I do with the last 25 minutes? 
+
+## 09/03/21 16:34 to 17:00, Flowers for Turing sites. +EQT
+* The Repo: https://github.com/eQualityTime/FlowersForTuring/
+* The github site: https://equalitytime.github.io/FlowersForTuring/
+* The main site: www.flowersforturing.equalitytime.co.uk/
+* I've cloned, and I'm running the bundle
+* But apparently I have to install some? What's this nonsense...?  
+
+* Thought I had a solution with the multiple index files, but no
+* Removed some spare images from the root
+* Trying the /docs method
+## 09/03/21 17:00, All the images are saved in the 2014 folder and I've created the post - I only need to put the page through the converter
+
+
+
+## 09/03/21 19:45 to 20:33, More on Turing Site +EQT
+* The text is in, now for the photos, although I want to really get the hang of the sizing
+* I'm sizing solely by html
+
+Okay, I've added, and commited, and I've got a bunch more posts to move accross. 
+I'm a bit suprised to find out that the general level of quality of the site is very poor. There are missing receipts and missing thank you and a wide range of other errors. Very poor.  
+
+Okay, it should be relatively simple to move the rest of the pages over. Some are very small indeed.   
+
+It was only 15 mintues to move the 2015 page, and probably could have been much faster.
+2016 will be quite long, 2017 will be near trivial 
+
+Lots of things to do once I've moved the posts over: 
+* Set up the paypal pool 
+* Set up the google analytics 
+* Rewrite the site to have a clear funnel
+  * What we do
+  * What happens to the money
+  * The order form/form if you'd like some news
+* Throw all the google ads money at it. 
+
+
+
+
+## 10/03/21 07:30 to 08:12, +EQT web work
+* Updated a theme for EQT site
+* Ordered a backup from dreamhost
+* editing the trustee page 
+* Fixed the Flowers for Turing upload issue
+
+##TODOs 
+* Get a mobile theme for eQuality Time site
+* Put self on the staff page
+
+FFT
+* Test theme on mobile
+* Fix all the images
+* Transport the rest of the pages
+* Add GA code 
+* Ask for design input
+* Work out what you want from a funnel 
+* So I'm looking at https://www.gosh.org/donate-our-appeal/ - and one THING that's clear there is that donation is a seperate page.  Click to donate, and then, 'how much would you like to donate?' and then gift aid 
+* Oh, hey, we have a proper pay pal THING now, we can accept money in any amount... 
+
+## 10/03/21 08:26 to 08:41, Okay social time. 
+Going 
+
+We're redoing our home office, and I really really want to build it around a massive bit of reclaimed wood as 
+
+## 10/03/21 08:41, I mean, is that going to be it... 
+
+* Could do with the photo of french toast on vegans of luton, but that can wait right. 
+* Also the streaming. 
+* Also the inbox
+
+
+## 10/03/21 10:18, (A) Send Yvonne an invoice for influencer times @private
+£200 is a start 
+
+## 11/03/21 06:28 to 06:44, Good morning  
+I'm going to take a moment to work on my personal site
+
+I want to reduce bounce rate. Which is currently... 79.87% over 30 days  
+
+The big landing pages are. 
+
+* Homepage 68%
+* Disability on facebook 74%
+* diswiki 76% 
+* Animaated pdfs 90% 
+
+
+So let's put a call to action on each of those.  (Disability on facebook would have to be updated)
+
+(Part of this might be finding out that some THINGs arn't acutally bounces - like if people go from my homepage to one of the joereddington.com links
+
+
+## 11/03/21 06:55, Briefly spent some time working on Google Tag manager, which it turns out I don't need
+
+Now trying https://support.google.com/analytics/answer/7478520?hl=en 
+
+## 11/03/21 07:05, Okay, so it turns out I already have events on outbound link?  but why doesn't anything else? 
+
+## 11/03/21 07:14, No - Joereddington.com has events on outbound links. joereddington.github.io doens't
+
+## 11/03/21 07:30, I think I've put in in 
+
+
+## 11/03/21 07:30, Okay, I've added (very small) calls to action to the two github pages. The other two need a serious rewrite.  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
 
 
 

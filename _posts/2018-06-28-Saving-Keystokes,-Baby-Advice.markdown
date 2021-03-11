@@ -50,7 +50,7 @@ Being me (Kat), I put together Excel spreadsheets of all the baby gear/hospital 
 
 * Mat leave - If you can, give yourself two weeks off before the baby comes - Even if they miss their due date, you’ll look back and treasure your last few days pre parenthood!
 * Life assurance - Something we never bothered with before kids, suddenly a very good idea! Also a will.
-* Nappies -  If you decide to try reusable nappies, definitely, definitely plan to still use disposable whatever was cheapest on eBay, but friends recommended little lamb and baba and boo. The n
+* Nappies -  If you decide to try reusable nappies, definitely, definitely plan to still use disposable whatever was cheapest on eBay, but friends recommended little lamb and baba and boo. 
 * Breast feeding/pumping -schedule If you unfortunately end up in a similar position to us with Leo and need to establish supply with a pumping schedule, there are hardly any good resources for this online.If you’re in a hospital, ask if there are any nurses experienced in bf support/lactation. They were a great source for me, and I’m obvs v happy to talk anyone through the schedule that worked for us.
 * Feeling like you’ve ‘got’ it - I didn’t feel like I was any good at breastfeeding, sleep or any of the billion things you have to learn with a baby until Nova was about 6 weeks old. Give yourself at least until then to just doggy paddle your way through everything. Parenthood is like learning a new language, and not everyone is an instant natural at it!
 * Breast pumps - If you’re planning on doing a lot of pumping, look into a hospital grade pump - they are waaaay more efficient. I’ve heard positive things about the Elvie pump too.
