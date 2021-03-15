@@ -2223,53 +2223,76 @@ We're redoing our home office, and I really really want to build it around a mas
 ## 10/03/21 10:18, (A) Send Yvonne an invoice for influencer times @private
 £200 is a start 
 
-## 11/03/21 06:28 to 06:44, Good morning  
+## 11/03/21 06:28 to 07:38, Attempting to reduce bounce rate on personal site
 I'm going to take a moment to work on my personal site
-
 I want to reduce bounce rate. Which is currently... 79.87% over 30 days  
 
-The big landing pages are. 
+The big landing pages and their bounce rates are. 
 
 * Homepage 68%
 * Disability on facebook 74%
 * diswiki 76% 
 * Animaated pdfs 90% 
 
+Two of those are on the old site and badly need a full rewrite, so I'll create a task for them, and put calls to action in the others. 
 
-So let's put a call to action on each of those.  (Disability on facebook would have to be updated)
+In an effort to track outbound links I also discovered that some sites already do (joereddington.com) but some don't (eqt, which I think I've fixed, and joereddington.github.io, which I hope I've fixed but only for one link) 
 
-(Part of this might be finding out that some THINGs arn't acutally bounces - like if people go from my homepage to one of the joereddington.com links
-
-
-## 11/03/21 06:55, Briefly spent some time working on Google Tag manager, which it turns out I don't need
-
-Now trying https://support.google.com/analytics/answer/7478520?hl=en 
-
-## 11/03/21 07:05, Okay, so it turns out I already have events on outbound link?  but why doesn't anything else? 
-
-## 11/03/21 07:14, No - Joereddington.com has events on outbound links. joereddington.github.io doens't
-
-## 11/03/21 07:30, I think I've put in in 
-
-
-## 11/03/21 07:30, Okay, I've added (very small) calls to action to the two github pages. The other two need a serious rewrite.  
+I spent some time finding out about google tag manager, which it turns out I don't need. 
+I also discovered there are a bunch of different 'versions' of google analytics and I am unhelpfully using a mix across sites
 
 
 
+## 11/03/21 07:38, Big THINGs for the day
+* Run, big run
+* Facebook processing - big one. Ducks 
+* Accounts 
+* Working on todo list 
+
+## 11/03/21 07:41 to 07:43, (A) Send Yvonne an invoice for influencer times @private
+I've built it. 
+
+
+## 11/03/21 07:55 to 08:41, Sorting out Yvonne's Accounts
+Check list https://www.kgaccountants.co.uk/cic/community-interest-company-accounts 
+I'm quite pleased with that. I have some questions to ask her but we're good. 
+
+
+## 11/03/21 08:59 to 10:21, Fake news meeting +EQT
 
 
 
+## 15/03/21 05:44 to 08:45, Putting todos in order.  
+As an exercise, I tried to do _something_ useful to all 90 tasks on my todo list within three hours. I *just* made it. 
+
+After three hours there are 33 left. Mostly this is me taking out ones that have already been done, or needed rewriting, some of it is me sorting out very quick tasks and moving forward on them.   Certainly there was a lot of doing 'small tasks that I've been avoiding' and I feel good about that.
+
+The remaining tasks are all ones where I definately know the next action and I'm pleased to think that I can do them. 
+
+Something that became quite obvious as I went through: I'm really negleting a project-level view, and that's not ideal at all. I'd like to be much more *there*  
 
 
+## 15/03/21 08:51, Okay, what now? 
+I think I probably deserve a break 
+Yes, end of stream
+
+## 15/03/21 09:15, Back. 
+Blogging and social media, to include photo editing
+* Photos edited
 
 
+# Stack 
+* Brainstorm on being more project oriented.
+* Map accounts project
+(A)  Sort out the HMRC payments 
+(C) Set up camera for ducks
+* For sibs group - the sibs post 
+* For VOL - the toffee popcorn
+* Respond to lewis about the w3 link
 
 
- 
+Work until 
+Blogging and social media from 09:15
+Prep for run by 10:15 Leave for Run by 10:30 (>90min) 
 
-
- 
-
-
-
-
+Me and Leo will go to the post office in the afternoon.  
