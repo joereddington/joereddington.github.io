@@ -1748,7 +1748,7 @@ Actions:
 * I've written the lnc command which inserts the commands relabily, but it's using hardcoded data (and currently whipes the clipboard.
 
 
-## 21/02/21 07:12 to 07:21, Updating this file 
+## 21/02/21 07:13 to 07:21, Updating this file 
 * Rewrote the notes 
 * Added the register use to lnc
 * Commiting 
@@ -2309,8 +2309,19 @@ Investigate https://formspree.io/plans
 
 ## 25/03/21 08:34 to 10:00, some quick fake news. +EQT
 
-## 25/03/21 10:45 to 10:59,  Watson 
-* Editing down this document
+## 25/03/21 10:45 to 10:59,  Editing down this document
+
+## 25/03/21 11:05 to 11:40, Working on https://github.com/joereddington/Projects-Private/issues/127 
+* Oh hey, the tests don't involve any sort of checking for other content in the files...
+* Okay, I've got an all.ics file, but I don't really know what to do with it. The gnome calenar would be great, but I've got the osx version 
+* I've played with the osx version, and the code is definately working.  So what's the next THINGs to do? 
+
+I've belayedly realised that I CAN'T add the descriptions easily (despite trying to for a while, because watson doesn't successfully parse the descriptions out of the entry files. Silly me. 
+
+Still. catagories and calendars are quite possible
+
+* Put it into the blog code so that there is somewhere for the ics file. 
+* Bring back the separate categories. 
 
 
 # Stack 
