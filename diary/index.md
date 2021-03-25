@@ -2272,27 +2272,70 @@ The remaining tasks are all ones where I definately know the next action and I'm
 Something that became quite obvious as I went through: I'm really negleting a project-level view, and that's not ideal at all. I'd like to be much more *there*  
 
 
-## 15/03/21 08:51, Okay, what now? 
-I think I probably deserve a break 
-Yes, end of stream
 
-## 15/03/21 09:15, Back. 
-Blogging and social media, to include photo editing
-* Photos edited
+## 16/03/21 07:00 to 07:46, calendar and email 
+## 16/03/21 07:46 to 10:15, Work email +EQT
+
+## 17/03/21 08:11 to 08:15, Live stream 
+(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
+## 17/03/21 08:18 to 08:34, https://github.com/eQualityTime/Public/issues/122 +EQT
+
+## 17/03/21 08:39 to 08:47, Interrupt - the stack exchange for book 
+
+## 18/03/21 07:37 to 09:41, Working on https://github.com/eQualityTime/Public/issues/125  +EQT
+
+## 18/03/21 10:00 to 10:54, +EQT fake news meeting
+Investigate https://formspree.io/plans  
+
+## 19/03/21 07:05 to 07:10, Sorting out a simcard. 
+
+## 22/03/21 08:49 to 08:51, Checking DBS   +EQT
+
+## 22/03/21 08:52 to 09:28, Some light email 
+
+## 22/03/21 10:15 to 10:32, More email 
+* Including offering to give a talk. 
+
+
+## 23/03/21 08:10 to 09:17, +EQT Working on https://github.com/eQualityTime/Public/issues/125 
+
+## 23/03/21 09:50 to 10:44, that's a big break 
+
+## 24/03/21 07:07 to 07:38, https://github.com/eQualityTime/Public/issues/125 +EQT
+
+## 25/03/21 06:51 to 07:47,  +EQT  https://github.com/eQualityTime/Public/issues/125 
+
+## 25/03/21 07:59 to 08:34, +EQT https://github.com/eQualityTime/Public/issues/125 
+
+## 25/03/21 08:34 to 10:00, some quick fake news. +EQT
+
+## 25/03/21 10:45 to 10:59,  Watson 
+* Editing down this document
 
 
 # Stack 
-* Brainstorm on being more project oriented.
-* Map accounts project
-(A)  Sort out the HMRC payments 
-(C) Set up camera for ducks
-* For sibs group - the sibs post 
-* For VOL - the toffee popcorn
-* Respond to lewis about the w3 link
+* Empty the inbox including the out of office 
+* Process the social media
+* Fucking run 
 
 
-Work until 
-Blogging and social media from 09:15
-Prep for run by 10:15 Leave for Run by 10:30 (>90min) 
 
-Me and Leo will go to the post office in the afternoon.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
