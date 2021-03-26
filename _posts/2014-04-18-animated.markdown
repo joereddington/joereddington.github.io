@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Why don't my pdfs have animated gifs?"
+--- 
+
+
+I’ve had need to brush up on my algorithmic knowledge recently.  So there’s been a certain amount of getting books out of the library, googling for bits of information and spending some time working though ebooks.
+
+
+Annoyingly even as people begin to write and publish for the web only, they refuse to make use of the technology available to them. 
+
+Let me give you a concrete example. Quicksort is a lovely little algorithm (don’t panic – I won’t go into the details – but I will point out that [I met the man that invented it](http://en.wikipedia.org/wiki/Tony_Hoare) this year). It’s something that every Computer Science undergraduate in the world has to learn and it’s generally incomprehensible until you’ve seen it working a couple of times.
+
+Computer Science textbooks do their very best to explain it and generally don’t get very far, because you really do have to see it working.  Wikipedia on the other hand, has this at the top of the page. 
+
+![Quicksort animation](https://i1.wp.com/upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif?w=1000) 
+
+It’s beautiful, it’s obvious, and even the most confused Computer Science student clicks fairly immediately. They can see why it works, they can see why it’s fast, and it only takes a little more reading to work out what is going on. 
+
+
+Why aren’t eBooks, full of this sort of illustration? (for irony points [Big Java](http://www.amazon.co.uk/Big-Java-Late-Objects-Horstmann/dp/1118087887/ref=sr_1_1?ie=UTF8&qid=1396189025&sr=8-1&keywords=big+java) includes instructions and exercises for students so that they can write such a demo, but doesn’t get it’s hands dirty). 
+
+
+I know ebook formats don’t support it, but they should. This is an animated GIF, it’s not rocket science. The question that appears next is, of course: “Wait, why do we have ebook formats at all? Why aren’t ebook readers just using HTML?” (When publishing books for [https://www.whitewaterwriters.com/](https://www.whitewaterwriters.com/) to Kindle, I used to convert them to html first because it was more successful than writing the ebook format directly). 
+
+The second argument against allowing animated gifs is that “it’s a lot of effort for *only* the online version”, which is rather like saying “People don’t seem to want to pay us for this thing we’re doing badly, so why should we do it better?”. Computer Science may be the first example for this sort of thing, but it’s not the only one: it’s hard to think of a science (or even a history) field that wouldn't be made clearer with a moving image. 
+
+
+Here’s one of my favorites for illustrating how to draw a particular character:
+ 
+
+![Strokes required to draw a character](https://i1.wp.com/upload.wikimedia.org/wikipedia/commons/1/13/Deva-%E0%A4%A6%E0%A5%8D%E0%A4%AE-order.gif?w=1000)
+
+
+ I should say that in no way to I think that this should be done without proper care: accessibility issues are of particular interest to me, and every illustration should be properly backed up with the relevant descriptive text, but I do think that if we are going to use illustrations we should do so properly. 
+
+More to the point, I think that until the writers and publishers of textbooks stop thinking of electronic versions as ‘just a PDF’, they are going to find themselves seriously intellectually outgunned by the army of Wikipedia volunteers, who are producing higher quality material than professional publishers. Animations make things easier to understand, not everything, but many things, and without having them in PDF’s and ebooks, we are basically reading fake paper on a platform that could be so much more. 
+
+I’ll leave you with a couple more of my favorites: For medical people, here’s a nice shot of a particular part of the brain: 
+
+![Brain part](https://i1.wp.com/upload.wikimedia.org/wikipedia/commons/5/59/Brodmann_area_44_animation_small.gif?w=1000) 
+
+
+For engineering people, here’s a webcam undergoing a CT scan: 
+
+
+![webcam in a CT scanner](https://i1.wp.com/upload.wikimedia.org/wikipedia/commons/f/fd/CT_Webcam.gif?w=1000) 
+
+
+and for people who, like me, didn’t realise the Trapezius was quite so big:
+
+![Trapezius animation](https://i2.wp.com/upload.wikimedia.org/wikipedia/commons/0/06/Trapezius_muscle_animation.gif?w=1000)
+

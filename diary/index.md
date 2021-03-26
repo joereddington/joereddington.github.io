@@ -2311,21 +2311,42 @@ Investigate https://formspree.io/plans
 
 ## 25/03/21 10:45 to 10:59,  Editing down this document
 
-## 25/03/21 11:05 to 11:40, Working on https://github.com/joereddington/Projects-Private/issues/127 
-* Oh hey, the tests don't involve any sort of checking for other content in the files...
-* Okay, I've got an all.ics file, but I don't really know what to do with it. The gnome calenar would be great, but I've got the osx version 
-* I've played with the osx version, and the code is definately working.  So what's the next THINGs to do? 
+## 25/03/21 11:05 to 11:49, Working on https://github.com/joereddington/Projects-Private/issues/127 
 
-I've belayedly realised that I CAN'T add the descriptions easily (despite trying to for a while, because watson doesn't successfully parse the descriptions out of the entry files. Silly me. 
+## 25/03/21 12:30 to 14:23, Looking at my phone to cheer myself up.  
 
-Still. catagories and calendars are quite possible
+## 25/03/21 20:12 to 22:00, watching a terrible movie as part of couple's time.
 
-* Put it into the blog code so that there is somewhere for the ics file. 
-* Bring back the separate categories. 
+## 26/03/21 07:16 to 07:32, Delores, putting me in the place. 
+## 26/03/21 07:28, Process calendar
+## 26/03/21 07:30 to 07:42, Joe Inbox 
+
+## 26/03/21 07:42 to 08:39, +EQT Inbox 
+* Sorted an invoice out. 
+* Sorted an analytiscs issues out
+* Replied to some general busywork.
+* Added payments to unity
+* Solved the HMRC issue 
+
+## 26/03/21 08:39 to 09:52, Social step one. 
+(Also took Leo out for a nap) 
+
+
+
+## 26/03/21 09:53 to 10:07, Playing with family 
+
+## 26/03/21 10:08 to 10:08, Food brainstorms
+* It's all about mood. All about mood.
+* And relating, and communication
+## 26/03/21 10:22 to 10:35, Tax relief 
+I've claimed it for one year, I'm really NOT sure I did it right. Next action is to watch a video about it on youtube to check. 
+
+## 26/03/21 13:33, working on a blog post 
+
+
 
 
 # Stack 
-* Empty the inbox including the out of office 
 * Process the social media
 * Fucking run 
 
