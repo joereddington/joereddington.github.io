@@ -2341,33 +2341,57 @@ Investigate https://formspree.io/plans
 ## 26/03/21 10:22 to 10:35, Tax relief 
 I've claimed it for one year, I'm really NOT sure I did it right. Next action is to watch a video about it on youtube to check. 
 
-## 26/03/21 13:33, working on a blog post 
+## 26/03/21 13:33 to 13:48, Moving accross and lightly editing a blog post 
+
+
+
+## 29/03/21 08:32 to 11:00, hacking away at little THINGs
+55 left
+
+## 29/03/21 11:00, Family back 
+
+## 29/03/21 14:19, Hello again 
+
+## 29/03/21 14:21 to 14:24, 
+x 2021-03-29 (D Kat) Fix the Ring app on Kat's phone
+x 2021-03-29 Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
+x 2021-03-29 Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
+x 2021-03-29 Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+
+
+## 29/03/21 14:33 to 15:16, Let's try a power hour
+(E) 03 Message Kat about getting her one thoughtful present
+(E) 03 Put Nova's money person contact details in phoen
+(E) 03 Save a nice family memory +Family @phone @nova  Time:03 
+(E) 03 Trim nose hair +Health @nova  Time:05 
+(D) 03 cut the membrane for the herb garden  https://github.com/users/joereddington/projects/1#card-56902675 
+(E) 05 Floss +Health @nova  Time:05
+(E) 05 Lookup how to pay in amazon cheques 
+(E) 05 Talk to Kat about reserving items in cupboards
+(E) 10 Brainstorm on being more project oriented.
+(E) 10 Brainstorm on saving family memories 
+(E) 10 Check the dreamhost backup downlaod 
+
+
+Not all of it, but some of it. 
+
+Parituclarly interested in the age-old problem of the dreamhost backup being too big. 
+
+## 29/03/21 15:17, Oh yeah, I have to do it by a tar -xvf file don't I? 
+
+Brainstorms. 
+
+## 01/04/21 09:01 to 12:05,  Fake news +EQT
+
+## 01/04/21 12:07, Also did some FFT work.
+I know what pages I want, and I've worked out how to do multiple donations.
+
+## 01/04/21 13:32,Here for email.  
+
 
 
 
 
 # Stack 
-* Process the social media
-* Fucking run 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
