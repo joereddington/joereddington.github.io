@@ -2388,10 +2388,133 @@ I know what pages I want, and I've worked out how to do multiple donations.
 
 ## 01/04/21 13:32,Here for email.  
 
+## 01/04/21 13:50 to 14:38, MOvied on to proper emails +EQT
+
+Leaving the rest of the emails for tomorrow. 
+
+## 01/04/21 14:39, Clearing kitchen. 
+
+## 02/04/21 06:16 to 06:39, doing email 
+## 02/04/21 06:39 to 06:56, Now doing +EQT email 
 
 
 
+## 02/04/21 07:39 to 08:06, Nworking on https://github.com/eQualityTime/Public/issues/122 +EQT
+Next actions are images and new pages. 
+Hey, once the images are done I can redirect the old site! I can ask for feedback and typo finding.   
 
-# Stack 
 
+## 05/04/21 07:31 to 08:03, Looking at the accounts +EQT
+
+## 06/04/21 06:05 to 07:18, Wokring on https://github.com/eQualityTime/Public/issues/122 +EQT
+Okay, I've fixed the images and I've improved the donation page. I've commited and pushed
+I've also been investigating the analytics (33% is mobile) and I'd like to  
+
+## 06/04/21 07:18 to 08:22, Found daisy's body. 
+
+lnn
+
+## 06/04/21 08:22 to 08:55, Back to work. CSS on https://github.com/eQualityTime/Public/issues/122 +EQT
+Using this: https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-style-in-five-minutes/ 
+And also https://tomkadwill.com/2017/12/16/how-to-override-css-styles-in-jekyll.html 
+
+I've centred the images, I also think I've managed to get the images working online. 
+I've checked on mobile  I've checked on chrome. 
+
+
+# Stack
+* Check on mobile
+* Centre the images
+* Write the facebook ask 
+* Thank the guy about t he custom css 
+
+## 06/04/21 08:55, 
+
+Hivemind! I need you to look at the new Flowers For Turing Website and tell me what you think about it.  Some of you care about typos, some alt text, some images, and some css. I want it all.  
+
+I'm really excited about this year (I didn't run it last year because of the combination of the Pandemic and Leo's birth) - so excited that I'm belatedly properly embracing *actual* approaches like 'funnels' and 'a/b testing'.  
+
+## 06/04/21 09:04 to 10:57, Social media algorithm 
+Bit too long. 
+
+## 06/04/21 10:57, Time to step away. 
+
+## 08/04/21 08:06 to 08:06, (C) 10 Properly design on paper the WWW site journey +EQT
+
+## 09/04/21 07:30 to 08:42, Responding to +EQT accounts feedback
+
+## 12/04/21 06:51 to 07:15, Daily processing
+## 12/04/21 07:15 to 08:37, Furlough grant +EQT 
+
+## 12/04/21 08:38 to 09:55, Normalising accounts  +EQT
+Okay, so here's where I am. 
+
+I've been working on the 2018-2019 accounts so that the 2019-2020 accounts work. 
+I've started with the balance sheet
+On the balance sheet, I've started with the creditors. 
+There are two THINGs to fix with the creditors. One is to find out where 235 for facilitors expenses has come from, and another to find out why 26330 is defered income. 
+
+## 12/04/21 10:44 to 10:47, Normalising accounts again +EQT
+The Creditors (well, trade creditors) is done. 
+Now for the deferred income. 
+
+## 12/04/21 11:08 to 11:27, Normalising accounts again +EQT
+My brain is now full 
+
+## 12/04/21 11:49 to 12:02, Working out it's the missing invoices +EQT
+
+## 13/04/21 07:02 to 08:05, Email
+
+## 13/04/21 08:05 to 08:36, +EQT inbox 
+
+## 14/04/21 07:00 to 07:57, working on +EQT accounts. 
+Waiting on a reply from sarah for now. 
+
+## 14/04/21 08:28 to 09:07, Let's think about logos. +EQT
+Updating the project real site, involved a lot of STUFF I learned from Flowers For Turing. Including:
+* Overloading the main css file
+* Using IMG tags rather than markdown 
+
+
+## 14/04/21 08:01 to 09:18, faff
+Youtube and facebook, and twitter, and other social media 
+
+
+## 14/04/21 14:43 to 15:34, Working on https://github.com/eQualityTime/Public/issues/122 +EQT 
+* Notes in issue
+
+## 15/04/21 06:43 to 07:11, Rewriting this file 
+* Checked some analytics 
+* Discovered that the history file returns notes that are in 
+* Fixed the bug in the history script
+
+## 15/04/21 07:17 to 07:30, (A) 10 Write up minutes properly +EQT
+Okay, let's go and find them. 
+
+## 15/04/21 07:34 to 07:46, (A) Find out what happened to the architects money
+Turns out she's right - have messaged her to find out. 
+
+## 15/04/21 07:48 to 07:57, (A) Put all the payment information into unity (and poss quickbooks) +EQT
+
+## 15/04/21 07:57 to 08:15,(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
+## 15/04/21 08:15 to 08:39, (B) 20 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+
+I did a bunch of stuff, moved some things forward. But I didn't properly crack it. Time to get ready for the day. 
+
+## 15/04/21 08:40 to 09:00, Family time
+
+## 15/04/21 09:02 to 10:06, Project Real Meeting +EQT
+## 16/04/21 06:22 to 06:47, Working on Videos for Project Real +EQT
+## 16/04/21 07:04 to 08:44, Work on https://github.com/joereddington/Projects-Public/issues/35
+## 16/04/21 09:35 to 11:20, Back to the Project Real videos!  +EQT
+Done 
+## 16/04/21 12:34 to 12:54, (C) 20 Fix the css on the www contact page +EQT https://github.com/eQualityTime/Public/issues/127 
+Comiited and pushed. Needs testing 
+
+## 18/04/21 07:45 to 11:21, Working on the accounts +EQT
+* Discovered it wasn't the invoices I thought it was. 
+* Found out that a lot of the problem was that I'd misclassified the Essex Challenge prize money. 
+* Gradually moved the 2018/2019 balance sheet closer to the TLL one
+* Did a reconciliation mostly to fix things that had changed during the fixing of bugs
+* I got around to putting the Awesome Foundation money in. 
 
