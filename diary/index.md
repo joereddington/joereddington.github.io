@@ -2518,3 +2518,86 @@ Comiited and pushed. Needs testing
 * Did a reconciliation mostly to fix things that had changed during the fixing of bugs
 * I got around to putting the Awesome Foundation money in. 
 
+
+
+
+## 19/04/21 07:15 to 07:35, Working on Overhead
+* Tidied this file 
+* Going to tidy the Downloads
+* Checking Repos
+* Moved this file. 
+* Done gathering todos.
+* Plan is to take Leo out to gather lunch STUFF.
+
+## 19/04/21 07:40 to 08:37, (A) Send Sarah the full update.  +EQT
+* I have responded to all of the comments on Sarah's Word version and have made the alterations to the Google Drive version. 
+* I've also written out the email properly. 
+
+
+## 19/04/21 08:59, https://github.com/joereddington/Projects-Public/issues/47 
+Moved Kat's files off the External drive.
+
+## 19/04/21 09:19 to 09:33, (C) 10 Fix new content form on the www site +EQT
+* I've remembered I have to use the docs folder. I've pushed nd there should be some testing
+* Turns out you need premium membership to include extra fields in a form. Will alter that. 
+
+## 19/04/21 09:45 to 10:06, Social media process.
+
+## 21/04/21 07:44 to 08:41, reply to clare and then videos for Project Real.  +EQT
+
+## 21/04/21 09:35 to 09:54, Igor transplant. 
+
+## 19/04/21 07:15 to 07:35, Working on Overhead
+* Tidied this file 
+* Going to tidy the Downloads
+* Checking Repos
+* Moved this file. 
+* Done gathering todos.
+* Plan is to take Leo out to gather lunch STUFF.
+
+## 19/04/21 07:40 to 08:37, (A) Send Sarah the full update.  +EQT
+* I have responded to all of the comments on Sarah's Word version and have made the alterations to the Google Drive version. 
+* I've also written out the email properly. 
+
+
+## 21/04/21 11:57 to 12:17, Delores
+
+## 21/04/21 12:19 to 13:11, Live 
+That's interesting - ending a steam takes you to video editor now. I could pull bits out. 
+
+
+## 29/04/21 08:18 to 09:12, email
+## 29/04/21 09:12 to 09:27, Now work email. +EQT
+## 29/04/21 09:27 to 09:57, Picking out a TV for the office. 
+## 29/04/21 10:09 to 10:45, reconciliation and emails +EQT
+* Transactions imported, bills marked off, reconcilation done. 
+* Now matching up the bills to the unity 
+* Also did some emails 
+
+## 29/04/21 14:48 to 16:12, More email +EQT
+
+## 04/05/21 08:28 to 11:04, There are 120 actions on my personal todo. Let's trim that down a bit  
+* Including chat with mum
+* This is vulture picking, but it's working
+* go me, I successfully changed the ssh config so that it used different public and private keys for different hosts
+
+## 04/05/21 11:13 to 12:30, Building IKEA cabinets with Kat 
+
+## 04/05/21 13:31 to 13:36, Working on Richard's form
+Getting my head around richards form. Details in email
+
+## 04/05/21 14:33 to 14:58, work email +EQT
+* Did some emails.
+* Including the paypal one. 
+## 04/05/21 21:37 to 22:00, Garage brainstorm
+
+## 05/05/21 08:24 to 08:54, Processed all sorts of inbox.  
+## 05/05/21 09:15 to 09:27, Comic
+Got the comic out, picked at it a bit, eventually gave it up as a bad job, but might do something for today. 
+
+## 05/05/21 10:32 to 10:47, Tidy up this file
+* Adding to vim list 
+* Checking paypal
+* Creating projects
+
+
