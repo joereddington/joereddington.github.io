@@ -2601,3 +2601,37 @@ Got the comic out, picked at it a bit, eventually gave it up as a bad job, but m
 * Creating projects
 
 
+## 05/05/21 10:49 to 10:59, doing the WJC redirect 
+## 05/05/21 10:59, Review Github projects
+
+## 05/05/21 11:28 to 13:31, Live doing book 
+I've improved the decision tree display, which I really like, even if it isn't that 'design' friendly. I've now got to look at the text! 
+
+## 05/05/21 14:21 to 15:42, +EQT (B) Review the pr on +EQT and talking to line manager 
+05/05/21 14:22, git clone https://github.com/eQualityTime/ovfplayer/pull/176
+05/05/21 14:22, git clone https://github.com/eQualityTime/ovfplayer/
+05/05/21 14:22, cd ovfplayer/
+05/05/21 14:25, git checkout -b develop origin/develop
+05/05/21 14:25, git checkout develop
+05/05/21 14:30, more README.md
+05/05/21 14:43, npm install
+ng serve
+
+Now I need to know what behaviour I'm testing. But I'm happy with what I've got.  
+
+## 05/05/21 15:48, Brainstorm mouse sniper as NO-clicks. 
+
+## 05/05/21 19:32 to 20:23, Made Comic 
+I need to: 
+* Properly fix the page sizes
+* Also post on other social. 
+* Move storyline 
+* Get THINGs to cut rather than to resize.
+
+## 05/05/21 20:24 to 21:00, +EQT meeting
+
+## 06/05/21 07:06, 
+I've got 38 THINGs to do, plus email (2 hours) and a meeting (1 hour) and a run (1 hour). That sounds like rather a lot. 
+
+There are 8 hours to go. Better do them all. 
+
