@@ -2312,6 +2312,79 @@ Investigate https://formspree.io/plans
 ## 25/03/21 10:45 to 10:59,  Editing down this document
 
 ## 25/03/21 11:05 to 11:49, Working on https://github.com/joereddington/Projects-Private/issues/127 
+25/03/21 11:05, cd watson/
+25/03/21 11:08, python3 test_dr_watson.py
+25/03/21 11:08, more watson
+25/03/21 11:08, python --help
+25/03/21 11:09, open README.txt
+25/03/21 11:09, touch README.txt
+25/03/21 11:09, vim README.txt
+25/03/21 11:09, open README.txt
+25/03/21 11:09, open watson.py
+25/03/21 11:09, ./watson ../joereddington.github.io/diary/index.md
+25/03/21 11:10, cp ../joereddington.github.io/diary/index.md testinputs/diary.md
+25/03/21 11:10, open test_dr_watson.py
+25/03/21 11:11, vim watson
+25/03/21 11:11, ./watson ../joereddington.github.io/diary/index.md
+25/03/21 11:11, more watson
+25/03/21 11:11, python3 watson
+25/03/21 11:11, python3 watson ../joereddington.github.io/diary/index.md
+25/03/21 11:11, ./watson ../joereddington.github.io/diary/index.md
+25/03/21 11:12, python3 test_dr_watson.py watsonTest.test_big_diary
+25/03/21 11:15, ./watson ../joereddington.github.io/diary/index.md
+25/03/21 11:15, more watson
+25/03/21 11:16, ctag *
+25/03/21 11:16, ctags
+25/03/21 11:16, ctags *
+25/03/21 11:16, python3 test_dr_watson.py watsonTest.test_big_diary2
+25/03/21 11:21, ls -lt
+25/03/21 11:21, ls calendar
+25/03/21 11:21, ls calendars/
+25/03/21 11:21, ls
+25/03/21 11:21, ls -lt calendars/
+25/03/21 11:21, git status
+25/03/21 11:21, git branch tiledcalendar
+25/03/21 11:21, git checkout tiledcalendar
+25/03/21 11:21, git status
+25/03/21 11:21, git commit -a -m "generated an ice file"
+25/03/21 11:23, open calendars/
+25/03/21 11:24, open calendars/all.ics
+25/03/21 11:26, vim calendars/all.ics
+25/03/21 11:29, ls
+25/03/21 11:29, pwd
+25/03/21 11:29, ls *.py
+25/03/21 11:29, cd ..
+25/03/21 11:29, cd joereddington.github.io/
+25/03/21 11:29, cd diary/
+25/03/21 11:29, ls
+25/03/21 11:29, cd watson/
+25/03/21 11:29, ls
+25/03/21 11:29, git status
+25/03/21 11:29, cp ../../../watson/watson.py .
+25/03/21 11:29, cp ../../../watson/watson .
+25/03/21 11:29, ./watson ../index.md
+25/03/21 11:30, open watson.py
+25/03/21 11:30, ./watson ../index.md
+25/03/21 11:30, cp ../../../watson/calendar_helper_functions.py .
+25/03/21 11:30, mkdir calendars
+25/03/21 11:30, touch calendars/readme.txt
+25/03/21 11:30, vim calendars/readme.txt
+25/03/21 11:31, git status
+25/03/21 11:31, ./watson ../index.md
+25/03/21 11:31, cp ../../../watson/entry.py .
+25/03/21 11:31, git status
+25/03/21 11:31, ./watson ../index.md
+25/03/21 11:31, ls calendars/
+25/03/21 11:31, git status
+25/03/21 11:32, ls
+25/03/21 11:32, open calendar_helper_functions.py
+25/03/21 11:39, ./watson ../index.md
+25/03/21 11:41, git status
+25/03/21 11:41, cd ..
+25/03/21 11:41, git add watson/
+25/03/21 11:41, git status
+25/03/21 11:41, git commit -a -m "Update"
+25/03/21 11:41, git push
 
 ## 25/03/21 12:30 to 14:23, Looking at my phone to cheer myself up.  
 
@@ -2321,6 +2394,7 @@ Investigate https://formspree.io/plans
 ## 26/03/21 07:28, Process calendar
 ## 26/03/21 07:30 to 07:42, Joe Inbox 
 
+## 12/05/21 14:53, According to this, I didn't do anything... 
 ## 26/03/21 07:42 to 08:39, +EQT Inbox 
 * Sorted an invoice out. 
 * Sorted an analytiscs issues out
@@ -2634,4 +2708,47 @@ I need to:
 I've got 38 THINGs to do, plus email (2 hours) and a meeting (1 hour) and a run (1 hour). That sounds like rather a lot. 
 
 There are 8 hours to go. Better do them all. 
+
+## 07/05/21 07:33 to 07:41, Fixed nowshare bug on the FFT site  +EQT
+## 10/05/21 07:14 to 08:25, Comic and looking after lego 
+## 10/05/21 08:22 to 08:27, Cleaning this file out. 
+## 10/05/21 08:30 to 08:38, Tidying up git. 
+## 10/05/21 08:47 to 08:50, Clearing Stack
+## 10/05/21 08:47, Not going live because monitor setup has changed and make it awkward. 
+## 10/05/21 08:51 to 09:13, Plan for cables. 
+## 10/05/21 09:15 to 15:10, Smacking Todo list around
+Took a while but there are now only 37 things left. 
+
+## 11/05/21 07:11 to 07:33, Email. 
+## 11/05/21 11:36 to 12:20, Email again +EQT
+## 11/05/21 12:52 to 13:10, Going to do an +EQT washington
+Published a blog https://equalitytime.co.uk/6548/2021/05/11/having-a-problem-with-amazon-pay-by-invoice/  
+## 11/05/21 13:59 to 14:22, Back on the +EQT washington
+
+## 12/05/21 06:28 to 06:33, Setup 'watching' for the day
++ I love it, It does keep me aware.  I like the idea of making it bigger every time there is a failure.
+## 12/05/21 06:33 to 07:20, EMAIL +EQT 
+## 12/05/21 07:21 to 07:37, Accounting +EQT  
+There's four things the auditor wants
+* Found statement  
+* Now sorting out missing invoice. 
+* Now sorting out payslip. :w
+## 12/05/21 08:02 to 08:20, Furlough form +EQT
+## 12/05/21 08:21 to 08:27, Social media for inbox screenshots
+## 12/05/21 08:27 to 08:31, tidying this file
+
+## 12/05/21 09:23 to 09:57, (A) 40 Put journal entries into Quickbooks @private +EQT
+## 12/05/21 09:58 to 10:19, (A) Go through Quickbooks expenditure and make sure that all hashtag invoices are marked as invoicable
+Have sent the invoice to YS 
+## 12/05/21 10:26 to 10:47, (A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
+## 12/05/21 11:10 to 11:53, Read and review novel 
+## 12/05/21 11:54 to 12:15, Lunch 
+## 12/05/21 12:15 to 12:23, Clearing out (B) tasks before moving to eqt (B)s
+## 12/05/21 12:27 to 12:40, (B) 20 design membership cards out of cardboard and get them printed.  +EQT
+## 12/05/21 12:40 to 12:47,   (B) 20 Start filling out this unity form https://www.unity.co.uk/update-your-details/ to add trustees to bank   +EQT
+* Emailed people for missing information
+## 12/05/21 12:48 to 13:47, Work on https://github.com/eQualityTime/Public/issues/126 +EQT
+## 12/05/21 13:49 to 13:59, Social media 
+## 12/05/21 14:01 to 14:11, Going through the +EQT (B) projects.
+## 12/05/21 14:11 to 14:55, (B) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
 
