@@ -1,0 +1,8 @@
+---
+layout: post
+title: Fell in love with a girl
+---
+
+Nova Rose Reddington, born 26/1/18.
+
+![][{% link assets/images/novaborn.jpg %}]
