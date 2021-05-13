@@ -2394,7 +2394,7 @@ Investigate https://formspree.io/plans
 ## 26/03/21 07:28, Process calendar
 ## 26/03/21 07:30 to 07:42, Joe Inbox 
 
-## 12/05/21 14:53, According to this, I didn't do anything... 
+## 12/03/21 14:53, According to this, I didn't do anything... 
 ## 26/03/21 07:42 to 08:39, +EQT Inbox 
 * Sorted an invoice out. 
 * Sorted an analytiscs issues out
@@ -2750,5 +2750,5 @@ Have sent the invoice to YS
 ## 12/05/21 12:48 to 13:47, Work on https://github.com/eQualityTime/Public/issues/126 +EQT
 ## 12/05/21 13:49 to 13:59, Social media 
 ## 12/05/21 14:01 to 14:11, Going through the +EQT (B) projects.
-## 12/05/21 14:11 to 14:55, (B) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
+## 12/05/21 14:11 to 14:35, (B) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
 
