@@ -2736,7 +2736,9 @@ There's four things the auditor wants
 ## 12/05/21 08:02 to 08:20, Furlough form +EQT
 ## 12/05/21 08:21 to 08:27, Social media for inbox screenshots
 ## 12/05/21 08:27 to 08:31, tidying this file
-
+## 12/05/21 08:33 to 08:46, Monitor 
+## 12/05/21 08:48 to 09:04, (A) Plan Daddy-daughter day
+## 12/05/21 09:11 to 09:21, Wrote blog for +EQT
 ## 12/05/21 09:23 to 09:57, (A) 40 Put journal entries into Quickbooks @private +EQT
 ## 12/05/21 09:58 to 10:19, (A) Go through Quickbooks expenditure and make sure that all hashtag invoices are marked as invoicable
 Have sent the invoice to YS 
@@ -2751,4 +2753,93 @@ Have sent the invoice to YS
 ## 12/05/21 13:49 to 13:59, Social media 
 ## 12/05/21 14:01 to 14:11, Going through the +EQT (B) projects.
 ## 12/05/21 14:11 to 14:35, (B) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
+## 12/05/21 14:36 to 15:12, Taking a bit of time to play with https://github.com/joereddington/Projects-Private/issues/127
+## 12/05/21 15:12 to 15:17, Small social media break 
+## 12/05/21 15:34 to 16:07, Working on https://github.com/eQualityTime/Public/issues/127   +EQT 
+
+## 13/05/21 07:17 to 07:31, Working on https://github.com/joereddington/Projects-Private/issues/171
+## 13/05/21 07:36 to 07:54, (C) 10 Look  out forms for making people offically trustees https://www.gov.uk/guidance/how-to-update-your-charitys-details +EQT
+Found out some stuff. Fixed a bug from a while ago. Added to the github issue. Put a new task in the calendar and fixed lots of things about my calendar. 
+
+## 13/05/21 07:56 to 08:21, (C) 10 Brainstorm entirely new Wheel of Life
+## 13/05/21 08:26 to 08:42, Rewriting https://joereddington.github.io/2020/05/20/pain.html  
+## 13/05/21 10:00 to 11:00, Meeting  +EQT
+...and then some googling. 
+## 13/05/21 14:20 to 14:58, Working on the MPs tweets
+
+
+## 15/05/21 11:27, Hello. 
+## 15/05/21 11:28 to 13:30, Accounts STUFF in the inbox +EQT 
+* The journal entry is now lined up. I had set something as an asset rather than an expenditure
+* Worked out another issue with creditors over >1 year 
+* Designed a money making scheme 
+* Need to update the document. 
+* Removed the SHINE invoice via a credit note. 
+
+## 15/05/21 14:32 to 15:57, Hello again +EQT
+Lot of work on accounts
+
+## 17/05/21 09:19 to 09:40, Writing FB recommendation 
+## 17/05/21 10:26 to 10:42, Ringing Garages for Car repair 
+## 17/05/21 14:36 to 14:51, Spreadsheets and github +EQT
+## 17/05/21 14:51, The gitup one is much better 
+
+## 17/05/21 14:55 to 15:12, I've reached (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+Which looks like I spend some time with the book right? 
+
+## 18/05/21 07:42 to 09:19, Experimenting with a positivity list
+I suspect it works a lot better when you have already processed it down as far as it would go.
+
+## 18/05/21 09:19 to 10:07, Eamil
+## 19/05/21 09:17 to 09:41, Emails. 
+## 19/05/21 09:41 to 10:24,  Gratitude 
+## 19/05/21 10:24 to 12:34, working on +EQT email inclunding bank statments
+## 19/05/21 12:44 to 12:56, Flowers For Turing +EQT 
+## 19/05/21 15:03 to 16:00, Working through the Flower For Turing Emails  +EQT
+
+## 20/05/21 08:50 to 09:37,  +EQT Fake news meeting 
+* find out about more funding later 
+
+
+## 20/05/21 09:38 to 10:07, Tidy this inbox. 
+* Looking back to 
+* Includes contents for Delores 
+* This week has been crappy. lots of faff, very little working on the files that matter
+* So what's the lessons learned: 
+  * More time literally in this file, keeping better notes on what it is that you are doing. Working like there is going to be a blog post, or at least a test later. 
+  * Take Pictures 
+  * Need the countdown timer
+
+## 20/05/21 10:07 to 11:01, Accounts email  +EQT
+
+
+
+## 20/05/21 12:05 to 12:20,More +EQT email 
+Run into an annoying mouse issue around invoices. 
+
+## 20/05/21 12:20, Talking to Insurance.   
+
+## 20/05/21 13:07 to 13:16, Email. 
+
+## 20/05/21 14:05 to 15:00, Emailing Flowers for Turing +EQT
+* Worked out a way of doing a reasonably dirty mail merge using google docs
+* Kat helpfully rewrote the email for me
+
+## 26/05/21 07:35 to 08:38, Personal email 
+## 26/05/21 08:45 to 10:08, +EQT email
+* Starting with the reconciliation for the week. 
+
+## 26/05/21 10:08 to 10:26, Gratitude 
+
+## 26/05/21 10:26 to 11:13, Wrote a grant proposal for Yvonne +EQT 
+Wrote a grant proposal. 
+
+
+## 26/05/21 14:44 to 15:12, A/B testing +EQT
+Investigating A/B testing 
+* I need to use Google Optimise, which was spun out of Google Analytics 
+* Requires me to install the optimise snippet. 
+* I've added it and pushed the commit 
+* Apparently I need google chrome to edit. 
+* Okay, I think I've started one. Here's what I think happened - The small snippet that I put into the head allows Google, through Javascript to rewrite the page on page activation, which is is cool. It becomes obvious when you use Google chrome to edit your own page.  Well, it's running now. Will come back and check in later. 
 
