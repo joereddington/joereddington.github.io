@@ -2843,3 +2843,59 @@ Investigating A/B testing
 * Apparently I need google chrome to edit. 
 * Okay, I think I've started one. Here's what I think happened - The small snippet that I put into the head allows Google, through Javascript to rewrite the page on page activation, which is is cool. It becomes obvious when you use Google chrome to edit your own page.  Well, it's running now. Will come back and check in later. 
 
+## 27/05/21 06:56 to 07:08, Faff 
+## 27/05/21 07:08 to 07:11, Tidying this file
+## 27/05/21 07:12 to 07:16, Starting with fixing the cables and such. 
+## 27/05/21 08:20, Have delivered kids. 
+* Worked out the shortcuts for moving displays 
+
+## 27/05/21 08:40, (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+Fuck it let's make a box. 
+
+## 27/05/21 09:00 to 09:51, +EQT Meeting about fake news project 
+
+## 27/05/21 10:01 Cables  
+* Annoyed to find I have only 2 hdmi cables (but I like the idea of putting something though the other screensometimes... 
+* So replace bacles is going to wait for a bit. 
+* Fire TV is installing 
+
+## 27/05/21 10:11 to 10:30, Working on todo: clearing projects
+## 27/05/21 10:31 to 10:37, Cables again 
+
+## 27/05/21 10:50 to 11:30, in garage, poking things 
+* Put up birdhouse, that's a nice one. 
+
+## 27/05/21 12:03 to 12:10, Frictionless deploy script 
+Done. Easier than I thought. 
+
+## 27/05/21 12:13 to 12:15, (D) Tidy the Mps ranking https://github.com/joereddington/Projects-Public/issues/12 +PersonalProjects
+
+The first question is: what's bottom gear bot? It's here: https://twitter.com/ashfield_lee?lang=en but it has like, NOT citing anything.  
+
+Next action: look at the downloaded tweets from bottom gear bot. 
+
+## 27/05/21 12:29 to 12:39, Back after lunch. Working on Mps ranking again. 
+Okay, it appears that the bottom gear one is a relic caused my my never having cleaned the directory. 
+Worth checking later 
+
+## 27/05/21 12:44 to 13:05, Fixing a WWW bug +EQT 
+* And adding a note to help people. 
+
+## 27/05/21 14:37, Write the Reddit post for Flowers For Turing. 
+
+## 27/05/21 14:41 to 15:03, (D) 20 Write blog about live streaming and how it hasn't quite worked.https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
+I've refreshed my motivation around this. This is about consistent work that I can be proud of.  
+
+## 27/05/21 15:06 to 15:44, (E) 30 Write 'you might also like section' for white water writers.
+* I'm writing a simple google docs document because I suspect that's easiest for other people to use. 
+* I've done a basic *thing* but it needs a bit more, possibly from a design standpoint.  
+
+Next action: copy paste a chapter in, and the cover image and see what happens. 
+
+## 28/05/21 13:56 to 14:24, +EQT WWW BUG 
+
+## 28/05/21 14:47 to 15:07, Working on WWW +EQT bug
+
+## 30/05/21 07:03 to 07:36, let's file a return.  +EQT
+Tried companies house, turns out you need an authentication code which I have appliced for but which comes by post. Applied for an extension (and got it instantly) due to covid (which is correct, because I was furloughed) 
+
