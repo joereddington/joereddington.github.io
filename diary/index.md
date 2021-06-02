@@ -2899,3 +2899,30 @@ Next action: copy paste a chapter in, and the cover image and see what happens.
 ## 30/05/21 07:03 to 07:36, let's file a return.  +EQT
 Tried companies house, turns out you need an authentication code which I have appliced for but which comes by post. Applied for an extension (and got it instantly) due to covid (which is correct, because I was furloughed) 
 
+## 01/06/21 08:18 to 08:29, Sorting boxes  
+## 01/06/21 08:35 to 08:41, File accounts for Charity Commission. +EQT
+This is the link https://www.gov.uk/send-charity-annual-return?fbclid=IwAR0mD6L2nUG0nVwVARRBOncTubvd5Tigc9sqaKovTBcGMxDNCzQbcBYP3x0 
+(Server still busy at 09:33)
+(Server still busy at 10:14)
+(Server still busy at 11:11)
+## 01/06/21 08:41 to 10:13, Working on https://github.com/eQualityTime/Public/issues/126  +EQT
+## 01/06/21 10:13 to 10:47, https://github.com/eQualityTime/Public/issues/128  +EQT
+* Added some follow ups to do to email. 
+* I updated the website with the new book and checeked it worked on size. 
+## 01/06/21 10:44 to 11:31, https://github.com/eQualityTime/Public/issues/127 +EQT
+I've sorted out the merge using the following command
+
+git log --graph --decorate --oneline
+git checkout --theirs images/covers/UCLAN2021.png 
+
+I also rewrote the issues, updated the contact page, rewrote the header, fixed the front page links and contacted RS for quote from teachers (which he later provided) 
+
+
+## 01/06/21 11:31 to 12:52, Lunch 
+* And bleeching the inspection pit in the garage
+
+## 01/06/21 12:53 to 14:01, The 'accounts for charity commission website' is now back. +EQT
+I've filed the annual return and accounts with the charity commission.  It took ages. I've also put the files in the public accounts document   
+
+## 01/06/21 14:07 to 14:19, Working on https://github.com/eQualityTime/Public/issues/126 +EQT
+## 01/06/21 14:19 to 14:29,  Break 
