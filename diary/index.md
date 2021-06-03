@@ -2926,3 +2926,28 @@ I've filed the annual return and accounts with the charity commission.  It took 
 
 ## 01/06/21 14:07 to 14:19, Working on https://github.com/eQualityTime/Public/issues/126 +EQT
 ## 01/06/21 14:19 to 14:29,  Break 
+## 01/06/21 14:30 to 14:35, Writing up my notes for +ERT work 
+## 01/06/21 14:35 to 15:07, Time to tidy up the todo list. 
+## 01/06/21 15:07 to 15:12,  81. Quick break to do r/maths +EQT
+## 01/06/21 15:12 to 15:25, Back to the other thing  
+Okay, turning off stream and going to do social media. :) 
+## 02/06/21 06:34 to 07:55, Meeting Prep +EQT
+Sorted out the trustee adding, the bank, and the pull approval
+
+## 02/06/21 07:55 to 08:32,  Reviewing a pull request +EQT 
+* I approved it, raised a seperate issue. 
+
+## 02/06/21 08:33 to 08:47, Banking +EQT 
+Ordering the printing. 
+ 
+## 02/06/21 08:47 to 10:32, Email 
+## 02/06/21 11:00 to 11:12, Back to email.    
+## 02/06/21 11:12 to 11:33, Now +EQT email. 
+## 02/06/21 14:08 to 15:27, +EQT email 
+## 02/06/21 15:27, Social media checking 
+
+## 02/06/21 20:02 to 20:52, +EQT 
+
+## 03/06/21 07:56 to 08:12, Delores
+## 03/06/21 08:12, Tidying up for work +EQT
+
