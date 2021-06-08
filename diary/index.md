@@ -3072,3 +3072,20 @@ There's an issue with Dreamhost config- we can't install a particular library fo
 	* Issue was a typo in the manifest. 
 * It works, I've emailed people. Pushed a commit. 
 	
+
+## 08/06/21 10:47 to 11:14, Let's tidy up this file. +EQT
+* Both the previous records and the stack 
+* Deployed the diary
+
+## 08/06/21 11:34 to 12:05, Personal email
+## 08/06/21 12:05 to 12:19, Working on the stack +EQT
+* Have put events in the calendar 
+* Various github issues 
+* Created this gist. 
+* Want to complete the upload.php work 
+
+
+## 08/06/21 12:20 to 12:39, Fixing headphones 
+## 08/06/21 12:40 to 13:22, Personal email. 
+## 08/06/21 13:22 to 14:52, Now work email.s +EQT 
+Including a big review. Nice. 
