@@ -2951,3 +2951,124 @@ Ordering the printing.
 ## 03/06/21 07:56 to 08:12, Delores
 ## 03/06/21 08:12, Tidying up for work +EQT
 
+## 03/06/21 08:45 to 09:01,  Faffing with mouseless, but productively 
+## 03/06/21 09:00 to 09:52,  +EQT meeting 
+## 03/06/21 09:57 to 10:19, Finding out about support emails +EQT 
+
+## 03/06/21 10:20 to 10:58, do we go live now? 
+Garage. Cleared inbox, cut up pallet, cleared wasp's nest, dealt with mould a little more. Completely failed to find the stair gate part. 
+
+## 03/06/21 10:58 to 11:08, tidying up and doing the email forwarding with clare +EQT 
+
+## 03/06/21 11:08 to 12:05, I've been working on family trees. 
+It's clear that there's a problem with the latex genealogy tree only allowing a fairly restricted type of graph (NO union in parent, NO ability to use both parent and cilhd at hte same time. It might be the wrong tool for this job.  
+
+## 03/06/21 13:50 to 15:56, lots of home work. 
+* Lots of garage, greasing nova's door, cutting the new grill, fixing the side gate, setting up the teapot server, tidying up. Ordering stairgates. The whole shebag, reviewing notes, playing with browsers. Good STUFF. 
+
+## 04/06/21 06:17 to 06:22, Hello. Putting times on todo 
+
+## 07/06/21 08:30 to 09:29, Cronovirus job retention scheme  +EQT 
+That took far too long. 
+## 07/06/21 09:34 to 10:52, +EQT working on the Open Voice Factory
+## 07/06/21 11:32 to 15:30, +EQT working on the Open Voice Factory
+* Found that both the greek version and the vannila version get the same error. 
+* Reminded myself that the code isn't properly under version control (turns out I was wrong) 
+* Reminded myself that the website is also NOT properly under version control. 
+
+While attempting to tidy up I got the error: 
+
+> "fatal: could not create work tree dir 'temp': Disk quota exceeded"
+
+so I deleted like 26 gigs of stuff. Unhelpfully that included the actual code. 
+* Yak Shaving: 
+   * Applied for the microsoft non-profits work 
+   * Fixed the company number on the file. 
+* While clearing space I accidentally deleted the code. 
+  * There is okay code in the repo, but it's missing some updates (particularly hooking into the ovfplayer
+  * Main one was reconnecting the ovfplayer code to the main system, which I did. 
+  * Even with the old code, the greek still doesn't work
+  * Took the opportunity to keep the code and the designs in separate folders and made some commits on that basis. 
+		* Cleaned up the designs folder more afterwards
+  * Rewrote upload.php which the idea that it might take a CSS file
+    * Found out that the CSS file I wanted wasn't any good. (replaced it with one from WWW) 
+* Found that there is a live version of the OVF site on github pages: http://equalitytime.github.io/TheOpenVoiceFactory/upload_board.html and attempted to get that working. 
+  * Used a couple of rounds of opendiff to compare with the server one.
+  * Deleted the old site. 
+  * Lots of potential projects with the analytics now. 
+* Moved on to the bug
+  * Found out I can't run localcreate at testing.* (eventually solved this by moving to python3
+    > ImportError: No module named lxml 
+  * Ran it on local machine
+  * Got the classic error that we expected: 
+    UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+  * Wrote up the notes. 
+  * Did some print statements (probably should be using a debugger by now (was doing this much more properly by the end of the bug)
+  * Watching https://www.youtube.com/watch?v=LOb7OUM0OGU in the hope that it will help. 
+  * Did lots of googling decode and encode. I think I've got it. 
+
+
+## 07/06/21 16:15 to 16:36, Back and doing the processsing  +EQT
+* Looking at the unicode issue 
+	* Wow, we don't use 'decode' anywhere in the text. 
+	* The encodes appear to be used in the right places. 
+	* I've fixed the existing bug by putting a 'u' in the right place. That was good. That was from the vide. 
+	* Decided to write some proper tests of the language. 
+* Another error: 'toppage' is hardcoded (this turned out to have been fixed in a parrelle commit, and then needed fixing again later)
+
+
+## 07/06/21 19:44 to 21:11, Back to it +EQT
+* discovered that 'master' is the wrong branch:  
+> This branch is 4 commits ahead, 9 commits behind production.
+	* I've reviewed, and, other than some tweaks I've replicated. This is the only one that matters.  https://github.com/eQualityTime/TheOpenVoiceFactory/commit/e80123869ea1a909d668e6bdba935e9007292a92. Right now I've got to concentrate on getting this working, and then doing the 'from scratch' version. 
+* Unicode
+	* I've got a file with some tests for encode/decode. I certainly understand it more. But NOT completely. 
+	* The main problem is that I'm converting filenames to ascii so I've got 100 greek filenames that convert to ""
+	* I wrote a test to show I could write a file with a unicode name
+	* So I've taken the encodes out...  You get some fucking great names of boards. 
+* Two debugging tricks in Python: 
+	* Adding -i (so python -i) drops you in the interpreter when the programm terminates
+	* Adding the following code drops you into the interpret when you want
+		import code
+		code.interact(local=locals()) 
+		* Pressing control-d runs the script again. That's cool 
+		* From https://code-maven.com/switch-to-interactive-mode-from-python-script 
+
+
+## 08/06/21 06:31 to 07:41, Code again +EQT 
+* Everything now writes in unicode
+	* I found a way of getting the test to work by using a different library
+	* The manifest is now writing much more nicely, but NOT entirely. 
+	* I've found a way (using https://stackoverflow.com/questions/18337407/saving-utf-8-texts-with-json-dumps-as-utf8-not-as-u-escape-sequence) to get the json to dump unicode
+
+Everything appears to be running. Let's test it... 
+	* Ha! The code isn't being run on the server
+	* Turns out that this was hidden because (due to the recovery yesterday) I'm NOT using the times as the scramble
+	* The issue is the config - python wants the lxml library and I can't work out how to install it. 
+
+## 08/06/21 07:41 to 10:39, Converting it to python3 and deploying . +EQT 
+There's an issue with Dreamhost config- we can't install a particular library for 2.7.  Also, we're starting to really suffer from the fact that this is writen in 2.7, which is pretty old and it's hard to google for things.  So I'm taking a break to see how easy it is to upgrade. It turns out it was relatively simple but we have an issue with col row. 
+* Converting to python 3
+	* Used 2to3 -w to start with 
+	* Had to convert a bunch of pixel sizes to ints (which is fair) 
+	* Had an issue with x and y's being too large so added an exception and a warning
+	* It ran quite quickly
+	* But 7 tests failing. 
+	* I checked out if python2.7 was failing the tests as well because I hadn't checked them since the unicode changes.
+		* No, only failing two of them - arabic and slovakain. 
+	* First test to look at is the colour one, looks a lot like the col and row issue is to blamej
+	* I built a massive test by outputting the funciton results in 2.7 and copied it over. 
+	* Ended up being really hacky and using // as the operator rather than properly rebuilding the method (it works though) 
+
+* I've pushed it to server. 
+	* Now getting can't find pptx. 
+		* I literally JUST  copied the files 
+	* It runs! 
+	* Okay moment of truth, lets try it online. 
+	* Not working. Not telling us why NOT working either. Just NOT working. 
+* So, now the problem is "Getting the error messages working again. 
+	* Did it: needs tidying
+* Okay, so now I've ended up with a problem in the obz. The ovfplayer isn't accepting the toppage address. 
+	* Issue was a typo in the manifest. 
+* It works, I've emailed people. Pushed a commit. 
+	
