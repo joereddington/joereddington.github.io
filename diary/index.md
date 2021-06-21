@@ -3089,3 +3089,55 @@ There's an issue with Dreamhost config- we can't install a particular library fo
 ## 08/06/21 12:40 to 13:22, Personal email. 
 ## 08/06/21 13:22 to 14:52, Now work email.s +EQT 
 Including a big review. Nice. 
+
+
+## 08/06/21 15:00 to 15:58, Richard's house meeting
+* Also tidying up todo list. 
+
+## 09/06/21 08:12 to 09:56, Filing accounts +EQT 
+* Started the process for filing accounts.  
+* Ended up here: https://www.tax.service.gov.uk/cato/start-filing/eligibility/accounting-period 
+* The helpline number for charity accounts is saved in phone.  
+* I've added all the numbers we need so far to the Furlough/bus document. 
+* Did some messing with upload.php while I was on hold. 
+
+## 09/06/21 09:56 to 10:55, Upload.php again +EQT 
+Fixed the issues and also upgraded the whole page. Even posts about it. 
+
+## 09/06/21 10:55 to 11:36, Writing the Turing Facebook post +EQT
+
+## 09/06/21 11:36 to 11:51, Faffy faff faff .
+## 09/06/21 11:51 to 12:21, Setting up the A/B testing again +EQT
+* The actual thing is really easy
+## 09/06/21 12:41 to 12:59,  Mapping https://github.com/eQualityTime/Public/issues/129  +EQT 
+## 09/06/21 13:00 to 13:05, Contact all of your journalist friends about flowers for turing. +EQT
+## 09/06/21 13:17 to 13:33, Wrote Letter to kids 
+## 09/06/21 13:33 to 13:45,  Sorting box 
+## 09/06/21 13:45 to 14:09, (E) 10 Work out the next action for 'you might also like section' for white water writers. +EQT
+## 10/06/21 07:50 to 08:03, +EQT 'Boosted' a post on Facebook. 
+## 10/06/21 08:03 to 08:20, Microsoft for Nonprofits and Github for nonprofites +EQT 
+## 10/06/21 08:20 to 10:40, Really smashing the todo list. Really good 
+## 10/06/21 13:00 to 13:50, Labeling the spending
+* I've got a fair amount to claim from the Joka card and from EQT, both of which need some work on the paperwork. 
+
+# 10/06/21 14:00 to 15:04, reddit? +EQT
+## 15/06/21 12:15 to 12:45, +EQT Sorting out facebook ads. 
+## 16/06/21 08:43 to 08:57, Fixed a bug with the history. 
+## 16/06/21 09:51 to 10:28, Tidying boxes.
+## 16/06/21 10:28 to 10:51, Properly processing this file. 
+## 16/06/21 10:51 to 12:54, Memory book
+## 16/06/21 13:48 to 15:07, Memory book.
+## 17/06/21 10:18 to 12:00, +EQT email. 
+## 17/06/21 12:00 to 12:16, Quick break to add artist to the THING. +EQT 
+## 17/06/21 12:16 to 13:02, +EQT email again. 
+## 17/06/21 14:38 to 15:07, Working on memory book
+## 17/06/21 19:19 to 20:20, Sibs meeting 
+## 20/06/21 08:03 to 08:48, generating the pdfs for memory book 
+## 21/06/21 08:20 to 10:01, Working on +EQT forms and cheques at home
+(Some office tidying)
+## 21/06/21 10:17 to 11:12,  Working on +EQT crypocurrency 
+## 21/06/21 11:12 to 11:51, Post office with +EQT forms and cheques
+
+
+## 21/06/21 11:50 to 11:59, Tidying up this file. 
+
