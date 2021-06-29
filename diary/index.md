@@ -3141,3 +3141,24 @@ Fixed the issues and also upgraded the whole page. Even posts about it.
 
 ## 21/06/21 11:50 to 11:59, Tidying up this file. 
 
+## 21/06/21 12:09 to 12:23, Tiding git repos 
+## 21/06/21 12:23 to 12:43, Lunch
+## 21/06/21 12:43 to 13:20, Started code +EQT
+* Fixed a bunch of repos 
+* Separating out the website for OVF. I ended up dropping the history. It should appear at:  https://equalitytime.github.io/TheOpenVoiceFactory-site/ 
+* When it's done we have to 
+	* test it works
+	* Improve the redirect from Dreamhost
+	* Remove the site from the old repo
+
+## 21/06/21 13:20 to 13:36, Updating github issue
+## 21/06/21 13:36 to 14:30, (D) 15 Setup teapot and monitor in Garage   https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
+* Cursed by a lack of internet 
+
+## 21/06/21 19:30 to 19:47, Working on FFT  +EQT
+## 22/06/21 20:29, FFT sheet ready to download.   +EQt
+* Apparently NOT, I had to request another one. 
+## 21/06/21 20:33 to 21:05, Household spending 
+## 21/06/21 21:05 to 21:29, FFT again. +EQT
+Sending message to mum and also double checking the Fbook page 
+
