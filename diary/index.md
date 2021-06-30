@@ -3162,3 +3162,89 @@ Fixed the issues and also upgraded the whole page. Even posts about it.
 ## 21/06/21 21:05 to 21:29, FFT again. +EQT
 Sending message to mum and also double checking the Fbook page 
 
+## 22/06/21 08:51 to 09:09,  Tidying 
+## 22/06/21 11:49 to 12:18, Back for a brief email while I work out where we are for kat dinner 
+## 22/06/21 15:57 to 16:08, Finished personal email. 
+## 23/06/21 07:15 to 08:00, Flowers for Turing media +EQT
+## 23/06/21 08:30 to 09:10, Mostly flowers for turing this morning +EQT
+* Informing people about breach
+* Updating website 
+
+## 23/06/21 09:10 to 15:00, +EQT it was all day, Flowers For Turing was all day, and when it wasn't that it was email.  
+
+
+## 24/06/21 08:40 to 10:00, +EQT fake news meeting and prep  (and some email) 
+## 24/06/21 15:00 to 15:40, +EQT interview by masters students 
+## 25/06/21 06:08 to 07:12, Flowers For Turing Write up. +EQT
+
+## 25/06/21 19:50, I wrote a software quesiton on stackexchange about the food labels. 
+
+## 25/06/21 20:16 to 21:50, Doing the donation. +EQT (and email, and finance) 
+* Downloaded and imported bank records - created a client trust account for FFT.  
+* Created two bills. 
+* Now processing emails for other fiance. 
+
+## 28/06/21 10:21 to 11:11, Working on Purple Umbrella with mum
+
+
+## 28/06/21 11:11 to 15:13, +EQT OVF bug 
+* Downloaded the greek version. 
+* Found the error : there is a problem that 'backspace' isn't supported
+* I sorted out the Microsoft office licnece
+* I improved the debugging information 
+* I split the classes out into their own files. 
+    * Everything left in the 'main' file is a OBF file... 
+* Discovered that the bug was also in the english version.
+* I refactored a bit and broke two more of the regression tests. 
+* I fixed the bug, and then found a second problem in the ovfplayer https://github.com/eQualityTime/ovfplayer/issues/188  - I've got a small hack in place to deal with 
+  * I rebased to squash some commits together and have pushed. Now let's see if it worked 
+
+## 29/06/21 08:42 to 09:13,  Personal email 
+## 29/06/21 09:13 to 11:02, +EQT emails 
+* Including putting up information on reddit and facebook about turing. 
+* Posting to Facebook. 
+
+
+## 29/06/21 11:02 to 11:51, Faffing with vim. 
+* Eventually wrote this queston and solved the problem later https://vi.stackexchange.com/questions/31709/taglist-isnt-reading-custom-markdown-tags/31712#31712 
+
+## 29/06/21 11:51 to 12:58, Social media.
+Including blog. All done for now. 
+
+
+## 29/06/21 13:29 to 15:20, General prune and reorganisation of the todo list. 
+## 29/06/21 15:20 to 15:46,  Working on Kat's corrections for memory book. 
+## 29/06/21 21:31 to 22:00,  Doing corrections on book. 
+## 29/06/21 22:00 to 22:42, Working on Makefiles. 
+* I've added a makefile to the memorybook. It works, but NOT with watching. 
+* Reading https://en.wikipedia.org/wiki/Make_(software). Some ideas: 
+	* Make might be a good idea for updating the White Water Writers site, or for processing some emails. Maybe it is how the WWW camps should be launched, and the OVF site.  
+* Vim lets me use :make | copen, which is nice, but I'd like to investigate the python approach  
+
+## 30/06/21 10:50 to 11:11, Fillding with vim.
+* Found out that you can read a session with vim. 
+
+## 30/06/21 11:12 to 11:50, (C) 60 full review of the +EQT list. 
+* Got rid of a bunch that had already been done. 
+* Spend some time in https://github.com/orgs/eQualityTime/projects/4
+	* Closed tasks
+	* Moved Tasks
+	* Archived things and updated them
+	* As a result I deleted all the Github tasks on the basis that most of them where out of date.
+	* This left 20
+
+## 30/06/21 11:51 to 12:30, Brainstorming on +EQT media
+
+## 30/06/21 19:42 to 19:46, Run igor again on +EQT 
+* should have said it was JUST vision. 
+
+## 30/06/21 19:47 to 19:52, Photo editing. 
+* Checking that we really did import the images. 
+* I did NOT, doing now. 
+
+## 30/06/21 21:06 to 21:40, Photo editing 
+## 30/06/21 21:40, Now doing vimrc tabs  
+
+
+## 30/06/21 21:41 to 21:45, Fixing tabs in vimrc 
+* With the aid of https://vi.stackexchange.com/questions/13080/setting-tab-to-2-spaces 
