@@ -2897,6 +2897,63 @@ Next action: copy paste a chapter in, and the cover image and see what happens.
 ## 28/05/21 14:47 to 15:07, Working on WWW +EQT bug
 
 ## 30/05/21 07:03 to 07:36, let's file a return.  +EQT
+2021-05-30 06:07:52, https://www.gov.uk/file-your-company-annual-accounts
+2021-05-30 06:07:55, https://beta.companieshouse.gov.uk/accounts/corporation-tax
+2021-05-30 06:07:55, https://find-and-update.company-information.service.gov.uk/accounts/corporation-tax
+2021-05-30 06:07:58, http://find-and-update.company-information.service.gov.uk/accounts/select-account-type
+2021-05-30 06:07:58, https://find-and-update.company-information.service.gov.uk/accounts/select-account-type
+2021-05-30 06:08:01, https://beta.companieshouse.gov.uk/guides/accounts/chooser/micro-entity
+2021-05-30 06:08:01, https://find-and-update.company-information.service.gov.uk/guides/accounts/chooser/micro-entity
+2021-05-30 06:08:06, https://ewf.companieshouse.gov.uk/
+2021-05-30 06:08:06, https://ewf.companieshouse.gov.uk//seclogin?tc=1
+2021-05-30 06:08:18, https://ewf.companieshouse.gov.uk//runpage?page=companyAuthorisation&.dyn=71u-rMCoWl8AACXoJyEAAAAF
+2021-05-30 06:08:27, http://equalitytime.co.uk/
+2021-05-30 06:08:30, https://equalitytime.co.uk/
+2021-05-30 06:08:53, https://ewf.companieshouse.gov.uk//runpage?page=companyWebFilingRegister
+2021-05-30 06:09:04, https://ewf.companieshouse.gov.uk/runpage?page=recentFilings
+2021-05-30 06:09:12, https://ewf.companieshouse.gov.uk//runpage?page=companyAuthorisation&.dyn=71u-rMCoWl8AACXoJyEAAAAF
+2021-05-30 06:09:45, https://www.gov.uk/government/publications/late-filing-penalties/late-filing-penalties
+2021-05-30 06:10:19, https://www.google.com/search?client=firefox-b-d&q=gov.uk+filing+accounts
+2021-05-30 06:10:39, https://find-and-update.company-information.service.gov.uk/extensions
+2021-05-30 06:10:59, https://find-and-update.company-information.service.gov.uk/extensions/company-number
+2021-05-30 06:11:00, https://find-and-update.company-information.service.gov.uk/signin?return_to=/extensions/company-number
+2021-05-30 06:11:50, https://identity.company-information.service.gov.uk/go/register/H2WabN8SxF5JEoD_j6Iz-F-K9i5mBCnTw-PPtLIXw5U
+2021-05-30 06:11:50, https://identity.company-information.service.gov.uk/user/password/set
+2021-05-30 06:12:24, https://identity.company-information.service.gov.uk/oauth2/user/signin
+2021-05-30 06:12:29, https://find-and-update.company-information.service.gov.uk/
+2021-05-30 06:12:35, https://find-and-update.company-information.service.gov.uk/search?q=equality+time+ltd
+2021-05-30 06:12:37, https://find-and-update.company-information.service.gov.uk/company/09197133
+2021-05-30 06:12:41, https://find-and-update.company-information.service.gov.uk/company/09197133/filing-history
+2021-05-30 06:12:43, https://find-and-update.company-information.service.gov.uk/company/09197133/authorise?return_to=/company/09197133/filing-history
+2021-05-30 06:13:33, https://find-and-update.company-information.service.gov.uk/extensions/company-number
+2021-05-30 06:13:33, https://find-and-update.company-information.service.gov.uk/signin?return_to=/extensions/company-number
+2021-05-30 06:13:33, https://identity.company-information.service.gov.uk/oauth2/authorise?client_id=309912450514.apps.ch.gov.uk&redirect_uri=https://find-and-update.company-information.service.gov.uk/oauth2/user/callback&response_type=code&scope=https://account.companieshouse.gov.uk/user.write-full&state=eyJhbGciOiJkaXIiLCJ0eXAiOiJKV0UiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.._3_RnW6jnzTKFlImYZqcaA.l_qKQtHOjnVLhSaxiJkBvKyhHhDuwRJwguzD3sdjnPBoQQiH279-3UJlQRHPDa9UDWNpwVeRFL4kj-NaCMBNEQ.j3RAqF7oZ_K1PwtgxopkMQ
+2021-05-30 06:13:34, https://identity.company-information.service.gov.uk/oauth2/user/signin?request=eyJ0eXAiOiJKV0UiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..dY8obHmkHLvl4B6OWHwUWg.Ijoo24otph2N7UY5KnmseXMe6oZXH60nmsQ4DE9euWPMo2Eo-924PyrJIww_smMNoMx7gEHkK0hIStrt5Rgjk_0nCF-cd8c-s9yETEbOpY0kaEMTwAJs7TRDrWJdIdMGODcMUiTMP7g8gbRr_5JlF5XwWdYF7lIHl1P_j6TuxxkZVMT6m-5VDpM5D97G1YI2mfU-VNH2rjuGwXfOPWb585gYMiOfEJUZVu4sdznmGKmtV82-nFJ1TPknAA173OXv5lkf1YFfZtRewwzn8sSXpx2M1XVPely9JX3pQ9z83flELKEF5mxQQXl5hvaKjOiOuIrs75S1HPGcM-us6sZNh6LZ3G5QhdtacR3dVSg22fxKzBWmKjF169rSf823xNK0uYsvlBVPfrD5Mj3RJAhKMxG1y8pDzKnuz4SNOxq6Mjlk49vStE99q2nk3NxicvTcRv446VSz07yKRwxWNebPPaN1SS-zgu562v42I7DWIEknbT8HucnuKO_YZClJyz_JZgAgiJWhm8CxoWBgr9ewdbgPBUaqJkI8ikkqWlc82Pty2efyHqimPyMHz4ATzRy32fhYw73qUVJd0iWAAXUInqApqbcYAgm9upPWPsND_3J9xfmeRsjUua2OpQ3SwjUkaPtNmeGSuSSznYyWvlReK_UwasKW6fhywmUCy3SJ97ZRcCXPUcL2Ojj0U6W6mzafXfpveIU1u213jSUHuUtpwg.2qY6d0VgO-5QeOokUDhoqg
+2021-05-30 06:13:43, https://find-and-update.company-information.service.gov.uk/oauth2/user/callback?code=uXocDBFospbH5P71azejuSHQCN8wj8tH6sndFXPwhmQ&state=eyJhbGciOiJkaXIiLCJ0eXAiOiJKV0UiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.._3_RnW6jnzTKFlImYZqcaA.l_qKQtHOjnVLhSaxiJkBvKyhHhDuwRJwguzD3sdjnPBoQQiH279-3UJlQRHPDa9UDWNpwVeRFL4kj-NaCMBNEQ.j3RAqF7oZ_K1PwtgxopkMQ
+2021-05-30 06:13:43, https://find-and-update.company-information.service.gov.uk/extensions/company-number
+2021-05-30 06:14:11, https://www.google.com/search?client=firefox-b-d&q=equality+time+ltd+companies+house
+2021-05-30 06:14:14, https://find-and-update.company-information.service.gov.uk/company/09197133
+2021-05-30 06:14:28, https://find-and-update.company-information.service.gov.uk/extensions/confirm-company
+2021-05-30 06:14:54, https://find-and-update.company-information.service.gov.uk/extensions/choose-reason
+2021-05-30 06:14:59, https://find-and-update.company-information.service.gov.uk/extensions/add-extension-reason
+2021-05-30 06:15:04, https://find-and-update.company-information.service.gov.uk/extensions/choose-reason
+2021-05-30 06:15:06, https://find-and-update.company-information.service.gov.uk/extensions/accounts/accounts-date
+2021-05-30 06:15:18, https://find-and-update.company-information.service.gov.uk/extensions/accounts/accounts-information
+2021-05-30 06:15:51, https://find-and-update.company-information.service.gov.uk/extensions/document-option
+2021-05-30 06:15:55, https://find-and-update.company-information.service.gov.uk/extensions/add-extension-reason
+2021-05-30 06:15:58, https://find-and-update.company-information.service.gov.uk/extensions/check-your-answers
+2021-05-30 06:16:02, https://find-and-update.company-information.service.gov.uk/extensions/confirmation
+2021-05-30 06:16:23, https://www.google.com/search?client=firefox-b-d&q=+Apply+to+extend+your+accounts+filing+deadline++
+2021-05-30 06:16:40, https://www.cheapaccounting.co.uk/blog/index.php/companies-to-receive-3-month-extension-period-to-file-accounts-during-covid-19/
+2021-05-30 06:17:00, https://www.google.com/search?client=firefox-b-d&q=companyies+house+post+tax+return
+2021-05-30 06:17:10, https://www.gov.uk/file-your-company-accounts-and-tax-return
+2021-05-30 06:17:49, https://www.gov.uk/company-filing-software/filing-annual-accounts-returns-and-tax-accounts
+2021-05-30 06:18:14, https://www.iris.co.uk/iris-solutions/accountants-in-practice/iris-accounts-production
+2021-05-30 06:18:15, https://www.iris.co.uk/sector/accountancy-software/iris-accounts-production
+2021-05-30 06:18:15, https://www.iris.co.uk/products/iris-accounts-production/
+2021-05-30 06:18:46, https://www.gov.uk/tax-appeals/reasonable-excuses
+2021-05-30 06:19:15, https://www.gov.uk/government/publications/corporation-tax-company-tax-return-ct600-2015-version-3
+2021-05-30 06:19:27, https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/968856/CT600_2021_Version_3_04_21.pdf
 Tried companies house, turns out you need an authentication code which I have appliced for but which comes by post. Applied for an extension (and got it instantly) due to covid (which is correct, because I was furloughed) 
 
 ## 01/06/21 08:18 to 08:29, Sorting boxes  
@@ -3248,3 +3305,42 @@ Including blog. All done for now.
 
 ## 30/06/21 21:41 to 21:45, Fixing tabs in vimrc 
 * With the aid of https://vi.stackexchange.com/questions/13080/setting-tab-to-2-spaces 
+## 30/06/21 21:51, Working out +EQT timesheet
+I worked 56 hours 55 minutes 
+
+## 01/07/21 08:46 to 09:05, Fill out furlough form and send to Sarah. +EQT
+Did the form (using the document, and send the email to sarah. On fire this morning. 
+
+## 01/07/21 09:06 to 10:38, (A rsday) 40 Work through Kat's Feedback on book and send to magic people. https://github.com/joereddington/Projects-Public/issues/35
+* <5 min interupt to book Nova's soft play
+* Completed all Kat feedback and sent her back the questions. Now to improve the magic generation. 
+* Git 
+
+
+## 01/07/21 10:38 to 11:18, Playing with Makefiles
+* There is now a memory book Make file that will generate files with the correct name. 
+
+## 01/07/21 11:18 to 11:42, Memory book. I generated a bunch of files and then I messaged them. 
+* Took almost exactly the same amount of time as doing it by hand but :shrug
+
+## 01/07/21 11:43 to 11:46, (B so I can work.) Setup Proper github personal access token. +EQT
+*Couldn't work out what needed changing 
+
+## 01/07/21 12:07 to 12:41, Recording Podcase for YS +EQT
+(B) 40 Record a podcast for Yvonne's friend.
+
+## 01/07/21 13:36 to 13:58, Working thorugh +EQT blogs to do. 
+* Looking at the analytics for Flowers For Turing, it's amazing how few people give a shit about all the other pages on the website. Almost nobody visited the FAQ and they didn't tend to go through to the Donate page. 
+
+## 01/07/21 14:02 to 14:36, (A) File the proper accounts +EQT @private 
+Not only do I think I've done this, and written it up as a document. I think it's done. 
+
+
+## 05/07/21 08:16 to 08:26, +EQT messaging
+
+## 05/07/21 08:27 to 08:41, Opening paperwork 
+* Delores ect 
+
+## 05/07/21 08:59 to 09:06, * Make it clear that 2020 didn't run on FFT website +EQT
+* Tested, committed, and pushed
+
