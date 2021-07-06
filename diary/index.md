@@ -3344,3 +3344,30 @@ Not only do I think I've done this, and written it up as a document. I think it'
 ## 05/07/21 08:59 to 09:06, * Make it clear that 2020 didn't run on FFT website +EQT
 * Tested, committed, and pushed
 
+## 05/07/21 09:09 to 09:13, Process this file. 
+* Todo pushed
+
+## 05/07/21 09:14 to 09:22, (A 25th July) Setup standing order for Nova's gymnastics  (£25 starting 1st August)
+
+
+## 05/07/21 09:26 to 09:39, (.) Write blog post with the accounts in it https://github.com/eQualityTime/Public/issues/118 +EQT
+
+## 05/07/21 09:39, (A) map project:The OVF language files - I've been asked for examples of all the different langugages I have Communicate in, and it's pulling on a messy thread.  The solution is clearly to do the start from scratch approach but that feels like a right pain.  Hmmm.  +EQT
+This is waiting for a fix from clare 
+
+## 05/07/21 09:41 to 10:33, (B) 20 Write up Data breach +EQT
+
+## 05/07/21 10:34 to 10:39, dealing with Delores
+## 05/07/21 10:40 to 11:58, Working on https://github.com/eQualityTime/Public/issues/127 +EQT
+The White Water Writers website now has reasonable analytics and it's getting some hits from Google Ads.  But those hits are not converting, partly they are aimed badly. 
+
+All of the adds need to be aimed at the homepage, and then a funnel will take them through to the contact us page. 
+  * To do this right, I need to properly understand the ads. 
+Then I need to rebuild the site with a funnel and some A/B testing. 
+
+## 05/07/21 12:40 to 14:43, Continuing Google Ads Training +EQT
+* Back after lunch. 
+* Failed an assessment (by two questions) - will retake in 24 hours. 
+* Written out my notes below.  
+Logged in with my joe.reddington@gmail account. 
+
