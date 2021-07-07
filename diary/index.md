@@ -3371,3 +3371,14 @@ Then I need to rebuild the site with a funnel and some A/B testing.
 * Written out my notes below.  
 Logged in with my joe.reddington@gmail account. 
 
+## 06/07/21 07:57 to 09:09, local email first. 
+## 06/07/21 09:09 to 09:23, Now +EQT email 
+## 06/07/21 09:23 to 10:07,  Updating Mouse Sniper so that it takes screenshots. 
+## 06/07/21 10:08 to 11:16, Back to email +EQT
+## 06/07/21 11:17 to 12:03, Gratitude Post L took a lot longer than it should 
+## 06/07/21 12:04 to 12:50, Working on Google Ads Training +EQT
+## 06/07/21 13:21 to 16:20,  Back after lunch +EQT
+* Took and passed the display certification 
+* Took and failed the Search Certification 78%(!) 
+* I've worked out how to show the quality score for keywords. 
+* Started writing a proper ad that is aimed at teachers - was doing the extensions. 
