@@ -3382,3 +3382,21 @@ Logged in with my joe.reddington@gmail account.
 * Took and failed the Search Certification 78%(!) 
 * I've worked out how to show the quality score for keywords. 
 * Started writing a proper ad that is aimed at teachers - was doing the extensions. 
+## 07/07/21 08:58 to 09:35, Checking in with lizzie +EQT
+## 07/07/21 09:35 to 11:02, +EQT working on https://github.com/eQualityTime/Public/issues/131 
+## 07/07/21 11:06 to 12:49,  Working on https://github.com/eQualityTime/Public/issues/127 +EQT
+## 07/07/21 13:10 to 14:47,  Working on https://github.com/eQualityTime/Public/issues/127 +EQT
+* We resize images with "magick mogrify -resize 625 *.jpg "
+## 07/07/21 14:48 to 15:00,  Working on https://github.com/eQualityTime/Public/issues/127 +EQT (analytics) 
+## 07/07/21 15:00 to 16:00, +EQT Working on https://github.com/eQualityTime/Public/issues/131 
+## 07/07/21 16:00 to 16:08, Reviewing data +EQT
+* There's a new website 
+* The new website has a proper (I think) funnel. 
+* There are new ads that hopefully will work better. 
+* We now put it down for a week to get some data. (Although we'll do some more google ad training and exam passing.  
+
+## 07/07/21 20:27 to 21:27, +EQT meeting and setting meeting(s) up with chair. 
+## 07/07/21 22:24 to 23:16, +EQT More work on  Working on https://github.com/eQualityTime/Public/issues/131   
+## 08/07/21 08:00 to 08:30, Hello I'm sorting out timesheet. +EQT
+## 08/07/21 08:30 to 09:10, Call with Lizzie +EQT
+## 08/07/21 09:10, Reviewing yesterday's work, following up, tidying up.  +EQT
