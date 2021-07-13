@@ -3400,3 +3400,16 @@ Logged in with my joe.reddington@gmail account.
 ## 08/07/21 08:00 to 08:30, Hello I'm sorting out timesheet. +EQT
 ## 08/07/21 08:30 to 09:10, Call with Lizzie +EQT
 ## 08/07/21 09:10, Reviewing yesterday's work, following up, tidying up.  +EQT
+## 10/07/21 13:51 to 14:27, Tidying up with delores
+## 10/07/21 14:30 to 14:33, Find out why the todo.txt plugin isn't wokring. 
+## 10/07/21 14:34 to 15:13, Get next set of Monpig cards 
+## 10/07/21 15:18 to 15:48, (E) 20 Add 'click counting' to mousesniper. on: https://github.com/joereddington/Projects-Public/issues/52 +PersonalProjects
+
+## 10/07/21 15:48 to 16:08, Cleaning up todo list. 
+## 10/07/21 16:11 to 16:15, Proud of eating habits. 
+## 12/07/21 09:07 to 12:16, Working on https://github.com/eQualityTime/Public/issues/131 +EQT
+## 12/07/21 13:44 to 14:21, Working on https://github.com/eQualityTime/Public/issues/131 +EQT
+## 13/07/21 07:56 to 08:00, Checking +EQT google ads. 
+## 13/07/21 08:10 to 10:50, email. +EQT
+## 13/07/21 12:17 to 12:27, +EQT https://github.com/eQualityTime/Public/issues/131
+## 13/07/21 12:27 to 12:28, Writing up timesheet +EQT
