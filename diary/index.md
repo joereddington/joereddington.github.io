@@ -3413,3 +3413,5 @@ Logged in with my joe.reddington@gmail account.
 ## 13/07/21 08:10 to 10:50, email. +EQT
 ## 13/07/21 12:17 to 12:27, +EQT https://github.com/eQualityTime/Public/issues/131
 ## 13/07/21 12:27 to 12:28, Writing up timesheet +EQT
+## 13/07/21 12:24 to 16:01, Working through the +EQT todos 
+## 13/07/21 16:57 to 18:00, +EQT networking 
