@@ -3415,3 +3415,68 @@ Logged in with my joe.reddington@gmail account.
 ## 13/07/21 12:27 to 12:28, Writing up timesheet +EQT
 ## 13/07/21 12:24 to 16:01, Working through the +EQT todos 
 ## 13/07/21 16:57 to 18:00, +EQT networking 
+## 14/07/21 10:12 to 10:22, Processing this file +EQT
+## 14/07/21 10:22 to 12:13, Claim expenses +EQT
+I've put in three expenses and confessed to Sarah 
+
+## 14/07/21 12:13 to 12:33, Messaging the guy +EQT
+## 14/07/21 13:14 to 13:35, Due dilligence and linkedin sorting +EQT
+## 14/07/21 13:41 to 13:51,  Investigating mailchimp +EQT
+* First of all, we don't have that many subscribers 
+* We can email them via mailchimp, that's cool.
+* But it feels like a solution waiting for a problem. 
+
+## 14/07/21 13:51 to 14:01, +EQT downgrading github 
+
+## 14/07/21 14:01 to 14:20, Had a bit of a break. 
+## 14/07/21 14:20 to 14:32, did a cryptocurrency policy. +EQT
+
+
+## 14/07/21 14:32 to 14:48, Working on OVF site. +EQT
+## 14/07/21 14:48 to 15:31,  +EQT pitching mats https://github.com/eQualityTime/Public/issues/93
+
+## 14/07/21 15:31 to 16:20, Working on Jouranlist list. 
+
+
+## 15/07/21 08:18 to 08:28, Good morning. Meeting Prep +EQT
+## 19/07/21 08:45 to 09:01, fixing IDE +EQT
+## 19/07/21 09:08 to 09:27, Reporting a vim bug. 
+Have reported https://github.com/ipod825/vim-tabdrop/issues/1 
+Useful for https://vi.stackexchange.com/questions/10014/navigate-to-tag-in-a-new-tab-if-not-already-opened-like-tab-drop 
+
+
+## 19/07/21 10:23 to 11:37, Doing sleep project for fun. 
+* Working on sleep project 
+* didn't find a proper coraspondence between the sleep and keto, which I thought was odd. 
+* been stripping down the sleep tracking code. From well over 300 lines to 135. 
+* Added a 'in the last week' option. 
+* Done some work on that.  
+
+
+## 20/07/21 10:49 to 12:08, Email and early paperwork +EQT
+## 20/07/21 12:08 to 13:10, lunch wih Kat
+## 20/07/21 13:10 to 14:36, Finished email for now (waiting on some messages) +EQT 
+## 20/07/21 14:37 to 15:13, Photo editing. 
+## 20/07/21 15:14, Gratitude 
+
+## 20/07/21 15:39, No, let's get the stuff off the paper and be read for tomorrow. 
+## 23/07/21 07:35 to 08:12, Organising papers and plans  +EQT
+It's a family day, so food is taken care of.  Exercise: I'm thinking I take Leo out in the buggy later. That will be fun. 
+
+## 23/07/21 08:12 to 09:03, Working on personal todos
+
+## 26/07/21 08:16 to 09:59, Book. 
+## 26/07/21 10:10 to 12:40, Working on book. 
+* Went through the last of the corrections from Kat
+* Reviewed them with her and got four more. 
+* Drafted email to Ed
+* Drafted Citation email 
+* Went to some trouble to create the csv file 
+* Send the email.    * Panic* 
+
+## 26/07/21 14:00 to 15:16, Attacking the todo list
+## 27/07/21 06:23 to 07:12, Editing Videos +EQT  
+## 27/07/21 09:04 to 11:24, +EQT meeting 
+## 27/07/21 11:30 to 11:55, Now email. 
+## 27/07/21 13:16 to 15:49, Email.  +EQT
+## 27/07/21 15:49 to 15:54, Sorting out this file +EQT
