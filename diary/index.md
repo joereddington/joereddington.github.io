@@ -3480,3 +3480,40 @@ It's a family day, so food is taken care of.  Exercise: I'm thinking I take Leo 
 ## 27/07/21 11:30 to 11:55, Now email. 
 ## 27/07/21 13:16 to 15:49, Email.  +EQT
 ## 27/07/21 15:49 to 15:54, Sorting out this file +EQT
+## 28/07/21 08:01 to 09:27, Completing email +EQT
+## 28/07/21 09:27 to 12:25, https://github.com/eQualityTime/Public/issues/94  +EQT
+## 28/07/21 13:23 to 13:29, Finding out about Nova gymnastics. 
+## 28/07/21 13:31 to 14:12, check out Clara's email  2021-07-28 +EQT
+## 28/07/21 14:48 to 14:51, Back +EQT
+## 29/07/21 09:08 to 09:28,  +EQT busywork. 
+## 29/07/21 09:28 to 12:09, going live on the arts council work.  +EQT
+* Writing up to start with. 
+
+* Started working on the finance section because I thought it would be easier
+  * It's difficult, because I have to go through the budget in detail and add a lot more information, including three quotes from everybody. 
+  * I've done the management question, but now I do the proper budget 
+  * I did some reading around and found that there were more prompts available https://www.artscouncil.org.uk/sites/default/files/download-file/Unsuccessful_GFTA_applications_over_15000_Oct_2016.pdf 
+  * I considered taking the contingency for unexpected costs out of the budget but decided against it as nobody had complained. 
+  * The management question is done, but long, it will get cut down in simplewriter. 
+  * Need to be sending this to reviewer at 3pm. 
+  * Looked properly at the things that the reviewers say that look at and it's a really mixed bag so I have to put everything in.  
+  * Did an experiment - it turns out the description in the budget table can take at least 2000 characters, which means that's where I've got to fully describe what is happening in really solid detail 
+  * Finding multiple quotes for venue hire and things 
+
+
+
+## 29/07/21 12:09 to 12:38, Going to go for a break to make Kat lunch. 
+
+
+## 02/08/21 07:49, Hi, starting with timesheet and organisation +EQT 
+
+## 29/07/21 12:38 to 14:23, Back on arts council +EQT
+* Mostly trying to find three quotes for every expense. 
+* I've moved around some of the costs 
+* Lots of quotes have to come in by email. 
+* Brand design was done on laptop.
+* Switched to the management section while I wait for quotes 
+
+
+Is there anything else I can be doing while I wait? 
+
