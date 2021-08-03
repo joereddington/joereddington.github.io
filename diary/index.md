@@ -3505,7 +3505,6 @@ It's a family day, so food is taken care of.  Exercise: I'm thinking I take Leo 
 ## 29/07/21 12:09 to 12:38, Going to go for a break to make Kat lunch. 
 
 
-## 02/08/21 07:49, Hi, starting with timesheet and organisation +EQT 
 
 ## 29/07/21 12:38 to 14:23, Back on arts council +EQT
 * Mostly trying to find three quotes for every expense. 
@@ -3517,3 +3516,29 @@ It's a family day, so food is taken care of.  Exercise: I'm thinking I take Leo 
 
 Is there anything else I can be doing while I wait? 
 
+## 01/08/21 18:53 to 18:54, Timesheet work.  +EQT
+## 02/08/21 07:49 to 08:02, starting with timesheet and organisation +EQT 
+* Well, nowhere near up to full strength. 
+## 02/08/21 08:03 to 08:52, +EQT working on https://github.com/eQualityTime/Public/issues/94
+## 02/08/21 09:46 to 11:29, +EQT working on https://github.com/eQualityTime/Public/issues/94 
+## 02/08/21 13:03 to 13:45, +EQT working on https://github.com/eQualityTime/Public/issues/94
+
+## 02/08/21 14:56 to 15:23, +EQT working on https://github.com/eQualityTime/Public/issues/94
+
+## 02/08/21 20:11 to 21:04, Working on +EQT https://github.com/eQualityTime/Public/issues/94 
+* I starting thinking I wanted to just send-and-forget, but actually that's NOT right, I want to complete this and I'm willing to take the time. 
+
+## 03/08/21 08:14 to 09:02, Fixing a dreamhost problem +EQT 
+## 03/08/21 11:24 to 11:46, Doing photos. 
+What did I learn from this editing?
+  * Food needs to be in focus 
+  * More photos are better. 
+  * The lego needs multiple lights from the side so as to show the detail. 
+
+## 03/08/21 12:14 to 12:22, Email 
+## 03/08/21 12:22 to 13:10,  +EQT email 
+## 03/08/21 14:54 to 15:07, Processing Notes +EQT
+* Arts Council Notes
+* timesheet notes. 
+
+## 03/08/21 15:07 to 15:24, Delores +EQT
