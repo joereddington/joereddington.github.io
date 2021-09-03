@@ -4,6 +4,8 @@ title:  ""
 visible: 0 
 --- 
 
+Excellent git diagram here: http://justinhileman.info/article/git-pretty/git-pretty.png 
+
 ## 03/03/20 14:41 to 17:05, Working on WWW site.  +EQT
 
 ## 10/03/20 05:45 to 07:21, Working on memory book
@@ -1191,6 +1193,7 @@ That using vimdiff in git with the command 'git mergetool' opens four  windows, 
 If there is a time the top two aren't in sync, check it with the bottom one .
 
 Also, I'd really really like to be able to sort entires by time. 
+
 
 
 
@@ -3542,3 +3545,136 @@ What did I learn from this editing?
 * timesheet notes. 
 
 ## 03/08/21 15:07 to 15:24, Delores +EQT
+## 03/08/21 15:48 to 16:16, Delores paperwork +EQT
+## 03/08/21 20:34 to 20:55,  Working  +EQT
+* Processed the box  
+* Working out the bookmarks - turns out you can do some interesting THINGs 
+* Make sure you know what you 'big thing' for the week is. 
+  * I mean, I have two working days left. That's money, and then funding. Possibly even the project real STUFF. 
+
+
+## 03/08/21 20:55 to 20:57,  (A) Lookup food guidance around child choaking 
+https://www.nhs.uk/start4life/weaning/what-to-feed-your-baby/around-6-months/ Is a start
+ 
+## 04/08/21 08:04 to 08:17,  +EQT Doing wages
+Doing wages. 0.7*2500*(1-0.56.5) 
+
+## 04/08/21 08:17 to 08:38, Starting up +EQT
+* Tidying up calendar, sorting paperwork
+* Working out my approach 
+
+## 04/08/21 08:39 to 10:06, Empty +EQT inbox
+* Sorting out some detrius from the previous day. 
+* Did the asking about papers
+* Ordered some books. 
+* I think I've got a recording to listen to! Yay 
+
+## 04/08/21 10:06 to 10:42, Social media processing
+## 04/08/21 11:13 to 11:27,  +EQT printing of bank THING
+## 04/08/21 10:49 to 12:47, 140 tasks. three minutes on each. I think I can do better.  
+Attacked this with great vigor. Amazed to discover it's less than two hours. Todo list is now 50 elements. and a bunch of those have been moved forward.    
+## 04/08/21 12:27 to 13:24,   Lunch with Kat
+
+## 04/08/21 13:25 to 13:52, +EQT meeting actions 
+## 04/08/21 14:14 to 15:14,  Here 
+Just smacking the todo list around 
+
+## 05/08/21 09:01 to 10:01, +EQT Meeting for Fake news  
+
+## 05/08/21 13:15 to 13:45, Looking at email and the Fore +EQT
+
+
+## 05/08/21 14:26 to 15:30,  +EQT The fore
+* Put CV online
+* Sending 
+
+## 24/08/21 07:38 to 11:27, Email  +EQT
+Email - lots of clearing out. 
+
+
+## 24/08/21 13:10 to 15:03, +EQT casually attacking the todo list
+* Working on the Project Real.  It needs a site. 
+
+## 24/08/21 15:03 to 15:26, Working on the project real site +EQT
+Now waiting for DNS progression 
+
+
+## 25/08/21 06:18 to 06:40, let's check the site. +EQT
+* Made some fixes to the project real site
+* Reviewed a bunch of projects and either ticked them off, cleaned them out, or put in the text to move them forward.  
+* Only 28 or so left.  
+
+## 25/08/21 06:43 to 06:52,  Going into Analytics +EQT
+Hmmm There is analytics, but it isn't triggering - I would check if I could see it with view source but I need the dns to work for that. 
+
+
+## 25/08/21 08:15 to 09:11, Working on various site and analytics work +EQT
+* I've tried adding tracking, I'll wait for it to load and then come back* I've removed baseurl from the project real site to see if that improves matters. 
+* I think I make some progress with the WWW onemorechapter
+
+## 25/08/21 09:11 to 09:36, 20 T-shirt ideas +EQT
+
+Well, this feels like the wrong place to start. 
+
+1 This *is* my cosplay
+2 #tictactoe
+3 Do not sell this person stationary. 
+4 Please do not sell me stationary. 
+5 Do not sell this person a bike. 
+6 Do not sell this person a boardgame. 
+7 I collect video games and other people's problems
+8 I didn't expect to leave the house today. 
+9 Serious Con 
+10 Conventionally Comic 
+11 Unconventionally Comic. 
+12 This is too Conventional. 
+13 I thought it stood for Man Crush Monday. 
+14 The silence is only awkward for you.
+15 I can't tell you if you are cosplaying right now. 
+16 Comic Convent 
+17 You are my people. 
+18 These are my people. 
+19 Pay for Art
+20 This place should have a library. 
+
+
+## 25/08/21 09:37, Cute, I like it, I've done well with that, and now it looks like I might try a *thing* at comic con +EQT
+
+
+## 25/08/21 09:38 to 10:47, Working on list, mostly project real  +EQT
+* Did unity check.
+* Project real site is working, let me look at the analytics 
+* Spent 20 minutes learning about git, I have updated the Project Real tracking code.  
+* Yay! The tracking code is working! 
+* I have submitted a request for an additional domain for google ads. 
+
+
+## 25/08/21 11:05 to 11:16, +EQT
+* Responded to a WWW query
+* Found out the OVF site isn't working.
+* Started running it locally. 
+## 26/08/21 09:06 to 09:23, Gratitude
+## 26/08/21 09:23 to 10:57, Delores 
+* Not doing watching because I don't have the right headphones
+* I've got to undo a commit and I'm honestly unsure. I want to get this properly right and make the notes.  
+* Clearing up some messages
+* Processing paper
+* Fixed a bug on the ovf site
+
+## 26/08/21 10:57 to 11:13, Make Seiten 
+
+## 27/08/21 06:08, Hello 
+Up before kids! 
+
+## 27/08/21 06:13 to 07:06, Okay this appears to be the oldest and hardest (D) 10 Look at 10 Year Plan and brainstorm entirely new Wheel of Life  https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects  2021-07-28
+
+Okay, then year plan is written out a bit more, I've got steps to take. Very satisfying 
+## 27/08/21 07:41, Did some work on photos and some work on writng out an argument tree. Also enrolled on my chemistry course! Yay! 
+
+## 02/09/21 07:02 to 08:00, Processing +EQT inbox. 
+* Send balance sheet and profit and loss against budget. 
+* And small gratitude
+
+
+## 03/09/21 06:42 to 06:55, Work through the policies THING.  +EQT
+## 03/09/21 06:55 to 07:35, Photo ediitng
