@@ -3678,3 +3678,9 @@ Okay, then year plan is written out a bit more, I've got steps to take. Very sat
 
 ## 03/09/21 06:42 to 06:55, Work through the policies THING.  +EQT
 ## 03/09/21 06:55 to 07:35, Photo ediitng
+## 03/09/21 07:35 to 08:14, delores
+## 03/09/21 08:16 to 08:26, fixing the deploy script +eqt
+## 04/09/21 11:15 to 13:00, working on https://github.com/equalitytime/public/issues/94  +eqt
+## 07/09/21 19:46 to 21:00, hello. +eqt
+## 08/09/21 06:27 to 06:35, good morning.  +eqt
+## 08/09/21 06:35 to 07:32, at desk
