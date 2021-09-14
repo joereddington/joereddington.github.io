@@ -3684,3 +3684,17 @@ Okay, then year plan is written out a bit more, I've got steps to take. Very sat
 ## 07/09/21 19:46 to 21:00, hello. +eqt
 ## 08/09/21 06:27 to 06:35, good morning.  +eqt
 ## 08/09/21 06:35 to 07:32, at desk
+## 13/09/21 11:23 to 12:21, Hello!  +EQT
+Processing with Delores and taking the opportunity to convert it to a Jekyll site
+* Plan exercise feels really redundant with the new approach
+* Reviewing the previous day - that's a lot of pointless Facebook. 
+
+
+## 13/09/21 12:27 to 12:45, +EQT
+## 13/09/21 13:49 to 16:24, +EQT 
+Sorted through emails, and then got very distracted by a letter from HMRC and a couple of calls. 
+* Filed our confirmation statement for the year. 
+* Discovered we have paid amazon in ages
+* I've set up three THINGs in unity and qucikbooks but they need to be actioned. 
+
+## 14/09/21 08:00 to 10:25, Kids and School run run. 
