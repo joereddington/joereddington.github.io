@@ -3698,3 +3698,11 @@ Sorted through emails, and then got very distracted by a letter from HMRC and a 
 * I've set up three THINGs in unity and qucikbooks but they need to be actioned. 
 
 ## 14/09/21 08:00 to 10:25, Kids and School run run. 
+## 14/09/21 10:25 to 11:07, +EQT  General sorting emails and getting on top of everything 
+## 14/09/21 11:07 to 12:00, +EQT delores has started. 
+* Clearing deck. 
+* Talking to clare
+
+
+## 14/09/21 12:18 to 14:43, Arts grant  +EQT
+Done! 
