@@ -3706,3 +3706,52 @@ Sorted through emails, and then got very distracted by a letter from HMRC and a 
 
 ## 14/09/21 12:18 to 14:43, Arts grant  +EQT
 Done! 
+## 14/09/21 14:43 to 15:00, Working on the stack +EQT 
+* Including brainstorming on 'lists for individual people' 
+
+## 14/09/21 15:00 to 15:52, Post Accounts - that +EQT
+* Went to the post office to post accounts
+* Also did some other posting including the bank STUFF.
+
+## 14/09/21 15:52 to 16:35, Working https://github.com/joereddington/Projects-Public/issues/35 
+## 15/09/21 08:00 to 10:00, Kids and school run run. 
+
+## 15/09/21 10:17 to 10:45, +EQT working on https://github.com/eQualityTime/Public/issues/131 
+## 15/09/21 10:45 to 11:07, +EQT struggling to find a goal for the day
+## 15/09/21 11:07 to 11:18, Working down the stack.  
+## 15/09/21 11:18 to 12:44, Email  +EQT
+* I also put together lunch. 
+
+## 15/09/21 13:21, Been working for a while but it cancels out +EQT
+* Emails are kicking my arise. I think I need an afternoon attack of the todo list. 
+
+## 15/09/21 13:21 to 14:18, Attacking the todo list in a picky vulture way  +EQT
+*ticking THINGs off, a little. 
+* Cropped it down to 26 hard THINGs. I think they will wait until tomorrow.  
+
+## 15/09/21 14:18 to 14:52, Now the home list. 
+Starts with 128 items 
+Down to 72 items
+
+## 15/09/21 16:30 to 16:57, Back for a spell 
+Home list is down to 56 
+
+## 16/09/21 10:11 to 11:33,  +EQT
+* Checked google ads is fine 
+* Now the email  
+* Have emailed trustees 
+* Cleared the rest of the inbox 
+Big things for today are:
+* Do that website 
+* Gratitude post  
+
+## 16/09/21 13:01 to 13:24, Doing Gratitude
+
+## 16/09/21 14:06 to 14:34, (B Trustees) 20 Open Quickbooks and draft an +EQT annual budget 
+
+## 16/09/21 14:48 to 15:37, (C) Working on https://github.com/eQualityTime/Home/issues/108 
+
+## 17/09/21 07:53 to 10:54, Working on https://github.com/eQualityTime/Public/issues/124
+
+## 20/09/21 09:52 to 10:45, Delores 
+Just a massive faff with Delores
