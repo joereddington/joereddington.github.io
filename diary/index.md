@@ -3755,3 +3755,95 @@ Big things for today are:
 
 ## 20/09/21 09:52 to 10:45, Delores 
 Just a massive faff with Delores
+## 20/09/21 10:45 to 12:11, Starting again  +EQT
+* At 'clear stack' 
+* Updated delores 
+* Made seiten while office cleaned
+* Cleared stack  
+* Moved THINGs to *.todo.txt
+* Processed this file. 
+
+## 20/09/21 12:56 to 13:05,  Working out plans for the week +EQT
+
+* Open Voice Factory including ads? 
+* Emailing all the schools? All of them? 
+* The project real follow up? 
+* The Scotland Grant 
+
+I think the Open Voice Factory would be nice. Get the ads working as well. I've got some impetus.  
+
+## 20/09/21 13:29 to 13:59, Lunch 
+## 20/09/21 13:59 to 15:10, meeting and reviewing document for Yvonne  +EQT
+
+## 21/09/21 06:48 to 07:28, Working on  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/136 +EQT
+I'm having an OVF day. 
+* Created an issue from the email 
+* Create a test file and documented it more nicely in the issue - along with links and so on. 
+* Checked in with https://www.openboardformat.org/docs It looks like the first part of the problem (the display bit) is as simple as using 'vocalisation' rather than label.  
+
+## 21/09/21 07:29 to 07:54, OVF regression tests +EQT
+Before properly working on the bug I'd like to take the opportunity to fix the regression tests.  
+* Currently 4 tests are failing and 1 has an error. The error definitely needs to be fixed. 
+* Took a long time to fix test_create_obf_object but it's fine.  
+* Decided it would be good to have a script that generated the regressions, and then found that some genius had already written one. 
+
+## 21/09/21 08:00 to 09:50, Children and school run 
+
+## 21/09/21 09:51 to 12:13, Regression tests +EQT
+* I upgraded generate_regressions.py to python3 and fixed a bug 
+* The failing arabic test was a real bug from upgrading the main code to python 3 - turns out you CAN'T implicity cast exceptions to string any more. 
+* I've updated the regressions and carefully committed THINGs 
+* I've upgraded generate regressions again so that it works for both directories. (there were two files) 
+* I've put all the testing files in the tests directly, and improved some of the rest of the structure. 
+* After a lot of effort we now run tests with 
+
+> python3 -m unittest
+
+* Learned about and implemented subtests 
+
+## 21/09/21 12:13 to 13:06, let's lok at ovfplayer +EQT
+Small diversion looking at ovfplayer
+* Checked that I could run it with the commands
+  * ng serve
+  * but only after npm install 
+  * Discovered how to use the assets folder to serve a file 
+  * (later) discovered how to access that file from the ovfplayer instance, so I can now develop entirely offline. 
+
+## 21/09/21 13:06 to 14:58, https://github.com/eQualityTime/TheOpenVoiceFactory/issues/136 Back on the main bug +EQT
+* I've made some changes 
+* Did some unrelated refactoring (to make testing easier, but didn't write tests) 
+* Discovered that I CAN'T run tests on server because the __init__.py files 
+* Wrote response to bug reporter and shared with developers. 
+
+## 21/09/21 14:58 to 15:26, +EQT sorting through issues for OVF - starting to look like a proper project. 
+* Responding to other messages about OVF 
+
+
+## 21/09/21 15:27 to 16:07, Social media process
+Can I now stay off until tomorrow? 
+EDIT - I did, but not much today. 
+
+## 21/09/21 16:07 to 16:20 prepping for Judo  
+
+
+## 21/09/21 19:58 to 20:10, Doing sneaky bonus email to get ahead of tomorrow.  +EQT
+Not much in there actually... 
+* Did a quickbooks bill 
+
+## 21/09/21 20:10 to 20:38, Playing with calorie tracker 
+Okay, so what's the advantage of command line? 
+* Don't need phone 
+* Encourages simplicity - no carbs 
+* Just a list. 
+* Easy entry. 
+* Computer is where I do a reasonable amount of my eating
+* Lists over a week. 
+* Copy-paste for repeated meals. 
+* Can do while working. 
+
+Let's give it a go. Tracking is going to be useful. It will be a bit tricky at weekends, but even if it's only tracking on weekdays, it's pretty good.  
+
+## 22/09/21 06:46 to 07:29, Good morning +EQT
+* Bought myself a python books 
+* Clearing out email 
+* This file is becoming quite difficult. 
