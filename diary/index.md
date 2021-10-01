@@ -3847,3 +3847,94 @@ Let's give it a go. Tracking is going to be useful. It will be a bit tricky at w
 * Bought myself a python books 
 * Clearing out email 
 * This file is becoming quite difficult. 
+
+## 22/09/21 14:10 to 14:46, Delores again  +EQT
+* Find out big thing for week. 
+* It looks like the Scotish Arts funding doesn't it? 
+* Sorted out bike stuff. 
+
+## 24/09/21 05:07 to 06:08, Let's look at that bug.  +EQT
+* Don't know how to test for it but let's have a look. 
+* I mean, one problem is that we export the images as a side effect... 
+* Moved that, got 6 errors(!) 
+* crap, it's because you have to label the images first
+* Okay, so an easy way to do this is fine the damn image
+  * Done. Now let's look at the code 
+* Reversing it made a tiny difference, but hardly proper. 
+* Um, I think I did it, even if I don't understand the code... t 
+
+* I did some more refactoring, but it's hardly amazing stuff. 
+* Running tests and getting ready to push 
+* Oh wow, closed issue with commit message! 
+* And it's live! Testing now. 
+
+
+## 28/09/21 10:34 to 10:49, Putting delores online. 
+* It's now online at https://joereddington.github.io/Delores/ 
+I've also learned a lot about the Vex command and improved some vim stuff. 
+
+## 28/09/21 10:49 to 12:39, Following delores +EQT
+* Mostly overhead stuff. 
+* Delores is diagnosing some errors with my workflow: 
+  * process calendar wasn't in there at all. 
+  * There is a big problem with the stack having low prioirty items on it. 
+    * Such as the jekyll export, which I've happily now fixed but... 
+* Now processing this damn file. 
+
+## 28/09/21 12:39 to 13:13, Following delores 
+* Putting dates on all the todo list items
+* oldest task on personal is to do garage stuff. so what do i want from a garage? what would make it awesome? 
+  * what do i want that would make it awesome.
+    * getting rid of lots of old crap. 
+    * organised place/shelves for bike units. 
+    * no mould 
+    * a use for the pit 
+    * A full day, including going to B&Q to get boxes and so on. 
+    * A bigger inbox and a regular action to empty it.  
+  * I did some processing of the gargage. Increased the amount of order. Have sent some questions to Kat. Will go back in tomorrow MAYBE ? 
+Update: went in tomorrow. Did more, looking steadily better
+
+## 28/09/21 13:16, (A) 15 search email for all pptx files again and put them in the regressions file.  on: https://github.com/eQualityTime/Public/issues/132 +EQT 2021-08-27
+Found three of them in the branches of communikate - I forgot I did that. And it's a better place for them to be really. But I'm putting them in the regression tests because I want some more regression tests and I want them in the same place.  
+
+## 28/09/21 13:37 to 14:24, Press release?  +EQT
+I'm failing at this, how would I write it for reddit. 
+
+
+I hired influencers to help teenagers make resources about fake profiles on social mediai and they've had great results. 
+
+Three groups of students in different schools interviewed a set of influencers on private zoom calls and used that content as the basis for creating resources for other students.  
+
+Those resources were given to the rest of the schools and, when we tested everybody, we found that their ability to critically evaluate the content they see on the internet went up improved nicely. 
+
+It boils down to "Teenagers are probably not going to listen to parents or teachers about social media, so let's meet them 
+
+Some nice comments, numbers, on projectreal.co.uk 
+
+## 29/09/21 07:28 to 07:54, +EQT processing 
+* Open on public. 
+* Adding to todo. 
+* I setup a new project about email 
+* I edited delores a bit. 
+
+## 29/09/21 12:55 to 13:14, +EQT Delores
+* Already distracted by delores
+  * Where does Process Social media go? 
+  * Where does 'go live' go? 
+  * Made some alterations
+* Processed this file
+* Big thing for the week is the Scottish arts council. 
+* Is it me or do we only see the automatic calendar stuff from exactly a week ago? 
+
+
+## 30/09/21 13:22 to 13:27, (A) Work on: https://github.com/eQualityTime/Public/issues/132 +EQT 2021-09-22 
+ 
+
+## 29/09/21 13:28 to 13:42, (A) read https://www.gov.uk/guidance/safeguarding-duties-for-charity-trustees 2021-09-20
+* Notably, you always review safeguarding policy after a serious incident. 
+* I'm unclear if our policy properly lays out how we would handle an safeguarding issue, other than 'deal with it sensitively.'
+* "Have clear policies on bullying and harassment, and whistleblowing", um, we don't have those, but we don't really have enough staff at this point. 
+* Notably, we don't do due dilligence with people, because we assume that our clients (schools, univerisities, prisions) have need of much more rigorous standards than we require, but we don't officially say that
+* "All charities must prevent abuse for extremist purposes.", "must be part of your charity’s risk assessments, policies and procedures."  We need an anti terror strategy? 
+
+
