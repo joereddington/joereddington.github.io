@@ -3938,3 +3938,21 @@ Some nice comments, numbers, on projectreal.co.uk
 * "All charities must prevent abuse for extremist purposes.", "must be part of your charity’s risk assessments, policies and procedures."  We need an anti terror strategy? 
 
 
+
+## 29/09/21 13:42 to 14:07,  (B) Rewrite the cearer bond page and send it to the prison lady. 2021-09-28 +EQT
+* Done, couple of follow up tasks added 
+
+## 29/09/21 14:07 to 14:16, (B) 2021-09-22 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT  
+* The next step is an email task. 
+
+## 29/09/21 14:16 to 14:25, (B) 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT  
+* I wrote up the issue for putting on facebook/forums
+
+
+## 29/09/21 14:25 to 15:19, (C) Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT 
+
+## 29/09/21 15:21 to 15:24, (C) 2021-08-27 10 Phone the insurance octopus about the payments made  
+## 29/09/21 15:25 to 15:30, (C) 2021-09-22 map project:Develop WWW hubs and strengthen relationships +EQT  
+
+## 30/09/21 06:40 to 07:32, Hello. Emails +EQT 
+
