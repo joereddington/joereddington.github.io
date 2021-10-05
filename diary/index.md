@@ -3956,3 +3956,69 @@ Some nice comments, numbers, on projectreal.co.uk
 
 ## 30/09/21 06:40 to 07:32, Hello. Emails +EQT 
 
+# Today's big focus is doing the eight solid hours. 
+
+## 01/10/21 06:44 to 08:36, +EQT  Email 
+Including sorting out bank import, reconciliation, and reviewing
+
+## 01/10/21 08:36 to 09:19, Working on https://github.com/eQualityTime/Home/issues/110  +EQT
+## 01/10/21 09:19 to 09:42, Quickbooks +EQT
+* Reviewing reports for Trustees
+  * The pie charts look good 
+* Tidying up in Quickbooks, merging duplicate accounts and so on. 
+
+## 01/10/21 09:42 to 10:34, Working on https://github.com/eQualityTime/Public/issues/100  +EQT
+## 01/10/21 10:35 to 10:52, Writing up notes +EQT
+* 2:35? That surely isn't right... 
+
+## 01/10/21 10:55 to 11:38, +EQT Finance
+* Processing all the payslips, and messaging ST
+* Creating a new invoice For prison 
+* and another invoice while I'm here. 
+
+## 01/10/21 11:38 to 11:47,  Taking Stock  +EQT
+Reviewing what we are up to. 
+
+## 01/10/21 11:48 to 12:08, Break with kids 
+
+## 01/10/21 12:08 to 12:28, Reviewing todo list +EQT
+* INcludign some analytics
+* Wow - there are literally only 31 THINGs. That igor misfire worked out well. 
+
+## 01/10/21 12:28 to 12:52, Working on the WWW site  +EQT
+Asked a SE question at: https://stackoverflow.com/questions/69405451/css-media-only-screen-only-triggers-when-i-resize-window
+
+## 01/10/21 13:25 to 14:17,  White Water Writers site and spreadsheet  +EQT
+* Working on spreadsheet 
+* It needs some links added, but also, how do we add from here?  
+* Unless it becomes part of the driver package. 
+
+* And how to build in the contact lists
+  * Like a database? 
+  * Books that go to schools, schools that go to staff? 
+  * Just an interested parties list really. 
+  * Maybe that's what I'm building, an interested parties list. Maybe we do it the other way around.  
+* Distracted by writing a SE question https://superuser.com/questions/1679271/arbitary-length-lookups-in-excel 
+
+Filling out the form... 
+Starting to think it might be a VA job, 
+
+You know what. I think it is.  
+
+## 01/10/21 14:17 to 14:34, OVF code. +EQT
+* Investigated a bug that came in by email and couldn't replicate so emailed the submitter (later: he emailed back - it was fixed in my last update) 
+Starting a new exercise - I want to get rid of all the errors and warnings that come up when the CK20V2 file is processed, it doesn't look great (and isn't great) when the default template throws warnings. 
+* started with fixing bits like extra print statements that are not needed. 
+  * And fixing my MS office subscription
+
+## 01/10/21 14:34 to 14:57,  Interrupt for children. 
+ 
+## 01/10/21 14:57 to 16:05, Back on the code.  +EQT
+* Mostly working through the pptx file fixing links that go nowhere, or go to the wrong place, or have additional bits of messy images
+* Started a separate branch 'fixwarnings' for it (later: this turned out to be useful) 
+* Started investigating this error: 
+    Feedback added :<class 'KeyError'> EXCEPTION IN (/Users/Shared/git/TheOpenVoiceFactory/grid.py, LINE 117 "if shape.auto_shape_type == MSO_SHAPE.FOLDED_CORNER:"): 'line'
+  * Added various print statements and removed the exception handling and started to wonder if it's a bug in the library
+
+## 02/10/21 07:45 to 08:49, Good morning! Memory book time 
+Done, result. Just the TTS to do now and the other proofreaders.  
