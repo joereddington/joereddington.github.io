@@ -4022,3 +4022,78 @@ Starting a new exercise - I want to get rid of all the errors and warnings that 
 
 ## 02/10/21 07:45 to 08:49, Good morning! Memory book time 
 Done, result. Just the TTS to do now and the other proofreaders.  
+## 05/10/21 06:00 to 07:21, Following up on KeyError +EQT
+I've returned to the error I was investigating on Friday. 
+* I've got an MCVE, but I should really test it on the latest version of the library.
+  * Upgrading the library (from 0.6.18 to 0.6.21) might cause problems 
+  * I updated python-pptx with pip3 install --upgrade python-pptx
+  * All tests pass 
+  * Will have to look into updating it online 
+  * Submitted the issue here: https://github.com/scanny/python-pptx/issues/749
+  * added calendar event to check it out.  (later: fixed a typo about versions) 
+
+## 05/10/21 07:30 to 07:56, Tracking a new icon error +EQT 
+Tracking a strange error (later: turned out to be a line I'd accidentally deleted   
+
+## 05/10/21 08:00 to 09:45,  School run +Family 
+## 05/10/21 09:45 to 11:50, looking at  WWW issue  +EQT
+* There's a bug with spaces in names
+* Sorted out vim on server 
+* Driver 
+  * I've brought the driver under version control. Not storing it online yet. 
+  * I've improved the look of the create new camp 
+  * I've added Javascript validation to fix the actual problem 
+* Camp  
+  * I did a hack to fix timezones, and while I was there I properly formatted the number of words.
+  * Committed and pushed
+  * Investigated titles
+    * Wrote a script to grep them out. 
+    * Put it into update.py 
+    * Added it to dashboard for the foreseeable
+    * Pushed 
+
+
+## 05/10/21 11:50 to 12:45, Back to fixing the warnings on the default template +EQT
+* We now output the correct slide number
+* Hmm, there is a new error.  
+  Feedback added :<class 'AttributeError'> EXCEPTION IN (/Users/Shared/git/TheOpenVoiceFactory/grid.py, LINE 91 "if click_action.hyperlink.address is not None:"): 'NoneType' object
+ has no attribute 'hyperlink'
+  * I removed the offending issue from the pptx and also reordered the process_shape logic so that it will be easier to refactor later
+
+## 05/10/21 13:02 to 14:41, Tidying up and pushing and updating OVF site +EQT
+* My changes broke the regression tests.
+* I've updated them, and changed how they are done so it's easier to compare them in the future. 
+* I've commented out the other test that was failing because it relates to a abandoned feature 
+* Checked the changes to the pageset online 
+* This  git merge --squash <feature branch> (::git) turned out to be a really good way of making a faffy commit structure look much nicer. I like it and I want to use it again.  
+* Updated the OVF site with the changes 
+
+
+## 05/10/21 14:41 to 14:47, Writing up notes +EQT
+My day so far has involved two big coding projects, although neither were high priority they are both nice to have done. 
+
+## 05/10/21 14:47, Now time for a transition. Email? Delores?  
+I think Delores is probably for the best with 90 minutes to go.   
+
+## 05/10/21 14:48 to 14:59, Delores +EQT
+
+## 05/10/21 14:59 to 15:07, Interrupt for +WWW +EQT 
+The book isn't being written but the proof is? 
+Hmmm. I don't know how I fixed it, but it's fixed.  
+
+## 05/10/21 15:07 to 15:50, Delores again  +EQT
+* Ha! Going live - so much of the work I did today would have been great for it. 
+* The last couple of days have been brilliant for putting hours in, but they haven't really focused on anything in my long term plans have they? 
+* Reviewing previous dates - I think that the automatic timesheet update has made this a bit better, but I should update that. 
+  * Some small updates to the annual leave calculator
+
+
+## 05/10/21 15:50 to 16:23, (A) Check actions from last meeting +EQT
+...and writing up a starting point. 
+
+What is a volunteer and what isn't. 
+
+We define a volunteer in terms of responsibility and access.  A bystander who helps us arrange tables before an event isn't a volunteer, nor is someone who contributes to our open source projects.  However someone who arranges the flowers for Flowers For Turing, or runs a white water writers camp certainly is.   The difference in these cases is that the volunteer has been given some level of responsibility (which could be physical, financial or relate to information) - specifically someone is an eQuality Time Volunteer if we delegate some of the organisations own responsibility to them.  
+
+## 05/10/21 18:21 to 18:28, Personal look at delores 
+Added the kitchen 
