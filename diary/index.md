@@ -4097,3 +4097,66 @@ We define a volunteer in terms of responsibility and access.  A bystander who he
 
 ## 05/10/21 18:21 to 18:28, Personal look at delores 
 Added the kitchen 
+## 06/10/21 06:07 to 06:49, Delores  +EQT
+Learned that you can write php -S localhost:9000 to host for a php script. That's going to be useful. 
+* Processing this file
+
+## 06/10/21 06:49 to 07:54,  Clear email inbox +EQT
+* Responded to github issue :) 
+* Taken out most of the personal one 
+* Adjusted projects and ran igor. 
+* I feel like this is taking a long time and that I should have absolutely knocked this on the head before 8am. 
+* Setting up CSRG group 
+* used loss-of-internet time to do some document tidying
+* Just started the trustees
+
+## 06/10/21 08:00 to 10:14, Family and long school run. 
+
+## 06/10/21 10:15 to 12:33,gmail +EQT
+* EQT newsletter was 45 minutes
+* Phone call about white water writers
+* Working through the rest. 
+* 4 left 
+* Working on the insurance 
+* Looking at etherpad 
+  * And aws in general 
+  * I mean, there's a reasonable argument for spinning up on osx virtual machine and running everything through that... https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html  
+  * But like, I'd like someone to talk to about it. 
+
+## 06/10/21 12:33 to 12:55, Finally getting calendar to work with Thunderbird +EQT
+* Tried some google script and then discovered that thunderbird just opens it. 
+## 06/10/21 12:55 to 13:02, Ticking off first few tasks
+
+## 06/10/21 13:03 to 13:43, (B) 2021-09-22 20 Go through child project documents and word things better around 'volunteers' @private  on: https://github.com/eQualityTime/Home/issues/107 +EQT  
+I ended up rewriting it 
+
+## 06/10/21 13:44 to 14:01, General todo list.  +EQT
+## 06/10/21 14:02 to 14:13, Sorting out annual leave +EQT
+## 06/10/21 14:14 to 14:15,  Putting minutes in the right place +EQT
+
+## 06/10/21 14:15 to 14:32, I've been writing up the VA THING +EQT
+But I'm starting to think about doing this automatically. 
+
+I've got a set of folders. 
+I want a loop that goes through the folders and pulls down every single info file. 
+And then for every file it names it with the slug and extracts the title and the name of school. 
+
+That sounds like it would take me an hour and remove a lot of work for the VA. (later: three hours at least) 
+
+## 06/10/21 14:33 to 14:59, Working on https://github.com/equalitytime/public/issues/100 +EQT
+## 06/10/21 15:02 to 16:47, working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/139
+## 07/10/21 06:02 to 07:48, Working on https://github.com/eQualityTime/Home/issues/108   +EQT
+
+## 07/10/21 10:43 to 11:00, Starting +EQT
+* Writing up notes, mapping this project https://github.com/eQualityTime/TheOpenVoiceFactory/issues/139
+
+## 07/10/21 11:03 to 16:05, Working on https://github.com/eQualityTime/Home/issues/108 +EQT
+* Lunch was made while long software THINGs were happening
+
+## 07/10/21 16:05 to 16:44,  Responding to https://github.com/scanny/python-pptx/issues/749 +EQT
+
+## 07/10/21 16:26 to 16:41, Working on https://github.com/eQualityTime/Home/issues/108 
+
+## 07/10/21 16:44 to 17:09, Syncing vim bundles +EQT
+* Also dealing with an WWW issue 
+  * Have deleted a bunch of camps on server and culled the list.csv 
