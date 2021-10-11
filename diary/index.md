@@ -1,4 +1,4 @@
----
+G---
 layout: post
 title:  ""
 visible: 0 
@@ -4144,7 +4144,7 @@ And then for every file it names it with the slug and extracts the title and the
 That sounds like it would take me an hour and remove a lot of work for the VA. (later: three hours at least) 
 
 ## 06/10/21 14:33 to 14:59, Working on https://github.com/equalitytime/public/issues/100 +EQT
-## 06/10/21 15:02 to 16:47, working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/139
+## 06/10/21 15:02 to 16:47, working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/139 +EQT
 ## 07/10/21 06:02 to 07:48, Working on https://github.com/eQualityTime/Home/issues/108   +EQT
 
 ## 07/10/21 10:43 to 11:00, Starting +EQT
@@ -4160,3 +4160,49 @@ That sounds like it would take me an hour and remove a lot of work for the VA. (
 ## 07/10/21 16:44 to 17:09, Syncing vim bundles +EQT
 * Also dealing with an WWW issue 
   * Have deleted a bunch of camps on server and culled the list.csv 
+
+## 08/10/21 05:57 to 06:43,  +EQT
+* Sent someone an offer on upwork. 
+* Sorted out vim submodules (will be easier to work on server now) 
+
+## 08/10/21 06:49 to 07:34, Working on https://github.com/eQualityTime/Home/issues/108 +EQT
+* Got a meeting today - should prep forthat.  
+* But also should check that the spreadsheet is ready for my freelancer 
+
+## 08/10/21 07:34 to 07:54,  accidental facebook... 
+
+## 08/10/21 07:58 to 09:40, Looking for funding  +EQT
+Found three and have put them in the system 
+
+## 08/10/21 09:40 to 09:57, Meeting prep (making tea, doing small emails) +EQT
+
+## 08/10/21 10:00 to 11:55, Long pair of meetings +EQT
+* With lots of webdesign in the middle
+
+## 08/10/21 12:04 to 12:24, More web but now done +EQT
+* Including fixing THINGs on mobile 
+
+## 08/10/21 12:24 to 12:25, Sorting upwork +EQT
+* Bug in the annual leave? 
+  * Yeah I hadn't tagged something
+
+
+## 08/10/21 19:25 to 19:39,  +EQT sorting out quickbooks. 
+* Sorted out an odd reconciliation issue. 
+* Downloaded and reconciled
+* No unpaid bills remaining. 
+* Nothing outstanding with amazon 
+1/10 was last reconcile
+
+## 08/10/21 20:00 to 20:16,  Completing Quickbooks  +EQT
+
+## 08/10/21 20:18 to 21:11, Battering the todo list +EQT
+* Removed the geographic restrictions on the project real ads
+* Added a social media focused ad 
+* Got to say that if the code reorganisation works properly, then I don't think I'm inclined to start from scratch with the python any more. 
+* Reviewed some SE 
+* Brought Dropbox down to local hard drive
+
+## 08/10/21 21:11 to 22:08, OVF Code +EQT
+* I'm rearranging all the code in the OVF directory as a prelude to a serious rewrite. 
+
