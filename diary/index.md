@@ -3901,15 +3901,13 @@ Found three of them in the branches of communikate - I forgot I did that. And it
 I'm failing at this, how would I write it for reddit. 
 
 
-I hired influencers to help teenagers make resources about fake profiles on social mediai and they've had great results. 
+We hired influencers to help teenagers make resources about fake profiles on social media and they've had great results. 
 
 Three groups of students in different schools interviewed a set of influencers on private zoom calls and used that content as the basis for creating resources for other students.  
 
 Those resources were given to the rest of the schools and, when we tested everybody, we found that their ability to critically evaluate the content they see on the internet went up improved nicely. 
 
-It boils down to "Teenagers are probably not going to listen to parents or teachers about social media, so let's meet them 
-
-Some nice comments, numbers, on projectreal.co.uk 
+It boils down to "Teenagers are probably not going to listen to parents or teachers about social media, so let's meet them where they are because they *are* going to listen to influencers".  There's lots of nice comments on <a href=http://www.projectreal.co.uk/>projectreal.co.uk</a>. 
 
 ## 29/09/21 07:28 to 07:54, +EQT processing 
 * Open on public. 
@@ -4206,3 +4204,25 @@ Found three and have put them in the system
 ## 08/10/21 21:11 to 22:08, OVF Code +EQT
 * I'm rearranging all the code in the OVF directory as a prelude to a serious rewrite. 
 
+## 11/10/21 10:59 to 12:49,  Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/139 +EQT
+There are 1,931 lines of code (not including tests, php or scripts)! Broadly 600 each on the three big files. Feels like that's a lot.   
+
+## 11/10/21 12:49 to 13:03, +EQT updated annual leave calculations 
+## 11/10/21 13:04 to 13:54,  +EQT 
+x 2021-10-11 Offer dates to prison  on: https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2021-10-11 Pay fine
+x Drafted terms for Yvonne volenteer
+
+## 11/10/21 13:55 to 15:50, Working on https://github.com/equalitytime/public/issues/100  +EQT
+
+## 11/10/21 15:58 to 17:05,  Working on Mail Merge Code +EQT
+* Just did something fucking pythonic. Created a partial function and used it in a list comprehension.  
+  * Had to get rid of it afterwards, but it was lovely. 
+
+## 11/10/21 19:43 to 21:34, Back on Mail Merge Code +EQT
+* Of 21 emails - 9 immediately bounced - but... 
+* Reviewed this document 
+* Properly brainstormed next steps for the MailMerge 
+
+## 11/10/21 21:35 to 21:49, What am I doing tomorrow?  +EQT
+Review of day
