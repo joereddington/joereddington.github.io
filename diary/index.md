@@ -4226,3 +4226,63 @@ x Drafted terms for Yvonne volenteer
 
 ## 11/10/21 21:35 to 21:49, What am I doing tomorrow?  +EQT
 Review of day
+# Another eight hours 
+
+## 12/10/21 06:02 to 06:41, Sorting Dropbox +EQT
+* It's actually in reasonable shape 
+* Written up these notes
+
+## 12/10/21 06:41 to 07:58, +EQT Start Delores
+Reviewing stack. 
+Reviewing calendar 
+* Turn Stack into todos
+  * Sorted the artist letter 
+* Telling francesca about the emails 
+* AND EMAIL 
+
+## 12/10/21 09:40 to 09:54, +EQT hivemind question
+
+## 12/10/21 11:09 to 12:45, More email +EQT
+* Renaming youtbue videos 
+* Think about the best way of marking out camps that are coming up
+* Ended up with "Github issue until we have enought to matter" 
+* Started of the accounts
+* Five left. 
+  * Have ended up sending invoices and doing reconciliation 
+* Messaged trustees about funding bids
+* Altered vol policy. 
+
+## 12/10/21 13:01 to 13:17,  Completing on email +EQT
+
+## 12/10/21 13:30 to 13:47, Working on https://github.com/eQualityTime/Home/issues/111 +EQT
+## 12/10/21 13:50 to 13:57,  Social media break 
+## 12/10/21 13:57 to 14:15,  +EQT trying to work out references 
+## 12/10/21 14:29 to 14:33, Review where I am  +EQT
+## 12/10/21 14:34 to 15:28, Let's do some relaxing refactoring +EQT
+* After a lot of faff it became clear this was about the tests
+* Created a seperate branch to try and create OBZ tests
+
+
+## 12/10/21 15:28 to 15:36, New branch  +EQT
+I've realised that I need to do refactoring to get the tests to work!  
+* Here's the problem - my write_to_obf file expects three different subfolders, and the paths are really inconsistent about what writes to where. 
+  * Sometimes 'data' is part of the path
+  * Images are in a different directory
+
+
+## 12/10/21 15:44 to 17:15, Paper reading group.  +EQT (networking) 
+
+
+## 12/10/21 17:56 to 18:05, Seeing if I can do the THING about the icons +EQT
+
+## 12/10/21 18:22 to 18:32, Back +EQT Interupt for looking at leave
+## 12/10/21 18:44 to 18:48,  more on leave  +EQT
+
+## 12/10/21 19:07 to 19:39, Back to code +EQT
+Starting by putting generated icons in images rather than icons. 
+Ended up with an issue about images appearing at all 
+Used ng serve in anger for the first time
+
+## 12/10/21 20:00 to 20:57, Had a meeting  +EQT
+
+
