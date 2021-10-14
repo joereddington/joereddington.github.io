@@ -4286,3 +4286,78 @@ Used ng serve in anger for the first time
 ## 12/10/21 20:00 to 20:57, Had a meeting  +EQT
 
 
+## 13/10/21 06:27 to 07:59, Right let's get back to that code +EQT
+* I want to do a big overhaul of the code, but I don't want to break anything
+* I have regression tests, but only for the json output - not the obz, and the obz is a big part of this. 
+* SE recommends that I hash the obz files and compare, but that's going to take ages. However, it's also a good start
+  * I can add more complex testing once this is done. 
+* However, to produce decent hashing, I have to refactor! because the code requires a silly and complex file structure to exist.  
+* So I'm very carefully doing the first refactor to allow regression tests for a proper refacor
+  * Changed 'icons' to 'images' so everything was in the right directory' 
+  * Made sure that the directory was only hardcoded in one place. 
+  * Created a hash file function
+
+## 13/10/21 09:42 to 10:31, Hello +EQT
+* Found a genuine annoying bug about commas in special commands
+  * The issue is that one can have place(", this") but my code things that's a subcommand, sigh.   
+  * I should write a proper test - it's the right thing to do and would a fuckton faster
+  * Once I started writing tests I found a bunch of edge cases I never coded for. so now six tests don't work. 
+  * Okay we are on regressiontestsinobf and we would like to merge *only* bff2fe1ac4790d7026eb28ce85a08a4d490eaee7 (and for the hell of it, 7652c849a315f8a6bd9f4cec9d77c0b140db6288 ) 
+  * Oh wow! It worked a lot better when I chose the right commits! 
+
+## 13/10/21 10:31 to 11:28, Yet another new branch +EQT
+Now we've written the tests, we open yet another branch (from main) to fix them. 
+* Fixed some tests with basic changes. 
+* Tried csv for a while until I realised that csv wants the quote *directly* after the delimiater), 
+* we know the delimiter will be ")\s," so I put it in a regualar expression
+* Merged (with squash, because I got careless) into master, all tests passing
+* Then patched into the current branch - and as the interent warned me, some of the cherry picked branches appear more than once... 
+
+## 13/10/21 11:29 to 12:29, back to the obf regression +EQT
+* Yeah, this is a screwed up log file 
+* Failing 10 tests, but that means that the process command ones are owrking
+* Running generate regressions again. (I stopped earlier because of the process coammands bug)  
+* I can generate them 
+* I'm now running a test to test them, but I think it's slow. 
+  * Taking 30 seconds to run fail first one. :(  probably ended up as a five minute test suite. That's definitely too long  
+* Er, I'm getting a different hash every time... 
+  * Is it because of the ordering? No - it's always the same first file... o
+* let's try something else - there's 411 boards in the damn folder now. So why not work through them.  
+* Find the files and compare the json 
+  * Trying that now... 
+  * Making an alteration to see if ther is a fail.  
+  * There was a fail - but it was two minutes for two files! 
+  * Damnit - it's NOT going to work! The files are over the top of each other! 
+    * Like, it will work with exactly one pptx 
+
+## 13/10/21 12:29 to 13:31, back to the drawing board.  +EQT
+What's the best way of doing this? 
+* Get generate to write the output to invidivual directories. 
+* Tests take 247/259 seconds - that's far too long but it's what I have 
+* I've added to the main approach and I've rebased so that the history is reasonably clean. 
+
+I should remember that I've made a fair amount of progress in this sprint
+* Localcreate is better
+* Handling of special commands is better
+* internal handling of Where Files Are is better
+* Regression tests exist
+ 
+However, I now need a break - overall I don't think I'll be continuing with the interupted refactoring branch - it will be easier to rerefactor (and add proper tests as THINGs arrive) from here. 
+
+## 13/10/21 13:31 to 14:10, +EQT adding todos for refactoring - mostly to grid and pageset
+
+## 13/10/21 14:10, Lunch
+
+## 13/10/21 14:20 to 15:24, Brainstorming +EQT
+
+
+## 13/10/21 15:24 to 16:26, I think I'm going to build a funding bid engine +EQT
+* Wow - it was 40 minutes to simply copy accross all the questions! How many are there? 
+  * There are 46 individual questions to write up. That's incredible. 
+  * Like, that's 10,000 words of answers to come up with.  
+
+Do we think I could do it in a day? With this new approach?  
+
+Currently I have 3,700 words, and I think we might be copy pasting some others.
+
+* Another 15 minutes and I found I was getting into it. 
