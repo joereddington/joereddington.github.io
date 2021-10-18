@@ -4361,7 +4361,6 @@ Do we think I could do it in a day? With this new approach?
 Currently I have 3,700 words, and I think we might be copy pasting some others.
 
 * Another 15 minutes and I found I was getting into it. 
-Another eight hours. 
 
 ## 14/10/21 06:39 to 07:57, +EQT working on https://github.com/equalitytime/public/issues/100 
 * One annoyance is that when split questions I have to go back to the original document and split there. There's probably a better way to do that  
@@ -4394,5 +4393,34 @@ Grid.py is certainly looking nicer
 
 
 ## 14/10/21 19:57 to 20:34, Tidy up this file for a while +EQT 
+
+
+
+## 15/10/21 06:59, Okay, I should call mum. 
+
+I've gone suddenly sad. Or at least, I'm acting out sad. 
+
+
+## 15/10/21 07:08 to 10:22, Book time. 
+Done three chapters
+There are more typos than I'd like. But that's why I'm doing this. 
+* Got to a strange point and I wnat to see how it looks in the text.
+* I've changed a layout THING and I'm a bit worried about how that will play out... 
+  * I've looked it over and it's given me an extra two pages so I'll take it. :) 
+Up to page 80, after about 80 minutes... 
+* Adding content still... need to put a lock on that.  
+* Although it also added an extra two pages so... 
+* Got as far as the classes example, which suggests I'm halfway though. It's going quite well. 
+* Taking a small break to sort out margins 
+  * Evening them up added four pages? 
+  * Yeah, it makes the book narrower. That means another review. sigh. But I like it more 
+
+## 15/10/21 12:55 to 10:24, Hello. 
+
+Testing https://www.cereproc.com/en/home
+You could use template, or, if you enjoy old-school computer science, structure or record.
+p163 
+
+I got to chapter 'the palace' There's probably 20 minutes left and then another 40 minutes sending it to proofreaders and uploading the fresh version to amazon. 
 
 
