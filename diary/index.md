@@ -1,4 +1,4 @@
-G---
+---
 layout: post
 title:  ""
 visible: 0 
@@ -4422,5 +4422,42 @@ You could use template, or, if you enjoy old-school computer science, structure 
 p163 
 
 I got to chapter 'the palace' There's probably 20 minutes left and then another 40 minutes sending it to proofreaders and uploading the fresh version to amazon. 
+
+
+## 18/10/21 10:07 to 12:13, +EQT Delores
+It's been a bit of an unfocused morning so far. I've checked in on THINGs, reviewed some code. Learned about vim buffers, tidied up and processed papers
+
+## 18/10/21 12:16 to 12:32, Put list in order +EQT
+## 18/10/21 12:32 to 13:54, Working on https://github.com/equalitytime/public/issues/100 +EQT
+
+## 18/10/21 13:55 to 14:32, +EQT
+* Tidying up todo list
+* Reviewing the project real site 
+  2,000 people turn up. 
+  700 scroll! 
+  78 click in the first session 
+  50 download something. 
+
+  * That's a pretty ripe place for me to start optimising right? 
+  * We know what the goal is - it's to reach the third session. 
+  * So do some A/B testing - drastically reduce the size of the logo, move up the options, reduce the amount of words 
+
+
+## 18/10/21 14:40 to 15:50,  +EQT
+* Fixing website bug
+* Telling Richard about the thing 
+* Picking off easy bits of the list
+
+## 18/10/21 15:50 to 16:40, IMPS code +EQT
+Tried to upgrade to python3 and got further than last time but I also discovered that the library I use is deprecated 
+
+## 18/10/21 18:24 to 18:45, +EQT two funds need doing. 
+## 18/10/21 19:15 to 19:47, Back to the funds +EQT
+## 18/10/21 20:12 to 21:01, Back at the funds again +EQT
+* I mostly worked on the more urgent one (which is good). Was some reasonably solid work overall.  
+
+
+## 18/10/21 21:08 to 21:20, Let's do some memory book. 
+Got it done and sent it to a proofreader who has been super great. 
 
 
