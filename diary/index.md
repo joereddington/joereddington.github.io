@@ -4461,3 +4461,38 @@ Tried to upgrade to python3 and got further than last time but I also discovered
 Got it done and sent it to a proofreader who has been super great. 
 
 
+## 19/10/21 06:20 to 06:43, Some more sneaky memory books. 
+
+## 19/10/21 06:43 to 07:45, +EQT grant work 
+
+## 19/10/21 10:38 to 11:31, Working on https://github.com/eQualityTime/Public/issues/136 +EQT
+## 19/10/21 11:32 to 12:23, Working on https://github.com/eQualityTime/Home/issues/111 +EQT
+## 19/10/21 12:23 to 13:05, Need to rewrite this file.  +EQT
+
+That's 5:37 pm. That's quite late. Particularly when there will be people arriving at 5:10 
+
+## 19/10/21 13:19 to 13:39, been doing the messages +EQT
+
+## 19/10/21 13:39 to 13:55, Now it's proper email  +EQT
+106 went down to 20 with one triage 
+A bunch more got canceled
+
+
+## 19/10/21 15:28 to 15:45, Back.  +EQT
+* Dealt with upwork 
+* Ticked off other emails 
+
+
+## 19/10/21 17:04 to 17:12, Few minutes for code.  +EQT
+
+## 19/10/21 19:56 to 20:13, Back for code +EQT
+Putting the json export into pageset
+
+## 19/10/21 21:02 to 22:15, Back for code again.  +EQT
+* Trying to add tests for the manifest file into test_regressions
+* Hmm, the test passes, but shouldn't because I broke the code... 
+  * Opendiff finds the error
+  * I think I've fixed it 
+* Currently getting rid of make_title(grid.tag) in favour of grid.title. 
+* I forgot to unbreak the code again!
+* Things are gradually working, but I think I'm going to run the full test suite and then commit... 
