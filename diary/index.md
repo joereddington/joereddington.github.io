@@ -4511,7 +4511,7 @@ Putting the json export into pageset
 ## 20/10/21 11:20 to 11:43, Working on the prison funding +EQT
 * Bought some funding books. 
 
-## 20/10/21 11:44 to 15:05, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/140
+## 20/10/21 11:44 to 15:05, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/140 +EQT
 It's mostly done and now working - it's live online
 * Feels worthwhile - when I was rewriting the tests to use the new code I was replacing eight lines with one. 
 The tests take a horrible long time to run. 
