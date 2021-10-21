@@ -4496,3 +4496,29 @@ Putting the json export into pageset
 * Currently getting rid of make_title(grid.tag) in favour of grid.title. 
 * I forgot to unbreak the code again!
 * Things are gradually working, but I think I'm going to run the full test suite and then commit... 
+
+## 20/10/21 05:57 to 07:33, Working on https://github.com/eQualityTime/Home/issues/111 +EQT
+* Submitted 
+
+## 20/10/21 07:33 to 07:57, https://github.com/equalitytime/public/issues/100 +EQT
+
+## 20/10/21 09:48 to 10:41, Working on https://github.com/equalitytime/public/issues/100 +EQT
+* Submitted! 
+
+## 20/10/21 10:42 to 11:20, Talking to YS and fixing WWW bugs +EQT
+* Also moved forward the big spreadsheet
+
+## 20/10/21 11:20 to 11:43, Working on the prison funding +EQT
+* Bought some funding books. 
+
+## 20/10/21 11:44 to 15:05, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/140
+It's mostly done and now working - it's live online
+* Feels worthwhile - when I was rewriting the tests to use the new code I was replacing eight lines with one. 
+The tests take a horrible long time to run. 
+
+
+## 20/10/21 15:17 to 16:09, Email +EQT
+
+
+## 20/10/21 19:21 to 19:21, Memory book 
+
