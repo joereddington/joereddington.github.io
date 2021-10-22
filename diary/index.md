@@ -4522,3 +4522,63 @@ The tests take a horrible long time to run.
 
 ## 20/10/21 19:21 to 19:21, Memory book 
 
+
+## 21/10/21 06:29 to 07:50, Emails and prison bid  +EQT
+* Inbox done! 
+
+## 21/10/21 09:30 to 09:45, Talking to trustees +EQT
+
+## 21/10/21 10:14 to 11:18,  Working on prison grant +EQT
+Drafted and sent to trustee
+
+## 21/10/21 11:19 to 11:48, Looking at allbooksever +EQT
+Some initial playing to see what was available 
+
+## 21/10/21 11:49 to 12:07,  Writing up this file +EQT
+## 21/10/21 12:15 to 12:27,   Mostly getting annoyed by Insurance octupos +EQT
+
+## 21/10/21 12:42 to 14:00, Attacking the list.  +EQT
+
+60 on the list 
+
+Some already done: 
+x 2021-10-21 Check the next school time +EQT Time:03 
+x 2021-10-21 map project:Bring in external funding by X +EQT
+x 2021-10-21 Create an IMPS branch for implementing threaded downloads of files
+x 2021-10-21 Open and log progress on the bid status document +EQT Time:04
+x 2021-10-21 Search for funding for eQuality Time Projects +EQT
+x 2021-10-21 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+x 2021-10-21 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-10-21 (C Trustees) Open risk assessment and copy paste information in +EQT https://github.com/equalitytime/public/issues/100
+x 2021-10-21 Get an upwork person to find all the covers for books in the allbooksever sheet
+x 2021-10-21 Open Allbooksever sheet and work out teacher names on: https://github.com/eQualityTime/Home/issues/108 +EQT
+x 2021-10-21 Open list of projects to be funded +EQT
+x 2021-10-21 Post to WWW facebook page +EQT @nova @phone  Time:10 
+
+Some Projects reviewed at the time: 
+x 2021-10-21 (.) Work on: https://github.com/eQualityTime/Home/issues/111 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/120 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/134 +EQT
+
+Worked on: 
+Working on https://github.com/eQualityTime/Home/issues/108
+
+Working on https://github.com/equalitytime/public/issues/107
+
+
+## 21/10/21 14:00 to 14:34, Let's put in that funding.  +EQT 
+Submitted 
+
+## 21/10/21 14:34 to 15:13,  https://github.com/eQualityTime/Public/issues/131
+
+## 21/10/21 15:13 to 16:15,  Reading grants book +EQT
+Getting very annoyed with it 
+
+## 21/10/21 19:09 to 19:27, Hello  +EQT
+Tidying up the github 
+
+## 21/10/21 20:42 to 21:02,  Back +EQT
+* Still tidying up gitub.
+
+## 21/10/21 21:03 to 21:19, Brainstorm eight hour days.  +EQT
