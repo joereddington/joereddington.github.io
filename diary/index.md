@@ -4582,3 +4582,26 @@ Tidying up the github
 * Still tidying up gitub.
 
 ## 21/10/21 21:03 to 21:19, Brainstorm eight hour days.  +EQT
+## 22/10/21 06:29 to 06:43, Getting started 
+## 22/10/21 06:42 to 07:47,  Memory book 
+## 22/10/21 08:01 to 12:22, Todo list
+193 items!
+* I bought some key tags for finding them if lost 
+* Fixed Nova's scooter
+* Drafted birthday ideas
+* Fixed radiator 
+* Did a lot of work on a spreadsheet. Need to arrange some tours
+* Okay, let's think about the  office. What needs to happen?   
+
+## 22/10/21 12:22 to 13:17, Working on https://github.com/joereddington/Projects-Public/issues/55
+
+## 22/10/21 13:18 to 14:08, Playing with mouse sniper 
+## 22/10/21 20:57 to 21:34, Playing with mouse sniper 
+## 23/10/21 10:01, Playing with mouse sniper
+## 02/11/21 09:58 to 11:50,  +EQT
+Emails, messages, calls and meeting prep
+
+## 02/11/21 12:56 to 15:50, Back after lunch +EQT
+## 02/11/21 15:56 to 16:06, Writing up this file  +EQT
+## 02/11/21 19:30 to 21:16, Meeting +EQT prep 
+## 02/11/21 00:30 to 01:10, 40 min searching for artists at comic con, charged to first working day back +EQT
