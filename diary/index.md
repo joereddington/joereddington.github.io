@@ -4605,3 +4605,44 @@ Emails, messages, calls and meeting prep
 ## 02/11/21 15:56 to 16:06, Writing up this file  +EQT
 ## 02/11/21 19:30 to 21:16, Meeting +EQT prep 
 ## 02/11/21 00:30 to 01:10, 40 min searching for artists at comic con, charged to first working day back +EQT
+## 03/11/21 06:17 to 07:52, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/141 +EQT
+
+* I've created a test case which failed and now passes. I'm running the full regression tests to see if anything else changed. 
+* The full regression tests turn out to be a pain
+* An interesting way of doing the regression tests is to generate everything and then see if github has a problem... 
+
+
+## 03/11/21 08:00 to 09:46, Quality time 
+Played with trains
+
+## 03/11/21 09:47 to 10:49,  +EQT
+* I've asked an SE question at https://stackoverflow.com/questions/69822776/illegal-instruction-4-from-python?noredirect=1#comment123421768_69822776
+* I fixed #141 on ovf after a fair amount of faff
+* I've completely broken my local version of ruby and that should be cleaned out. 
+
+
+## 03/11/21 10:49 to 13:19, +EQT
+Working on the stack - distracted by making the allbooksever perfect. 
+* Wrote up this file 
+* Call from Clare (made lunch) 
+* Tidying up annual leave spreadsheet
+* Back to spreadsheet
+* Posted about Yvonne's event
+
+## 03/11/21 13:19 to 13:36, Finally done the stack +EQT
+
+## 03/11/21 13:36 to 14:41, Email is the thing now.  +EQT
+Man I crushed that email 
+
+## 03/11/21 14:41 to 16:28, Working on the headteacher mailing list +EQT
+* Natural language is hard 
+  * But promising 
+* After a fun slog I've got some emails generating 
+
+
+# TODO 
+* Ask FB to review the text
+* Complete the contact details 
+* Ask Richard which schools he'd like me not to contact 
+
+## 03/11/21 16:33, Time to get dinner done. 
