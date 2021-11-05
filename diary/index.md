@@ -4640,9 +4640,24 @@ Man I crushed that email
 * After a fun slog I've got some emails generating 
 
 
-# TODO 
-* Ask FB to review the text
-* Complete the contact details 
-* Ask Richard which schools he'd like me not to contact 
 
 ## 03/11/21 16:33, Time to get dinner done. 
+## 04/11/21 05:35 to 06:29, Hello. Some getting started with the mailscript while I wake up +EQT
+
+## 04/11/21 06:29 to 06:58, Finally emailed opikey +EQT
+
+## 04/11/21 09:57 to 10:29, Resetting system +EQT
+## 04/11/21 10:30 to 11:25, Trying to work out what the tell is going on with UHI  +EQT
+## 04/11/21 11:33 to 14:11, +EQT sorting the accounts (small extra work on code googling) 
+Long and interesting sprint (I've cut a lot of the writing) investigating the mismatch in the funding.
+## 04/11/21 14:52 to 15:13, Small code break +EQT
+
+## 04/11/21 16:36 to 16:40, +EQT finding grants 
+## 04/11/21 18:22 to 18:38, +EQT finding grants
+
+
+## 04/11/21 18:38 to 18:50, https://github.com/eQualityTime/Home/issues/108 +EQT
+## 04/11/21 19:24 to 19:37, https://github.com/eQualityTime/Home/issues/108 +EQT
+## 04/11/21 19:51 to 20:04, https://github.com/eQualityTime/Home/issues/108 +EQT
+## 04/11/21 20:24 to 21:30, https://github.com/eQualityTime/Home/issues/108 +EQT
+## 04/11/21 21:19 to 21:51, Finding grants +EQT
