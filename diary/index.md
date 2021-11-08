@@ -4661,3 +4661,6 @@ Long and interesting sprint (I've cut a lot of the writing) investigating the mi
 ## 04/11/21 19:51 to 20:04, https://github.com/eQualityTime/Home/issues/108 +EQT
 ## 04/11/21 20:24 to 21:30, https://github.com/eQualityTime/Home/issues/108 +EQT
 ## 04/11/21 21:19 to 21:51, Finding grants +EQT
+## 05/11/21 10:11 to 10:25,  Rewriting this file +EQT
+## 05/11/21 11:40 to 14:20, Attacking the todo list
+## 05/11/21 15:17 to 15:35, Booking hotels +EQT
