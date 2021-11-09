@@ -4664,3 +4664,79 @@ Long and interesting sprint (I've cut a lot of the writing) investigating the mi
 ## 05/11/21 10:11 to 10:25,  Rewriting this file +EQT
 ## 05/11/21 11:40 to 14:20, Attacking the todo list
 ## 05/11/21 15:17 to 15:35, Booking hotels +EQT
+
+## 08/11/21 09:50 to 10:37, Trying to fix python and ruby +EQT
+* I believed I had fixed python (by uninstalling) but now (command line) vim is broken
+* I Worked out that I have two different versions of ruby. 
+* I fixed jekyll for the later (joereddingtonfileless) version of them 
+* Delores now working. 
+
+## 08/11/21 10:39 to 12:26, DELORES +EQT
+* Make sure you know what the big thing of the week is? 
+  * Emailing the teachers 
+* Reviewing previous day: 
+  * Friday was really difficult - lots of interuptions - but I let the interuptions get to me and didn't roll with them. I could have, should have, been a lot better about that. 
+* Lots of good work knocking down the todo list
+
+
+## 08/11/21 12:56 to 13:05,  Back after lunch.  +EQT
+(B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+* Messaged Kate 
+  * Once I have the files I can review suitable, and see what changes I want. 
+* Should also investigate the manual 
+  * Have added a task. 
+
+## 08/11/21 13:05 to 13:27, (B) Work on: https://github.com/eQualityTime/Home/issues/108 +EQT
+* Messaged (in detail) Richard S 
+* Learned a cool shortcut in vim 
+* Next is to... 
+
+## 08/11/21 13:27 to 14:05,  +EQT
+* WWW issue  +EQT
+Wokring on Home/108
+* Map preston camps issue
+
+## 08/11/21 14:05 to 14:22, Here's a problem - there are 30 (C) tasks.  +EQT
+Updated the Delores about how to deal with the situation 
+
+## 08/11/21 14:23 to 14:55,  Phone call +EQT
+
+## 08/11/21 14:56 to 15:13, Got a few minutes before leaving for Nova. So doing the payments notes +EQT
+
+## 08/11/21 19:12 to 21:00, Richard due:2021-11-11) Find all the contact teacher contact details  https://github.com/eQualityTime/Home/issues/108 +EQT
+I've gone through and found all the main teacher contact details I can. 
+* What next? 
+  * Rebuild the database to take account of the multiple teacher contacts for some books (and to get their data out of the spreadsheet) 
+  * Split the teachers names into first and second (in their own sheet) 
+  * Write the script for normal teachers. 
+  * Fixed the git push and thus the annual leave calculations  +EQT
+  * Didn't do it in a particularly deloresy way, but didn't need to - I should work out that distinction a bit better.
+
+
+## 08/11/21 21:00 to 21:28, Tidying up this file +EQT
+So, what do we know about Delores? 
+* It Went quite well. 
+  * Would have been good to remember the 'all work is emotional' 
+  * Would have been great to do the kitchen tidying, food, and morning approaches
+  * Made a really nice dent into the main projects. Did important things  
+    * There's something to be said for 'really' big problems right? Like, MAYBE  Delores should be divided by the size of project: 
+
+<2 JUST  do 
+=20 quick note about what I'm doing 
+=60 Notes on commands and websites used for later
+>120 Blog post and detailed readme file.  Closing issues, that sort of thing. 
+
+The eight hour days have made me much more interested in attacking the really really big projects. 
+
+* Arguably - one should just start and set a timer (or pay attention to a log - if you go over an hour on a single sitting of the project, you then rewrite the issue (or write the issue) and start again. When you reach three hours, then you write the blog post. 
+
+* To be fair. The loss of time today was about phone calls, Nova, and other childcare. I was pretty on it. Delores helps me a) clear our lots of little bits on reminders and b) concentrate on important tasks for a while.  
+
+There are actually only for (C) tasks left, but two of them are 'half-days' and the other two are probably an hour long. After that I suspect I'd make a lot of mess of the (D) tasks.  Hmmm. 
+
+Let's say that I (found the mouse) and created the teacher spreadsheet in half an hour and then the code in an hour and then another hour in sending the emails. That's doable before the kids get up right? Then I get to play with the server all day right?  
+
+
+http://codingthis.com/platforms/ec2/how-to-point-a-domain-to-an-amazon-ec2-virtual-server/
+
+
