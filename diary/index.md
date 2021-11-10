@@ -4740,3 +4740,14 @@ Let's say that I (found the mouse) and created the teacher spreadsheet in half a
 http://codingthis.com/platforms/ec2/how-to-point-a-domain-to-an-amazon-ec2-virtual-server/
 
 
+## 09/11/21 06:14 to 07:57, Working on https://github.com/eQualityTime/Home/issues/108 +EQT
+## 09/11/21 09:57 to 11:13, Working on https://github.com/eQualityTime/Home/issues/108 +EQT
+
+## 09/11/21 11:17 to 11:51, Now delores  +EQT
+
+## 09/11/21 11:51 to 12:30,  37 minute sprint  +EQT
+## 09/11/21 13:27 to 14:17,  Emails +EQT
+## 09/11/21 14:27 to 14:54, Delores
+## 09/11/21 14:54 to 17:05, CSRG +EQT
+
+## 09/11/21 20:26 to 21:15, +EQT
