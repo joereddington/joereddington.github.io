@@ -4751,3 +4751,47 @@ http://codingthis.com/platforms/ec2/how-to-point-a-domain-to-an-amazon-ec2-virtu
 ## 09/11/21 14:54 to 17:05, CSRG +EQT
 
 ## 09/11/21 20:26 to 21:15, +EQT
+
+## 10/11/21 04:33 to 05:10, Good morning DElores me up.  +EQT
+This was slow - I was still quite tired
+## 10/11/21 05:10 to 06:51,  Inbox +EQT
+Done. I'm done with it. 
+
+## 10/11/21 06:57 to 07:53, I've got exactly an hour.  +EQT
+* It's going to be an AWS day
+
+So what's the first page I want to server on the AWS? 
+
+None of the github ones. 
+* Which suggests I want a script. 
+* The ones that definately have to be there evenautlla are:
+  * WWW 
+    * Watchtower
+    * Oracle 
+  * OVF 
+  * Supertitle
+
+
+And everything else arrives on github happily. 
+
+But If I'm doing web, then I should definitely start by sprucing up the three websites that are already efficient.  
+
+* Sorting out the GA, funnel and Award on the Open Voice Factory
+* A/B Testing on the Project Real site
+* Review of the White Water Writers site 
+
+So these: 
+
+
+(E) Upgrade OVF to GA4 on: https://github.com/eQualityTime/Public/issues/119 +EQT   XX
+(E) 10 Add the Nominet prize to the OVF website  XX
+(D) A/B test on the Project Real site on: https://github.com/eQualityTime/Public/issues/120 +EQT XX
+(D Truestees) Write more Ads for OVF XX
+
+NA: open MACVIM for OVF site 
+
+
+
+## 10/11/21 09:30 to 15:30, +EQT Paper strategy day 
+Went into Town and did a bunch of paper-work - like work on paper. It was good. 
+
