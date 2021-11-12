@@ -9,7 +9,7 @@ list_title: Articles
 ![Joe Reddington in the Welsh Mountains](assets/images/profile.png)
 
 
-I’m Joe. If you'd like to know more about me as a person, you should read  [this post]({% post_url 2021-02-24-Experimenting-with-html-comics %}). 
+I’m Joe. If you'd like to know more about me as a person, you should read  [this post]({% post_url 2021-01-02-mynameis %}). 
 
 The rest of the site is a collection of 400 or so posts of various odds-and-ends. I've been blogging since 2013 so topics range from webapps to [choosing colours for baby blankets](http://joereddington.com/5472/2015/11/04/its-not-baby-boy-blue.-its-sirius./).
 
