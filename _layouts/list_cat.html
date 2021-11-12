@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {% assign category = site.data.project-categories[page.category] %}
+
+  {%- if site.posts.size > 0 -%}
+ 
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <h2>{{page.category_name}} Posts</h2>
+                {% for post in site.categories["Analysis"] %}
+                <div class="card">
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="container">
+                        <h4><strong>{{post.title}}</strong></h4>
+                    </a>
+                </div>
+                {% endfor %}
+                {% else %}
+                <br>
+                <p>No posts for this category. If you have something in mind, check <a href="/write">Write For Us</a>
+                    page.</p>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
