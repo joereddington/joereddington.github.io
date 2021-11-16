@@ -4795,3 +4795,29 @@ NA: open MACVIM for OVF site
 ## 10/11/21 09:30 to 15:30, +EQT Paper strategy day 
 Went into Town and did a bunch of paper-work - like work on paper. It was good. 
 
+
+## 11/11/21 06:30 to 07:56,  DELORES +EQT
+## 11/11/21 09:49 to 10:57, Back after school run +EQT
+* Reviewing calendar - it's that bit in the middle that screws us up.  
+
+
+## 11/11/21 10:55 to 13:23, Working on https://github.com/eQualityTime/Public/issues/139  +EQT
+
+## 11/11/21 13:38 to 14:13,  +EQT
+
+installed php with https://linuxize.com/post/install-php-7-on-centos-7/
+
+## 11/11/21 14:13 to 16:11, Getting Driver working on AWS +EQT
+* We have to get update.py working 
+  * Latex is installed. 
+  * Switched it to python3 rather than trying to get python2.7 working. 
+* Trying https://crontab-generator.org/ to generate me a cron
+* Then get the creation of new camps working  
+
+
+## 11/11/21 16:11 to 16:40, I'm actually quite suprised with how well this has gone. WWW is basically moved. +EQT
+
+## 11/11/21 16:40 to 17:05,  +EQT
+NA is spin up a new instance and see if you can run node without problems 
+* Find the joas emails so that you can find the repo as well - the python code there will be helpful .
+
