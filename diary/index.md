@@ -4821,3 +4821,12 @@ installed php with https://linuxize.com/post/install-php-7-on-centos-7/
 NA is spin up a new instance and see if you can run node without problems 
 * Find the joas emails so that you can find the repo as well - the python code there will be helpful .
 
+## 16/11/21 10:09 to 15:30, Email +EQT
+Just ploughing through
+
+## 16/11/21 15:30 to 15:43,  Tiding up this file +EQT
+
+## 16/11/21 15:45 to 17:11,  Working on +EQT https://github.com/eQualityTime/Public/issues/139
+## 16/11/21 18:46 to 18:59, Working on +EQT https://github.com/eQualityTime/Public/issues/139
+## 16/11/21 19:34 to 20:25, Working on +EQT https://github.com/eQualityTime/Public/issues/139
+ 
