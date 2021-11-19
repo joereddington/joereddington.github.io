@@ -4849,4 +4849,48 @@ Mostly I've been tidying up a spreadsheet
 * Just staring 
 * This is what we need code for. 
 * I'm going to go and write notes 
+
+## 18/11/21 06:19 to 07:58,  Working on +EQT https://github.com/eQualityTime/Public/issues/139 
+* .vim directory has been cloned and a script added 
+* Commands have been saved  
+* Etherpad has been commited. 
+* A new instance has been set up 
+* Tried the youtube video - it is apt-get one from 2017. 
+* Tried another page 
+* Going to try this one next with a new instance. https://gist.github.com/sumardi/5559803
+* This is (offical amazon) interesting: https://www.youtube.com/watch?v=WmdL8aOVooM nginx works right after the first command... 
+* Learned a reasonable amount from https://www.youtube.com/watch?v=_EBARqreeao&t=561s 
+* Right, I had to 'start' php with sudo systemctl start php-fpm for there to be a /var/run/php-fpm/php-fpm.sock file. ws 
+* OMG it worked - using https://gist.github.com/sumardi/5559803 I am now severing a php file! 
+
+
+sudo yum install -y nginx php-fpm works for the php but NOT the nginx? 
+
+5 Google for nginx and jekyll (or try this: https://gist.github.com/rickharrison/6410194 ) 
+7 Use the youtube link on a fresh install to work out the php of it all.  
+8 Back up the key somewhere  
+
+
+## 18/11/21 09:43 to 11:43, +EQT https://github.com/eQualityTime/Public/issues/139
+
+## 18/11/21 11:43 to 12:59,  +EQT
+Okay next things are to set up etherpad (again) and finally fix the jeykll links.  
+
+* Associated an elastic IP address. 
+  * Which meant I had to re-log-in with the ssh 
+
+* Fix the jeykll links 
+* Set up etherpad (again) 
+* Setup cron on new server 
+* Point the domain name at the right place 
+* delete old server 
+* Start developing the Orcele system 
+* found various ways to install jekyll. None have worked so far. 
+* Yekyll is a lot harder to install than it should be 
+
+
+* I want it finnished by the end of the day so that I can hand it over to Richard.
+* But that doesn't include the evernote does it? 
+
+
 ## 18/11/21 15:35 to 16:45, Back to poke +EQT
