@@ -4830,3 +4830,23 @@ Just ploughing through
 ## 16/11/21 18:46 to 18:59, Working on +EQT https://github.com/eQualityTime/Public/issues/139
 ## 16/11/21 19:34 to 20:25, Working on +EQT https://github.com/eQualityTime/Public/issues/139
  
+## 17/11/21 06:32 to 07:02,  Writing up yesterdays notes +EQT
+
+## 17/11/21 07:47 to 07:59, Working on +EQT https://github.com/eQualityTime/Home/issues/108 
+
+## 17/11/21 10:10 to 12:25, Working on +EQT https://github.com/eQualityTime/Home/issues/108 
+
+
+## 17/11/21 12:47 to 13:14, +EQT 
+Fixing CRC cards
+
+## 17/11/21 13:15 to 16:10, Working on +EQT https://github.com/eQualityTime/Public/issues/139
+
+## 17/11/21 19:40 to 20:32,  +EQT
+Back, looking at the todo.txt
+
+Mostly I've been tidying up a spreadsheet
+* Just staring 
+* This is what we need code for. 
+* I'm going to go and write notes 
+## 18/11/21 15:35 to 16:45, Back to poke +EQT
