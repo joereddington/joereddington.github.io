@@ -4894,3 +4894,6 @@ Okay next things are to set up etherpad (again) and finally fix the jeykll links
 
 
 ## 18/11/21 15:35 to 16:45, Back to poke +EQT
+## 19/11/21 06:42 to 09:45, +EQT Working on https://github.com/eQualityTime/Public/issues/140 
+## 19/11/21 10:29 to 10:35, Time to pound away on the todo list
+## 19/11/21 14:37 to 15:14, Pounding away at todo list
