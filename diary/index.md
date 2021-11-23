@@ -4897,3 +4897,48 @@ Okay next things are to set up etherpad (again) and finally fix the jeykll links
 ## 19/11/21 06:42 to 09:45, +EQT Working on https://github.com/eQualityTime/Public/issues/140 
 ## 19/11/21 10:29 to 10:35, Time to pound away on the todo list
 ## 19/11/21 14:37 to 15:14, Pounding away at todo list
+## 22/11/21 09:54 to 10:27, +EQT
+I am going to sprint until 12:00, when I shall go to the shop for salad things. 
+I am using delores, focusing on mindset.
+* Calendar 
+  * Main apointment is the meads. 
+* Internet loss. 
+
+## 22/11/21 10:28 to 10:37, Bike interupt because they are time critical tasks
+
+## 22/11/21 10:37 to 10:59, Sprint again +EQT
+* Inbox  done
+* Processing this file. 
+* Reviewing last week. (apparently NOT because internet  - rebooting router
+* Big thing for today? 
+  * Unsure if this is a thing. 
+
+## 22/11/21 10:59, Deleted (*) Blog some notes about creating epubs @desk +EQT 
+## 22/11/21 11:00 to 11:23, (B teachers) Review and rewrite the pack for teachers +EQT
+* Find it first.
+* Okay, this is the pdf version https://equalitytime.co.uk/download/WWW_info_pack.pdf 
+* There is a dropbox version called eQuality time WWW Information Pack. 
+* I've edited and it will be ready to send. 
+
+## 22/11/21 11:23 to 12:00, (C due:next meeting) Put grant writer request onto mediatrust website https://github.com/equalitytime/public/issues/109  +EQT
+
+## 22/11/21 12:00 to 12:39,  Lunch 
+* Including bike ride and shops. 
+
+## 22/11/21 12:39 to 13:28, Sprint +EQT
+Sprinting until alarm. Which didn't go off. Agggg!  
+
+## 22/11/21 13:38 to 14:50,   School visit 
+
+## 22/11/21 14:50 to 15:53, Working on https://github.com/eQualityTime/Public/issues/57 +EQT
+* Start at the top and read I guess
+* I did about half of them, and there are a range of changes I'd like to put in. 
+* Lost focus a bit but still going 
+* Created a conflict of interest form. 
+
+## 22/11/21 15:54 to 16:26, Hacking at todo list +EQT
+* I have stopped being quite so mindful, but I did get a lot out of it and will be doing it tomorrow as well. 
+
+## 22/11/21 16:26 to 16:58, Working on https://github.com/eQualityTime/Public/issues/140 +EQT
+## 22/11/21 19:30 to 20:10,  Picking up where I left off +EQT
+## 22/11/21 20:10 to 21:22, Working on +EQT   https://github.com/eQualityTime/Public/issues/139 
