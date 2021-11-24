@@ -4942,3 +4942,15 @@ Sprinting until alarm. Which didn't go off. Agggg!
 ## 22/11/21 16:26 to 16:58, Working on https://github.com/eQualityTime/Public/issues/140 +EQT
 ## 22/11/21 19:30 to 20:10,  Picking up where I left off +EQT
 ## 22/11/21 20:10 to 21:22, Working on +EQT   https://github.com/eQualityTime/Public/issues/139 
+## 23/11/21 06:44 to 08:01, Working on +EQT Public/issues/139
+## 23/11/21 09:41 to 11:37, DELORES  +EQT
+Sprinting until 12:00 
+* Really need to work out where 'social media process' goes. 
+* Writing up this file and updating notes. (Never feels useful until it does...)  
+* Wait, I'm NOT meant to be doing this, I'm meant to have 
+* Then did too much faffing that I'm NOT meant to be doing on the AWS. Email now. 
+* Deciding if I have to do Dox direct again then I may as well do Leo's book. 
+
+## 23/11/21 11:37 to 12:02, One inbox done. Now the next one. Unsubscrbe first +EQT
+## 23/11/21 12:21 to 15:53,  Email +EQT
+## 23/11/21 15:53 to 17:09, +EQT paper meeting 
