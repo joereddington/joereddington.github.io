@@ -4954,3 +4954,74 @@ Sprinting until 12:00
 ## 23/11/21 11:37 to 12:02, One inbox done. Now the next one. Unsubscrbe first +EQT
 ## 23/11/21 12:21 to 15:53,  Email +EQT
 ## 23/11/21 15:53 to 17:09, +EQT paper meeting 
+# Another eight hours. 
+
+## 24/11/21 06:31 to 06:58, Getting self orgnised   +EQT
+* Sort banking (annoying) 
+* Funding bid. 
+* Two funding bids. 
+* The money can wait I think. 
+
+## 24/11/21 06:58 to 08:04, Working on Collaborate Grant +EQT
+* They are looking for the top ten expressions of interest, we are then given a shortlist of three academics to work with.  
+* Topics must broadly relate to the Centre’s social definition of cultural 
+value - i.e. “The difference arts, culture, heritage and screen makes to people’s lives and 
+society”.
+* It's about 1300 words in total that they are looking for. 
+* Expressions of Interest are limited to one submission per cultural organisation, Sounds like White Water Writers. 
+  * Doesn't cover evaluation of existing projects. 
+
+## 24/11/21 09:39 to 10:34,  Getting started  +EQT
+Sprinting until 1pm because we'll have eaten. 
+* Plan food. Um, getting through these peanuts... Salad, late afternoon.  
+* Social media process  When the eight hours are up. 
+* Reviewing yesterday - the networking helped, but there is NO subsitute for being at the desk early. 
+
+## 24/11/21 10:34 to 11:24, First funding Application +EQT
+New plan,  abandon what we wrote before - it's too angry. Switch to dumpertrucking in from the scotland grant. 
+I drafted and submitted. 
+
+## 24/11/21 11:24 to 12:06, Second Funding application  +EQT
+10 pages for a, what?, 10% chance of £3,000 presume 5 hours? at 18 per hour that's £100.  It's still technically worth it, but honestly. I need a person for this. 
+
+## 24/11/21 12:07 to 12:14, if I don't have lunch I'll finish on time today. Small break.  
+
+## 24/11/21 12:14, So ah, what now? 
+## 24/11/21 12:19 to 12:39,  Accounts +EQT
+* Balance sheet matches
+* Changed up the SOFE - it matches now! Whoop!  
+
+## 24/11/21 12:39 to 13:29, Taking a break 
+
+## 24/11/21 13:29 to 16:08, Back  Working on AWS +EQT
+* I've created an issue at https://github.com/michal-h21/tex4ebook/issues/83
+* Installed some vim colour schemes
+* I've added a www cname record to whitewaterwriters. 
+  * This is probably useful for the https https://stackoverflow.com/questions/5309910/https-setup-in-amazon-ec2 
+  * But this seems like it works without a load balancer https://docs.aws.amazon.com/cloudhsm/latest/userguide/ssl-offload-enable-traffic-and-verify-certificate.html 
+* 49 things left on the eqt.todo.txt
+* 37 after sweaping the projects
+* 32 because I tried something and it didn't work.  
+* Did a really nice push on Higher horizons ones. 
+* Talked to trustee about laptops. 
+
+## 24/11/21 16:09 to 16:44,  Attempted an educational video +EQT
+Would NOT recommend 
+
+## 24/11/21 16:44 to 17:04,  Sprinting the last bit +EQT  
+Down to 25. 
+
+Alright, so what went well today? 
+
+* I applied for a grant (just before deadline(!))
+* I fixed a bug in my accounts and nice and close to the state were I can send it to my treasurer. 
+* I moved a server migration forward and when that stalled asked about it on a forum. 
+* I put up a volenteer position on reach volentering. 
+* Worked out the next people I need to contact about a project and sorted out a spreadsheet for that. 
+
+## 24/11/21 17:04 to 17:12, more +EQT
+* I set up the next three mail merges 
+* Develop Driving Seat? Man if I was ten years younger I'd JUST  go for it. But I want the damn ads to be working! 
+* Copying 165 MB to start with...
+
+## 26/11/21 07:28 to 08:06, Bonus time +EQT 
