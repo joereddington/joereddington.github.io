@@ -5025,3 +5025,37 @@ Alright, so what went well today?
 * Copying 165 MB to start with...
 
 ## 26/11/21 07:28 to 08:06, Bonus time +EQT 
+## 29/11/21 09:48 to 10:29, DELORES +EQT
+Sprint until 12:00 
+* Rewriting this file. 
+* Reviewing calendar:
+  * Actually been okay for time (I'd still like to be waking up earlier) - soon I'm going to have to look at the actual content compared to the priorities. 
+* No social media today I think. 
+* What is the 'big thing'? 
+* The 'recreational code thing' is to sort out my internet history   
+
+## 29/11/21 10:29 to 10:39, Three small tasks  +EQT
+x (A) Resend Kat the OVF document  +EQT
+x (A) Respond to voicemail 
+x (A) Try allen key on bottom of Kat chair 
+
+## 29/11/21 10:39 to 11:42, (A) Update accounts document : https://github.com/eQualityTime/Public/issues/141 +EQT
+
+## 29/11/21 11:42 to 11:55, Asking SE Question +EQT
+
+## 29/11/21 12:27 to 13:52, Working on +EQT https://github.com/eQualityTime/Home/issues/109
+
+## 29/11/21 14:23 to 14:56, Working on https://github.com/eQualityTime/Public/issues/139  +EQT
+* Nothing on stackexchange 
+* Also Cleared out some email. 
+## 30/11/21 06:57 to 07:41, Email +EQT
+So what's the plan? Well it starts with email. 
+
+## 30/11/21 09:42 to 13:58, Inbox is finally clear +EQT
+## 30/11/21 13:58 to 15:47, Speaking to line manager  +EQT
+## 30/11/21 15:47 to 16:36, Sending the NCOP emails +EQT
+* Following up with clare as well 
+
+
+## 30/11/21 21:00 to 21:30, Funding Book in Bed +EQT
+* Timing is aproximate
