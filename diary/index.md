@@ -5059,3 +5059,66 @@ So what's the plan? Well it starts with email.
 
 ## 30/11/21 21:00 to 21:30, Funding Book in Bed +EQT
 * Timing is aproximate
+## 01/12/21 07:29 to 07:58, Engaging with work +EQT
+## 01/12/21 09:50 to 10:13, Work  +EQT
+Getting confused about a meeting and talking to yvonne +EQT
+
+## 01/12/21 11:05 to 11:18, Starting DELORES +EQT
+## 01/12/21 11:18 to 12:21, Building a Delores Page for emotional processing +EQT
+* It's +EQT because it's so that I can work. 
+* I took control - I've been reactive to the feeling rather than proactive. It was "I'm sad so I'm forced into playing computer games" rather than "I will act this way to feel better."  
+
+## 01/12/21 12:21 to 13:11,  Rewriting this file but really completing the issues in the previous day +EQT
+* This is useful https://medium.com/@m.yunan.helmy/increase-the-size-of-ebs-volume-in-your-ec2-instance-3859e4be6cb7 but the actual resize command came from https://stackoverflow.com/a/56897576/170243  
+* Running sudo ./install-tl again.  
+  * Now we wait 
+
+
+## 01/12/21 13:12 to 13:24, Five hours left for a solid working day. +EQT
+* Quite keen to find out what's going on with the latex when it installs. 
+  * TIL that the volume is automatically being used. 
+## 01/12/21 13:24 to 13:34, (A) Go to the post office with the cheques and also take box and so on.  +EQT
+
+- 01/12/21 smallest next step:  go and get the paying in book. 
+
+## 01/12/21 13:53 to 14:17, Hello  +EQT
+* I Watched https://www.youtube.com/watch?v=X3Pr5VATOyA to find out about https: 
+  * I learned a bit about how the system works - or at least, everything she said made sense
+* Also looking at https://www.youtube.com/watch?v=_3t-DZEPSIg  but it involves using some boilerplate code that I'm NOT that imporessed with
+
+
+## 01/12/21 14:17 to 15:23, Posted letter and working on AWS +EQT
+
+## 01/12/21 15:23 to 16:12,  Prep for call and then report for YS +EQT
+## 01/12/21 16:12 to 16:25,  SSL is now working!  +EQT
+* But only on the https://whitewaterwriters.com/ - the www is still NOT a thing 
+
+## 01/12/21 16:25 to 16:36,  +EQT improving commands
+lnc now returns a blank file   
+lnc is now fixed. 
+
+## 01/12/21 19:12 to 19:25, Back  +EQT
+* Did some reading of the grants books 
+
+Two hours to knuckle down for 
+
+## 01/12/21 19:25 to 20:15, Working on https://github.com/eQualityTime/Public/issues/139 +EQT
+
+## 02/12/21 06:03 to 07:57, Hello  +EQT https://github.com/eQualityTime/Public/issues/139 
+
+## 07/12/21 09:40 to 11:01, +EQT email and rants  
+## 07/12/21 11:01 to 11:29, Breifing for Connor.  +EQT
+## 07/12/21 11:29 to 12:50, This file is 200 lines long. That needs work.  +EQt
+I've done the Route 53 yet another way. Waiting to find out if it works 
+* Find more funding. I mean, I'm exhausted. I'm fed up with the whole thing and I should have an exit strategy. 
+
+## 10/12/21 09:09 to 10:43, Hello  +EQT
+Top of the list is to reply to connor. 
+
+* I've downloaded the files
+* I'm attempting to run jekyll locally
+* Gave up running it locally, now have to sort out git on the serve
+* Fixed git push from aws pages
+* The script works much more nicely than I expected. 
+* There are still 31 missing covers - I've updated the issue and emailed connor back 
+* I'm going to ask SE because it's bothering me. 
