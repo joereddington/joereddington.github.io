@@ -5108,7 +5108,7 @@ Two hours to knuckle down for
 
 ## 07/12/21 09:40 to 11:01, +EQT email and rants  
 ## 07/12/21 11:01 to 11:29, Breifing for Connor.  +EQT
-## 07/12/21 11:29 to 12:50, This file is 200 lines long. That needs work.  +EQt
+## 07/12/21 11:29 to 12:50, This file is 200 lines long. That needs work.  +EQT
 I've done the Route 53 yet another way. Waiting to find out if it works 
 * Find more funding. I mean, I'm exhausted. I'm fed up with the whole thing and I should have an exit strategy. 
 
@@ -5122,3 +5122,98 @@ Top of the list is to reply to connor.
 * The script works much more nicely than I expected. 
 * There are still 31 missing covers - I've updated the issue and emailed connor back 
 * I'm going to ask SE because it's bothering me. 
+
+## 13/12/21 09:55 to 10:03, Moving the git directory to external drive +EQT
+09:56, joereddington.github.io/Delores/main
+09:56, joereddington.github.io/Delores/index
+Running from the external drive will make it a lot easier to work in other places, including my laptop and kat's laptop, regardless of internet. 
+Everything is on git (hopefully) so that it is not a loss if the drive has an issue. 
+* Benchmarking how long the OVF tests take first
+  * Ran 28 tests in 397.006 seconds
+* Folder taking a very long time to copy 
+
+## 13/12/21 10:03 to 10:38, +EQT
+* Some delores
+* Investigated a WWW problem 
+* Planning day and keeping up with the copying. 
+
+## 13/12/21 10:40 to 13:31, +EQT
+(A) Update accounts document : https://github.com/eQualityTime/Public/issues/141 +EQT
+* Reply to Eleanor  At alexandrea Pakr 
+
+## 13/12/21 13:32 to 15:29, I'm tired and grumpy +EQT
+Write the mail merge code for luton teachers. 
+* First - fix the WWW problem I've b een avboiding 
+* fixed overleaf for a friend 
+* Right, mail merge 
+  * Added a new task for Connor 
+
+## 13/12/21 15:47 to 16:25, Tidying +EQT
+* Fixing the move of git from shared to the drive. 
+  * Turns out that a new symbolic link did most of the work. 
+
+
+## 13/12/21 16:38 to 16:52,   +EQT
+16:40, docs.google.com
+16:47, docs.google.com
+16:48, docs.google.com
+16:49, docs.google.com
+* Trying to work out my annual leave. 
+
+## 13/12/21 16:52 to 17:02, Time to hack at things +EQT
+I've checked in with the WWW error. 
+
+I Sshed in, changed the path. 
+
+I'd like to fix the WWW latex. 
+
+Or at least post about it on SE. 
+
+
+Okay, I remember - we had to put it in the path, then it broke 
+
+
+
+## 13/12/21 18:58 to 20:00,  +EQT
+Sent ebook version to Richard. They are pleased 
+* Updated the update_live.py script and are running it. 
+* Let's find out if if it works off the crontab. 
+* Tried to create a camp and got a fail :( 
+  * Damnit. 
+  * Did a fix - a unbalanced quote
+* Waiting on crontab to wake up for the others? Maybe do one more? 
+  * I've cloned the others while I wait. 
+  * Bit worried that they aren't starting up. 
+  * Found a problem with newly created ones: the Pdf directory wasn't being created. I've added a file in git, pushed, deleted, recreated and am waiting for the next cron.  
+* It's running. I've sent. 
+
+
+## 13/12/21 20:54 to 20:59, Back after dinner.  +EQT
+Okay, solid day really. What's next?  
+
+* AWS: sort out priorities. 
+
+What do I want most? 
+* Be off dreamhost
+* Etherpad working 
+* WWW working 
+* OVF moved
+
+It's pretty obvious to me that the key thing is to move OVF. Both the main code and the designs. I don't think I need to move the site at this point, but IDK.  
+
+Once the OVF site is moved, I think I can close dreamhost entirely. 
+
+There's some writing up to do for WWW I think. and indeed some reading.  
+
+## 13/12/21 21:00 to 21:34,  +EQT I've been working on old SE 
+
+* Should lookup the vim issue 
+
+## 14/12/21 06:49 to 07:53,  +EQT
+* Just processing the email. 
+
+## 14/12/21 10:18 to 10:41,  +EQT
+I was doing invoices. 
+## 14/12/21 10:41, Which aren't working. I'm restarting and I'll do the other thing
+## 14/12/21 13:50 to 14:30, +EQT phone call 
+
