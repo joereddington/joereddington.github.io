@@ -5217,3 +5217,45 @@ I was doing invoices.
 ## 14/12/21 10:41, Which aren't working. I'm restarting and I'll do the other thing
 ## 14/12/21 13:50 to 14:30, +EQT phone call 
 
+## 15/12/21 06:35 to 08:00,  Email +EQT
+## 15/12/21 09:50 to 10:55, Still emails  +EQT
+* Quickbooks is being a real pain, trying it on Chrome.  
+  * If it works on chrome, I'll try it on a clean firefox. 
+* Diversion to a discussion on replying to emails in 
+* Hey, https://www.youtube.com/watch?v=X1EAw6xny5I points out that there is a gmail api that would let me skip an import setp. 
+* You'd really think that 'allbooksever' would be a good way of working out the invoices... 
+  * It's NOT though, because we don't have a great way of saying which books happened. 
+
+## 15/12/21 11:17 to 12:29, Working on automatic notes from history +EQT
+I've been working on my history input.  
+
+The main public one wasn't working, It's still not working. It needs to be more fully deployed as a github page. I put the first parts of it together at https://joereddington.github.io/export-history/, which is a win.  
+
+Seperately I improved the import to this file via 'lnh' - that was cool.  I added a blacklists as well as whitelist (lnh is blacklist, public is whitelist).   
+
+When reviewing it became clear how rarely I am fully present in the work, how much room there is to grow, and how often I turn to the internet rather than simply thinking, solving the problem on my own, and reading man pages and help files, my books and notes. 
+
+* Investigate getting crontab online 
+* Add to the security SE question 
+
+## 15/12/21 12:27 to 13:11, Listening to podcast (and getting lunch) +EQT
+## 15/12/21 13:11 to 13:46, Working on automatic notes from history +EQT
+## 15/12/21 13:46 to 13:58, lunch  and podcast +EQT
+## 15/12/21 13:58 to 14:51,  Working on automatic notes from history +EQT
+## 15/12/21 14:51 to 14:53, Rewriting this file (and checking when I'm at the Meeting) 
+## 15/12/21 14:54 to 15:23, Podcast +EQT
+## 15/12/21 15:23 to 15:41, DELORES +EQT
+Write down review: 
+  * No space for grooming
+  * No space for personal tasks
+  * No dedicated social media time 
+  * Often there is an almost complete lack of focus. 
+  * No camera work. 
+  * No cookery
+
+## 15/12/21 15:51 to 17:27, Delores and meeting +EQT
+* After ten minute potatoe break 
+(D Clare) Open the Projects file and review/rewrite 
+Okay, well I should do that. 
+
+
