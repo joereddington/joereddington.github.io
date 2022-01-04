@@ -5259,3 +5259,63 @@ Write down review:
 Okay, well I should do that. 
 
 
+
+## 16/12/21 06:46 to 07:24,  +EQT
+
+## 16/12/21 07:46 to 08:00, +EQT
+
+
+## 16/12/21 10:05 to 10:56, +EQT Delores 
+* Social media is later. Presumably when I've got a set of things to do on it.  
+* Preparing for a long sprint 
+* Processing inbox another day
+* Processing this file. 
+  * The history files are available at https://joereddington.github.io/export-history/ 
+* 1:18 so far, should be closer to three hours. Lost time in the wake up and the Leo incident   
+* Something has reverted with the export history
+  * For some reason I have to source the vimrc for it to work. I'll see if it keeps happening. 
+* Write down a review of the previous day
+  * That waking up isn't going well. 
+  * Log files need a little work. 
+* Big thing for the week: Peace. 
+  * Work out when I hit todo.txt.  Is it in the evening? Is it on the weekend time?   
+    * First I get the start of day sorted, and then the energy, everything else will fix itself. 
+
+
+## 16/12/21 10:56 to 11:35,  +EQT 
+* sorting annual leave
+(D Clare) Open the Projects file and review/rewrite  https://www.dropbox.com/scl/fi/102dqqrdod0z9wb2kyarq/Projects-file-Updated.docx.docx?cloud_editor=gdoc&dl=0 and write Who it helps? How much it helps them? How much it costs us?
+## 16/12/21 11:36 to 12:13, (D Truestees) Write more Ads for OVF XX +EQT
+* If I'm going into Google Ads I should probably work out what's going on with WWW. 
+  * I looked into it a bit more and wrote a SE question 
+## 16/12/21 12:14 to 12:44, Now what?  +EQT
+Emails. 
+
+## 16/12/21 12:58 to 13:12,  +EQT
+Updating the server +EQT
+## 16/12/21 13:13 to 14:08, Four hours done. Four left. But I'm grumpy as hell.  +EQT
+Oh hey! I think I fixed the issue! 
+* Of course, now I have NO execuse NOT to do the google ads
+
+## 16/12/21 14:08 to 14:34,  Tried some netowrking on twitter +EQT
+## 16/12/21 14:34 to 16:21, Had rant in my head and it started a rare productive sprint  +EQT
+* Doing quickbooks 
+* Email closed. 
+* Blowing through the todo list
+* 6:23 done.  That means I'll get up to 7:36 if I work all the way until 5pm.  That feels rubbish.  
+  * Should have got up at a reasonable time then shouldn't you? 
+* Streaming eh? That feels like a bit of a 'those where the days' option. Let's do a brainstorm. 
+* It's a big and interesting brainstrom 
+## 17/12/21 07:49 to 07:58, Latex issue +EQT
+## 20/12/21 20:12 to 21:50, Working on todolist hcart
+
+## 21/12/21 06:55 to 07:35,  Working on igor
+## 21/12/21 13:42 to 14:24, Igor
+
+
+## 03/01/22 10:21, 
+Hi, How we doing? Wow - big day eh? Let'd get some stuff worked on right? Yeah...  
+
+## 03/01/22 10:26 to 10:36, Bug in the chart - I ran igor and it added 8 week-old tasks
+## 03/01/22 10:36 to 13:23, There are 87 items in the box. What can I do with each of them... 
+
