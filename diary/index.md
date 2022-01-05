@@ -5319,3 +5319,21 @@ Hi, How we doing? Wow - big day eh? Let'd get some stuff worked on right? Yeah..
 ## 03/01/22 10:26 to 10:36, Bug in the chart - I ran igor and it added 8 week-old tasks
 ## 03/01/22 10:36 to 13:23, There are 87 items in the box. What can I do with each of them... 
 
+
+## 04/01/22 06:38 to 07:58, Email +EQT
+Clearing inbox. 
+* Found out that meetup has a 'starting soon' option, which might turn out to be nice. 
+
+## 04/01/22 09:55 to 10:49, Email +EQT
+## 04/01/22 10:49 to 12:16, Accounts +EQT
+## 04/01/22 12:16 to 13:45, Connor and Networking Meeting +EQT
+
+## 04/01/22 13:50 to 14:14, Getting the task Chart for EQT working +EQT
+
+## 04/01/22 14:14 to 16:39, Picking at todo list +EQT
+Started with 77 things. All the way down to 18. Solid tidying up of the list. Also actually did some things. 
+* Tidied this file as well. 
+* The remaining todo list items are apparently less than six hours. That's going to be awesome. 
+* Also reviewed the adenda for todnight 
+
+## 04/01/22 19:40 to 20:50, Meeting +EQT
