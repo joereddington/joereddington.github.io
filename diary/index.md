@@ -5337,3 +5337,41 @@ Started with 77 things. All the way down to 18. Solid tidying up of the list. Al
 * Also reviewed the adenda for todnight 
 
 ## 04/01/22 19:40 to 20:50, Meeting +EQT
+## 05/01/22 06:48 to 07:56,  +EQT Audio tags in OVF
+* Theres a file with the fart noise in. 
+* It's in a branch on my desktop
+* Wrote a issue at https://github.com/scanny/python-pptx/issues/782 
+
+## 05/01/22 09:51 to 10:17, +EQT
+* Work networking reply
+* Goign to check meetup. 
+  * Nothing obvious right now. 
+
+## 05/01/22 10:17 to 11:08, (A) 20 Write the report on creditors and debtors https://github.com/eQualityTime/Public/issues/141 +EQT 
+Okay, well, I should do that then. 
+
+## 05/01/22 12:03 to 13:53, Did the tender form +EQT
+## 05/01/22 14:04 to 14:07,  Updating these notes +EQT
+
+## 05/01/22 14:50 to 14:57, Turns out that I already set up analytics on the website +EQT
+## 05/01/22 14:58 to 15:33, I am tired.  +EQT
+* Closing things down, removing files. Deleting. Thinking.  
+* We're below ten in the EQT list. Which I think means that we run igor again right? 
+* Ran igor
+* Been cleaning the github repos. Reminding myself what projects were open, that sort of thing. 
+* I think I need a bit of delores MAYBE ? 
+
+## 05/01/22 15:33 to 15:57, Sprinting until 1630 +EQT 
+* Process inbox. Exciting
+* Process this file
+
+## 05/01/22 15:58 to 16:05, Review of Yesterday... +EQT
+* Loud... Loud was the main thing. Constantly looking for people to talk, to react. 
+* Late up, as always. 
+* Did good push in the afternoon by touching everything, that worked. 
+
+## 05/01/22 16:05 to 16:26, What's the big thing?  +EQT
+* Sort of done - the tender stuff. The getting back to work.  
+* Open EQT
+* Looking for stuff
+
