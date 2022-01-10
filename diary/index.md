@@ -5375,3 +5375,48 @@ Okay, well, I should do that then.
 * Open EQT
 * Looking for stuff
 
+## 06/01/22 06:22 to 07:46, Hello  +EQT
+* Checked invoices 
+* Remembered that the ovf site is local again. 
+* Sorted out the analytics on button. 
+* Have set up a goal. 
+* Looking like a Google ads day. 
+
+## 06/01/22 10:07 to 12:59,  Google Ads +EQT
+* I appealed the canceled ads
+* To improve the 'landing page experience' for my White Water Writers ads I have 
+  * Reduced the size of the main image on the site
+  * Checked the page load speeds in Google Analytics - it appears only the main page is particularly slow (which is odd, because you'd think the portfolio would take a while....) 
+    * Discovered that the OVF site takes about ten seconds for the main page though... 
+  * pulled on server - had to sudo su first. 
+* For Flowers For turing 
+  * Reduced the size of the main image for page loading. 
+  * Reinstalled all the files to get the damn thing to run. 
+
+* I think there might be a problem with me trying to improve volume so much - in that it's volume that follows from quality rather than the other way around. 
+
+## 06/01/22 13:40 to 14:15, Faff, but work faff +EQT
+## 06/01/22 14:15 to 14:51, Reviewing strategy +EQT
+## 06/01/22 14:51 to 15:00, (A) 05 Do new DBS check and put it on the update server +EQT
+## 06/01/22 15:00 to 15:32,  (B) TED talk tasks for Connor.  +EQT
+Wrote this issue: https://github.com/eQualityTime/Public/issues/146
+
+## 06/01/22 15:32 to 15:43,Working on https://github.com/eQualityTime/Public/issues/139#issuecomment-1008743681 +EQT
+## 06/01/22 15:42 to 16:50, Working on https://github.com/eQualityTime/Public/issues/139#issuecomment-1008743681 +EQT
+
+## 06/01/22 18:59 to 19:29, Working on https://github.com/eQualityTime/Public/issues/139#issuecomment-1008743681 +EQT
+ I extended the size of the partition with these commands 
+1025  du -h
+ 1026  df -h
+ 1027  df -hT
+ 1028  lsblk
+ 1029  sudo growpart /devxvda 1
+ 1030  sudo growpart /dev/xvda 1
+ 1031  lsblk
+ 1032  pwd
+ 1033  df -h
+ 1034  lsblk
+ 1035  df -hT
+ 1036  sudo xfs_growfs -d /
+ 1037  df -hT
+
