@@ -5420,3 +5420,67 @@ Wrote this issue: https://github.com/eQualityTime/Public/issues/146
  1036  sudo xfs_growfs -d /
  1037  df -hT
 
+
+## 10/01/22 09:53 to 11:43, Sprinting until 12.  +EQT
+DELORES
+* Properly sorting out strategy. 
+* Collecting stacks 
+* Processing this file. 
+* Reviewing last week's work. 
+  * Just about hit the working hours last week. No gain, but we'll work with it. 
+* What's my 'big thing' this week?  
+  * Now there's a thought. 
+  * It's properly organising and staffing the three upcoming camps, with backup dates.
+* I've got a bit off-piste to run igor first, I'll tidy up after that. 
+  * I'm running igor first as part of an effort to get the stress chart working again. In general I would expect to, sooner or later, move to a place where 
+    * the chart is being updated regularly, 
+    * igor is being run automatically 
+    * vision is only adding things if they aren't already there. 
+  * Although the other pissing thing about igor is that tells you the stuff you need to work on. 
+
+## 10/01/22 11:43 to 11:55, (B) Write SE/issue about etherpad and nginx https://github.com/eQualityTime/Public/issues/139 +EQT
+Asked here: https://stackoverflow.com/questions/70651975/nginx-with-etherpad-in-a-subdirectory 
+## 10/01/22 11:56 to 12:04, Ticking off more things +EQT
+* Various things went to email 
+
+## 10/01/22 12:20 to 12:30, (C) Make changes to review policies from last meeting  https://github.com/eQualityTime/Public/issues/57 +EQT
+
+## 10/01/22 13:00 to 13:19, (C) Make changes to review policies from last meeting  https://github.com/eQualityTime/Public/issues/57 +EQT
+What doing? 
+
+* Open email and find out which three policies
+* Check the minutes to see if they were properly approved. 
+* Google for an organisation that might have a good Diversity policy.  
+
+* Have downloaded the list
+* Minutes say 'approved the policy updates' 
+  * Corrected grant application 
+  * Correct delegated authority. 
+  * Tweeted to ask... 
+  * Work the problem. 
+    * I really want a race-based charity. 
+
+## 10/01/22 13:20 to 13:42, (C) Search upwork for possible bid writers. https://github.com/eQualityTime/Public/issues/109 +EQT
+Worked on - moved to email 
+
+## 10/01/22 13:42 to 13:48, IMPs 2 - what do I do if I don't get SE response - issue and also  +EQT
+
+## 10/01/22 14:14 to 15:27,  +EQT
+(C) Write paying in slip for in cheque in drawer
+(C) Doing expenses  
+  * Now on unity
+(D) 20 Create Supertitle theory of change on: https://github.com/eQualityTime/Public/issues/13 +EQT
+
+## 10/01/22 15:27 to 16:21, (D) 20 Map and put work into 10000 missing children project +EQT
+* interupt about WWW 
+* Googling
+
+
+## 10/01/22 19:45 to 21:06,  Working on igor +EQT
+* I've entered a cron. Will find out if it works in 15 minutes. 
+* linkedin while I wait. 
+* Crontab failed. Have put in the full path for python 
+* asked about the you also like with images and stuff. 
+
+## 10/01/22 21:06 to 21:22, +EQT
+It's been pretty slow, but I am working 
