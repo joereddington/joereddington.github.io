@@ -4992,7 +4992,7 @@ I drafted and submitted.
 
 ## 24/11/21 12:39 to 13:29, Taking a break 
 
-## 24/11/21 13:29 to 16:08, Back  Working on AWS +EQT https://github.com/eQualityTime/Public/issues/139
+## 24/11/21 13:29 to 16:08, Back  Working on AWS +EQT
 * I've created an issue at https://github.com/michal-h21/tex4ebook/issues/83
 * Installed some vim colour schemes
 * I've added a www cname record to whitewaterwriters. 
@@ -5483,3 +5483,41 @@ Worked on - moved to email
 
 ## 10/01/22 21:06 to 21:22, +EQT
 It's been pretty slow, but I am working 
+
+# Easy eight hours
+# New day. 
+
+## 11/01/22 05:44 to 07:51, Starting email +EQT
+Attacking emails
+
+## 11/01/22 09:46 to 12:00, Completing +EQT email 
+Chase the teachers from the first big merge 
+* Open the spreadsheet? 
+  * Found out that most of them aren't marked as review me. 
+* Doing a more general review first.
+  * Just cracking through. 
+
+## 11/01/22 12:37 to 14:44, Back +EQT 
+* What have I been doing? 
+  * Replying to treasurer 
+  * Writing note for funder. 
+  * Wrote the upwork notes.
+* Rewriitng this file. 
+* Three emails to go all easy 
+* 6:09 - how is it only 6:09? Because if I take a lunch break of 45 minutes then I need to work until... 16:45.  There's NOT much room to miss is there? 
+* Inbox is finally empty. 
+
+## 11/01/22 15:26 to 16:02, Working on igor +EQT
+Cron appears to be working (via https://apple.stackexchange.com/a/378558/16077 )  and I've edited plotpri.py to make a chart.  
+* Moved the database to it's own file. 
+* Created a print version 
+Later: igor really needs a version 
+
+## 11/01/22 16:04 to 16:36,  Working on the Bonus chapter  +EQT
+Got the grey border via SE. More to do, but the rest is on an occasional basis.  
+
+
+## 11/01/22 20:12 to 20:38, Hello.  +EQT
+I've created a pivot table, it's interesting. It also revealed how rarely I'm marking things with the right github project. 
+
+- 11/01/22 smallest next step: go through and mark a much of things in index.md with the right issue? Is that even possible.   
