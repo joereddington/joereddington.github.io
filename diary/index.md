@@ -4443,12 +4443,12 @@ It's been a bit of an unfocused morning so far. I've checked in on THINGs, revie
   * So do some A/B testing - drastically reduce the size of the logo, move up the options, reduce the amount of words 
 
 
-## 18/10/21 14:40 to 15:50,  +EQT
+## 18/10/21 14:40 to 15:50,  +EQT https://github.com/equalityTime/whitewaterwriters
 * Fixing website bug
 * Telling Richard about the thing 
 * Picking off easy bits of the list
 
-## 18/10/21 15:50 to 16:40, IMPS code +EQT
+## 18/10/21 15:50 to 16:40, IMPS code +EQT https://github.com/equalityTime/whitewaterwriters
 Tried to upgrade to python3 and got further than last time but I also discovered that the library I use is deprecated 
 
 ## 18/10/21 18:24 to 18:45, +EQT two funds need doing. 
@@ -4483,12 +4483,12 @@ A bunch more got canceled
 * Ticked off other emails 
 
 
-## 19/10/21 17:04 to 17:12, Few minutes for code.  +EQT
+## 19/10/21 17:04 to 17:12, Few minutes for code.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 
-## 19/10/21 19:56 to 20:13, Back for code +EQT
+## 19/10/21 19:56 to 20:13, Back for code +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 Putting the json export into pageset
 
-## 19/10/21 21:02 to 22:15, Back for code again.  +EQT
+## 19/10/21 21:02 to 22:15, Back for code again.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 * Trying to add tests for the manifest file into test_regressions
 * Hmm, the test passes, but shouldn't because I broke the code... 
   * Opendiff finds the error
@@ -4505,7 +4505,7 @@ Putting the json export into pageset
 ## 20/10/21 09:48 to 10:41, Working on https://github.com/equalitytime/public/issues/100 +EQT
 * Submitted! 
 
-## 20/10/21 10:42 to 11:20, Talking to YS and fixing WWW bugs +EQT
+## 20/10/21 10:42 to 11:20, Talking to YS and fixing WWW bugs +EQT https://github.com/equalityTime/whitewaterwriters
 * Also moved forward the big spreadsheet
 
 ## 20/10/21 11:20 to 11:43, Working on the prison funding +EQT
@@ -4531,7 +4531,7 @@ The tests take a horrible long time to run.
 ## 21/10/21 10:14 to 11:18,  Working on prison grant +EQT
 Drafted and sent to trustee
 
-## 21/10/21 11:19 to 11:48, Looking at allbooksever +EQT
+## 21/10/21 11:19 to 11:48, Looking at allbooksever +EQT https://github.com/equalityTime/whitewaterwriters
 Some initial playing to see what was available 
 
 ## 21/10/21 11:49 to 12:07,  Writing up this file +EQT
@@ -4604,7 +4604,7 @@ Emails, messages, calls and meeting prep
 ## 02/11/21 12:56 to 15:50, Back after lunch +EQT
 ## 02/11/21 15:56 to 16:06, Writing up this file  +EQT
 ## 02/11/21 19:30 to 21:16, Meeting +EQT prep 
-## 02/11/21 00:30 to 01:10, 40 min searching for artists at comic con, charged to first working day back +EQT
+## 02/11/21 00:30 to 01:10, 40 min searching for artists at comic con, charged to first working day back +EQT https://github.com/equalityTime/whitewaterwriters
 ## 03/11/21 06:17 to 07:52, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/141 +EQT
 
 * I've created a test case which failed and now passes. I'm running the full regression tests to see if anything else changed. 
@@ -4615,7 +4615,7 @@ Emails, messages, calls and meeting prep
 ## 03/11/21 08:00 to 09:46, Quality time 
 Played with trains
 
-## 03/11/21 09:47 to 10:49,  +EQT
+## 03/11/21 09:47 to 10:49,  +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * I've asked an SE question at https://stackoverflow.com/questions/69822776/illegal-instruction-4-from-python?noredirect=1#comment123421768_69822776
 * I fixed #141 on ovf after a fair amount of faff
 * I've completely broken my local version of ruby and that should be cleaned out. 
@@ -4634,7 +4634,7 @@ Working on the stack - distracted by making the allbooksever perfect.
 ## 03/11/21 13:36 to 14:41, Email is the thing now.  +EQT
 Man I crushed that email 
 
-## 03/11/21 14:41 to 16:28, Working on the headteacher mailing list +EQT
+## 03/11/21 14:41 to 16:28, Working on the headteacher mailing list +EQT https://github.com/equalityTime/whitewaterwriters
 * Natural language is hard 
   * But promising 
 * After a fun slog I've got some emails generating 
@@ -4642,15 +4642,15 @@ Man I crushed that email
 
 
 ## 03/11/21 16:33, Time to get dinner done. 
-## 04/11/21 05:35 to 06:29, Hello. Some getting started with the mailscript while I wake up +EQT
+## 04/11/21 05:35 to 06:29, Hello. Some getting started with the mailscript while I wake up +EQT https://github.com/equalityTime/whitewaterwriters
 
-## 04/11/21 06:29 to 06:58, Finally emailed opikey +EQT
+## 04/11/21 06:29 to 06:58, Finally emailed opikey +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 
 ## 04/11/21 09:57 to 10:29, Resetting system +EQT
-## 04/11/21 10:30 to 11:25, Trying to work out what the tell is going on with UHI  +EQT
+## 04/11/21 10:30 to 11:25, Trying to work out what the hell is going on with UHI  +EQT
 ## 04/11/21 11:33 to 14:11, +EQT sorting the accounts (small extra work on code googling) 
 Long and interesting sprint (I've cut a lot of the writing) investigating the mismatch in the funding.
-## 04/11/21 14:52 to 15:13, Small code break +EQT
+## 04/11/21 14:52 to 15:13, Small code break +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 
 ## 04/11/21 16:36 to 16:40, +EQT finding grants 
 ## 04/11/21 18:22 to 18:38, +EQT finding grants
@@ -4665,7 +4665,7 @@ Long and interesting sprint (I've cut a lot of the writing) investigating the mi
 ## 05/11/21 11:40 to 14:20, Attacking the todo list
 ## 05/11/21 15:17 to 15:35, Booking hotels +EQT
 
-## 08/11/21 09:50 to 10:37, Trying to fix python and ruby +EQT
+## 08/11/21 09:50 to 10:37, Trying to fix python and ruby +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 * I believed I had fixed python (by uninstalling) but now (command line) vim is broken
 * I Worked out that I have two different versions of ruby. 
 * I fixed jekyll for the later (joereddingtonfileless) version of them 
@@ -4679,8 +4679,7 @@ Long and interesting sprint (I've cut a lot of the writing) investigating the mi
 * Lots of good work knocking down the todo list
 
 
-## 08/11/21 12:56 to 13:05,  Back after lunch.  +EQT
-(B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+## 08/11/21 12:56 to 13:05,  Back after lunch.  +EQT (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 * Messaged Kate 
   * Once I have the files I can review suitable, and see what changes I want. 
 * Should also investigate the manual 
@@ -4691,7 +4690,7 @@ Long and interesting sprint (I've cut a lot of the writing) investigating the mi
 * Learned a cool shortcut in vim 
 * Next is to... 
 
-## 08/11/21 13:27 to 14:05,  +EQT
+## 08/11/21 13:27 to 14:05,  +EQT https://github.com/equalityTime/whitewaterwriters
 * WWW issue  +EQT
 Wokring on Home/108
 * Map preston camps issue
@@ -4754,10 +4753,10 @@ http://codingthis.com/platforms/ec2/how-to-point-a-domain-to-an-amazon-ec2-virtu
 
 ## 10/11/21 04:33 to 05:10, Good morning DElores me up.  +EQT
 This was slow - I was still quite tired
-## 10/11/21 05:10 to 06:51,  Inbox +EQT
+## 10/11/21 05:10 to 06:51,  Inbox +EQT email
 Done. I'm done with it. 
 
-## 10/11/21 06:57 to 07:53, I've got exactly an hour.  +EQT
+## 10/11/21 06:57 to 07:53, I've got exactly an hour.  +EQT  https://github.com/eQualityTime/Public/issues/139
 * It's going to be an AWS day
 
 So what's the first page I want to server on the AWS? 
@@ -4807,17 +4806,17 @@ Went into Town and did a bunch of paper-work - like work on paper. It was good.
 
 installed php with https://linuxize.com/post/install-php-7-on-centos-7/
 
-## 11/11/21 14:13 to 16:11, Getting Driver working on AWS +EQT
+## 11/11/21 14:13 to 16:11, Getting Driver working on AWS +EQT https://github.com/eQualityTime/Public/issues/139
 * We have to get update.py working 
   * Latex is installed. 
   * Switched it to python3 rather than trying to get python2.7 working. 
 * Trying https://crontab-generator.org/ to generate me a cron
 * Then get the creation of new camps working  
 
+ 
+## 11/11/21 16:11 to 16:40, I'm actually quite suprised with how well this has gone. WWW is basically moved. +EQT https://github.com/eQualityTime/Public/issues/139
 
-## 11/11/21 16:11 to 16:40, I'm actually quite suprised with how well this has gone. WWW is basically moved. +EQT
-
-## 11/11/21 16:40 to 17:05,  +EQT
+## 11/11/21 16:40 to 17:05,  +EQT https://github.com/eQualityTime/Public/issues/139
 NA is spin up a new instance and see if you can run node without problems 
 * Find the joas emails so that you can find the repo as well - the python code there will be helpful .
 
@@ -4873,7 +4872,7 @@ sudo yum install -y nginx php-fpm works for the php but NOT the nginx?
 
 ## 18/11/21 09:43 to 11:43, +EQT https://github.com/eQualityTime/Public/issues/139
 
-## 18/11/21 11:43 to 12:59,  +EQT
+## 18/11/21 11:43 to 12:59,  +EQT  https://github.com/eQualityTime/Public/issues/139
 Okay next things are to set up etherpad (again) and finally fix the jeykll links.  
 
 * Associated an elastic IP address. 
@@ -4893,7 +4892,7 @@ Okay next things are to set up etherpad (again) and finally fix the jeykll links
 * But that doesn't include the evernote does it? 
 
 
-## 18/11/21 15:35 to 16:45, Back to poke +EQT
+## 18/11/21 15:35 to 16:45, Back to poke +EQT https://github.com/eQualityTime/Public/issues/139
 ## 19/11/21 06:42 to 09:45, +EQT Working on https://github.com/eQualityTime/Public/issues/140 
 ## 19/11/21 10:29 to 10:35, Time to pound away on the todo list
 ## 19/11/21 14:37 to 15:14, Pounding away at todo list
@@ -4914,7 +4913,7 @@ I am using delores, focusing on mindset.
   * Unsure if this is a thing. 
 
 ## 22/11/21 10:59, Deleted (*) Blog some notes about creating epubs @desk +EQT 
-## 22/11/21 11:00 to 11:23, (B teachers) Review and rewrite the pack for teachers +EQT
+## 22/11/21 11:00 to 11:23, (B teachers) Review and rewrite the pack for teachers +EQT https://github.com/equalityTime/whitewaterwriters
 * Find it first.
 * Okay, this is the pdf version https://equalitytime.co.uk/download/WWW_info_pack.pdf 
 * There is a dropbox version called eQuality time WWW Information Pack. 
@@ -4993,7 +4992,7 @@ I drafted and submitted.
 
 ## 24/11/21 12:39 to 13:29, Taking a break 
 
-## 24/11/21 13:29 to 16:08, Back  Working on AWS +EQT
+## 24/11/21 13:29 to 16:08, Back  Working on AWS +EQT https://github.com/eQualityTime/Public/issues/139
 * I've created an issue at https://github.com/michal-h21/tex4ebook/issues/83
 * Installed some vim colour schemes
 * I've added a www cname record to whitewaterwriters. 
