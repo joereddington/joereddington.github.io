@@ -3509,7 +3509,7 @@ It's a family day, so food is taken care of.  Exercise: I'm thinking I take Leo 
 
 
 
-## 29/07/21 12:38 to 14:23, Back on arts council +EQT
+## 29/07/21 12:38 to 14:23, Back on arts council +EQT https://github.com/eQualityTime/Public/issues/94 
 * Mostly trying to find three quotes for every expense. 
 * I've moved around some of the costs 
 * Lots of quotes have to come in by email. 
@@ -3563,7 +3563,7 @@ Doing wages. 0.7*2500*(1-0.56.5)
 * Tidying up calendar, sorting paperwork
 * Working out my approach 
 
-## 04/08/21 08:39 to 10:06, Empty +EQT inbox
+## 04/08/21 08:39 to 10:06, Empty +EQT email
 * Sorting out some detrius from the previous day. 
 * Did the asking about papers
 * Ordered some books. 
@@ -3579,7 +3579,7 @@ Attacked this with great vigor. Amazed to discover it's less than two hours. Tod
 ## 04/08/21 14:14 to 15:14,  Here 
 Just smacking the todo list around 
 
-## 05/08/21 09:01 to 10:01, +EQT Meeting for Fake news  
+## 05/08/21 09:01 to 10:01, +EQT Meeting for Fake news   https://github.com/eQualityTime/Public/issues/124
 
 ## 05/08/21 13:15 to 13:45, Looking at email and the Fore +EQT
 
@@ -3595,24 +3595,24 @@ Email - lots of clearing out.
 ## 24/08/21 13:10 to 15:03, +EQT casually attacking the todo list
 * Working on the Project Real.  It needs a site. 
 
-## 24/08/21 15:03 to 15:26, Working on the project real site +EQT
+## 24/08/21 15:03 to 15:26, Working on the project real site +EQT https://github.com/eQualityTime/Public/issues/124 
 Now waiting for DNS progression 
 
 
-## 25/08/21 06:18 to 06:40, let's check the site. +EQT
+## 25/08/21 06:18 to 06:40, let's check the site. +EQT https://github.com/eQualityTime/Public/issues/124 
 * Made some fixes to the project real site
 * Reviewed a bunch of projects and either ticked them off, cleaned them out, or put in the text to move them forward.  
 * Only 28 or so left.  
 
-## 25/08/21 06:43 to 06:52,  Going into Analytics +EQT
+## 25/08/21 06:43 to 06:52,  Going into Analytics +EQT https://github.com/eQualityTime/Public/issues/124 
 Hmmm There is analytics, but it isn't triggering - I would check if I could see it with view source but I need the dns to work for that. 
 
 
-## 25/08/21 08:15 to 09:11, Working on various site and analytics work +EQT
+## 25/08/21 08:15 to 09:11, Working on various site and analytics work +EQT https://github.com/eQualityTime/Public/issues/124 
 * I've tried adding tracking, I'll wait for it to load and then come back* I've removed baseurl from the project real site to see if that improves matters. 
 * I think I make some progress with the WWW onemorechapter
 
-## 25/08/21 09:11 to 09:36, 20 T-shirt ideas +EQT
+## 25/08/21 09:11 to 09:37, 20 T-shirt ideas +EQT https://github.com/eQualityTime/Public/issues/129 
 
 Well, this feels like the wrong place to start. 
 
@@ -3638,10 +3638,8 @@ Well, this feels like the wrong place to start.
 20 This place should have a library. 
 
 
-## 25/08/21 09:37, Cute, I like it, I've done well with that, and now it looks like I might try a *thing* at comic con +EQT
 
-
-## 25/08/21 09:38 to 10:47, Working on list, mostly project real  +EQT
+## 25/08/21 09:38 to 10:47, Working on list, mostly project real  +EQT https://github.com/eQualityTime/Public/issues/129
 * Did unity check.
 * Project real site is working, let me look at the analytics 
 * Spent 20 minutes learning about git, I have updated the Project Real tracking code.  
@@ -3653,6 +3651,8 @@ Well, this feels like the wrong place to start.
 * Responded to a WWW query
 * Found out the OVF site isn't working.
 * Started running it locally. 
+
+
 ## 26/08/21 09:06 to 09:23, Gratitude
 ## 26/08/21 09:23 to 10:57, Delores 
 * Not doing watching because I don't have the right headphones
@@ -3671,7 +3671,7 @@ Up before kids!
 Okay, then year plan is written out a bit more, I've got steps to take. Very satisfying 
 ## 27/08/21 07:41, Did some work on photos and some work on writng out an argument tree. Also enrolled on my chemistry course! Yay! 
 
-## 02/09/21 07:02 to 08:00, Processing +EQT inbox. 
+## 02/09/21 07:02 to 08:00, Processing +EQT inbox email. 
 * Send balance sheet and profit and loss against budget. 
 * And small gratitude
 
@@ -3691,7 +3691,7 @@ Processing with Delores and taking the opportunity to convert it to a Jekyll sit
 
 
 ## 13/09/21 12:27 to 12:45, +EQT
-## 13/09/21 13:49 to 16:24, +EQT 
+## 13/09/21 13:49 to 16:24, +EQT  emails
 Sorted through emails, and then got very distracted by a letter from HMRC and a couple of calls. 
 * Filed our confirmation statement for the year. 
 * Discovered we have paid amazon in ages
@@ -3704,12 +3704,12 @@ Sorted through emails, and then got very distracted by a letter from HMRC and a 
 * Talking to clare
 
 
-## 14/09/21 12:18 to 14:43, Arts grant  +EQT
+## 14/09/21 12:18 to 14:43, Arts grant  +EQT https://github.com/eQualityTime/Public/issues/94 
 Done! 
 ## 14/09/21 14:43 to 15:00, Working on the stack +EQT 
 * Including brainstorming on 'lists for individual people' 
 
-## 14/09/21 15:00 to 15:52, Post Accounts - that +EQT
+## 14/09/21 15:00 to 15:52, Post Accounts - that +EQT  https://github.com/eQualityTime/Public/issues/141
 * Went to the post office to post accounts
 * Also did some other posting including the bank STUFF.
 
@@ -3736,7 +3736,7 @@ Down to 72 items
 ## 15/09/21 16:30 to 16:57, Back for a spell 
 Home list is down to 56 
 
-## 16/09/21 10:11 to 11:33,  +EQT
+## 16/09/21 10:11 to 11:33,  +EQT email
 * Checked google ads is fine 
 * Now the email  
 * Have emailed trustees 
@@ -3781,7 +3781,7 @@ I'm having an OVF day.
 * Create a test file and documented it more nicely in the issue - along with links and so on. 
 * Checked in with https://www.openboardformat.org/docs It looks like the first part of the problem (the display bit) is as simple as using 'vocalisation' rather than label.  
 
-## 21/09/21 07:29 to 07:54, OVF regression tests +EQT
+## 21/09/21 07:29 to 07:54, OVF regression tests +EQT late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/136
 Before properly working on the bug I'd like to take the opportunity to fix the regression tests.  
 * Currently 4 tests are failing and 1 has an error. The error definitely needs to be fixed. 
 * Took a long time to fix test_create_obf_object but it's fine.  
@@ -3789,7 +3789,7 @@ Before properly working on the bug I'd like to take the opportunity to fix the r
 
 ## 21/09/21 08:00 to 09:50, Children and school run 
 
-## 21/09/21 09:51 to 12:13, Regression tests +EQT
+## 21/09/21 09:51 to 12:13, Regression tests +EQT late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/136
 * I upgraded generate_regressions.py to python3 and fixed a bug 
 * The failing arabic test was a real bug from upgrading the main code to python 3 - turns out you CAN'T implicity cast exceptions to string any more. 
 * I've updated the regressions and carefully committed THINGs 
@@ -3801,7 +3801,7 @@ Before properly working on the bug I'd like to take the opportunity to fix the r
 
 * Learned about and implemented subtests 
 
-## 21/09/21 12:13 to 13:06, let's lok at ovfplayer +EQT
+## 21/09/21 12:13 to 13:06, let's lok at ovfplayer +EQT late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/136
 Small diversion looking at ovfplayer
 * Checked that I could run it with the commands
   * ng serve
@@ -3815,7 +3815,7 @@ Small diversion looking at ovfplayer
 * Discovered that I CAN'T run tests on server because the __init__.py files 
 * Wrote response to bug reporter and shared with developers. 
 
-## 21/09/21 14:58 to 15:26, +EQT sorting through issues for OVF - starting to look like a proper project. 
+## 21/09/21 14:58 to 15:26, +EQT sorting through issues for OVF - starting to look like a proper project.  late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/136
 * Responding to other messages about OVF 
 
 
@@ -3843,7 +3843,7 @@ Okay, so what's the advantage of command line?
 
 Let's give it a go. Tracking is going to be useful. It will be a bit tricky at weekends, but even if it's only tracking on weekdays, it's pretty good.  
 
-## 22/09/21 06:46 to 07:29, Good morning +EQT
+## 22/09/21 06:46 to 07:29, Good morning +EQT email.
 * Bought myself a python books 
 * Clearing out email 
 * This file is becoming quite difficult. 
@@ -3853,7 +3853,7 @@ Let's give it a go. Tracking is going to be useful. It will be a bit tricky at w
 * It looks like the Scotish Arts funding doesn't it? 
 * Sorted out bike stuff. 
 
-## 24/09/21 05:07 to 06:08, Let's look at that bug.  +EQT
+## 24/09/21 05:07 to 06:08, Let's look at that bug.  +EQT late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/136 
 * Don't know how to test for it but let's have a look. 
 * I mean, one problem is that we export the images as a side effect... 
 * Moved that, got 6 errors(!) 
@@ -3897,7 +3897,7 @@ Update: went in tomorrow. Did more, looking steadily better
 ## 28/09/21 13:16, (A) 15 search email for all pptx files again and put them in the regressions file.  on: https://github.com/eQualityTime/Public/issues/132 +EQT 2021-08-27
 Found three of them in the branches of communikate - I forgot I did that. And it's a better place for them to be really. But I'm putting them in the regression tests because I want some more regression tests and I want them in the same place.  
 
-## 28/09/21 13:37 to 14:24, Press release?  +EQT
+## 28/09/21 13:37 to 14:24, Press release?  +EQT late:https://github.com/eQualityTime/Public/issues/124
 I'm failing at this, how would I write it for reddit. 
 
 
@@ -3937,7 +3937,7 @@ It boils down to "Teenagers are probably not going to listen to parents or teach
 
 
 
-## 29/09/21 13:42 to 14:07,  (B) Rewrite the cearer bond page and send it to the prison lady. 2021-09-28 +EQT
+## 29/09/21 13:42 to 14:07,  (B) Rewrite the cearer bond page and send it to the prison lady. 2021-09-28 +EQT late:https://github.com/eQualityTime/Public/issues/134
 * Done, couple of follow up tasks added 
 
 ## 29/09/21 14:07 to 14:16, (B) 2021-09-22 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT  
@@ -3950,7 +3950,7 @@ It boils down to "Teenagers are probably not going to listen to parents or teach
 ## 29/09/21 14:25 to 15:19, (C) Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT 
 
 ## 29/09/21 15:21 to 15:24, (C) 2021-08-27 10 Phone the insurance octopus about the payments made  
-## 29/09/21 15:25 to 15:30, (C) 2021-09-22 map project:Develop WWW hubs and strengthen relationships +EQT  
+## 29/09/21 15:25 to 15:30, (C) 2021-09-22 map project:Develop WWW hubs and strengthen relationships +EQT   late:https://github.com/eQualityTime/Home/issues/109
 
 ## 30/09/21 06:40 to 07:32, Hello. Emails +EQT 
 
@@ -3983,10 +3983,10 @@ Reviewing what we are up to.
 * INcludign some analytics
 * Wow - there are literally only 31 THINGs. That igor misfire worked out well. 
 
-## 01/10/21 12:28 to 12:52, Working on the WWW site  +EQT
+## 01/10/21 12:28 to 12:52, Working on the WWW site  +EQT late:https://github.com/eQualityTime/Home/issues/108
 Asked a SE question at: https://stackoverflow.com/questions/69405451/css-media-only-screen-only-triggers-when-i-resize-window
 
-## 01/10/21 13:25 to 14:17,  White Water Writers site and spreadsheet  +EQT
+## 01/10/21 13:25 to 14:17,  White Water Writers site and spreadsheet  +EQT late:https://github.com/eQualityTime/Home/issues/108
 * Working on spreadsheet 
 * It needs some links added, but also, how do we add from here?  
 * Unless it becomes part of the driver package. 
@@ -4003,7 +4003,7 @@ Starting to think it might be a VA job,
 
 You know what. I think it is.  
 
-## 01/10/21 14:17 to 14:34, OVF code. +EQT
+## 01/10/21 14:17 to 14:34, OVF code. +EQT late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/138
 * Investigated a bug that came in by email and couldn't replicate so emailed the submitter (later: he emailed back - it was fixed in my last update) 
 Starting a new exercise - I want to get rid of all the errors and warnings that come up when the CK20V2 file is processed, it doesn't look great (and isn't great) when the default template throws warnings. 
 * started with fixing bits like extra print statements that are not needed. 
@@ -4011,7 +4011,7 @@ Starting a new exercise - I want to get rid of all the errors and warnings that 
 
 ## 01/10/21 14:34 to 14:57,  Interrupt for children. 
  
-## 01/10/21 14:57 to 16:05, Back on the code.  +EQT
+## 01/10/21 14:57 to 16:05, Back on the code.  +EQT late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/138
 * Mostly working through the pptx file fixing links that go nowhere, or go to the wrong place, or have additional bits of messy images
 * Started a separate branch 'fixwarnings' for it (later: this turned out to be useful) 
 * Started investigating this error: 
@@ -4020,7 +4020,7 @@ Starting a new exercise - I want to get rid of all the errors and warnings that 
 
 ## 02/10/21 07:45 to 08:49, Good morning! Memory book time 
 Done, result. Just the TTS to do now and the other proofreaders.  
-## 05/10/21 06:00 to 07:21, Following up on KeyError +EQT
+## 05/10/21 06:00 to 07:21, Following up on KeyError +EQT late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/138
 I've returned to the error I was investigating on Friday. 
 * I've got an MCVE, but I should really test it on the latest version of the library.
   * Upgrading the library (from 0.6.18 to 0.6.21) might cause problems 
@@ -4030,11 +4030,11 @@ I've returned to the error I was investigating on Friday.
   * Submitted the issue here: https://github.com/scanny/python-pptx/issues/749
   * added calendar event to check it out.  (later: fixed a typo about versions) 
 
-## 05/10/21 07:30 to 07:56, Tracking a new icon error +EQT 
+## 05/10/21 07:30 to 07:56, Tracking a new icon error +EQT  late:https://github.com/eQualityTime/TheOpenVoiceFactory/issues/138
 Tracking a strange error (later: turned out to be a line I'd accidentally deleted   
 
 ## 05/10/21 08:00 to 09:45,  School run +Family 
-## 05/10/21 09:45 to 11:50, looking at  WWW issue  +EQT
+## 05/10/21 09:45 to 11:50, looking at  WWW issue  +EQT https://github.com/equalityTime/whitewaterwriters 
 * There's a bug with spaces in names
 * Sorted out vim on server 
 * Driver 
@@ -4051,14 +4051,14 @@ Tracking a strange error (later: turned out to be a line I'd accidentally delete
     * Pushed 
 
 
-## 05/10/21 11:50 to 12:45, Back to fixing the warnings on the default template +EQT
+## 05/10/21 11:50 to 12:45, Back to fixing the warnings on the default template +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 * We now output the correct slide number
 * Hmm, there is a new error.  
   Feedback added :<class 'AttributeError'> EXCEPTION IN (/Users/Shared/git/TheOpenVoiceFactory/grid.py, LINE 91 "if click_action.hyperlink.address is not None:"): 'NoneType' object
  has no attribute 'hyperlink'
   * I removed the offending issue from the pptx and also reordered the process_shape logic so that it will be easier to refactor later
 
-## 05/10/21 13:02 to 14:41, Tidying up and pushing and updating OVF site +EQT
+## 05/10/21 13:02 to 14:41, Tidying up and pushing and updating OVF site +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 * My changes broke the regression tests.
 * I've updated them, and changed how they are done so it's easier to compare them in the future. 
 * I've commented out the other test that was failing because it relates to a abandoned feature 
@@ -4067,7 +4067,7 @@ Tracking a strange error (later: turned out to be a line I'd accidentally delete
 * Updated the OVF site with the changes 
 
 
-## 05/10/21 14:41 to 14:47, Writing up notes +EQT
+## 05/10/21 14:41 to 14:47, Writing up notes +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 My day so far has involved two big coding projects, although neither were high priority they are both nice to have done. 
 
 ## 05/10/21 14:47, Now time for a transition. Email? Delores?  
@@ -4075,7 +4075,7 @@ I think Delores is probably for the best with 90 minutes to go.
 
 ## 05/10/21 14:48 to 14:59, Delores +EQT
 
-## 05/10/21 14:59 to 15:07, Interrupt for +WWW +EQT 
+## 05/10/21 14:59 to 15:07, Interrupt for +WWW +EQT  https://github.com/equalityTime/whitewaterwriters
 The book isn't being written but the proof is? 
 Hmmm. I don't know how I fixed it, but it's fixed.  
 
@@ -4121,7 +4121,7 @@ Learned that you can write php -S localhost:9000 to host for a php script. That'
   * I mean, there's a reasonable argument for spinning up on osx virtual machine and running everything through that... https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html  
   * But like, I'd like someone to talk to about it. 
 
-## 06/10/21 12:33 to 12:55, Finally getting calendar to work with Thunderbird +EQT
+## 06/10/21 12:33 to 12:55, Finally getting calendar to work with Thunderbird +EQT mail
 * Tried some google script and then discovered that thunderbird just opens it. 
 ## 06/10/21 12:55 to 13:02, Ticking off first few tasks
 
@@ -4151,7 +4151,7 @@ That sounds like it would take me an hour and remove a lot of work for the VA. (
 ## 07/10/21 11:03 to 16:05, Working on https://github.com/eQualityTime/Home/issues/108 +EQT
 * Lunch was made while long software THINGs were happening
 
-## 07/10/21 16:05 to 16:44,  Responding to https://github.com/scanny/python-pptx/issues/749 +EQT
+## 07/10/21 16:05 to 16:44, Responding to https://github.com/scanny/python-pptx/issues/749 +EQT
 
 ## 07/10/21 16:26 to 16:41, Working on https://github.com/eQualityTime/Home/issues/108 
 
@@ -4159,7 +4159,7 @@ That sounds like it would take me an hour and remove a lot of work for the VA. (
 * Also dealing with an WWW issue 
   * Have deleted a bunch of camps on server and culled the list.csv 
 
-## 08/10/21 05:57 to 06:43,  +EQT
+## 08/10/21 05:57 to 06:43, +EQT
 * Sent someone an offer on upwork. 
 * Sorted out vim submodules (will be easier to work on server now) 
 
@@ -4167,17 +4167,17 @@ That sounds like it would take me an hour and remove a lot of work for the VA. (
 * Got a meeting today - should prep forthat.  
 * But also should check that the spreadsheet is ready for my freelancer 
 
-## 08/10/21 07:34 to 07:54,  accidental facebook... 
+## 08/10/21 07:34 to 07:54, accidental facebook... 
 
-## 08/10/21 07:58 to 09:40, Looking for funding  +EQT
+## 08/10/21 07:58 to 09:40, Looking for funding  +EQT 
 Found three and have put them in the system 
 
 ## 08/10/21 09:40 to 09:57, Meeting prep (making tea, doing small emails) +EQT
 
-## 08/10/21 10:00 to 11:55, Long pair of meetings +EQT
+## 08/10/21 10:00 to 11:55, Long pair of meetings +EQT  https://github.com/eQualityTime/Public/issues/124 
 * With lots of webdesign in the middle
 
-## 08/10/21 12:04 to 12:24, More web but now done +EQT
+## 08/10/21 12:04 to 12:24, More web but now done +EQT https://github.com/eQualityTime/Public/issues/124 
 * Including fixing THINGs on mobile 
 
 ## 08/10/21 12:24 to 12:25, Sorting upwork +EQT
@@ -4201,7 +4201,7 @@ Found three and have put them in the system
 * Reviewed some SE 
 * Brought Dropbox down to local hard drive
 
-## 08/10/21 21:11 to 22:08, OVF Code +EQT
+## 08/10/21 21:11 to 22:08, OVF Code +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * I'm rearranging all the code in the OVF directory as a prelude to a serious rewrite. 
 
 ## 11/10/21 10:59 to 12:49,  Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/139 +EQT
@@ -4215,11 +4215,11 @@ x Drafted terms for Yvonne volenteer
 
 ## 11/10/21 13:55 to 15:50, Working on https://github.com/equalitytime/public/issues/100  +EQT
 
-## 11/10/21 15:58 to 17:05,  Working on Mail Merge Code +EQT
+## 11/10/21 15:58 to 17:05,  Working on Mail Merge Code +EQT  https://github.com/equalityTime/whitewaterwriters
 * Just did something fucking pythonic. Created a partial function and used it in a list comprehension.  
   * Had to get rid of it afterwards, but it was lovely. 
 
-## 11/10/21 19:43 to 21:34, Back on Mail Merge Code +EQT
+## 11/10/21 19:43 to 21:34, Back on Mail Merge Code +EQT https://github.com/equalityTime/whitewaterwriters 
 * Of 21 emails - 9 immediately bounced - but... 
 * Reviewed this document 
 * Properly brainstormed next steps for the MailMerge 
@@ -4258,12 +4258,12 @@ Reviewing calendar
 ## 12/10/21 13:50 to 13:57,  Social media break 
 ## 12/10/21 13:57 to 14:15,  +EQT trying to work out references 
 ## 12/10/21 14:29 to 14:33, Review where I am  +EQT
-## 12/10/21 14:34 to 15:28, Let's do some relaxing refactoring +EQT
+## 12/10/21 14:34 to 15:28, Let's do some relaxing refactoring +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * After a lot of faff it became clear this was about the tests
 * Created a seperate branch to try and create OBZ tests
 
 
-## 12/10/21 15:28 to 15:36, New branch  +EQT
+## 12/10/21 15:28 to 15:36, New branch  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 I've realised that I need to do refactoring to get the tests to work!  
 * Here's the problem - my write_to_obf file expects three different subfolders, and the paths are really inconsistent about what writes to where. 
   * Sometimes 'data' is part of the path
@@ -4273,12 +4273,12 @@ I've realised that I need to do refactoring to get the tests to work!
 ## 12/10/21 15:44 to 17:15, Paper reading group.  +EQT (networking) 
 
 
-## 12/10/21 17:56 to 18:05, Seeing if I can do the THING about the icons +EQT
+## 12/10/21 17:56 to 18:05, Seeing if I can do the THING about the icons +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 
 ## 12/10/21 18:22 to 18:32, Back +EQT Interupt for looking at leave
 ## 12/10/21 18:44 to 18:48,  more on leave  +EQT
 
-## 12/10/21 19:07 to 19:39, Back to code +EQT
+## 12/10/21 19:07 to 19:39, Back to code +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 Starting by putting generated icons in images rather than icons. 
 Ended up with an issue about images appearing at all 
 Used ng serve in anger for the first time
@@ -4286,7 +4286,7 @@ Used ng serve in anger for the first time
 ## 12/10/21 20:00 to 20:57, Had a meeting  +EQT
 
 
-## 13/10/21 06:27 to 07:59, Right let's get back to that code +EQT
+## 13/10/21 06:27 to 07:59, Right let's get back to that code +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 * I want to do a big overhaul of the code, but I don't want to break anything
 * I have regression tests, but only for the json output - not the obz, and the obz is a big part of this. 
 * SE recommends that I hash the obz files and compare, but that's going to take ages. However, it's also a good start
@@ -4297,7 +4297,7 @@ Used ng serve in anger for the first time
   * Made sure that the directory was only hardcoded in one place. 
   * Created a hash file function
 
-## 13/10/21 09:42 to 10:31, Hello +EQT
+## 13/10/21 09:42 to 10:31, Hello +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 * Found a genuine annoying bug about commas in special commands
   * The issue is that one can have place(", this") but my code things that's a subcommand, sigh.   
   * I should write a proper test - it's the right thing to do and would a fuckton faster
@@ -4305,7 +4305,7 @@ Used ng serve in anger for the first time
   * Okay we are on regressiontestsinobf and we would like to merge *only* bff2fe1ac4790d7026eb28ce85a08a4d490eaee7 (and for the hell of it, 7652c849a315f8a6bd9f4cec9d77c0b140db6288 ) 
   * Oh wow! It worked a lot better when I chose the right commits! 
 
-## 13/10/21 10:31 to 11:28, Yet another new branch +EQT
+## 13/10/21 10:31 to 11:28, Yet another new branch +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 Now we've written the tests, we open yet another branch (from main) to fix them. 
 * Fixed some tests with basic changes. 
 * Tried csv for a while until I realised that csv wants the quote *directly* after the delimiater), 
@@ -4313,7 +4313,7 @@ Now we've written the tests, we open yet another branch (from main) to fix them.
 * Merged (with squash, because I got careless) into master, all tests passing
 * Then patched into the current branch - and as the interent warned me, some of the cherry picked branches appear more than once... 
 
-## 13/10/21 11:29 to 12:29, back to the obf regression +EQT
+## 13/10/21 11:29 to 12:29, back to the obf regression +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 * Yeah, this is a screwed up log file 
 * Failing 10 tests, but that means that the process command ones are owrking
 * Running generate regressions again. (I stopped earlier because of the process coammands bug)  
@@ -4330,7 +4330,7 @@ Now we've written the tests, we open yet another branch (from main) to fix them.
   * Damnit - it's NOT going to work! The files are over the top of each other! 
     * Like, it will work with exactly one pptx 
 
-## 13/10/21 12:29 to 13:31, back to the drawing board.  +EQT
+## 13/10/21 12:29 to 13:31, back to the drawing board.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 What's the best way of doing this? 
 * Get generate to write the output to invidivual directories. 
 * Tests take 247/259 seconds - that's far too long but it's what I have 
@@ -4344,14 +4344,14 @@ I should remember that I've made a fair amount of progress in this sprint
  
 However, I now need a break - overall I don't think I'll be continuing with the interupted refactoring branch - it will be easier to rerefactor (and add proper tests as THINGs arrive) from here. 
 
-## 13/10/21 13:31 to 14:10, +EQT adding todos for refactoring - mostly to grid and pageset
+## 13/10/21 13:31 to 14:10, +EQT adding todos for refactoring - mostly to grid and pageset https://github.com/eQualityTime/TheOpenVoiceFactory/
 
 ## 13/10/21 14:10, Lunch
 
 ## 13/10/21 14:20 to 15:24, Brainstorming +EQT
 
 
-## 13/10/21 15:24 to 16:26, I think I'm going to build a funding bid engine +EQT
+## 13/10/21 15:24 to 16:26, I think I'm going to build a funding bid engine +EQT late:https://github.com/eQualityTime/Public/issues/136
 * Wow - it was 40 minutes to simply copy accross all the questions! How many are there? 
   * There are 46 individual questions to write up. That's incredible. 
   * Like, that's 10,000 words of answers to come up with.  
@@ -4373,7 +4373,7 @@ Currently I have 3,700 words, and I think we might be copy pasting some others.
 ## 14/10/21 12:14 to 12:45, Delivering Leo's thing
 ## 14/10/21 12:45 to 12:52, +EQT working on https://github.com/equalitytime/public/issues/100 
 
-## 14/10/21 12:52 to 13:11,  Fix the issue with iphone display of WWW site +EQT
+## 14/10/21 12:52 to 13:11,  Fix the issue with iphone display of WWW site +EQT https://github.com/equalityTime/whitewaterwriters
 ## 14/10/21 13:26 to 14:28,  +EQT working on https://github.com/equalitytime/public/issues/100 
 I've been sorting out:
   * CV 
@@ -4430,7 +4430,7 @@ It's been a bit of an unfocused morning so far. I've checked in on THINGs, revie
 ## 18/10/21 12:16 to 12:32, Put list in order +EQT
 ## 18/10/21 12:32 to 13:54, Working on https://github.com/equalitytime/public/issues/100 +EQT
 
-## 18/10/21 13:55 to 14:32, +EQT
+## 18/10/21 13:55 to 14:32, +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/136
 * Tidying up todo list
 * Reviewing the project real site 
   2,000 people turn up. 
