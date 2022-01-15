@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      Samosa Stuffed Baked Potatoes
+---
+
+I’ve been doing science today.  
+
+Recently I bought an ice-cream maker and I’ve been trying out a [vegan ice-cream recipe](https://www.bbcgoodfood.com/recipes/vegan-vanilla-ice-cream).  It’s simple stuff but still lots to get wrong.  
+
+You heat the mixture before putting it in the fridge and then ice-cream maker and Kat wondered if you could JUST  leave it near the stove for a while instead because the sugar would still melt and it would be faster to cool down afterwards.  
+
+So I look at the recipe and I suspect that the corn starch would be a problem with that, because it might need a certain temp for the proteins to unravel and thus thicken the mixture.  The BBC recipe JUST  says ‘heat until steaming’ which has NO meaning to me whatsoever.  So I do some googling. [This science site](https://www.exploratorium.edu/cooking/icooks/10-06-03.html ) says 95 degrees is needed for corn starch to do its thing, which seams high but authoritative, but then I find this [ridiculously thorough paper](https://digitalcommons.unl.edu/cgi/viewcontent.cgi) with a couple of hundred citations that says 64.   
+
+So I’m convinced by 64 but then I’m like ‘hang on, I have both corn starch and a kettle, so I can do my own tests’. Now, this isn't because I think the paper is wrong, it is because I want to check I can replicate it, and it would be nice to feel the viscosity of the liquid at different temps. 
+
+![Picture of three glasses marked with different temperatures](/assets/images/cornstarch.png)
+
+So I set up three glasses with a tablespoon of corn starch in and put in a cup of water at different temperatures- and it was really interesting! Obviously the internet was right, but doing it yourself is so much better than reading about it. Especially given all the ways that it turns out I can screw up such a simple experiment.  Some of those glasses with never be the same again. 
+Anyway - the punchline is that I accidental added twice as much salt to this batch of ice-cream, which prevented it being quite the hit I expected. Still very popular with the kids.
+
