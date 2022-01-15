@@ -5521,3 +5521,38 @@ Got the grey border via SE. More to do, but the rest is on an occasional basis.
 I've created a pivot table, it's interesting. It also revealed how rarely I'm marking things with the right github project. 
 
 - 11/01/22 smallest next step: go through and mark a much of things in index.md with the right issue? Is that even possible.   
+## 12/01/22 06:03 to 06:16, Reading background technical doc +EQT
+## 12/01/22 06:31 to 07:56, Allocating funds to the right account for https://github.com/eQualityTime/TheOpenVoiceFactory/ +EQT
+First step is to properly label items in the log. 
+* Worked from the new Timescale (1st August 2021) 
+* Labeled up to Mid November
+* Created a pivot table
+
+
+## 12/01/22 09:46 to 10:25,  Allocating funds to the right account for https://github.com/eQualityTime/TheOpenVoiceFactory/ +EQT
+* Caught up with messages as well. 
+* I've ticked off  the task and added an email task  
+
+## 12/01/22 10:25 to 11:55, (D) 30 Phone some MAT with this script  https://github.com/eQualityTime/Public/issues/93 +EQT
+## 12/01/22 12:32 to 14:01, (D) 30 Phone some MAT with this script  https://github.com/eQualityTime/Public/issues/93 +EQT
+Rewritten and moved forward substanitanlly
+
+## 12/01/22 14:01 to 14:16, Time for a tidy up.  +EQT
+Writing notes and tidying
+
+## 12/01/22 14:16 to 15:02,  Responding to messages and writing gratitude post for linkedin.  +EQT
+Pushing it a bit with that def really. 
+
+## 12/01/22 15:02 to 15:07, Switching to facebook 
+
+## 12/01/22 15:07 to 15:34, Picking generally at tasks +EQT
+* Upwork checked
+* Evnelopes orderd
+* Twitter redirected
+* (C) Scrub teacher information in allbooksever file\ 
+
+## 12/01/22 15:34 to 16:30, Learning a thing in vim +EQT
+Bar in this case 
+
+## 12/01/22 16:30 to 16:56,  Work development video +EQT
+Scott hanselman 
