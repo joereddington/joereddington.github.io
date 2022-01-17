@@ -5556,3 +5556,47 @@ Bar in this case
 
 ## 12/01/22 16:30 to 16:56,  Work development video +EQT
 Scott hanselman 
+## 13/01/22 06:01 to 06:21, (D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+## 13/01/22 06:22 to 06:53, (D) map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+Mapped and I started filing it in. 
+
+## 13/01/22 06:53 to 07:08, (E) Work out what has happened to the OVF repo.  +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/ +EQT
+
+## 13/01/22 07:08 to 07:49, Picking at the big seven tasks +EQT
+When it's seven tasks, you can keep picking at them... Like, rewording and splitting and renegotiating. It's like a moving stack. Lots of planning and rewriting. 
+
+## 13/01/22 07:50 to 07:58, https://github.com/eQualityTime/TheOpenVoiceFactory/ +EQT
+## 13/01/22 09:47 to 10:34, https://github.com/eQualityTime/TheOpenVoiceFactory/ +EQT
+also pushed a bigfix about icon collison. 
+
+## 13/01/22 09:56 to 10:39, Picking at the big seven tasks +EQT
+I'm doing a lot more work *in* this file, and I'm mildly reminded that, 'rewrite this file' is a much better use of time for me than 'check notifications on things' 
+
+* Backed up the ssh keys for AWS a bit 
+* Gave the cheque to the postman 
+* Read a chapter of the altuism book 
+
+## 13/01/22 10:39 to 11:55, Working on https://github.com/eQualityTime/Public/issues/148  +EQT
+## 13/01/22 12:07 to 12:25, +EQT serendipitous school calling while at shop https://github.com/equalityTime/whitewaterwriters
+## 13/01/22 12:48 to 13:55, literal Paperwork +EQT
+Reading chapter of book and also sorting brainstorms. 
+
+## 13/01/22 13:55 to 14:20,  Walk with Kat 
+## 13/01/22 14:20 to 14:39, Literally only two things left +EQT
+...and two hours to do them 
+* Updated notes
+* Updated media calendar
+
+## 13/01/22 14:39 to 15:39, working on https://github.com/eQualityTime/Public/issues/131 +EQT
+All notes online. 
+
+## 13/01/22 15:42 to 16:11, OMG I DID IT!!!!!  +EQT
+Just being happily excited 
+
+## 13/01/22 16:11 to 16:20,  Wrote a blog on the EQT site about mobile +EQT https://github.com/equalityTime/whitewaterwriters
+And put it on linked in. 
+
+## 13/01/22 16:18 to 17:02,  Social media
+## 13/01/22 17:02, Now dinner
+## 13/01/22 18:45 to 20:30, Here for house support call
+
