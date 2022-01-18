@@ -5600,3 +5600,65 @@ And put it on linked in.
 ## 13/01/22 17:02, Now dinner
 ## 13/01/22 18:45 to 20:30, Here for house support call
 
+## 15/01/22 07:28 to 07:55, 
+Time to clear out some of the personal todo as well. 
+
+
+## 17/01/22 09:45 to 11:22, DELORES  +EQT
+My big thing for the week is clearing the next actions list and then closing as many projects as I can with deep dives. 
+
+## 17/01/22 11:22 to 11:50, Opened up the list  +EQT
+## 17/01/22 11:50 to 12:34, posting a book  +EQT
+## 17/01/22 12:34 to 12:44, Back on list for a little while  +EQT
+Mostly I'm picking at stuff and also rewriting 'work on' 
+
+
+## 17/01/22 12:47 to 12:55, Map https://github.com/eQualityTime/Public/issues/107 +EQT
+
+## 17/01/22 12:55, More picking +EQT
+We've got down to 29 tasks - mostly be rewriting and reviewing. Now we could do with burning down to the real ones. 
+21:when I took out the email ones. 
+
+## 17/01/22 13:25 to 13:33,   +EQT
+Back after Kat lunch 
+
+## 17/01/22 13:33 to 14:12,  Working on https://github.com/eQualityTime/Public/issues/139   +EQT
+Stack Overflow didn't get an answer -trying github. 
+## 17/01/22 14:12 to 14:34, Working on https://github.com/eQualityTime/Public/issues/147  +EQT
+Completed the documentation. Ready to send to trustees. 
+
+## 17/01/22 14:34 to 14:48, Working on https://github.com/eQualityTime/Public/issues/139   +EQT
+Github saved me with excellent documentation and this is now fixed. 
+NA: rebranding the Etherpad and getting the old files to work. 
+* 16 things left 
+## 17/01/22 14:48 to 15:07, Had a break +EQT
+## 17/01/22 15:08 to 16:06,Rewriting WWW site +EQT
+I started with the idea that I'd do it all in the code. But actually this would be a really nice chance to, work it on the A/B testing. 
+Or NOT right? Just do it in the site, let's NOT get fancy.  
+
+## 17/01/22 16:06 to 16:08,  Okay, so can we get it to fucking build? +EQT
+
+Okay, so the Jekyll building issue has been annoying me on, like, four different platforms at the moment. I can't install, I can't do anything. Go to do some reading.  
+
+
+## 17/01/22 16:16 to 16:41, Should I JUST  start doing 20 or so programs in ruby?  +EQT
+Solved the first two, that's bound to be a reasonable start
+
+
+## 17/01/22 16:46 to 16:49, summary  +EQT
+There are 16 things on my todo list. Some of that is stored for tomorrow, but some isn't. I'm going to read some books tonight, Find out a bit more about ruby. 
+
+## 17/01/22 19:57 to 20:03, Back for more.  
+Fixed the build bug in the WWW site. 
+
+## 17/01/22 20:04 to 20:33, Working on the project real site.   +EQT
+* Cloning. 
+* 'bundle add webrick'
+* reducing the size of the icon 
+* Multiple pages created and added. 
+* I've committed and pushed 
+* Waiting for a site update - and it's done. 
+* Which puts us down to 14 
+
+## 17/01/22 20:38 to 21:27, Working on MAT  +EQT
+MAT, and finding a conference. 
