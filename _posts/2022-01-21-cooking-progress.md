@@ -8,7 +8,7 @@ After Christmas I restarted [Science & Cooking: From Haute Cuisine to Soft Matte
 
 In any case, I've been getting more out of this time, partly because I've kept up my habit of looking up the science behind foods, or listening to the [Cooking Issues Podcast](https://heritageradionetwork.org/series/cooking-issues) so I'm a little bit more ready for the content. 
 
-I'm about half way though, and I'm hoping to complete this course by the end of Feb. There are two more course after that - one on the Physics aspects (which I expect to be a bit easier because I'm better at Physics than Chemistry) and one on Fermentation (which I expect to be much harder but also more worthwhile because my biology is truly terrible). 
+I'm about half way though, and I'm hoping to complete this course by the end of Jan. There are two more course after that - one on the Physics aspects (which I expect to be a bit easier because I'm better at Physics than Chemistry) and one on Fermentation (which I expect to be much harder but also more worthwhile because my biology is truly terrible). 
 
 It's hard for me to express how much I'm enjoying it - my cookery and my chemistry were both things that I was a little embarrassed by how little I knew and it was wonderful to find a course of exactly the right level and content.  I'm entertaining daydreams of taking a month off at some point and interning in a Serious Restaurant (which I would doubtless quit after two shifts of more work than I've ever done in my life but daydreams are daydreams).  
 
@@ -22,6 +22,14 @@ For completeness, here's some books I've been getting a lot out of:
 I've also been doing any amount of my own playing :) 
 
 ![Picture of three glasses marked with different temperatures](/assets/images/cornstarch.png)
+
+One thing that has been really interesting: the course involves a lot of science and numbers, and shapes of molecules and references. It also includes a lot of recipes. However, I'm yet to reach the point were I can reasonably commit large sections to memory. There's lots of reasons for this: 
+
+* The more I understand, the less there is to memorise - so there is a disadvantage to committing a recipe to memory now.
+* I'm not quite sure how everything fits together and I don't want to structure things in my head.  
+* I'm yet to cook enough to know what information would be useful on a day-to-day basis.  
+
+Obviously some of it will be useful - having to look something up while your hands are covered in gluten is a pain, but I'm not there yet.  I've got an ambition to properly review the experience for a future second edition of _[Advanced Memory Palaces](https://www.amazon.co.uk/-/es/Joe-Reddington/dp/B09GJFZ6JM)_ after I do all the courses but that will be a long time coming. 
 
 
 <hr>
