@@ -5662,3 +5662,46 @@ Fixed the build bug in the WWW site.
 
 ## 17/01/22 20:38 to 21:27, Working on MAT  +EQT
 MAT, and finding a conference. 
+
+# 18/01/22 06:57 to 07:54,  Email +EQT
+* I've done the first passes. 
+* Next thing to do is the Bank reconcilation or I'll get lost.  
+
+
+## 18/01/22 09:30 to 10:03,  Arranging conference +EQT
+## 18/01/22 10:03 to 14:30, At conference  +EQT
+## 18/01/22 14:45 to 15:18, Following up.  +EQT
+Which includes ranting. 
+
+## 18/01/22 15:18 to 15:34,  Read a chapter of a book  +EQT
+I recongise within myself that I have overloaded on input today
+
+## 18/01/22 15:35 to 15:40,  Applied to be a MAT trustee +EQT
+
+## 18/01/22 15:41 to 16:42,  Ticking off +EQT
+* Reviewing upwork. 
+* Ticking off other things. 
+* Only ten things in the todo list
+  * But, like, 70 in the emails 
+* Working through emails 
+  * Did all the banking 
+* Eight things left
+
+## 21/01/22 09:05 to 12:39,  +EMAILS +EQT
+## 21/01/22 12:55 to 15:07,  Completed all my emails +EQT
+
+## 21/01/22 15:08 to 15:08,  +EQT TODO list
+## 21/01/22 15:09 to 16:03, Let's do it out of ten.  +EQT
+
+## 21/01/22 16:03 to 17:09,  +EQT There are six things left on the todo list
+
+## 23/01/22 19:31 to 19:43, Hello  +EQT
+Reviewed the remaining policies. Nothing urgent, the occasional typo/reword
+The data protection policy might still be a draft. Needs looking at. 
+
+ZERO TODO LIST AGAIN! 
+
+## 23/01/22 19:46 to 20:30, How about that other todo list? 
+* Mostly working on book promotion and rethinking the whole idea, but also thinking about comic 
+
+
