@@ -5705,3 +5705,39 @@ ZERO TODO LIST AGAIN!
 * Mostly working on book promotion and rethinking the whole idea, but also thinking about comic 
 
 
+# Impossible Day 
+* Running while Nova catches Pokemon. 
+* Going Climbing tonight  
+  * See if there are options. 
+* Amazon Grant
+  * Drafted, investigated 
+
+
+## 24/01/22 06:48 to 07:30, Delores   +EQT
+## 24/01/22 10:25 to 13:13,  Delores +EQT 
+SA - you have reached t they 'reminders' bit of the Delores
+* Rewrite this file 
+* Reviewed the projects before I ran igor 
+* 47 on the starting thing. 
+* Worked on the analytics 
+* Rewrote all the 'work on' tasks
+
+## 24/01/22 13:30 to 14:01, Tidying up and replying to messages +EQT
+* Preping for live 
+  * Rewriting file, cleaning up. 
+
+## 24/01/22 14:02 to 15:07, Working on https://github.com/eQualityTime/Public/issues/149 +EQT
+## 24/01/22 15:07 to 15:15, particularly asking about tech work https://github.com/eQualityTime/Public/issues/109 +EQT @private @public (the writing) @social
+## 24/01/22 15:15 to 16:56, (C) Customise the etherpad on AWS https://github.com/eQualityTime/Public/issues/77 +EQT @public
+* Successfully changed the url from 'etherpad' to 'imps'
+* Trying to adjust the etherpad options
+  * My process is to use the 'etherpad' useraccount over ssh and then run sudo systemctl restart etherpad.service from the main account to see if it works.  
+  * Changing the docker settings didn't work out. 
+  * Changing the settings.json also hasn't had much affect. 
+  * Changing en in locale settings was effective - but that appears to mostly be the names of menus (obviously - it's localisation) 
+  * The default etherpad skin is Colibris, which is the one I'll be for the icon I think 
+  * I removed the icons directly in settings.json and made a change to see if the locale.en was a factor
+  * The locale.en worked but NOT the removal of the buttons grrr. 
+  * Threw the pad options into settings.json in case that worked. 
+  * Getting worried i broke it around 16:27 
+  * Made a change to the json and restarted at 16:36
