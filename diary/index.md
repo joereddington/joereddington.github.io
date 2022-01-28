@@ -5741,3 +5741,36 @@ SA - you have reached t they 'reminders' bit of the Delores
   * Threw the pad options into settings.json in case that worked. 
   * Getting worried i broke it around 16:27 
   * Made a change to the json and restarted at 16:36
+
+## 24/01/22 19:29 to 21:30, Cookery course. 
+
+## 25/01/22 06:47 to 07:56,  +EQT
+Email and some basic private tasks
+
+## 25/01/22 09:42 to 13:03, Fix a www issue   +EQT
+IMPS failing to run the script.  The problem turned out to be memory - I increased the size of the instance, which helpfully also solved the etherpad problem from yesterday. 
+* While I was there I built up the trace.php file so it was usable and pretty
+
+## 25/01/22 13:30 to 13:45, phone call with fundraiser +EQT
+## 25/01/22 14:06 to 14:49, That was complicated there was a phone call and all sorts +EQT
+Inboxes empty. 
+
+
+## 25/01/22 14:49 to 15:14, Taking stock +EQT
+I feel stress and have to choose a thing to do.  
+* Going live to do the amazon bid. 
+
+## 25/01/22 15:06 to 15:19, The plan is to rewrite this file and then the amazon grant.  +EQT
+## 25/01/22 15:19 to 16:48, Working on https://github.com/eQualityTime/Public/issues/149  +EQT
+## 25/01/22 16:48 to 16:53, Working out the future plan.  +EQT
+## 25/01/22 16:53 to 17:07, (C) 20 Customise the etherpad on AWS https://github.com/eQualityTime/Public/issues/77 +EQT @public
+* It appears that at least one of my changes was in commented out text... 
+* Turns out you don't want to push settings changes because they have passowrds nad stuff in.  Possibly that's why they go in the locales? 
+* JUST  need it to build... 
+
+## 26/01/22 06:02 to 07:25, Fixing a www bug +EQT
+* I'm happy I've fixed it 
+
+## 27/01/22 06:56 to 07:49,  +EQT
+Ticked off a few minor things. Set up a 404 page for the WWW site but need to bring it onto the server (and then adjust nginx probably) 
+* Deadline for the amazon grant isn't when I thought it was. 
