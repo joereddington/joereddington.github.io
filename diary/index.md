@@ -5774,3 +5774,20 @@ I feel stress and have to choose a thing to do.
 ## 27/01/22 06:56 to 07:49,  +EQT
 Ticked off a few minor things. Set up a 404 page for the WWW site but need to bring it onto the server (and then adjust nginx probably) 
 * Deadline for the amazon grant isn't when I thought it was. 
+# Solid day 
+
+## 28/01/22 08:28 to 10:57, Working on https://github.com/eQualityTime/Public/issues/139  +EQT
+## 28/01/22 10:57 to 13:05, (B) 30 add the 'you might also like' chapter to a random book  https://github.com/eQualityTime/Public/issues/130 +EQT @public
+
+## 28/01/22 13:25 to 14:13, Back +EQT https://github.com/equalityTime/whitewaterwriters/ 
+Talking to Yvonne and fixing a WWW issue
+Then sorting out A/B testing on the WWW page 
+
+## 28/01/22 14:13 to 15:21,  Working on https://github.com/eQualityTime/Public/issues/148 
+## 28/01/22 15:23 to 15:39,  Working on igor +EQT
+* Improvements to counting - comments are now ignored. 
+
+## 28/01/22 15:40 to 15:47, +EQT Brainstorming tasks for next week 
+I mean, I'd like to take a moment for pride - third week in a row I've absolutely zero'd my todo list, including two difficult weeks without much childcare.  That's unheard of.  
+
+## 28/01/22 19:46 to 19:46, Food course
