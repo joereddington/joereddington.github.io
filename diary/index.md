@@ -5791,3 +5791,48 @@ Then sorting out A/B testing on the WWW page
 I mean, I'd like to take a moment for pride - third week in a row I've absolutely zero'd my todo list, including two difficult weeks without much childcare.  That's unheard of.  
 
 ## 28/01/22 19:46 to 19:46, Food course
+# Eight hour amazing Monday
+* Big things for the week. 
+  * Crack the eight hour days
+  * Zero the next actions again 
+  * Make decidicate time for other list
+* Those are all effectiveness things 
+  * Take Photo of Kite 
+  * Redo Praline
+  * Go Climbing twice 
+  😱 Submit the grant. 
+
+## 31/01/22 06:56 to 07:28, Hello  +EQT
+
+It's Monday, so it's time to gather all the tasks, sort them, review things, follow  
+
+## 31/01/22 09:58 to 10:38,  +EQT Delores
+_sprinting until 12:00_ 
+* Have reviewed all inboxes 
+* Processed this file
+
+## 31/01/22 10:38 to 11:02, Working on https://github.com/eQualityTime/Public/issues/149 +EQT
+Submitted the grant. 
+
+## 31/01/22 11:02 to 12:02, Chopping down tasks until another big one comes up +EQT
+Down to 31 but also started preping lunch so you might want to take 15 minutes off. 
+
+## 31/01/22 12:22 to 12:49, Back  +EQT
+_Sprinting until Break at 3:25pm._ 
+you are at "Removing all the 'work ons' and adding timings. 
+## 31/01/22 12:49 to 13:19, (A) 50 Fix the mobile export bug: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+
+
+## 31/01/22 13:19 to 14:14, Small tasks +EQT
+19 left 
+
+
+## 31/01/22 14:14 to 15:48, Paper time +EQT
+Did all the paper tasks. 
+## 31/01/22 15:48 to 16:32, Back +EQT https://github.com/eQualityTime/Public/issues/148 
+Small tasks and prep for going live. 
+Sort of psching myself up to go live. 
+* Turns out that watcher is already working. 
+* Just nginx to get running 
+
+## 31/01/22 16:43 to 17:15, line manager talk +EQT
