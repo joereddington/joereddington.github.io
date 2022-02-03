@@ -5836,3 +5836,42 @@ Sort of psching myself up to go live.
 * Just nginx to get running 
 
 ## 31/01/22 16:43 to 17:15, line manager talk +EQT
+## 01/02/22 06:38 to 07:59, Email +EQT
+## 01/02/22 10:31 to 11:14, Hello  +EQT
+## 01/02/22 11:49 to 12:27, Grinding out some work +EQT
+* There was some extra work in the afternoon , but it probably matched up with the procrasination in this stuff so...  
+
+
+## 02/02/22 06:06 to 06:42,  Working on https://github.com/eQualityTime/Public/issues/148 +EQT
+## 02/02/22 06:43 to 07:52,  Several different tasks +EQT
+* fixed an issue with IMPS 
+* Downloaded the Orcale code  
+* Did some mailscript coding 
+
+## 02/02/22 10:07 to 12:01,  DELORES +EQT
+* Including a fair amount of time on the stack. 
+* Processing reminders, looking up keyboard shortcuts (of which there are apparently few working ones) 
+* Rewriting this file
+  * Including being reminded that complex edits to the todo text should be in here NOT the file itself.  
+  * Because there are so few things in the todo list, I ended up putting them *all* in the stack and doing a fair amount of rewriting of them. 
+* I sorted out the history on OVF server 
+* Time for lunch. I'm going to do a reboot while I'm away
+
+## 02/02/22 12:23 to 16:45, Work on https://github.com/eQualityTime/Public/issues/148 +EQT
+Also some bonus  WWW 
+* Fixed the bug that stopped http://whitewaterwriters.com working. It was a missing semi-colon as described here https://trac.nginx.org/nginx/ticket/1033 
+* Found the old code that I can move around with. SCP'd it up. 
+* Created the directory and added the nginx so I can access it at https://whitewaterwriters.com/oracle/driver/ 
+
+
+## 02/02/22 16:46 to 16:50, I think I'm done but let's make sense.  +EQT
+* I have to follow up with Clare and Simon about their code. 
+* I have to write the blog post and (gasp) actually do the mirgration. 
+  * Part of this is to do the changes to the code first, and then update the dns. 
+  * And also properly transfer all the designs first. 
+* I have to properly rewrite this file so that It's clear that what command were used at what points. 
+
+## 02/02/22 17:03 to 17:10,  Call from Clare +EQT
+## 02/02/22 19:54 to 20:21, 
+Down to 96 in the personal list, JUST  ticking things off 
+70-odd 

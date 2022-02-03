@@ -1,14 +1,13 @@
 ---
+layout: post 
 title: Public Internet History
-layout:page 
 --- 
-
 
 _This post was first published in December 2018 and then rewritten in Feb 2022_ 
 
 My web history reveals that I’m far from the person I’d like to be: too much time distracted, too little time doing deep thinking.
 
-I’m making my web history public for a while – when I know I might be watched I at least pretend to be the person I want to be.
+I’m making my web history public: when I know I might be watched I at least pretend to be the person I want to be. Some of this is about strict ruthless efficiency, some of it is about peeling back an emotional layer and feeling a little less closed in. 
 
 I wrote a script that reads that history from Firefox on my main machine (Firefox syncs history and I use it on my laptop and mobile so those get picked up as well). It runs every 45 minutes or so. 
 
