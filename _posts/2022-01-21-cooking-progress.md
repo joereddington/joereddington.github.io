@@ -8,7 +8,7 @@ After Christmas I restarted [Science & Cooking: From Haute Cuisine to Soft Matte
 
 In any case, I've been getting more out of this time, partly because I've kept up my habit of looking up the science behind foods, or listening to the [Cooking Issues Podcast](https://heritageradionetwork.org/series/cooking-issues) so I'm a little bit more ready for the content. 
 
-I'm about half way though, and I'm hoping to complete this course by the end of Jan. There are two more course after that - one on the Physics aspects (which I expect to be a bit easier because I'm better at Physics than Chemistry) and one on Fermentation (which I expect to be much harder but also more worthwhile because my biology is truly terrible). 
+I'm about half way though, and I'm hoping to complete this course by the end of Jan (edit: actually done on the 2nd February). There are two more courses after that - one on the Physics aspects (which I expect to be a bit easier because I'm better at Physics than Chemistry) and one on Fermentation (which I expect to be much harder but also more worthwhile because my biology is truly terrible).  I'm going to leave a bit of a gap before moving on to the next course: I'd like to actually try out some of the dishes, do more experiments at home, read around the topic a little more. 
 
 It's hard for me to express how much I'm enjoying it - my cookery and my chemistry were both things that I was a little embarrassed by how little I knew and it was wonderful to find a course of exactly the right level and content.  I'm entertaining daydreams of taking a month off at some point and interning in a Serious Restaurant (which I would doubtless quit after two shifts of more work than I've ever done in my life but daydreams are daydreams).  
 
