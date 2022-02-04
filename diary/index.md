@@ -5875,3 +5875,46 @@ Also some bonus  WWW
 ## 02/02/22 19:54 to 20:21, 
 Down to 96 in the personal list, JUST  ticking things off 
 70-odd 
+## 03/02/22 06:15 to 07:22, Fixing public history +EQT
+* Fixed the code and added a cron
+* Removed an old version of the code from flow.joereddington.com
+* Rewrote the blog post 
+* Also sent some stuff to Trustees
+
+## 03/02/22 07:22 to 07:38, +EQT
+From histroy: Finding out about AWS, amazon buckets, some stackoverflow
+
+## 03/02/22 07:38 to 08:00, +EQT
+Fixing zoom, messaging Yvonne... 
+
+## 03/02/22 09:48 to 11:18, WWW +EQT
+* Creating list.php for IMPS 
+* Rewriting the index file. 
+* Keeping Richard up to date
+
+## 03/02/22 11:18 to 12:15, +EQT https://github.com/eQualityTime/Public/issues/150 
+## 03/02/22 12:50 to 13:10, +EQT https://github.com/eQualityTime/Public/issues/150 
+
+## 03/02/22 13:14 to 13:53,  Rewriting  +EQT
+Alright, this is a 1300 word notes file. Let's sort that out. 
+
+## 03/02/22 13:53 to 14:12,  Fixing crontabs +EQT
+* And looking for an EQT diversity polciy. Failing pretty miserably.  
+
+## 03/02/22 14:12 to 14:35,   Mail merge code now.  +EQT
+It would be great if the Mail merge code exported a 'follow up' grid when it ran.  
+
+It could start with the list of email addresses. 
+## 03/02/22 14:36 to 14:50, Todo is clear!  +EQT
+* Is the next step to improve the igor function? 
+  * Only put in tasks that aren't already in github. 
+  * Don't add doubles in general. 
+  * Edited igor, let's see if it works 
+
+## 03/02/22 14:38 to 15:19, Ran Igor again +EQT
+Back down to 15 tasks. I could get used to this. Three of them are nice blogs to do.  
+...and shortly down to 12. 
+
+You know what would be awesome. If tomorrow was a beutifully sorted delores day
+
+## 03/02/22 15:20 to 16:25, Processing the delores todo and learning javascript +EQT
