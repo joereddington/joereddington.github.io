@@ -5918,3 +5918,105 @@ Back down to 15 tasks. I could get used to this. Three of them are nice blogs to
 You know what would be awesome. If tomorrow was a beutifully sorted delores day
 
 ## 03/02/22 15:20 to 16:25, Processing the delores todo and learning javascript +EQT
+## 04/02/22 08:02 to 09:20, Hello.  It's a delores day.  +EQT
+Calendar - exercise and social media.  Today will be the post about public internet history
+* Excerise - I don't want to do any after lunch becaues then it interfears with my run tomorrow. 
+  * Really be nice if there was some push-ups pull-ups squats that I could put together. 
+* Getting glasses
+* Moving things around. 
+* Didn't quite complete the inbox, but I'm happy with it. 
+* What's the 'big thing' for the week? Well it's Friday, so No, but preping for Nova's party would be great. Today's big thing is completely processing the 12 tasks using delores. 
+* Read the first chapter 
+  * The motorbike example blew me away
+* Fast ways to take photos with webcame 
+  * Webcam photos are very hard work. 
+
+## 04/02/22 09:20 to 09:24, (B) 04 Try to fix the CORS error with https://serverfault.com/a/176729  +EQT
+
+## 04/02/22 09:24 to 09:31, (B) 20 Check in with Unity about adding extra signatories.  +EQT
+Calling them helpline over skype to ask if we have got through the process.  Position in the queue: 7
+30 minute wait on hold. 
+
+## 04/02/22 09:31 to 10:02, (C) 25 Create mail merge letter for MATs on: https://github.com/eQualityTime/Home/issues/114 +EQT
+## 04/02/22 10:02 to 10:21, Back on phone to Unity +EQT
+* I'm told People can sign different copies of the same pdf 
+* I'm told that mum can do the uploading from a link
+* I'm told I need only two signitures on the main thing (the other can be mum) 
+
+## 04/02/22 10:21 to 11:20, (C) 25 Create mail merge letter for MATs on: https://github.com/eQualityTime/Home/issues/114 +EQT
+
+## 04/02/22 11:20 to 11:55, (C) 60 Review expenses - some will be EQT (including zoom). +EQT
+I've coped the natwest transactions into little finger 
+* I've transfered money from the joint account to mine. 
+* I've filed some expenses in Quickbooks
+
+* Quickbooks 
+
+## 04/02/22 11:57 to 12:05, (D) 10 brainstorm who would be on a list of 'people interested in what's happened at eQuality Time https://github.com/eQualityTime/Public/issues/107 +EQT
+
+## 04/02/22 12:05 to 12:38, (D) 15 uploaded and tidy all changed git code +EQT
+Just tidying up git folders and files. Looking at branches. All the homework 
+Was meant to be 15 minutes, but there's a lot of small projects in here that appear to have been abandoned party way thought 
+* Most of what's holding me back is things like: There is some fucking ugly code in there than needs poking. 
+
+## 04/02/22 12:39 to 12:53, (D) 20 Write short blog about Apply for Amazon Literary Partnership https://github.com/eQualityTime/Public/issues/149 +EQT
+
+## 04/02/22 12:53 to 13:48, (D) 60 Write the 'process seed' code for IMPS 3.0 https://github.com/eQualityTime/Public/issues/150 +EQT
+
+
+## 04/02/22 13:49 to 13:52,  Quick blog post +EQT
+
+## 04/02/22 13:52 to 13:57,  (E) 20 Read a chapter of grant book  +EQT
+Three things to do and I think I can definitely do them. 
+
+I really love that I can look back over the list and be like "Yes, yes, I did do all of those in that order, that was brilliant" 
+
+## 04/02/22 13:57 to 14:10, Writing this blog: https://equalitytime.co.uk/6600/2022/02/04/fail/ +EQT
+
+## 04/02/22 14:10 to 14:21, (E) File the documents in the inbox.  +EQT
+Done! We are done! Whole list. 
+
+## 04/02/22 14:21 to 15:17, Working on Delores +EQT
+* Highlighting is now on every page 
+* In general, I feel like Delores should have more lines on fewer pages, and possibly only a new page if there is a threashold size of process >20 
+* Thinking about it. The idea is that we 'do Delores until we find we want to stray from it' and then rebuild or reassure'. 
+* At the moment the tendency is for me to start ignoring it once we move onto the list, which is fair enough because there is a transition between getting set up and getting stuck in. 
+  * But, part of the point of delores is 'how do we do this perfectly?' how do we make sure that: 
+    * that projects are really properly broken down, 
+    * next actions list is genuinely in the right order. 
+    * That code is properly reviewed and committed. 
+    * That I really do work from the top to the bottom and grind though to a point where I am waiting on other people. 
+  * However, let's NOT forget that in the last few months I've made great, near amazing strides forward:
+    * Eight hour days are normal. 
+    * I've zeroed the next actions list four weeks running (twice this week) 
+* In general the big things to improve on Delores (and by extension, life) are:
+   * None work days: running, kitchen cleaning, housework, night time 
+   * Emails better (in terms of length, blogs, if/then/else
+   * better social media integration in general 
+   * literal paperwork. 
+   * Personal todo list. 
+   * Personal inboxes
+   * Fridge and thus food management 
+   * output to paper checklists
+
+Other things we learned today. 
+  * We could do with a real written definition of 'done' on some of the tasks, or at least, a more project level view. I've put in a note to review the github issue as part of this.  
+  * the 10minute watching timer is a great way to pull you out of flow (although, hopefully also, back into flow) - a couple of times today it interrupted me when I was working well.  
+  * It *is* possible to do the priority list in order. And it's also possible to feel the pull of 'how about I keep working on this'.  
+  * People you respect aren't 'constantly on' they are doing the work. 
+
+* Another thought - the focus on 'productivity' is great, but it's NOT as great as 'focus on results' - and it would be so good if we could look back at the last week and read a bunch of really great blogs we did. 
+
+## 04/02/22 15:17 to 15:31, Igor reviewing  +EQT
+* Can you believe it was only 33? Almost none of the events.csv were relevant
+* Plus about seven I'd come up with. 
+* Ten minutes later it was 17 again. 
+
+## 04/02/22 15:33 to 16:05, Half an hour left.   +EQT
+I booked the hotel first and then engaged with the reading, because we're sticking to 'first thing first' 
+* Then I cleared out my messages
+* Then quick linked inreplies
+## 06/02/22 07:53 to 08:43, 
+Migrated five or so posts. It got easier and I've now done all of 2018.  The years get bigger but I suspect that there will also be a lot of deletions. 
+
+## 06/02/22 20:01, Doing the praline blog quickly.  
