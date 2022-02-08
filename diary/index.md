@@ -6018,5 +6018,48 @@ I booked the hotel first and then engaged with the reading, because we're sticki
 * Then quick linked inreplies
 ## 06/02/22 07:53 to 08:43, 
 Migrated five or so posts. It got easier and I've now done all of 2018.  The years get bigger but I suspect that there will also be a lot of deletions. 
-
 ## 06/02/22 20:01, Doing the praline blog quickly.  
+## 07/02/22 06:21 to 07:29, Hello!  +EQT
+Tried working from laptop so I didn't wake the kids. Wasn't particularly successful, woke up a little grumpy
+
+I am so ready to be angry. Because I'm very hurt. I'm looking for any opportunity   to be challenged. To protect myself and my territory and for fairness. 
+
+## 07/02/22 09:57 to 10:45, this is a good time to do the emotional processing thing +EQT
+* I am very grumpy. 
+* Drank lots of water and did proper thinking
+
+
+## 07/02/22 10:45 to 11:16, Personal tasks
+* Made ice-cream and wrote personal blog post
+
+## 07/02/22 11:16 to 11:46,  (E) Fix plotpri.py cron (and put in python3) +EQT
+## 07/02/22 11:47 to 11:47,  (D) map project:Continually improve and train on working practices and technology +EQT
+
+## 07/02/22 11:48 to 12:17, (E) Map the 'create all the ebooks' project (in practice I think it's 'have a go' because if you can get the codes from all books ever then you are probably to do a fast script.    +EQT
+* Done, also ticked some other boxes
+
+## 07/02/22 12:17 to 12:21, General working  +EQT
+* Tided a repo 
+## 07/02/22 12:25 to 12:58, Working out Google Ads  +EQT
+And getting very frustrated. I want people to find this and make it work and it's NOT happening.   
+
+## 07/02/22 12:58 to 13:14, Asking myself how to be better.  +EQT
+My mood is dark and frustrated.  I am looking for trouble. 
+What's a good way of working on day's like this? 
+
+## 07/02/22 13:16 to 15:20, Paperwork and stratergy  +EQT
+Lots of reviewing brainstorms, filled pages of notes. Re-energised. 
+
+## 07/02/22 15:21 to 16:29, Delores +EQT
+Official food plan: joe pasta for the kids and then serious stir fry 
+* Including TACGPA 
+
+
+## 07/02/22 20:01 to 20:47,  Back for some more delores tidy +EQT
+* Starting delores again, which I'd like to be doing more when I come back to a sprint
+* Processing inboxes 
+* Reviewing this file (from Friday) 
+* Reviewing the file from today was much worse.
+
+* Big thing for the week? 
+  * What can I crack this week? The OVF migration? The Etherpad? 
