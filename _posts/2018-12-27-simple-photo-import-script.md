@@ -25,6 +25,24 @@ find . -type f -flags +nouchg -name "*.NEF" -exec cp {} ~/CameraStorage/import_$
 
 </pre>
 
+Updated later to be: 
+<pre>
+#!/bin/bash
+SCRIPT_DIRECTORY=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+cd "$(dirname "$0")"
+year=2022
+cd $year 
+mkdir import_$(date +"%F")
+mkdir import_$(date +"%F")/protected
+mkdir import_$(date +"%F")/normal
+
+cd "/Volumes/NIKON D7000/DCIM/106D7000"
+find . -type f -flags +uchg -name "*.NEF" -exec cp {} "$SCRIPT_DIRECTORY/$year"/import_$(date +"%F")/protected \; 
+find . -type f -flags +nouchg -name "*.NEF" -exec cp {} "$SCRIPT_DIRECTORY/$year"/import_$(date +"%F")/normal \;
+</pre>
+
+
+
 The only interest bit of this is the uchg flag &#8211; that&#8217;s the one that is set on the camera when I protect a photo.
 
 As I get better at photography I might improve this a bit &#8211; make sure I pull of videos for a start.
