@@ -6063,3 +6063,22 @@ Official food plan: joe pasta for the kids and then serious stir fry
 
 * Big thing for the week? 
   * What can I crack this week? The OVF migration? The Etherpad? 
+## 08/02/22 06:27 to 06:52,  Delroes +EQT
+Follow Delores
+* Plan food: Sort out my bullet proofhot choco 
+* Kids will have cracked wheat and me and Kat will have some seiten dish (Joe curry if emergency
+* Exercise will be to run very fast. I should be at Nicky's inside ten minutes  (This didn't happen) 
+* Social media process can wait. 
+* Getting glasses
+* Fixed something about 'watching' 
+
+---------------------------------------------------------------------------------
+## 08/02/22 06:52 to 07:47, email  +EQT
+## 08/02/22 10:09 to 12:07,  +EQT email 
+Very slowly working through emails 
+## 08/02/22 12:38 to 14:08, Back but getting my arse kicked. +EQT
+## 08/02/22 14:15 to 14:54, Read a book +EQT
+## 08/02/22 14:54 to 15:04,  FBook and pokemon
+## 08/02/22 15:04 to 15:29,  Rewriting a photo import script 
+## 08/02/22 15:29 to 15:55, Reading a paper  +EQT 
+## 08/02/22 16:08 to 16:32, On a zoom call about the paper 
