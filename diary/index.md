@@ -6170,3 +6170,13 @@ Update_books script first.
 
 ## 13/02/22 19:40 to 23:59, +EQT Driving up to preston
 ## 14/02/22 08:30 to 21:30, +EQT Monday in preson 
+## 15/02/22 06:02 to 07:47, Working on camp +EQT
+* Fixed slug
+* Corrected wordcoutns
+* Fixed ordering 
+* Bullets working
+* Zoom set up 
+
+
+## 15/02/22 09:30 to 16:40, +EQT camp 
+Including the code to get the ordering file to work and to run the latex. 
