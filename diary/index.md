@@ -6082,3 +6082,91 @@ Very slowly working through emails
 ## 08/02/22 15:04 to 15:29,  Rewriting a photo import script 
 ## 08/02/22 15:29 to 15:55, Reading a paper  +EQT 
 ## 08/02/22 16:08 to 16:32, On a zoom call about the paper 
+## 09/02/22 10:16 to 11:44, Hello  +EQT
+Checking calendar and then coming back. 
+* Group call about Effective altruism 
+* Small call with mum.  
+* Consideration
+
+## 09/02/22 11:45 to 13:52, Email +EQT
+Already tired. 
+
+## 09/02/22 13:52 to 14:51, Finally getting into the swing of this.  +EQT
+Completed inbox. Did gratutide 
+
+## 09/02/22 14:51 to 15:08, Tidying up this file   +EQT
+## 09/02/22 15:08 to 15:42, Shall we delores? Yes we shall...  +EQT
+* Getting back on the fucking horse. 
+* Trying to get etherpad ready for UCLAN 
+* Interupt to pay in cheuqe
+* Now properly on the list
+
+## 09/02/22 15:42 to 15:56, (C) Brainstorm on tinkerbell as a repo of 'theroies of change' and 'JUST these projects and NO others.' +EQT
+
+## 09/02/22 15:57 to 16:46,  Map the private project +EQT
+
+9 things for tomorrow, 
+## 10/02/22 07:33 to 07:35, Tidying yesterday's git.   +EQT
+## 10/02/22 07:36 to 07:49, https://github.com/eQualityTime/Public/issues/150 +EQT 
+## 10/02/22 10:01 to 12:00, https://github.com/eQualityTime/Public/issues/150 +EQT
+Working on etherpad 
+
+* Using https://etherpad.org/doc/v1.8.4/  as my API reference
+* Did some souping up of vim during the code
+  * Added buffergater as a submodule and moved it to server 
+  * Tried make: 
+    :set makeprg=python3\ -m\ unittest
+    :compiler pyunit
+    :make
+    * But it's NOT taking me to the correct places in quickfix I think 
+  * This was helpful: https://vi.stackexchange.com/questions/5110/quickfix-support-for-python-tracebacks
+
+## 10/02/22 12:13 to 16:27, https://github.com/eQualityTime/Public/issues/150  +EQT
+Etherpad germinate is now hooked up and working. The next job is a proper set of test files for the download function. 
+
+## 10/02/22 16:27 to 17:05, https://github.com/eQualityTime/Public/issues/150 +EQT
+TEC2022 is now a working test file (it doens't have a seed, but I'm ignore that) 
+* I used the D2E.sh to get it working. 
+## 11/02/22 08:02 to 08:20, https://github.com/eQualityTime/Public/issues/150  +EQT
+## 11/02/22 08:46 to 10:22, https://github.com/eQualityTime/Public/issues/150 +EQT 
+Lots of files now working. 
+* Now can give a slug and get a wordcount. That's cool. 
+* Need to be able to save it in a way that works for the php. 
+
+## 11/02/22 10:30 to 11:20, Grant writer call.  +EQT
+Lots of good notes about
+* Redoing the website 
+* Proofreading the website for WWW 
+* Accounts formatting 
+* Stop answering questions that weren't asked for. 
+
+## 11/02/22 11:22 to 13:17, https://github.com/eQualityTime/Public/issues/150 +EQT
+* I've now got a json file with one book in it. 
+* I've built a very basic dashboard in php. 
+* I've done a brainstorm about what bits of the code need to happen in what order. 
+* I considered how much of the work I should do in Php to save the downloads and of course that's a stupid question because everything is on the server anyway. I'll do it all in python. 
+
+## 11/02/22 13:17 to 13:34, Need to rewrite this file and catch my breath https://github.com/eQualityTime/Public/issues/150  +EQT
+
+## 11/02/22 13:34 to 14:03, Family break
+
+## 11/02/22 14:03 to 15:54,  https://github.com/eQualityTime/Public/issues/150 +EQT
+ 
+Update_books script first. 
+* Really noticeable how much better things are when they are object oriented
+* Requires me to turn off the direct 'overwrite' 
+* Setup vim tags
+* Wrote 'export code' and script for tar 
+* Setup crontab, now need to debug it. 
+* Redid Germinate so it uses a synopsis and correctly creates the info and ordering files
+* Edited dashboard to review the newly generate samples
+* Added the wordcount and synopsis extraction to the python 
+* Dashboard now shows wordcount and synopsis (
+  * And recovers okay when it doesn't  
+* Characters: 
+  * It's done! Time for a bit of a commit 
+* Total word counts were done in php. 
+
+
+## 13/02/22 19:40 to 23:59, +EQT Driving up to preston
+## 14/02/22 08:30 to 21:30, +EQT Monday in preson 
