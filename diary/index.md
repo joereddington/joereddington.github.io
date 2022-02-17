@@ -6180,3 +6180,19 @@ Update_books script first.
 
 ## 15/02/22 09:30 to 16:40, +EQT camp 
 Including the code to get the ordering file to work and to run the latex. 
+
+
+## 16/02/22 09:30 to 13:03, supervising camps  +EQT
+* Also cleared an inbox 
+* Also rewrote this file 
+* Checked in with Annual leave, going well. 
+
+## 16/02/22 14:00 to 16:27,  Back +EQT
+* Closed one issue, mapped another 
+* Did the string replacements 
+* Ah -that's got more complicated - how do we put info in... 
+* tex.stackexchange has some answers - particularly around passing in commands rather than a file https://tex.stackexchange.com/questions/1492/passing-parameters-to-a-document but I'm feeling like I need more concentration for that one.  
+
+* Ticking off other things. 
+* Fixed the setting of the info file. 
+
