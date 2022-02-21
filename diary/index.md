@@ -6196,3 +6196,20 @@ Including the code to get the ordering file to work and to run the latex.
 * Ticking off other things. 
 * Fixed the setting of the info file. 
 
+## 17/02/22 06:30 to 07:32, Delores +EQT
+
+## 17/02/22 09:30 to 14:00,  Minding camp and working +EQT
+* Did the accounts stuff. 
+* Writing a CEO column 
+
+## 17/02/22 14:01 to 16:38,  Minding camp and working +EQT
+22 things left on the todo list. 
+
+## 18/02/22 07:58 to 09:39, Brainstorms and motivation +EQT
+(Don't remember any motivation now) 
+
+## 18/02/22 09:39 to 10:55, (A) Do payments unity +EQT
+## 18/02/22 10:55 to 15:05,  +EQT
+Paying attention (removed 2 20 minute breaks) 
+ 
+## 20/02/22 06:51 to 08:30,  Working on personal todo list 
