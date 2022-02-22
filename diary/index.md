@@ -6213,3 +6213,22 @@ Including the code to get the ordering file to work and to run the latex.
 Paying attention (removed 2 20 minute breaks) 
  
 ## 20/02/22 06:51 to 08:30,  Working on personal todo list 
+## 21/02/22 06:32 to 07:25, Hello  +EQT
+Big thinking
+
+## 21/02/22 09:46 to 12:00, DELORES +EQT
+_sprint until 12:00_
+
+So far I've been very detail-focused. Lots of adding notes and making sure that things get ticket off. Getting distracted looking for new things that will make me more efficient. 
+
+## 21/02/22 12:25 to 14:18, Working on https://github.com/eQualityTime/Public/issues/152 +EQT
+## 21/02/22 15:10 to 16:13, Working on https://github.com/eQualityTime/Public/issues/152 +EQT
+
+## 21/02/22 16:13 to 16:50, Working on https://github.com/eQualityTime/Public/issues/152 but also code-sniper
+Full day without mouse tho! Well done everybody 
+
+## 21/02/22 19:46 to 20:35,  +EQT writing blog post about https://github.com/eQualityTime/Public/issues/152 
+
+
+## 21/02/22 20:35 to 21:45, Switching to social media alogrithm 
+Which I apparently don't have. But did it for an hour. 
