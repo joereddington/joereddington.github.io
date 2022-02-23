@@ -6232,3 +6232,13 @@ Full day without mouse tho! Well done everybody
 
 ## 21/02/22 20:35 to 21:45, Switching to social media alogrithm 
 Which I apparently don't have. But did it for an hour. 
+## 22/02/22 06:20 to 07:40, Email +EQT
+## 22/02/22 09:53 to 13:15, +EQT email 
+All empty
+
+## 22/02/22 14:00 to 16:07, Calls mostly +EQT
+## 22/02/22 16:08 to 16:33, Delores todo.  +EQT
+* Fixed the focus issue
+* How am I still half an hour down? 
+
+## 22/02/22 20:55 to 21:18, Personal list. 
