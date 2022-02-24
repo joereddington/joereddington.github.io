@@ -6242,3 +6242,31 @@ All empty
 * How am I still half an hour down? 
 
 ## 22/02/22 20:55 to 21:18, Personal list. 
+## 23/02/22 06:15 to 07:25, DELORES +EQT
+(B) 20 Restart the Unity application process - you have an email about it. 
+## 23/02/22 07:26 to 07:47, Sorted Unity Bank +EQT
+## 23/02/22 07:48 to 07:48, (B) Fix ebooks on Tec and bsdc  +EQT
+## 23/02/22 09:55 to 09:58,  (B) Fix ebooks on Tec and bsdc  +EQT 
+## 23/02/22 09:58 to 10:14, Expenses +EQT
+## 23/02/22 10:14 to 10:40, (C) 20 Find out about these people https://docs.google.com/spreadsheets/d/1CD0_IlURaI9XJywN0O8KnfGnl11Jr7g7lfeFXn2UEpM/edit?usp=sharing +EQT
+* Done, super proud. Did a bunch of follow up emails, reminded myself bout something we were arranging. 
+
+## 23/02/22 10:40 to 11:50, Working on +EQT website 
+Working on EQT website: 
+* I've changed the template 
+* Dropped the 'recent posts' and 'comments' 
+* Reworded the declaration
+* Removed the trustee and projects pages. 
+* added text about our two larger projects. 
+
+## 23/02/22 11:50 to 12:01, Fixing bug on WWW site +EQT
+
+## 23/02/22 12:25 to 13:57, (D) 10 Update all the morgan info files (link at github): https://github.com/eQualityTime/Home/issues/118 +EQT
+* I've written a script that downloads lots of files and creates the pdfs and the ebooks. I've also created an issue for Connor.  
+
+## 23/02/22 14:02 to 14:56, fixing+blogging+updating   +EQT
+## 23/02/22 14:56 to 15:13, There are only 9 things left and I don't want to do any of them +EQT
+
+## 23/02/22 15:14 to 16:09, The Drawing version.  +EQT
+
+## 23/02/22 16:09 to 16:29, Processing Google Drive +EQT
