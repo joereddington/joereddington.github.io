@@ -6270,3 +6270,53 @@ Working on EQT website:
 ## 23/02/22 15:14 to 16:09, The Drawing version.  +EQT
 
 ## 23/02/22 16:09 to 16:29, Processing Google Drive +EQT
+## 24/02/22 05:50,  Up before the kids! 
+## 24/02/22 05:50 to 06:01,  Processing tweet deck +EQT
+
+## 24/02/22 06:01 to 07:55,  Web stuff +EQT
+* Trying this https://wordpress.org/support/topic/samesite-cookie-error/ to see if it improves the project real issue 
+* Submitted sitemaps for projectreal and for flowers for turing (which didn't read) 
+* Replied on facebook 
+* Redid the analytics from scratch 
+* Started another optimise experiement 
+* Fixed the conversions for project real 
+
+
+## 24/02/22 09:45 to 10:34, Google ads https://github.com/eQualityTime/Public/issues/131 +EQT
+## 24/02/22 10:38 to 12:12, (E) Rewrite EQT site so that it does more X people did Y which lead to Z (add project real)  +EQT
+* I've updated the risk assessment. 
+
+## 24/02/22 12:12 to 12:34, (E) Investigate and apply https://beinghumanfestival.org/get-involved?utm_source=Being+Human&utm_campaign=34b843ed57-EMAIL_CAMPAIGN_2018_07_06_11_59_COPY_01&utm_medium=email&utm_term=0_77ac6d3afc-34b843ed57-516289237  +EQT
+
+## 24/02/22 12:34 to 13:00,Talking to Yvonne +EQT
+
+## 24/02/22 13:28 to 15:28, Review of projects for wheel of life.  +EQT
+So here's my project review. 
+* I'm spending all my work time on WWW and very little on OVF
+  * OVF needs to become more of a focus 
+* The professional TMC had been really left behind. 
+* The project boards are 'wedge shaped' - there are few deadlined important things, which is great, but that's also a sign that I'm NOT bringing things open with declarations. 
+* Projects aren't getting closed. They should be. That's after the next actions. 
+* White Water Writers really could do with an extra person. 
+* I've opened a few new projects to balance things out a bit but I singularly failed to close many that I was actively working on.  
+* Marathon - 1st May is in 10 weeks. That's ten long runs at the weekend. 
+  * Interferes greatly with diet tho right? I'm already having a bad time. 
+  * But there's a half on the same day right? I could do that instead? 
+  * And a 10k in case of emergency.   
+I mean, can we do both? That's probably Leo's birthday weekend as well.  Hmm.  
+
+Pro: tick off a really big goal. 
+Con: will make it very hard to manage food intake if I'm doing regular half marathons. 
+
+Pro: will be at just the right wake for a big run. would be a lovely time to do it. 
+Pro: would help burn some calories. 
+Con: don't really feel like I'm *nailing* diet at the moment. Would like to be absolutely cracking it before I added more.  
+
+The right thing to do is con. 
+
+
+## 24/02/22 15:50 to 15:52, Todo list is clear. 
+Done some good things today. Feel a raw about it and NOT as satisfied as I could do, but happy still 
+
+## 24/02/22 15:54 to 16:18, Time to start again. +EQT
+Full review. 30 minutes or so. 
