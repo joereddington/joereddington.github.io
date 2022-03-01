@@ -6350,3 +6350,6 @@ Full review. 30 minutes or so.
 * Do I really want a timer? 
 * How would that even work. 
 
+
+## 28/02/22 19:42 to 20:41,  Processing Google drive.  +EQT
+
