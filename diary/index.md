@@ -6320,3 +6320,33 @@ Done some good things today. Feel a raw about it and NOT as satisfied as I could
 
 ## 24/02/22 15:54 to 16:18, Time to start again. +EQT
 Full review. 30 minutes or so. 
+# Solid day.
+* Wipe out the todos, in order.   
+* Full eight hours, including evening (shouldn't be that hard, I did get one hour in the morning)  
+
+## 28/02/22 06:33 to 07:27, fizz fizz fizz +EQT
+* Some work done, but NOT exactly much. Brain very fizzy. 
+
+
+## 28/02/22 09:53 to 11:28, Delores +EQT
+* Processing this file. 
+* Moved onto todo list. 
+* Finished the Doing Good Better book
+* Picked at date for server move and wrote some blog posts. 
+
+## 28/02/22 11:28 to 12:17, (B) Write up proposal for bid writers for Trustees: https://github.com/eQualityTime/Home/issues/117 +EQT
+
+## 28/02/22 12:17 to 12:57, Time to post the forms +EQT
+
+## 28/02/22 13:25 to 13:48, Back after lunch break +EQT
+(B) Make spreadsheet for Yvonne (check Richards)   @private 
+## 28/02/22 13:48 to 14:05,  Got 10 things left +EQT
+* Mapped this project: https://github.com/eQualityTime/Public/issues/155
+* Worked out annual leave
+
+## 28/02/22 14:05 to 16:10, Live work on https://github.com/eQualityTime/Public/issues/152 +EQT 
+
+## 28/02/22 16:14 to 16:32,  working on delores +EQT
+* Do I really want a timer? 
+* How would that even work. 
+
