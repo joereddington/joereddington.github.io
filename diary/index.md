@@ -6353,3 +6353,52 @@ Full review. 30 minutes or so.
 
 ## 28/02/22 19:42 to 20:41,  Processing Google drive.  +EQT
 
+## 01/03/22 06:07 to 07:58, Email +EQT
+* And sorting out ssl certificate 
+
+## 01/03/22 09:59 to 10:46, Email +EQT
+* Brain getting grumpy. Need to do proper delores. 
+
+## 01/03/22 10:46 to 12:28, Delores +EQT
+Going until about 12:30, when I'll pop to the post office (again) 
+
+
+
+## 01/03/22 13:00 to 13:55,  Email +EQT
+Done 
+
+## 01/03/22 14:02 to 14:45,  Write posts +EQT
+* Did gratitude. 
+* Wrote up some ideas
+
+## 01/03/22 14:45 to 15:23, Post office to post packages
+
+## 01/03/22 15:25 to 16:33, Now what? list. +EQT
+I've completed the list! Again!
+
+## 01/03/22 19:45 to 21:00, Meeting +EQT
+
+
+## 02/03/22 11:00 to 13:05, Strategy day +EQT
+* Making lists, checking them twice. 
+
+## 02/03/22 13:05 to 16:14, Working on https://github.com/eQualityTime/Public/issues/152 +EQT
+## 03/03/22 06:32 to 07:00, Starting up +EQT
+* bit of brain fizz 
+
+## 03/03/22 07:03 to 07:26, Working on https://github.com/eQualityTime/Public/issues/152 +EQT
+The php start command is php -S 127.0.0.1:8000 
+
+## 03/03/22 09:52 to 12:45, Working on  https://github.com/eQualityTime/Public/issues/152 +EQT
+
+## 03/03/22 13:16 to 15:34, Working on https://github.com/eQualityTime/Public/issues/152 +EQT
+Committed, pushed, and happy.    Properly written up and sent to RS 
+
+* This is cool: https://stackoverflow.com/a/9720341/170243
+
+  import readline
+  readline.write_history_file('/home/ahj/history')
+
+But imports the whole history and is buggy. 
+
+## 03/03/22 15:34 to 16:00, Playing on a personal (and silly) project
