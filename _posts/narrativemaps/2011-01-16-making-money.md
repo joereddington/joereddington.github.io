@@ -6,8 +6,7 @@ author: Joe Reddington
 layout: post
 guid: http://www.projecttoomanycooks.co.uk/?p=68
 permalink: /733/2011/01/16/making-money/
-categories:
-  - Analysis
+categories: Analysis
 tags:
   - reviewed
 ---
