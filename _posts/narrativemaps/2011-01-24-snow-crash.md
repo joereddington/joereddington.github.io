@@ -17,4 +17,4 @@ _**Snow Crash**_ is [Neal Stephenson](http://en.wikipedia.org/wiki/Neal_Stephens
 
 There are 71 Chapters, numbered sensibly&#8230; and you can click on the image for a better look.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6659" src="http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-5.png" alt="" width="480" height="240" srcset="https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-5.png 480w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-5-300x150.png 300w" sizes="(max-width: 480px) 100vw, 480px" />](http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-5.png)
+![Alt text](/assets/uploads/2011/01/Dendrogram-5.png)

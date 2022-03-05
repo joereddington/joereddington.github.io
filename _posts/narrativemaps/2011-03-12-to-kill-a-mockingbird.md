@@ -19,4 +19,4 @@ The novel is renowned for its warmth and humor, despite dealing with the serious
 
 The novel has 31 chapters and you can click on the image to the left for a closer look.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6615" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-8-1024x317.png" alt="" width="1000" height="310" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-8-1024x317.png 1024w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-8-300x93.png 300w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-8-768x238.png 768w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-8.png 1550w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-8.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-8.png)

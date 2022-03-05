@@ -19,4 +19,4 @@ The chapters are helpfully numbered 1-18 and you can click the image for a bette
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6599" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-2.png" alt="" width="900" height="480" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-2.png 900w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-2-300x160.png 300w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-2-768x410.png 768w" sizes="(max-width: 900px) 100vw, 900px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-2.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-2.png)

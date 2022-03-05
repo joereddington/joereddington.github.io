@@ -19,4 +19,4 @@ The story is set in the fictional town of Clanton, Mississippi from [1970](http:
 
 The chapters are helpfully numbered 1 to 44.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6671" src="http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.26.45-1024x462.png" alt="" width="1000" height="451" srcset="https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.26.45-1024x462.png 1024w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.26.45-300x135.png 300w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.26.45-768x346.png 768w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.26.45.png 1231w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.26.45.png)
+![Alt text](/assets/uploads/2011/01/Screenshot-2019-02-18-11.26.45.png)

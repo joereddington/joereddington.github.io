@@ -19,7 +19,7 @@ _**The Lord of the Rings**_ is an [epic](http://en.wikipedia.org/wiki/Epic_%28ge
 
 Anyway&#8230;.  The novel is split into  The Fellowship of the Ring (sections 1-22),  The Two Towers (sections &#8211; 23 &#8211; 43), and The Return of the King (sections 44-62).  You can, of course see a larger version by clicking on the image, but it should be pretty obvious that the book divisions are fairly arbitrary.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6631" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-10.png" alt="" width="744" height="248" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-10.png 744w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-10-300x100.png 300w" sizes="(max-width: 744px) 100vw, 744px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-10.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-10.png)
 
 &nbsp;
 

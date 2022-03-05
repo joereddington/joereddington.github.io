@@ -21,4 +21,4 @@ to Yvonne Davet, Orwell described _Animal Farm_ as his novel &#8220;contre Stal
 
 <sup>There are only 10 Chapters and the structure is presented for interest &#8211; as always, clicking on the diagram will show you a larger one. </sup>
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6590" src="http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-8.png" alt="" width="500" height="480" srcset="https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-8.png 500w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-8-300x288.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-8.png)
+![Alt text](/assets/uploads/2011/05/Dendrogram-8.png)

@@ -15,4 +15,4 @@ From wikipedia: _**David Copperfield**_ or _**The Personal History, Adventures,
 
 There are 64 chapters and you can click on the diagram for a closer look.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6585" src="http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-6-1024x154.png" alt="" width="1000" height="150" srcset="https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-6-1024x154.png 1024w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-6-300x45.png 300w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-6-768x115.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-6.png)
+![Alt text](/assets/uploads/2011/05/Dendrogram-6.png)

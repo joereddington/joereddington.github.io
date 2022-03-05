@@ -69,4 +69,4 @@ Chapter 10:    22
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6680" src="http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.29.44-1024x466.png" alt="" width="1000" height="455" srcset="https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.29.44-1024x466.png 1024w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.29.44-300x136.png 300w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.29.44-768x349.png 768w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.29.44.png 1161w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.29.44.png)
+![Alt text](/assets/uploads/2011/01/Screenshot-2019-02-18-11.29.44.png)

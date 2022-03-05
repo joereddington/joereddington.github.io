@@ -15,4 +15,4 @@ _**2001: A Space Odyssey**_ ([1968](http://en.wikipedia.org/wiki/1968 "1968")) i
 
 This is an interesting one, of course, because it is _kind of_ the book-of-the film&#8230; one of these days I&#8217;ll pull out the film script as well to see how close they look :).  24 chapters helpfully numbered and you can click on the image for a closer look.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6655" src="http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-3.png" alt="" width="480" height="240" srcset="https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-3.png 480w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-3-300x150.png 300w" sizes="(max-width: 480px) 100vw, 480px" />](http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-3.png)
+![Alt text](/assets/uploads/2011/01/Dendrogram-3.png)

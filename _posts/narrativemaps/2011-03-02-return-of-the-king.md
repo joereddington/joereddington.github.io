@@ -35,4 +35,4 @@ The chapters are fairly unhelpfully numbered: numbers 1-10 refer to Chapters 1-1
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6634" src="http://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.10.57-1024x443.png" alt="" width="1000" height="433" srcset="https://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.10.57-1024x443.png 1024w, https://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.10.57-300x130.png 300w, https://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.10.57-768x332.png 768w, https://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.10.57.png 1246w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.10.57.png)
+![Alt text](/assets/uploads/2011/03/Screenshot-2019-02-18-11.10.57.png)

@@ -15,4 +15,4 @@ _**The Girl with the Dragon Tattoo**_ (original title in [Swedish](http://en.wik
 
 The chapters are helpfully numbered 1-29 and you can click the image for a better look.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6646" src="http://joereddington.com/wp-content/uploads/2011/01/Dendrogram.png" alt="" width="480" height="240" srcset="https://joereddington.com/wp-content/uploads/2011/01/Dendrogram.png 480w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-300x150.png 300w" sizes="(max-width: 480px) 100vw, 480px" />](http://joereddington.com/wp-content/uploads/2011/01/Dendrogram.png)
+![Alt text](/assets/uploads/2011/01/Dendrogram.png)

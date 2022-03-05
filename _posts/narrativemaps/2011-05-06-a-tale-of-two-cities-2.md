@@ -15,4 +15,4 @@ _**A Tale of Two Cities**_ ([1859](http://en.wikipedia.org/wiki/1859_in_literatu
 
 There are 45 chapters numbered from 1-45. and you can click on the diagram for a closure look.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6587" src="http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-7-1024x218.png" alt="" width="1000" height="213" srcset="https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-7-1024x218.png 1024w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-7-300x64.png 300w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-7-768x164.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-7.png)
+![Alt text](/assets/uploads/2011/05/Dendrogram-7.png)

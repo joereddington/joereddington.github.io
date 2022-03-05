@@ -19,4 +19,4 @@ _**Harry Potter and the Deathly Hallows**_ is the seventh and final of the _[Har
 
 Its chapters are helpfully numbered 1 to 36.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6665" src="http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-7-1024x273.png" alt="" width="1000" height="267" srcset="https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-7-1024x273.png 1024w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-7-300x80.png 300w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-7-768x205.png 768w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-7.png 1800w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-7.png)
+![Alt text](/assets/uploads/2011/01/Dendrogram-7.png)
