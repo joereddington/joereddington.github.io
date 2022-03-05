@@ -17,4 +17,4 @@ _**Neuromancer**_ is a 1984 novel by [William Gibson](http://en.wikipedia.org/wi
 
 The chapters are helpfully numbered 1-24 and you can click the image for a better look.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6657" src="http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-4.png" alt="" width="480" height="240" srcset="https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-4.png 480w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-4-300x150.png 300w" sizes="(max-width: 480px) 100vw, 480px" />](http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-4.png)
+![Alt text](/assets/uploads/2011/01/Dendrogram-4.png)

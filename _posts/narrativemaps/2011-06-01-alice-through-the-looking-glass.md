@@ -17,4 +17,4 @@ _**Through the Looking-Glass, and What Alice Found There**_ (1871) is a work ofÂ
 
 There are only 12 chapters numbered from 1-12. and you can click on the diagram for a closure look.
 
-[<img loading="lazy" class="aligncenter size-medium wp-image-6557" src="http://joereddington.com/wp-content/uploads/2011/06/Dendrogram-300x240.png" alt="" width="300" height="240" srcset="https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-300x240.png 300w, https://joereddington.com/wp-content/uploads/2011/06/Dendrogram.png 600w" sizes="(max-width: 300px) 100vw, 300px" />](http://joereddington.com/wp-content/uploads/2011/06/Dendrogram.png)
+![Alt text](/assets/uploads/2011/06/Dendrogram.png)

@@ -69,4 +69,4 @@ There are 23 Chapters, but that are named with roman numerals and subdivided int
 
 Click on the image for a better look.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6613" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-7-1024x427.png" alt="" width="1000" height="417" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-7-1024x427.png 1024w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-7-300x125.png 300w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-7-768x321.png 768w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-7.png 1150w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-7.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-7.png)

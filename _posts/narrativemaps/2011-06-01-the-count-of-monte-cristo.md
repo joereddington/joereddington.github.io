@@ -19,4 +19,4 @@ The story takes place in [France](http://en.wikipedia.org/wiki/France "France")
 
 Apologies for the massive diagram: there are 117 chapters numbered from 1-117. and you can click on the diagram for a closure look (you&#8217;d probably want to)
 
-[<img loading="lazy" class="aligncenter size-medium wp-image-6560" src="http://joereddington.com/wp-content/uploads/2011/06/Dendrogram-1-300x25.png" alt="" width="300" height="25" srcset="https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-1-300x25.png 300w, https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-1-768x63.png 768w, https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-1-1024x84.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://joereddington.com/wp-content/uploads/2011/06/Dendrogram-1.png)
+![Alt text](/assets/uploads/2011/06/Dendrogram-1.png)

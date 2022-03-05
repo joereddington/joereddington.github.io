@@ -17,4 +17,4 @@ _**The Hobbit, or There and Back Again**_, better known by its abbreviated title
 
 The chapters are helpfully numbered 1-19 and you can click the image for a better look.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6604" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-4.png" alt="" width="342" height="480" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-4.png 342w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-4-214x300.png 214w" sizes="(max-width: 342px) 100vw, 342px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-4.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-4.png)

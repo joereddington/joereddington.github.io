@@ -21,4 +21,4 @@ The chapters are helpfully numbered 1-36 and you can click the image for a bette
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6602" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-3.png" alt="" width="480" height="240" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-3.png 480w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-3-300x150.png 300w" sizes="(max-width: 480px) 100vw, 480px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-3.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-3.png)

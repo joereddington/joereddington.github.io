@@ -15,4 +15,4 @@ _**Harry Potter and the Half-Blood Prince**_, released on 16 July 2005, is the s
 
 The chapters are helpfully numbered 1-30 and you can click the image for a better look.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6628" src="http://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.09.18-1024x453.png" alt="" width="1000" height="442" srcset="https://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.09.18-1024x453.png 1024w, https://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.09.18-300x133.png 300w, https://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.09.18-768x340.png 768w, https://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.09.18.png 1268w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/03/Screenshot-2019-02-18-11.09.18.png)
+![Alt text](/assets/uploads/2011/03/Screenshot-2019-02-18-11.09.18.png)

@@ -11,7 +11,7 @@ categories:
 tags:
   - reviewed
 ---
-[<img loading="lazy" class="aligncenter size-large wp-image-6689" src="http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.31.51-1024x483.png" alt="" width="1000" height="472" srcset="https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.31.51-1024x483.png 1024w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.31.51-300x141.png 300w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.31.51-768x362.png 768w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.31.51.png 1188w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.31.51.png)
+![Alt text](/assets/uploads/2011/01/Screenshot-2019-02-18-11.31.51.png)
 
 From Wikipedia:
 

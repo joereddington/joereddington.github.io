@@ -21,4 +21,4 @@ The Chapters are helpfully numbered 1 to 20.  Enjoy!
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6692" src="http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.32.45-1024x495.png" alt="" width="1000" height="483" srcset="https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.32.45-1024x495.png 1024w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.32.45-300x145.png 300w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.32.45-768x371.png 768w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.32.45.png 1150w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.32.45.png)
+![Alt text](/assets/uploads/2011/01/Screenshot-2019-02-18-11.32.45.png)

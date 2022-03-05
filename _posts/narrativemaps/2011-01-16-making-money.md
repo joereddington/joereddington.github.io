@@ -20,4 +20,4 @@ Making Money is helpfully split into 13 chapters numbered 1-13.
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6668" src="http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-8.png" alt="" width="480" height="240" srcset="https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-8.png 480w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-8-300x150.png 300w" sizes="(max-width: 480px) 100vw, 480px" />](http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-8.png)
+![Alt text](/assets/uploads/2011/01/Dendrogram-8.png)

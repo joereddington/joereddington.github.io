@@ -17,4 +17,4 @@ The novel features [Harry Potter&#8217;s](http://en.wikipedia.org/wiki/Harry_Po
 
 It&#8217;s got 38 chapters and clicking on the diagram will give you a closer look.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6571" src="http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-1-1024x259.png" alt="" width="1000" height="253" srcset="https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-1-1024x259.png 1024w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-1-300x76.png 300w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-1-768x194.png 768w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-1.png 1900w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-1.png)
+![Alt text](/assets/uploads/2011/05/Dendrogram-1.png)

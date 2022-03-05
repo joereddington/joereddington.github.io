@@ -19,4 +19,4 @@ Traditionally considered a [coming-of-age story](http://en.wikipedia.org/wiki/B
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6568" src="http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-1024x289.png" alt="" width="1000" height="282" srcset="https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-1024x289.png 1024w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-300x85.png 300w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-768x217.png 768w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram.png 1700w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/05/Dendrogram.png)
+![Alt text](/assets/uploads/2011/05/Dendrogram.png)

@@ -19,4 +19,4 @@ Chapters are helpfully numbered 1 to 34&#8230;
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6686" src="http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.30.43-1024x449.png" alt="" width="1000" height="438" srcset="https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.30.43-1024x449.png 1024w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.30.43-300x132.png 300w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.30.43-768x337.png 768w, https://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.30.43.png 1181w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/01/Screenshot-2019-02-18-11.30.43.png)
+![Alt text](/assets/uploads/2011/01/Screenshot-2019-02-18-11.30.43.png)

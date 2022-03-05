@@ -17,4 +17,4 @@ _**Gone with the Wind**_, first published in May 1936, is a [romantic novel](ht
 
 There are 63 chapters numbered from 1-63. and you can click on the diagram for a closure look.
 
-[<img loading="lazy" class="aligncenter size-medium wp-image-6562" src="http://joereddington.com/wp-content/uploads/2011/06/Dendrogram-2-300x46.png" alt="" width="300" height="46" srcset="https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-2-300x46.png 300w, https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-2-768x117.png 768w, https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-2-1024x156.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://joereddington.com/wp-content/uploads/2011/06/Dendrogram-2.png)
+![Alt text](/assets/uploads/2011/06/Dendrogram-2.png)

@@ -19,4 +19,4 @@ __**Harry Potter and the Philosopher&#8217;s Stone**_ is the first novel in theÂ
 
 There are 17 Chapters and clicking on the diagram will give you a closer look.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6573" src="http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-2.png" alt="" width="850" height="480" srcset="https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-2.png 850w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-2-300x169.png 300w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-2-768x434.png 768w" sizes="(max-width: 850px) 100vw, 850px" />](http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-2.png)
+![Alt text](/assets/uploads/2011/05/Dendrogram-2.png)

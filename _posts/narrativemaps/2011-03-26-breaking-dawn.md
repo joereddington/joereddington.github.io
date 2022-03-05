@@ -17,4 +17,4 @@ _**Breaking Dawn**_ is the fourth and final novel in the [_Twilight_ series](htt
 
 The chapters are helpfully numbered 1-39 and you can click the image for a better look.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6595" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-1-1024x252.png" alt="" width="1000" height="246" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-1-1024x252.png 1024w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-1-300x74.png 300w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-1-768x189.png 768w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-1.png 1950w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-1.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-1.png)

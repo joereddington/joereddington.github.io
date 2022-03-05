@@ -21,4 +21,4 @@ The chapters are numbered 1 to 128, and I removed the prologue and the epilogue.
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6683" src="http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-9-358x1024.png" alt="" width="358" height="1024" srcset="https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-9-358x1024.png 358w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-9-105x300.png 105w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-9-768x2194.png 768w, https://joereddington.com/wp-content/uploads/2011/01/Dendrogram-9.png 1050w" sizes="(max-width: 358px) 100vw, 358px" />](http://joereddington.com/wp-content/uploads/2011/01/Dendrogram-9.png)
+![Alt text](/assets/uploads/2011/01/Dendrogram-9.png)

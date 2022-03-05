@@ -11,7 +11,7 @@ categories:
 tags:
   - reviewed
 ---
-[<img loading="lazy" class="aligncenter size-large wp-image-6607" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-5-1024x147.png" alt="" width="1000" height="144" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-5-1024x147.png 1024w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-5-300x43.png 300w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-5-768x110.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-5.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-5.png)
 
 From wikipedia:
 

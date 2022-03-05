@@ -15,4 +15,4 @@ _**Harry Potter and the Chamber of Secrets**_ is the second novel in the _[Harr
 
 &nbsp;
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6582" src="http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-5.png" alt="" width="850" height="480" srcset="https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-5.png 850w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-5-300x169.png 300w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-5-768x434.png 768w" sizes="(max-width: 850px) 100vw, 850px" />](http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-5.png)
+![Alt text](/assets/uploads/2011/05/Dendrogram-5.png)

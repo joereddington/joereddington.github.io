@@ -21,4 +21,4 @@ The novel won a [Hugo Award](http://en.wikipedia.org/wiki/Hugo_Award) in 2001;<s
 
 The chapters are helpfully numbered 1-37 and you can click the image for a better look.
 
-[<img loading="lazy" class="aligncenter size-large wp-image-6610" src="http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-6-1024x266.png" alt="" width="1000" height="260" srcset="https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-6-1024x266.png 1024w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-6-300x78.png 300w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-6-768x199.png 768w, https://joereddington.com/wp-content/uploads/2011/03/Dendrogram-6.png 1850w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://joereddington.com/wp-content/uploads/2011/03/Dendrogram-6.png)
+![Alt text](/assets/uploads/2011/03/Dendrogram-6.png)

@@ -19,4 +19,4 @@ _Great Expectations_ is written in the [first person](http://en.wikipedia.org/w
 
 The text is conveniently split into 59 chapters and clicking on the image gives you, well, a bigger image
 
-[<img loading="lazy" class="aligncenter size-medium wp-image-6564" src="http://joereddington.com/wp-content/uploads/2011/06/Dendrogram-3-300x49.png" alt="" width="300" height="49" srcset="https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-3-300x49.png 300w, https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-3-768x125.png 768w, https://joereddington.com/wp-content/uploads/2011/06/Dendrogram-3-1024x167.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://joereddington.com/wp-content/uploads/2011/06/Dendrogram-3.png)
+![Alt text](/assets/uploads/2011/06/Dendrogram-3.png)

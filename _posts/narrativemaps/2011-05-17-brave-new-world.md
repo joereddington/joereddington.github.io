@@ -17,4 +17,4 @@ _**Brave New World**_ is a [novel](http://en.wikipedia.org/wiki/Novel "Novel") 
 
 There are 18 Chapters and you can click on the diagram for a closer look.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-6577" src="http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-3.png" alt="" width="900" height="480" srcset="https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-3.png 900w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-3-300x160.png 300w, https://joereddington.com/wp-content/uploads/2011/05/Dendrogram-3-768x410.png 768w" sizes="(max-width: 900px) 100vw, 900px" />](http://joereddington.com/wp-content/uploads/2011/05/Dendrogram-3.png)
+![Alt text](/assets/uploads/2011/05/Dendrogram-3.png)
