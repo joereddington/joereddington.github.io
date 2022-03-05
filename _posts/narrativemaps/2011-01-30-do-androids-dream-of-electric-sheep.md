@@ -11,6 +11,8 @@ categories:
 tags:
   - reviewed
 ---
-**![Alt text](/assets/uploads/2011/01/Dendrogram-1.png)Do Androids Dream of Electric Sheep?** is a [science fiction](http://en.wikipedia.org/wiki/Science_fiction "Science fiction") [novel](http://en.wikipedia.org/wiki/Novel "Novel") by American writer [Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick "Philip K. Dick") first published in 1968. The main plot follows [Rick Deckard](http://en.wikipedia.org/wiki/Rick_Deckard "Rick Deckard"), a [bounty hunter](http://en.wikipedia.org/wiki/Bounty_hunter "Bounty hunter") of [androids](http://en.wikipedia.org/wiki/Androids "Androids"), while the secondary plot follows John Isidore, a man of sub-normal intelligence who befriends some of the androids.
+**![Alt text](/assets/uploads/2011/01/Dendrogram-1.png)
+
+Do Androids Dream of Electric Sheep?** is a [science fiction](http://en.wikipedia.org/wiki/Science_fiction "Science fiction") [novel](http://en.wikipedia.org/wiki/Novel "Novel") by American writer [Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick "Philip K. Dick") first published in 1968. The main plot follows [Rick Deckard](http://en.wikipedia.org/wiki/Rick_Deckard "Rick Deckard"), a [bounty hunter](http://en.wikipedia.org/wiki/Bounty_hunter "Bounty hunter") of [androids](http://en.wikipedia.org/wiki/Androids "Androids"), while the secondary plot follows John Isidore, a man of sub-normal intelligence who befriends some of the androids.
 
 23 Chapters, and you can click on the image for a better view 🙂
