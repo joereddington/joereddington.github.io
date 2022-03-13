@@ -5,7 +5,6 @@ date: 2017-08-10T15:06:03+01:00
 author: Joe Reddington
 layout: post
 guid: http://joereddington.com/?p=6450
-permalink: /6450/2017/08/10/why-documentation-is-important/
 categories:
   - BuildingAnOrganisation
 ---

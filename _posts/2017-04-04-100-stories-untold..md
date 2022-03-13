@@ -5,7 +5,6 @@ date: 2017-04-04T21:23:51+01:00
 author: Joe Reddington
 layout: post
 guid: http://joereddington.com/?p=6389
-permalink: /6389/2017/04/04/100-stories-untold./
 amazon-product-content-location:
   - "1"
 amazon-product-excerpt-hook-override:

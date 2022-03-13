@@ -5,7 +5,6 @@ date: 2018-12-27T11:31:29+00:00
 author: Joe Reddington
 layout: post
 guid: http://joereddington.com/?p=6542
-permalink: /6542/2018/12/27/simple-photo-import-script/
 categories:
   - Uncategorized
 ---

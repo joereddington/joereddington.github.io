@@ -5,7 +5,6 @@ date: 2018-06-28T18:41:42+01:00
 author: Joe Reddington
 layout: post
 guid: http://joereddington.com/?p=6481
-permalink: /6481/2018/06/28/appling-for-jobs/
 categories:
   - Uncategorized
 ---
