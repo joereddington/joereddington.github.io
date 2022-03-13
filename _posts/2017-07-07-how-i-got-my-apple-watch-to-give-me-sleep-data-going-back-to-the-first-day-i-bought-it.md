@@ -25,7 +25,7 @@ Like almost everybody I charge my watch overnight. The last thing I do at night 
 
 I'd also been wondering about sleep tracking for a while.
 
-I tried to export the 'time under charge'  log files from the watch  then I'd have a pretty good sleep tracker&#8230; Or at least 'bed' tracker, which is most of what I want.
+I tried to export the 'time under charge'  log files from the watch  then I'd have a pretty good sleep tracker Or at least 'bed' tracker, which is most of what I want.
 
 Unfortunately I couldn't get access to that.
 
