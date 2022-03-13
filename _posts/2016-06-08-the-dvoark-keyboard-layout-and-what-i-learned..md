@@ -2,7 +2,6 @@
 title: The Dvoark keyboard layout and what I learned.
 date: 2016-06-08T10:00:24+01:00
 author: Joe Reddington
-permalink: /6050/2016/06/08/the-dvoark-keyboard-layout-and-what-i-learned./
 ---
   So about two months ago I switched over to <a href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">the Dvoark keyboard layout</a>. Full immersion.  It was a really interesting exercise (for comparison, I got up to about 45WPM, and I&#8217;m 72ish in QWERTY)  This week I switched back to QWERTY. Here are my notes on the process. 
 

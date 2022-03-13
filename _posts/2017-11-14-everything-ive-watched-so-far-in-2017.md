@@ -5,7 +5,6 @@ date: 2017-11-14T13:08:17+00:00
 author: Joe Reddington
 layout: post
 guid: http://joereddington.com/?p=6454
-permalink: /6454/2017/11/14/everything-ive-watched-so-far-in-2017/
 categories:
   - truth
   - Uncategorized

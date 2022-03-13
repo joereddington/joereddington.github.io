@@ -5,7 +5,6 @@ date: 2018-10-04T09:50:37+01:00
 author: Joe Reddington
 layout: post
 guid: http://joereddington.com/?p=6516
-permalink: /6516/2018/10/04/reducing-phone-usage/
 categories:
   - Productivity
 ---

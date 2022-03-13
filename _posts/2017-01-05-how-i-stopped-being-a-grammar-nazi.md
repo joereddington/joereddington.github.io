@@ -5,7 +5,6 @@ date: 2017-01-05T15:37:41+00:00
 author: Joe Reddington
 layout: post
 guid: http://joereddington.com/?p=6318
-permalink: /6318/2017/01/05/how-i-stopped-being-a-grammar-nazi/
 amazon-product-content-location:
   - "1"
 amazon-product-excerpt-hook-override:
