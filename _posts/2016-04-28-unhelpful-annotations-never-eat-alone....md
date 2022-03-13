@@ -15,7 +15,7 @@ I wanted to share some of them with you. All are unhelpful, most are trivial, an
 
 >  'Today, I have over 5,000 people on my Palm who will answer the phone when I call.'
 
-_In the 2014 edition this is 10,000 people in his phone. To set out our pedantic stall early - if you want to be sure how 10,000 people will react, you have to check with a 1,000 of them&#8230; ([link](https://www.surveymonkey.com/blog/2011/09/15/how-many-people-do-i-need-to-take-my-survey/)) I really want to know if he did. I'm pretty sure that if I called 10 people in my family a big number wouldn't answer&#8230; _
+_In the 2014 edition this is 10,000 people in his phone. To set out our pedantic stall early - if you want to be sure how 10,000 people will react, you have to check with a 1,000 of them ([link](https://www.surveymonkey.com/blog/2011/09/15/how-many-people-do-i-need-to-take-my-survey/)) I really want to know if he did. I'm pretty sure that if I called 10 people in my family a big number wouldn't answer _
 
 
 > <p style="text-align: center;">
@@ -26,7 +26,7 @@ _In the 2014 edition this is 10,000 people in his phone. To set out our pedantic
 >   Don't keep score
 > </p>
 
-_Unless you are counting contacts in your phone&#8230;_
+_Unless you are counting contacts in your phone_
 
 > How was a guy like me from a working-class family, with a liberal arts degree and a couple years at a traditional manufacturing company, going to compete.
 
@@ -40,7 +40,7 @@ _Okay, sounds good._
 
 > Your goals must be challenging and demanding. Step out of your comfort zone; set goals that require risk and uncertainty.
 
-_You want goals that are uncertain, that you definitely believe in then&#8230;  (On the same page!)_
+_You want goals that are uncertain, that you definitely believe in then  (On the same page!)_
 
 ### 
 
@@ -50,7 +50,7 @@ _You want goals that are uncertain, that you definitely believe in then&#8230; 
 > 
 > Be a Name-Dropper Connecting your story with a known entity— be it a politician, celebrity, or famous businessperson—acts as a de facto slant.
 
-_A few pages later Keith's most embarrassing story is because of over relying on name dropping&#8230;_
+_A few pages later Keith's most embarrassing story is because of over relying on name dropping_
 
 &nbsp;
 
@@ -58,7 +58,7 @@ _A few pages later Keith's most embarrassing story is because of over relying on
 
 &nbsp;
 
-_Apart from Shakespeare, who died 400 years ago&#8230;_ 
+_Apart from Shakespeare, who died 400 years ago_ 
 
 &nbsp;
 
@@ -66,13 +66,13 @@ _Apart from Shakespeare, who died 400 years ago&#8230;_
 
 > Most people haven’t figured out that it’s better to spend more time with fewer people at a one-hour get-together, and have one or two meaningful dialogues, than engage in the wandering-eye routine and lose the respect of most of the people you meet.
 
-_True.  We should have fewer longer meaningful conversations&#8230;_
+_True.  We should have fewer longer meaningful conversations_
 
 &nbsp;
 
 >  I probably gave my card and e-mail address out to at least a hundred people that night.
 
-_Or very short and fast ones&#8230;  _
+_Or very short and fast ones  _
 
 
 > THE CARD DISPENSER/ AMASSER: This guy passes his card out like it had the cure for cancer written on its back. Frankly, cards are overrated.
@@ -109,13 +109,13 @@ _It's a management book, so it's legally required to talk about Bill Clinton's a
 
 > I never once heard Clinton ask for a vote or talk about himself when engaged in these quick, casual encounters.
 
-_80 pages earlier, there's a story about a young Clinton doing exactly that&#8230;_
+_80 pages earlier, there's a story about a young Clinton doing exactly that_
 
 ### Balance
 
 > Sounds hokey, but you have to take care of yourself— your body, mind, and spirit—best. As hectic as my schedule can get, I never miss a workout (five times a week). I try to take a five-day vacation every other month (I do check e-mails and catch up on reading). I go on a spirituality retreat once a month, even if it’s a one-day local meditation retreat. And I do something spiritual each week— usually church. That gives me energy to allow me to keep my otherwise twenty-four-hour schedule.
 
-_Balance is important&#8230;_
+_Balance is important_
 
 &nbsp;
 
@@ -129,7 +129,7 @@ _This is in the Chapter literally called 'Balance is bullshit'_
 
 > He was implying I was demoted!
 
-_Let's look at [the story](http://www.wsj.com/articles/SB848357549747373500)&#8230;_
+_Let's look at [the story](http://www.wsj.com/articles/SB848357549747373500)_
 
 > In that climate, it's hard to tell what's a demotion any more. A year ago, Keith Ferrazzi was national director of re-engineering and change management for Deloitte & Touche Consulting Group. Then, he was asked to take on a study of the company's marketing and communications processes. He has no title and no one reports to him. No one at the company is obligated to accept his recommendations. He doesn't even appear in the organizational chart. Moreover, when the project ends, he has no assurances about future employment.
 
@@ -138,4 +138,4 @@ _Let's look at [the story](http://www.wsj.com/articles/SB848357549747373500)&#82
   That's all we have time for
 </h3>
 
-The book is full of this sort of thing - these are just the highlights that I pulled off my Kindle. There _are_ good things in the book&#8230; but there's a lot of rubbish.
+The book is full of this sort of thing - these are just the highlights that I pulled off my Kindle. There _are_ good things in the book but there's a lot of rubbish.

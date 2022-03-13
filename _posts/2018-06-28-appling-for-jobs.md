@@ -19,7 +19,7 @@ When you apply for a job you (I do anyway) look at the list of criteria and writ
   * I felt like I had the skill but I hadn&#8217;t sucessfully demonstrated it.
   * I&#8217;d been carrying out the responsibility, but in an ad-hoc way, without any really plans or focus.
 
-&#8230;and all of those are interesting signs when you _are already doing quite a lot of the job_.
+and all of those are interesting signs when you _are already doing quite a lot of the job_.
 
 So my covering letter ended up being a fairly honest apraisal of where I felt I&#8217;d done well as a person, and where I felt I had a lot to learn. and the latter is something I&#8217;ll be working on hard in the future.   It was a really interesting exercise and I&#8217;ll be thinking about ways to build it into future work.   Filling out the application form meant that I gave myself a really sincere evaluation, rather than what I have a habit of doing, which is evaluating the organisation in isolation.
 
