@@ -6402,3 +6402,25 @@ Committed, pushed, and happy.    Properly written up and sent to RS
 But imports the whole history and is buggy. 
 
 ## 03/03/22 15:34 to 16:00, Playing on a personal (and silly) project
+
+
+## 07/03/22 10:00 to 12:00, Somewhere in there was a call with a funder for two hours (including prep) +EQT
+
+## 14/03/22 10:00 to 14:00, Operating system reinstall and other setup faff +EQT
+## 14/03/22 13:58 to 14:44, Delores  +Eqt
+* Processed inboxes and this file. 
+Big thing of the week *should* be the transfer of the OVF site - it might be the posponded, but we should work towards it. 
+
+
+## 14/03/22 20:43 to 21:48, Writing a simple shortcut application, counting it as learning for work on this occasion +EQT
+
+## 15/03/22 06:22 to 07:37, +EQT 
+
+## 15/03/22 09:55 to 11:44, Back.  Email +EQT
+* Also bank reconciliations and so on. 
+
+## 15/03/22 11:44 to 12:37, Tired. I am disengaging +EQT
+I've managed to push through. Going to make some dinner soon.
+
+## 15/03/22 15:22 to 16:13, More emails +EQT
+(I had a nap in the middle of the day 
