@@ -6424,3 +6424,68 @@ I've managed to push through. Going to make some dinner soon.
 
 ## 15/03/22 15:22 to 16:13, More emails +EQT
 (I had a nap in the middle of the day 
+# 16/03/22 06:45 to 07:50, Delores +EQT
+Been trying the paper approach this morning, along with some more use of showcuts. 
+
+## 16/03/22 09:45 to 11:11,  +EQT email 
+I'm doing my email. That's mostly the emails in the stack but also the emails in the box. I'm going to move the box  
+
+## 16/03/22 11:35 to 12:32,  Email +EQT (From history 
+* Emailed the funder
+* Emailed the runnymead trust (online form) 
+* I put up an advert for a VA for all of Connor's tasks  
+
+
+## 16/03/22 12:32 to 13:23, Working on brainstorms +EQT
+
+## 16/03/22 13:23 to 16:27, I'm back. +EQT
+(A) Do the OVF correction in Quickbooks. 
+-Done 
+(A) Create report for 'can we pay for Joe' (do the OVF correction first) 
+- Have set up a fresh invoice for HH so that the Balance sheet is more accurate 
+- But it's a prison so we have to make sure that we are covering all of our bases
+  (Separately, we should be looking at local prisons) 
+  - That means having a proper spreadsheet that covers what happened in each book. 
+  - and having a full report. 
+  - Okay, so the next action is JUST to go throught every single email from sarah .
+  - I've been working on this and I have a spreadsheet- but it's NOT complete and there are open questions: 
+
+* What happened to the invoice for £2100 - it seems to have be paid and then stopped existing? 
+* Have I got the full set of books? 
+* Have I got the full set of invoices? 
+  * I think so, there simply isn't that many of them really. 
+
+
+It appears there is more work to do. 
+
+Without raising salaries in line with inflection we expect to make a loss of X this year.  With it, we expect to make a loss of Y.  We don't count the  
+
+## 17/03/22 06:30 to 07:50, Working on list +EQT
+ 
+## 17/03/22 09:49 to 10:47,  Back after drop off  +EQT 
+Badgering people. Ticking off lists. Copying Files. 
+
+## 17/03/22 11:30 to 16:16,  +EQT work 
+* Had a look at ads
+* Had a look at Google Optimise. 
+* (A) 05 get all your actions from meeting minutes
+* (C) 10  Map project to email universities about collaborative writing seminars. 
+* Mapped VA task about education providers 
+* Tried to record a live video of uploading the new files. 
+  * OBS crashed a few times. 
+  * I think a full restart will solve it, but that will take a while. 
+
+
+
+## 24/03/22 06:30 to 07:53, Deloresing up  +EQT
+mostly remembering who i am and playing with a keyboard 
+
+## 24/03/22 10:30 to 10:47, Getting back started +EQT
+
+## 24/03/22 11:38 to 12:14,  Sorting out the upwork +EQT
+* And the meeting prep.
+## 24/03/22 12:55 to 14:42,  Meetings. +EQT 
+
+## 24/03/22 14:42 to 16:44, Smashing everything. 
+* Updated the list and there are 48 of them 
+Processed tweetdeck for the first time in a week. Sent like, three tweets. That's a terrible return. 
