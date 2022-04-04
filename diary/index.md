@@ -6489,3 +6489,47 @@ mostly remembering who i am and playing with a keyboard
 ## 24/03/22 14:42 to 16:44, Smashing everything. 
 * Updated the list and there are 48 of them 
 Processed tweetdeck for the first time in a week. Sent like, three tweets. That's a terrible return. 
+
+
+## 28/03/22 07:04 to 07:29, +EQT Delores
+## 28/03/22 10:03 to 12:50, +EQT DELORES
+* Sprint until 12:30 
+* Messaged Kate H 
+* Processing Stack 
+  * (which includes this file) 
+* Sorting out the github repo for domesday 
+## 28/03/22 13:15 to 13:41, Did the pay justification +EQT
+## 28/03/22 15:11 to 16:15,  Back from Cycle +EQT
+* Running a command... will take a awhile. 
+* Okay, we are ready for the recording. Will do tonight.  
+
+## 28/03/22 20:27 to 21:10, Livestream books  +EQT
+## 29/03/22 07:00 to 07:55, +EQT Email 
+## 29/03/22 10:05 to 12:24, +EQT email 
+## 29/03/22 12:24 to 13:24, +EQT emailing luton schools in particular 
+## 29/03/22 13:24 to 14:31, Back on Email +EQT
+## 29/03/22 14:46 to 15:37, Back after lunch  +EQT
+Working on the stack 
+## 29/03/22 15:38 to 16:50, +EQT stack and calls 
+Working vaguely and talking to line manager 
+
+## 30/03/22 10:10 to 14:41,  +EQT Strategy day 
+## 30/03/22 15:43 to 16:03,  +EQT
+Went on a bit of a wide ranging thing. Mostly around academic departments 
+Mapped the Workshop on collaborative writing. 
+
+## 31/03/22 06:30 to 07:54, https://github.com/eQualityTime/Public/issues/157  
+## 31/03/22 10:00 to 12:28, +EQT
+* Planning talk 
+Also sending some emails, checking things for Richard S 
+* Regenerated the todo list and have been working through
+* Learned about {-} in vim. 
+* Closing down the old WWW 
+* Reviewing all the todos
+
+## 31/03/22 13:00 to 13:30, Back after lunch and doing some tidying  +EQT
+## 31/03/22 13:30 to 16:24, Working on IMPS3  +EQT
+Pushed, pulled and working on server. Pleased with that. 
+
+
+
