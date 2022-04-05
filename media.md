@@ -10,6 +10,7 @@ This is a collection of some of the places articles have been published about me
 *   [New Scientist](http://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today/ "So I’m in the edition of New Scientist that came out today…") – Narrative Analysis – my notes on the process are [here](http://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today/ "So I’m in the edition of New Scientist that came out today…").
 *   [TES](https://www.tes.com/news/turn-pupils-published-authors-five-days) (formally Times Education Supplement) – for White Water Writers
 *   [The Guardian](https://www.theguardian.com/society/2016/dec/14/technology-changes-lives-disabled-people) – The Open Voice Factory
+['Pandora for books' could make personalized book recommendations - CBC Books - CBC Radio](http://www.cbc.ca/books/2013/09/pandora-for-books-could-make-personalized-book-recommendations.html).
 *   [The Telegraph](http://www.telegraph.co.uk/culture/twilight/10313597/Scientists-can-tell-which-vampire-books-will-have-the-Twilight-effect.html) – Narrative Analysis
 *   [The Telegraph](http://www.telegraph.co.uk/men/thinking-man/11308888/Are-we-ignoring-the-sexual-needs-of-disabled-people.html) – Disability and relationships
 *   [New York Magazine](http://nymag.com/scienceofus/2016/08/a-productivity-trick-make-your-to-do-list-public.html) – Transparent  ‘to do’ lists
@@ -53,6 +54,9 @@ This is a collection of some of the places articles have been published about me
 *   [Yet Another Local Paper](http://www.croydonadvertiser.co.uk/Book-written-days/story-21295401-detail/story.htmlc) – TooManyCooks
 *   [North Staffordshire children in care write horror story in just five days –](http://www.stokesentinel.co.uk/North-Staffordshire-children-care-write-horror/story-22785299-detail/story.html) TooManyCooks
 *   [Chemistry World](https://www.chemistryworld.com/features/accessible-science-education/3010431.article) (small quote) – disability
+* http://www.actualitte.com/les-maisons/un-detecteur-de-twilight-des-chercheurs-comparent-les-vampires-45093.htm
+* http://www.policymic.com/articles/65425/science-may-be-responsible-for-the-next-twilight
+* http://www.livelib.ru/blog/news/post/8019
 
 I’m generally available for media comment, I engage with a range of communities, particularly disability related, on a daily basis, and a big focus of mine is providing information and advocating the issues.
 

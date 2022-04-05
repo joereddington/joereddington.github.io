@@ -2,7 +2,7 @@
 title: "So I'm in the edition of New Scientist that came out today"
 layout: post
 ---
-[Alt text](assets/uploads/2013/09/IMG_1082.jpg)
+![Alt text](/assets/uploads/2013/09/IMG_1082.jpg)
 
 So I&#8217;m in the edition of New Scientist that came out today(there&#8217;s an online version [here](http://www.newscientist.com/article/mg21929344.500-automatic-style-spotter-can-spot-your-next-book.html#.UjStYGR4aJc))
 
