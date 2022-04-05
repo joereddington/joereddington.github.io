@@ -6531,5 +6531,57 @@ Also sending some emails, checking things for Richard S
 ## 31/03/22 13:30 to 16:24, Working on IMPS3  +EQT
 Pushed, pulled and working on server. Pleased with that. 
 
+## 31/03/22 16:24 to 16:49, Some blogging. 
+## 04/04/22 09:50 to 10:41,  Live work for +EQT
+* A lot of it is remembering how to run a thing live. 
 
+## 04/04/22 10:48 to 11:04, Sorting out drawing supplies for WWW +EQT
+* Do I want fancy clipboards or do I want traceing paper and masking tape. 
+* The user's drawing are going to be reduced to be at most a quarter of the size.   
+  * And I won't to go *down* levels of detail so I think it's going to be highlighters and sharpies. 
+
+## 04/04/22 11:04 to 11:23, Drafting email  +EQT
+* Then fixing a broken camp. 
+
+## 04/04/22 11:23 to 11:35, Migrate novareddington.com +EQT
+
+## 04/04/22 11:41 to 12:48, (C) 20 Generate all epubs for https://github.com/eQualityTime/Public/issues/151  +EQT
+I've successfully generated all the folder ids of the 202 existing books! 
+That also involved updating the allbooksever, so I can *then* update the website  
+* Moved the allnames.tar over to AWS - but it will need conversion to python 3 to function properly 
+* Now, what's the best way to produce the folder id files? It's going to be vim right
+* Yeah, a relatively simple thing in vim. 
+* Running the script. Going to take a while. 
+
+Next step is to import that information into the 'multiple download' file. 
+
+## 04/04/22 12:49 to 13:17, (D) 20 Go through all the git repos and tidy  +EQT
+
+## 04/04/22 13:18 to 13:19, Fixing a script +EQT
+
+## 04/04/22 13:26 to 13:59,  General fixing.  +EQT
+## 04/04/22 13:59 to 16:04, Various +EQT
+* Call with Richard
+* Sorting out accounts 
+
+## 04/04/22 16:04 to 16:43, Close down time.  +EQT 
+What's the next action? 
+* Do the bill payments in Quickbooks 
+* Process this stack of emails 
+
+## 04/04/22 17:57 to 18:15, bills to pay +EQT
+
+## 04/04/22 19:15 to 19:26, Bills to pay +EQT
+
+
+## 04/04/22 19:26 to 20:02,  +EQT faff 
+Okay, what do do for an Hour? 
+* Sorted out the public thing. 
+* Worked out scheduling 
+* Ticked off some email things 
+
+## 04/04/22 20:07 to 21:27, (B) Fix the IMPS3 errors https://github.com/eQualityTime/Public/issues/152  +EQT
+Fixed the majority of errors found today in the live demo. 
+* answered some CEO questions 
+* Did some brainstorming
 
