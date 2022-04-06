@@ -6585,3 +6585,22 @@ Fixed the majority of errors found today in the live demo.
 * answered some CEO questions 
 * Did some brainstorming
 
+## 05/04/22 06:59 to 07:59, Hello, email stack.  +EQT
+## 05/04/22 09:53 to 11:40, +EQT
+## 05/04/22 12:30 to 13:46, +EQT
+Turns out I've been not keeping track of time well today. Been doing lots of work on prison stuff, sent a few emails. Been around. 
+## 05/04/22 13:48 to 14:48, Talking to various trustees +EQT
+* But also a fair amount of faff. 
+
+## 05/04/22 14:53 to 16:07,  +EQT
+Emails are on pause 
+* Investigating if the forms are being hit with spam. 
+* Investigating tracking pixels 
+
+## 05/04/22 16:07 to 16:25, Recording a video  +EQT
+
+## 05/04/22 16:25 to 16:30, Closing down.  +EQT
+
+
+## 05/04/22 19:15 to 20:55,  Online session +EQT 
+Workshop with Lousie from define fine 
