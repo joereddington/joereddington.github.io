@@ -6604,3 +6604,13 @@ Emails are on pause
 
 ## 05/04/22 19:15 to 20:55,  Online session +EQT 
 Workshop with Lousie from define fine 
+## 06/04/22 07:18 to 07:53, Deloresing  +EQT
+## 06/04/22 09:53 to 10:48, Delores and TODO +EQT
+## 06/04/22 10:48 to 13:51, Attempting to generate Terms of reference.  +EQT
+Is now generating and I now need to properly fill out the spreadsheet. 
+* Have (largely) filled out the spreadsheet. Still feel like I need to do some serious work 
+
+## 06/04/22 13:55 to 14:10, Migrating  the designs +EQT
+
+## 07/04/22 06:15 to 07:49, Setting up proper charts 
+
