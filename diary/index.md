@@ -6613,4 +6613,64 @@ Is now generating and I now need to properly fill out the spreadsheet.
 ## 06/04/22 13:55 to 14:10, Migrating  the designs +EQT
 
 ## 07/04/22 06:15 to 07:49, Setting up proper charts 
+## 11/04/22 07:02 to 07:15, 30 minutes in Google drive.  +EQT
+
+## 11/04/22 13:54 to 16:31,  delores +EQT
+Sprint until 16:45 
+
+Smashing Boxes and lists and ticking off all the little disorganised things. 
+
+* sorted out some amazon purchases
+* Processing papers 
+* Finding pad 
+* Checking website crawling. 
+* Processed reminders. 
+* Testing the drawing thing.   
+* Some plan shopping
+* Buying books. 
+* Fixing drive.
+
+## 11/04/22 16:31, Have reached 'write down review of calendar'. Might have to come back to that one. 
+## 11/04/22 16:32 to 16:57, (A) 20 Work out what was going on with that strange payment 
+
+## 12/04/22 06:32 to 06:51, Solved Strange payment +EQT
+Okay it was a payment of £2,100 from 'HMP Hindley' on the 16/11/2020
+It's marked as having paid invoice 1006 
+- But actually I had generated duplicate transaction. 
+
+Lesson learned was keep doing the first step. 
+Now to delroes. 
+
+## 12/04/22 06:55 to 07:55, Delores +EQT
+* Food 
+* Would like to do roast veg 
+
+I am scared about: 
+* Handling the potential new employee. 
+* Having a backup. 
+* Doing the transfer of designs.  
+* Falling into a big pit of social media. 
+
+
+
+## 12/04/22 09:57 to 11:03, Delores +EQT
+One hour sprint. 
+* Fixed todo website 
+* Have sorted DART card payments
+* Messaged about easter plans 
+* Posted a link. 
+* went from 64 emails to 4 
+
+## 12/04/22 11:03 to 12:57, Second sprint.  +EQT
+Deal with the big email. 
+
+## 12/04/22 12:57, I'm shattered nd NOT coping. 
+
+## 12/04/22 14:29 to 16:13, on board +EQT
+Only a few left. 
+
+
+## 12/04/22 16:13, Inbox done! 
+Time for some relaxing. 
+
 
