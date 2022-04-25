@@ -6708,3 +6708,4 @@ I cut it down to about 14 things. And that was an interesting experience because
 
 ## 21/04/22 15:00 to 15:33, Lost in faff 
 ## 21/04/22 15:36 to 16:36,  Big picture planning with paper  +EQT
+## 24/04/22 20:40 to 20:50, Gathering tasks and sorting out the return of the amazon tv stick. 
