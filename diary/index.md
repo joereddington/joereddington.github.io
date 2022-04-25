@@ -6674,3 +6674,37 @@ Only a few left.
 Time for some relaxing. 
 
 
+## 19/04/22 06:15 to 07:39, +EQT email 
+## 19/04/22 10:04 to 11:29, Delores  +EQT
+## 19/04/22 11:29 to 12:22, Interview prep +EQT
+## 19/04/22 12:35 to 13:54, Back and working  +EQT
+## 19/04/22 13:54, Had the chat, will send them some notes. +EQT
+## 19/04/22 13:56 to 15:58, (A Sarah external examinater, tax office.) 30 Make changes to the accounts.  @private +EQT
+Serious work on the accounts. Fixing bugs and replying to problems. 
+## 20/04/22 06:39 to 07:54,  Working on list.  +EQT
+Started at 77. Now 27. Lots of things were done. 
+
+## 20/04/22 10:03 to 13:28, starting again. +EQT
+Just working through the todo list. 
+Working on lots of things at once. 
+
+## 20/04/22 13:58 to 14:35,  FFS 
+I mean, I'm down to 12. 
+
+## 20/04/22 15:49 to 16:24, Back. +EQT 
+* Working out some spreadsheet nonsense. 
+
+## 21/04/22 06:06 to 07:52, Delores - processing boxes and the like  +EQT
+Delores. 
+## 21/04/22 10:02 to 10:39, Writing up an idea.  +EQT
+## 21/04/22 10:53 to 11:05, Going to post this cheque.  +EQT
+## 21/04/22 11:06 to 12:00, +EQT ticking things off. 
+## 21/04/22 12:00 to 12:49, Writing Funding thing for Yvonne +EQT
+## 21/04/22 12:49 to 12:52, Literally three things left.  +EQT
+## 21/04/22 13:26 to 14:39, Emptying the todo list. +EQT
+
+## 21/04/22 14:39 to 15:00, Starting again. New set  +EQT
+I cut it down to about 14 things. And that was an interesting experience because some of the things I cut are definitely 'next actions' but they aren't in the set of 'things I'm doing next.' 
+
+## 21/04/22 15:00 to 15:33, Lost in faff 
+## 21/04/22 15:36 to 16:36,  Big picture planning with paper  +EQT
