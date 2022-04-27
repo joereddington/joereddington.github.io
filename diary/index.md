@@ -6709,3 +6709,53 @@ I cut it down to about 14 things. And that was an interesting experience because
 ## 21/04/22 15:00 to 15:33, Lost in faff 
 ## 21/04/22 15:36 to 16:36,  Big picture planning with paper  +EQT
 ## 24/04/22 20:40 to 20:50, Gathering tasks and sorting out the return of the amazon tv stick. 
+## 25/04/22 09:51 to 11:57, DELORES +EQT 
+_sprinting until 12:00 and then lunch time. 
+Don't want to. 
+* Interrupt to write some code. 
+* Cleared the stack 
+* Tidying up. 
+* Big thing for the week: Cracking the delivery of IMPS3 
+
+## 25/04/22 11:57 to 12:17,  Find old notes on submitting accounts +EQT
+Submitting accounts: https://github.com/eQualityTime/Public/issues/125 
+"I wrote up a guide for doing it next year in google drive." that's interesting
+OMH it's great! 
+
+## 25/04/22 12:17 to 12:26, (B) 30 scp the OVF generated aids to the Amazon account +EQT
+
+
+## 25/04/22 12:30 to 12:57, call from clare +EQT
+
+## 25/04/22 13:05 to 13:47, Fixing AWS +EQT 
+The staging domain for OVF had broken - I need to expand the size of the drive before I could log in. 
+* Designs is now corking for some of the directories, but throwing errors for others. 
+
+* What next? 
+
+* Find out if any are missing
+* Find out if the samples you've tested are also broken on the original 
+  Interesting - one works on only one side. 
+
+## 25/04/22 13:47 to 14:53, Break 
+Too much going on. 
+
+## 25/04/22 14:59 to 15:18, Doing the tedx emails  +EQT
+
+20 minutes isn't bad if it works. 
+
+## 25/04/22 15:18 to 15:54, Talking to Richard about IMPS.  +EQT
+
+## 25/04/22 15:55 to 16:03,  TEDX again  +EQT
+All in the drafts. 
+
+
+## 26/04/22 07:23 to 07:42, Hello   +EQT
+
+This looks in teresting: https://www.spreadshop.com/open-a-shop?affiliateID=1254287&gclid=CjwKCAjwjZmTBhB4EiwAynRmD6qMt78KRcErB9C-U3YOy5Wo8kZ-OcdAj8wsBh-mHgPz6s8iibiN4BoCydEQAvD_BwE 
+
+* Need to check for shipping. 
+
+
+
+## 26/04/22 09:25 to 19:10, Trip to Keele    +EQT
