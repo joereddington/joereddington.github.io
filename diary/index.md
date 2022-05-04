@@ -6759,3 +6759,78 @@ This looks in teresting: https://www.spreadshop.com/open-a-shop?affiliateID=1254
 
 
 ## 26/04/22 09:25 to 19:10, Trip to Keele    +EQT
+## 27/04/22 10:31 to 15:23,  +EQT Emails 
+
+I'm going to send 200 emails today, including clearing the whole inbox out. 
+
+
+## 27/04/22 16:02, Social media process.
+
+
+## 27/04/22 20:10 to 21:09, Hello +EQT knocked off some more emails 
+
+
+## 28/04/22 06:18 to 07:44, +EQT 
+* Ticking off the last emails 
+* I'm frustrated with Richard's lack of listening and that they run camps so differently 
+
+## 28/04/22 10:00 to 11:17, +EQT
+* Photography (for drawings by students) 
+* Responding to messhaes
+* Moving meetings 
+* Being grumpy at staff. 
+
+## 28/04/22 11:17 to 12:34, Now editing pictures.  +EQT
+* and talking to fundraiser. 
+
+## 28/04/22 12:37 to 13:23,  +EQT Images 
+* Had to reboot to get sd card to read.  
+* Done. Was a pain. Might have to do more. 
+
+## 28/04/22 13:46 to 15:46, I have to tidy everything up. I feel streached and all over the place.  +EQT
+Delores. 
+* and lots of digging deep into the ten year goals. 
+
+## 28/04/22 15:46 to 16:33, Talking to Kat 
+* Spoke to kat, 
+* Spoke to Yvonne 
+* Posted a thing to Facebook about IMPS 
+* Doing one last task. 
+
+
+
+## 29/04/22 19:56 to 21:55, Personal inbox processing. 
+105 things to be clear. 
+69 things quite quickly 
+48 within half an hour. 
+It settled at 41 - did lots of things, spent some money.  Got books to read now. 
+
+## 03/05/22 06:50 to 07:40,  +EQT
+* Fixing IMPS3 
+* JUST  grasping and stuff and trying to get a coherent mess into an orgnaised one. 
+
+## 03/05/22 08:00 to 10:30, Childcare, run, post office, and super grooming. 
+
+## 03/05/22 10:30 to 11:40, Delores +EQT
+Prepping for meeting with Prison People. 
+* Checked I have teams.  
+* Props. 
+* Wrote script. 
+* Sent the script to myself. 
+
+## 03/05/22 11:41 to 11:49, stack +EQT
+## 03/05/22 11:40 to 12:46, Call and notes with prison guy +EQT
+## 03/05/22 13:24 to 13:53, Back from lunch. Back to delores +EQT
+## 03/05/22 13:55 to 14:24, Clear desk into inbox. +EQT
+## 03/05/22 14:24 to 15:07, Emails (for meeting prep) +EQT
+Was doing delores, but I've got only 90 minutes left of work time so I'm going to move to emails I think to check for things about tonight's meeting. 
+* Sarah thing is most important, everything else is survivable 
+* Also lots of invoices. 
+
+## 03/05/22 15:30 to 16:29, Interrupt to Delores - doing accounts stuff because Treasurer has asked.  +EQT
+* Have send through reworded pay rise document. 
+* Did reconciliation, lots of unity and quickbooks payments.
+
+## 03/05/22 16:29 to 16:40, Back on Delores.  +EQT
+## 03/05/22 19:45 to 21:43,  Meeting, pre-meeting, post-meeting urdu work +EQT
+
