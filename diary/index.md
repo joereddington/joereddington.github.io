@@ -6834,3 +6834,43 @@ Was doing delores, but I've got only 90 minutes left of work time so I'm going t
 ## 03/05/22 16:29 to 16:40, Back on Delores.  +EQT
 ## 03/05/22 19:45 to 21:43,  Meeting, pre-meeting, post-meeting urdu work +EQT
 
+# Eight hour day 
+Big thing for the day is to complete the ovf transfer and wipe out the inbox. 
+Lesuire thing is to rewrite comics. 
+
+
+## 04/05/22 06:10 to 07:15, Hello  +EQT
+Delores. Mostly calendar and other planning. 
+## 04/05/22 07:15 to 07:39, Prep for Legoland 
+## 04/05/22 07:40 to 07:59, Back on Delroes +EQT
+## 04/05/22 09:49 to 10:11, Delores +EQT
+* Rewriting this file. 
+* Setting up Zoom shortcut as an interrupt 
+
+## 04/05/22 10:11 to 11:34, Now the inbox.  +EQT
+25 minutes behind on the tick tock. 
+* So, I've cleared out most things but I have 
+
+Do Facebook Gratitude Post 
+Write and publish SEVEN (seven) [7] social media posts as... 
+
+So social media, this is the time eh? 
+
+Seven social media posts: 
+* IMPS3
+* The drawing 
+* The award
+
+Four to go. 
+* Migration. 
+* Submitting funding memory  
+
+## 04/05/22 11:34 to 12:23, lunch 
+## 04/05/22 12:35 to 12:38, now back. +EQT
+Struggling with content. 
+Hmmm.  Do I count working days? Because bank holiday. Yeah. I'm out
+Gmail some more. 
+## 04/05/22 12:51, Just 13 emials but I'm struggling a bit. GOing to lay down. 
+
+## 04/05/22 14:28 to 16:15,  email +EQT
+* And fixing the annual leave. 
