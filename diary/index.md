@@ -6874,3 +6874,65 @@ Gmail some more.
 
 ## 04/05/22 14:28 to 16:15,  email +EQT
 * And fixing the annual leave. 
+## 05/05/22 07:20 to 07:54, email +EQT
+* Finally sent the training one. 
+
+## 05/05/22 09:54 to 12:52, +EQT stack. 
+I've been drafting a presentation for two hours? Fuck a do. 
+And then the guy didn't show up! 
+
+## 05/05/22 12:52, Imbox done. 
+
+## 05/05/22 12:52 to 13:36, Next we are doing the transfer  +EQT
+* Turns out that the automatic aids don't work for the last few attempts. I think it's transfer and then fix them. 
+## 05/05/22 13:36 to 13:47, Interupt  - I have to fix the epub.  +EQT 
+Back to what I'm meant to be doing. 
+
+## 05/05/22 14:09 to 15:16, Okay, let's do the rest of the list.  +EQT
+* New password needed. 
+  * Wait, NO I got that one. 
+* Just hammering through them .
+
+## 05/05/22 15:16 to 16:09, This is a the part of the day were things can go wrong.   +EQT
+* And funding conversation with mum .
+
+## 09/05/22 06:14 to 07:31, Work on https://github.com/eQualityTime/Public/issues/148 +EQT
+## 09/05/22 09:58 to 10:15, Working out day +EQT 
+IMPS3 and meeting are the things I'm excited abut but...
+
+## 09/05/22 10:15 to 11:55,   Work on https://github.com/eQualityTime/Public/issues/148 +EQT
+
+## 09/05/22 12:20 to 13:32, Meeting with school govener +EQT 
+* And notes 
+## 09/05/22 13:32 to 14:05,  Work on https://github.com/eQualityTime/Public/issues/148 +EQT
+
+## 09/05/22 14:26 to 14:39, My internet is very slow and I don't like it.   +EQT
+* GOing to process the todo list for a bit. 
+
+## 09/05/22 16:00 to 16:23, Back after long break.  +EQT
+Just uploading and compressing and all that jazz. 
+
+## 09/05/22 19:40 to 21:15, Work on https://github.com/eQualityTime/Public/issues/148 +EQT
+* Uploading and compressing more. Moving over the designs. 
+* And watchign a create writing thing during that time. 
+* Fixed the urdu 
+
+## 10/05/22 06:51 to 07:25, Going to quickly fix some bits on the upload page.  +EQT
+## 10/05/22 07:25 to 07:58,  Emails +EQT
+## 10/05/22 09:33 to 09:40,Fixed a bug +EQT
+## 10/05/22 10:09 to 12:24, email   +EQT
+## 10/05/22 12:24 to 14:29, Ticking off emails +EQT
+## 10/05/22 14:29 to 14:30, One last one +EQT
+## 10/05/22 14:32 to 15:20, I'm going to write some code for an hour.  +EQT
+IMPS3. 
+
+* I've tidied up online. 
+* I'm working on osx. 
+
+TODO 
+* Word count bug. 
+* Press button to check wordcount. 
+* Only generate epubs at the right time 
+
+## 10/05/22 15:45 to 17:30, Lizzies group meeting +EQT
+
