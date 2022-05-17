@@ -6936,3 +6936,19 @@ TODO
 
 ## 10/05/22 15:45 to 17:30, Lizzies group meeting +EQT
 
+## 11/05/22 07:04 to 07:39, Getting myself together +EQT 
+## 11/05/22 07:41 to 07:49, Okay, what's next +EQT
+## 11/05/22 11:12 to 11:57, Tidying everyting +EQT 
+* Sorted the stack. 
+* Sorted this file. 
+* Sorted the desktop. 
+
+## 11/05/22 11:57 to 14:10, Now sorting the todos +EQT 
+* Emailed the person. 
+* Minor faff, but things are broadly in line now. 
+* Sent another email 
+
+## 11/05/22 14:16 to 15:35, IMPS +EQT
+(B Richard)          Code the second sprint for IMPS3 https://github.com/eQualityTime/Public/issues/159 +EQT date:2022-05-11
+
+Everything in the commit message. 
