@@ -6952,3 +6952,42 @@ TODO
 (B Richard)          Code the second sprint for IMPS3 https://github.com/eQualityTime/Public/issues/159 +EQT date:2022-05-11
 
 Everything in the commit message. 
+## 16/05/22 06:26 to 07:04,  +EQT https://github.com/eQualityTime/Public/issues/159
+## 16/05/22 07:04 to 07:19,  Working on +EQT  accounts
+## 16/05/22 09:50 to 10:32, Delores +EQT 
+## 16/05/22 10:32 to 11:09, brainstorming +EQT
+## 16/05/22 12:22 to 13:22, Meeting with hoD and talking to trustee +EQT
+## 16/05/22 13:22 to 13:36, Sending the finance email +EQT
+## 16/05/22 13:37 to 14:25, https://github.com/eQualityTime/Public/issues/148 +EQT
+Fixing the www.theopenvoicefactory url - it was because It's spelt it wrong 
+* Uploads only pptx files now. 
+* The github link now works 
+* The in page anchors now work (did some proper jekyll work for that with custom front-matter) 
+* Fixed the odd typo. 
+* Committed and pushed and live. 
+
+## 16/05/22 14:25 to 14:32, Sorting out forms for NCOP provider +EQT
+## 16/05/22 14:58 to 15:49,  Clearing the git, reading proper books. +EQT
+## 16/05/22 16:38 to 16:50, Sent off the +EQT tender thing 
+## 16/05/22 19:01 to 19:14, +EQT https://github.com/eQualityTime/Public/issues/159
+## 17/05/22 06:39 to 07:57, Email.  +EQT
+## 17/05/22 09:30 to 14:12, Email and IMPS3 +EQT
+## 17/05/22 14:12 to 14:21,  Got a website to fix +EQT
+## 17/05/22 15:34 to 15:51, +EQT https://github.com/eQualityTime/Public/issues/159
+* Fixing word_counts
+* Done properly - tests and so con. 
+
+## 18/05/22 07:00 to 15:00, Conference +EQT 
+## 18/05/22 19:19 to 20:00, Code IMPS3  +EQT https://github.com/eQualityTime/Public/issues/159 
+I've written some tests, but have run into the nasty fact that the latex stripping will also strip out the bullets. 
+So it has to be made a little more complex. And For future, we should be able to distinguish. 
+
+## 19/05/22 06:25 to 07:35, +EQT IMPS3 https://github.com/eQualityTime/Public/issues/159
+## 19/05/22 07:39 to 07:55,  Processing this file +EQT
+## 19/05/22 10:04 to 10:10, FFT +EQT https://github.com/eQualityTime/Public/issues/160
+## 19/05/22 10:25 to 11:02,  FFT +EDT  https://github.com/eQualityTime/Public/issues/160
+## 19/05/22 11:02 to 13:00, Absolutely have to work out what happened to the WWW email +EQT  
+* Also talk about TEDx 
+
+## 19/05/22 13:00 to 15:31, +EQT Working on the stack 
+## 19/05/22 16:33 to 16:43, +EQT sorted the hotels Had lunch +EQT  
