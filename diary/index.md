@@ -6991,3 +6991,35 @@ So it has to be made a little more complex. And For future, we should be able to
 
 ## 19/05/22 13:00 to 15:31, +EQT Working on the stack 
 ## 19/05/22 16:33 to 16:43, +EQT sorted the hotels Had lunch +EQT  
+# Flowers for Turing Launch day!  
+
+## 23/05/22 06:15 to 07:01, Fixing watchtower +EQT 
+## 23/05/22 07:01 to 07:29, +EQT https://github.com/eQualityTime/Public/issues/160
+## 23/05/22 09:51 to 11:59,  FFT mail merge +EQT  https://github.com/eQualityTime/Public/issues/160 
+## 23/05/22 12:00 to 13:22, Delores it up 
+## 23/05/22 13:22 to 13:56, Rest of the FFT emails +EQT
+## 23/05/22 14:39 to 14:50, Back after lunch .  +EQT
+* Did a FFT Facebook post. 
+## 23/05/22 14:51 to 16:04, Unity +EQT
+
+Today big things:
+
+* Submit accounts
+* Clear inbox 
+* Do meeting 
+* Post on Reddit at 4pm. 
+
+
+## 24/05/22 07:03 to 08:04, Accounts +EQT 
+## 24/05/22 10:00 to 11:43, Accounts +EQT
+*Crap - found an error in the spreadsheet
+* Fixed with martin. Lovely and quick. 
+* Have ordered paper copy to my mum 
+
+## 24/05/22 11:43 to 12:27, Looking at code.  +EQT 
+## 24/05/22 12:27 to 14:37, Clearing out the inbox.  +EQT
+
+## 24/05/22 14:37 to 14:41, Hello +EQT
+* Clearing out this file. 
+* Prepping reddit post. 
+
