@@ -7023,3 +7023,131 @@ Today big things:
 * Clearing out this file. 
 * Prepping reddit post. 
 
+# Today 
+I want eight hours. 
+
+
+## 25/05/22 06:45 to 08:00, Lets do some good.  +EQT
+Processing the todo list a bit. Discovering problems 
+
+## 25/05/22 09:56 to 11:03,  Fixing the camp clash +EQT
+## 25/05/22 11:03 to 11:38,  Updating Watson   +EQT
+Now does much better display
+
+## 25/05/22 11:38 to 11:50,  Reviewing todo list +EQT
+## 25/05/22 11:51 to 12:06,  Quick FFT Post   +EQT
+## 25/05/22 12:06 to 12:11, Working on list  +EQT 
+## 25/05/22 12:11 to 12:51, Combining phone call to unity with making lunch  +EQT
+* Emailed them some pdfs, more to do 
+
+## 25/05/22 12:51 to 13:21,  25 things left  +EQT
+## 25/05/22 13:26 to 13:31, let's email all the universities.  +EQT
+Turns out that I never created the spreadsheet. Canceling. 
+
+## 25/05/22 13:31 to 13:49,  Unity signatures +EQT
+
+## 25/05/22 13:49 to 14:30, +EQT general
+30 minutes tidying up Google drive 
+
+(C) Map a project to close down Dreamhost
+  Dreamhost maintains a VPS for us - it's currently taking up 33Gb 
+  I've deleted a bunch of domains and some user accounts. 
+  I've also deleted the big 'designs.* 
+
+## 25/05/22 14:30 to 14:56, Review Google Ads.  +EQT
+* Check Google Optimse for WWW  - amazing. 
+  * Have made changes and put them on server 
+* General Review 
+* Check we can setup adds for Open Voice Factory 
+  * I've switched on the old adds 
+
+## 25/05/22 14:56 to 15:02, Check out t-shirts.  +EQT
+
+
+## 25/05/22 15:02 to 15:16, Deleting the dreamhost +EQT
+  Next day - finally reduced down the VPS to minimum size 
+
+## 25/05/22 15:16 to 16:07, IMPS3 +EQT
+I want to overhaul the latex. 
+
+There are three problems to solve: 
+
+* epubs aren't showing up author lists
+* pdfs sometimes show the wrong author lists 
+* the current structure won't support multiple camps - the latex aux files will interfere with each other. 
+
+Lesser problems include: 
+* The script trace is hard to read 
+* The Latex is structurally messy and hard to read  
+
+Hmmm. What are the options. 
+
+After significant brainstorming I've decided to have the python directly output a single latex file from the json.  We're NOT going to touch the downloaded files (and in future, we might not download them)  
+
+
+## 25/05/22 16:07 to 16:47, IMPS3 +EQT
+* Making a plan 
+* How to do I store text templates properly in python 
+  * https://docs.python.org/3.4/library/string.html#template-strings  is about templates
+
+* Created the templates directory 
+* Put the card and info templates in the directory
+* started running tests 
+
+# Today 
+
+## 26/05/22 06:32 to 08:02, IMPS3 Sprint +EQT 
+Okay, so this sprint was meant to be about fixing the latex, instead I ended up adding regression tests for the processing of Seed files. They are much stronger now though.  
+
+In the process, I've added code that lets germinate write to file rather than everpad - it's probably useful to have a version of IMPS3 that works entirely onfiles (including, crazily, word documents), but that's long in the future. 
+
+I'll finish this mini-sprint off by adding another seed file. 
+
+- 26/05/22 smallest next step:  work out why the Mystery files aren't causing an error when they plainly aren't there... 
+- 26/05/22 smallest next step:  Oh, because they don't expect to be there, should be a counter... 
+
+- 26/05/22 smallest next step:      # This needs to be the size of the file list with SLug in the name 
+ 
+
+## 26/05/22 09:36 to 10:05, Fixing IMPS2  +EQT
+
+## 26/05/22 10:05 to 11:05, meeting with Yvonne +EQT 
+
+## 26/05/22 11:05 to 11:27, Back to IMPS3  +EQT
+* Okay, Multiple Seed regressions are working. Pleased with that. 
+* Wrote up this file
+
+## 26/05/22 11:27 to 12:11, Starting the latex +EQT
+* I've written the basic method for outputting latex 
+* It processes a compilable file. 
+* The file looks pretty identical to the original. 
+
+Okay, so what are the tests? 
+
+## 26/05/22 12:11 to 14:26, Fixing an error in IMPS2- then moving on to IMPS3  +EQT
+* Created a regression test for latex files per slug 
+* Updated the make_pdf file so that it works for the pure latex. 
+* For simplicity we now have three bash scripts for making books, proofs, and epubs. And we'll have three buttons for the process.  
+* I've checked the epubs and so on, everything looks good. 
+* Doing the php 
+  * Feeling a bit out of my depth 
+* Php appears to be working 
+* In the process, lots of the latex compilation messages have got shorter and simplier. 
+* I've written a proper set of notes for Richard about the changes. 
+
+
+## 26/05/22 14:23 to 14:33, Writing up the Github  +EQT
+* Fix the IMPS3 
+* Got to say, I think the next code sprint should be on OVF 
+
+## 26/05/22 14:33 to 15:08, Okay - time to look t the list . +EQT
+I've got three books to read but also, lets think about 
+
+## 26/05/22 15:08 to 15:31,  Project Real  +EQT
+Fix project real. 
+
+
+## 26/05/22 15:31 to 16:18,  Working thought +EQT 
+* Taking calls, sending emails 
+
+
