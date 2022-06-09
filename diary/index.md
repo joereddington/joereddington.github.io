@@ -7151,3 +7151,60 @@ Fix project real.
 * Taking calls, sending emails 
 
 
+## 30/05/22 06:28 to 07:29, Updating IMPS3 +EQT 
+- 30/05/22 smallest next step:  Processing calendar 
+
+## 30/05/22 10:44 to 11:08,  +EQT 
+## 30/05/22 11:08 to 11:23, Just give me one big task.  +EQT
+## 30/05/22 11:23 to 12:42,  Preparing stuff for the grant writer person. +EQT
+* Then watching creative writing video during lunch prep. 
+
+## 30/05/22 12:43 to 12:50, Messaging about bank +EQT 
+
+## 30/05/22 12:50, Went to the shop as a break. 
+
+## 30/05/22 13:35 to 14:05, +EQT working on Igor
+Editing igor, which notably doesn't have any proper tests and is probably now worth separating out 
+
+## 30/05/22 14:04 to 14:46, +EQT oldest task 
+The task "Map project for contacting small charities about The open voice factory" is 19 days old
+
+## 30/05/22 14:47 to 15:02, Fixing bug in the igor_print +EQT
+## 30/05/22 15:02 to 16:53, https://github.com/eQualityTime/TheOpenVoiceFactory/issues/142 +EQT 
+## 30/05/22 19:24 to 20:22, https://github.com/eQualityTime/TheOpenVoiceFactory/issues/142 +EQT
+## 30/05/22 21:16 to 21:27,  +EQT
+* Rebased and pushed. OVF 
+## 30/05/22 21:27 to 22:00,  +EQT reading up on Git 
+
+## 31/05/22 06:25 to 06:58,  Email +EQT 
+## 31/05/22 10:15 to 15:58,  Calls and emails and general walking around +EQT
+## 31/05/22 22:00 to 22:30, Reading about git +EQT
+
+
+## 01/06/22 06:52 to 07:59, +EQT email 
+* Got to sort out these invoices. 
+* Rest of the day is leo
+
+## 02/06/22 20:19 to 20:28, Looking into git +EQT
+
+## 05/06/22 10:08 to 11:27, Hello.  +EQT inbox clearing. 
+
+## 06/06/22 06:32 to 06:59, Invoice for some camps. +EQT
+* Closed the watford invoice. 
+
+
+## 06/06/22 12:02 to 13:00, Meeting about funding +EQT
+## 07/06/22 05:35 to 07:52, Hello  Working on an application.  +EQT 
+## 07/06/22 09:50 to 10:11, Messahing and stuff.  +EQT
+## 07/06/22 10:11 to 11:17, this time with Twitter.  +EQT
+## 07/06/22 11:17 to 11:45, Interup to sort out a unity payment.  +EQT
+* And fuck it, the rest of the banking 
+
+## 07/06/22 11:45 to 11:54,  Doing delroes +EQT
+## 07/06/22 13:52 to 15:04,  Delores +EQT 
+    
+## 08/06/22 05:00 to 05:28,  Waking up 
+
+## 08/06/22 05:41 to 08:03, Processing +EQT 
+* Reviewed the cybok doc. 
+* Lots of planning for the day and week
