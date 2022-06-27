@@ -7208,3 +7208,32 @@ The task "Map project for contacting small charities about The open voice factor
 ## 08/06/22 05:41 to 08:03, Processing +EQT 
 * Reviewed the cybok doc. 
 * Lots of planning for the day and week
+## 09/06/22 06:24 to 07:57, Rewrote the T4C design document and replied to the email  +EQT
+## 09/06/22 09:53 to 10:55,  Traced the odd +EQT payments for Sarah
+## 09/06/22 10:57 to 11:16, Watching the video for IMPS3 +EQT  
+
+## 09/06/22 11:16 to 12:07, Sprint on IMPS3 code +EQT
+## 09/06/22 12:42 to 15:08,  Speeding up tests on IMPS3 +EQT
+Did lots and pushed it - it's now the develop branch on server. 
+
+Check out these command lines: 
+
+git add --patch test_chapter.py 
+git stash pop
+git stash push -m "making singletonbook faster"
+git status
+
+Next action is to examine the test for casting the file properly. 
+
+There's been a lot of refactoring and I'm reasonably happy that the code is in better shape.  
+
+
+
+## 09/06/22 15:44 to 16:01,  Tidy up this files  +EQT
+
+## 09/06/22 16:03 to 16:53, Social media algorithm.  +EQT
+
+## 10/06/22 08:46 to 09:36, Hello! Bonus sorting things out time 
+* Lots of good stuff - including some old memory palace stuff 
+## 10/06/22 09:36 to 10:33, Pleased to have ticked that one off. 
+
