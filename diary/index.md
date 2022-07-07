@@ -7237,3 +7237,86 @@ There's been a lot of refactoring and I'm reasonably happy that the code is in b
 * Lots of good stuff - including some old memory palace stuff 
 ## 10/06/22 09:36 to 10:33, Pleased to have ticked that one off. 
 
+
+
+## 27/06/22 06:30 to 07:30, Mostly brooding on work time. +EQT
+## 27/06/22 10:05 to 12:16, Delores but better +EQT
+I tested using Delores to popular a file similar to this one, with a scoring system. It was pretty good actually Needs a bit more code. Recreational stuff.  
+
+## 27/06/22 12:17 to 12:26,  +EQT  Plannning 
+## 27/06/22 12:26 to 15:10, (. A) Rewrite the T4C document   +EQT
+Update: I've transfered my notes on the process to the paper writing talk
+
+## 27/06/22 15:10 to 15:24,  Submit Charity Commission  +EQT
+## 27/06/22 15:25 to 15:59,  Writing letter of support!  +EQT
+## 27/06/22 15:59 to 16:44,  (A) Accounting post for Turing  +EQT
+Done - and I created a notes document in Google Drive on the topic. 
+
+## 27/06/22 19:19 to 19:29,  TT4CB  +EQT
+## 27/06/22 19:29 to 19:43, Turing +EQT
+
+## 28/06/22 09:56 to 16:13, Hello!  +EQT
+How did delores do yesterday? 
+
+Josephs-Mac-mini:~ joe2021$ grep -c \* delores.md
+30
+Josephs-Mac-mini:~ joe2021$ grep -c ✓ delores.md
+44
+Josephs-Mac-mini:~ joe2021$
+
+
+Lots of email. 
+
+
+## 29/06/22 09:48 to 11:46, Transactions and Email +EQT
+Josephs-Mac-mini:~ joe2021$ grep -c \* delores.md
+6
+Josephs-Mac-mini:~ joe2021$ grep -c ✓ delores.md
+21
+
+Took a while and finally sorted out. 
+
+## 29/06/22 11:46 to 11:58, TT4CB +EQT
+## 29/06/22 12:51 to 12:58, Just so tired.  +EQT 
+So, let's do the delores. 
+
+## 30/06/22 07:10 to 07:56,  +EQT working 
+
+## 30/06/22 11:25 to 11:45, Working on Todo list +EQT
+Just need to wipe them out. All of them 
+Starting with 79 
+Very quickly down to 29 
+
+389 minutes apparently 
+
+## 30/06/22 12:15 to 12:40, Back after distraction.  +EQT
+Ticking things off. 
+Currently fighting dropbox. 
+
+
+## 04/07/22 07:40 to 15:40, In person at camp +EQT
+## 04/07/22 17:44 to 20:16, Working on camp  +EQT
+* Wrote my talk for tomorrow 
+* Lots of playing with IMPS  - I've found a lot more bugs/problems in the usability 
+
+## 05/07/22 07:40 to 15:40, In person at camp +EQT
+
+## 05/07/22 16:00 to 17:17, Email and phone call with Richard +EQT
+
+## 05/07/22 17:17 to 18:00, +EQT
+Trying to do email but internet NOT consistent 
+Got *some* done 
+
+## 06/07/22 09:00 to 15:54,  +EQT Camp and travel 
+* And fixing things when I get home. 
+## 06/07/22 15:54 to 16:34, Processing notes +EQT
+## 07/07/22 10:14 to 10:30, Replying to some messages and stuff +EQT
+
+## 07/07/22 10:31 to 12:53, Recreational Delores Code +EQT
+## 07/07/22 14:09 to 15:31, Proper full serious delores 2. 
+Sprinting until 16:45
+I'm scared about screwing up Guru Nanak 
+I'm excited about income from camps, and bringing in funding.  
+Processed inbox 
+
+## 07/07/22 15:34 to 15:49, Interupt for review of pdfs +EQT
