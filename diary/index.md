@@ -7320,3 +7320,146 @@ I'm excited about income from camps, and bringing in funding.
 Processed inbox 
 
 ## 07/07/22 15:34 to 15:49, Interupt for review of pdfs +EQT
+
+## 07/07/22 15:49 to 16:07, Back on Delores +EQT
+
+Interupt - how am I going to do if statements?
+
+if it starts with "IF" then goto "Then" or "else" depending on key.  And we overload y and n for that line and give it a different colour and count. 
+
+No whiles or fors, JUST  if's and Gotos. 
+
+So, how to we implement GOTO?  Well, with an internal anchor so it can work with the mouse as well.  Which means that goto goes to labels. and really should be GOTO and 
+
+Frame it like this 
+
+* If sky is blue
+  * Then
+    * Goto the beach 
+  * Else:
+    * Do jigsaws 
+
+Which should make the javascript better because you are looking at children? 
+
+## 07/07/22 16:07 to 16:11, (A) 05 Read Sarah message about Camp deposits and work out next action  +EQT
+
+## 07/07/22 16:11 to 16:41, (A) Improlve the Automatic Camp calendar so you can answer Sarah's questions +EQT
+Sarah needs invoices and terms of reference that clearly sort out deposits for camps.  I need NOT to spend my life creating invoices.  
+
+I also need to be able to show leaders the most accurate spreadsheet of who is where and when. 
+
+This would be a good time to write up what I'm doing. 
+
+
+So then the things to do are: 
+* Fix the dates in the automatic camp calendar 
+* Have a seperate terms of reference for the prisons and make that clear in the spreadsheet 
+  * Find the first prison reference 
+  * Refactor so that we can choose which is which. 
+* Have two invoices generated 
+* Generate subfolders for each contact person. 
+* Send Iyun the list of camps. 
+
+So: 
+* Dates done 
+* Gettting the code back working 
+
+
+
+
+
+
+## 07/07/22 16:41 to 16:45, working on google apps script +EQT
+## 07/07/22 16:45, You are debugging the Google Script 
+
+- you are in the middle of refactoring so that you can do the project above. 
+
+I don't understand: 
+  * Why the console outs aren't running
+  * Why it JUST  worked then, ffs 
+
+
+Next action is to rewrite the terms of refernce 
+  * and thus - find the other terms of reference 
+
+## 07/07/22 19:41 to 19:54,  Rewrote the terms of reference +EQT 
+* Added a seperate prison one. 
+* Next action is to produce a template invoice 
+  * Possibly the next action is to refactor the code a bit. 
+    * Comments. 
+    * Separate out into a few more functions.  
+
+## 08/07/22 05:27 to 05:53, Bit more +EQT 
+
+* Need to work out the prices for them all. 
+* Invoices in quickbooks aren't as much help as I expected
+
+I've done some refactoring to make things easier. 
+We now create two files 
+
+NEXT ACTION IS TO DRAFT THE INVOICES. 
+
+
+## 08/07/22 19:50 to 21:10, Been working on the books since like  +EQT
+
+## 10/07/22 06:50 to 07:21,  +EQT
+Books have been ordered  for school and Iyun 
+
+
+TODO today: 
+Sort out the prison invoices and clear out emails. 
+Find Prison vetting email 
+Write slides for tomorrow. 
+
+o
+
+
+## 10/07/22 07:21 to 08:11, Back on the prison 
+* I've created a deposit invoice. +EQT 
+  * Running the replace now to see if it works. 
+* Refactored the code to use a name dictionary rather than a bunch of integers. 
+* Fixing a bunch of bugs 
+* Checked the dates 
+
+
+## 10/07/22 09:36 to 13:45, Back on the prison invoices again +EQT 
+I've got the invoicing system working. 
+
+## 10/07/22 13:45, Writing Presentation +EQT
+* And email 
+* Last reconciliation is the 26/6 
+
+## 10/07/22 14:43 to 16:05, Back again. +EQT 
+I am so close to like, properly be on top of the banking and stuff. 
+
+
+## 10/07/22 16:07 to 16:23, 
+Bank is closed again! 
+
+
+Got to pay the bank 
+
+
+## 11/07/22 06:30 to 16:30, +EQT at guru nanak
+## 12/07/22 06:30 to 16:30, +EQT at guru nanak
+## 13/07/22 06:30 to 16:30, +EQT at guru nanak
+## 14/07/22 06:30 to 16:30, +EQT at guru nanak
+## 15/07/22 06:30 to 16:30, +EQT at guru nanak
+
+
+## 17/07/22 15:30 to 18:55, +EQT travel to prison
+## 18/07/22 07:30 to 16:45, +EQT prison work
+
+## 18/07/22 20:17 to 20:18, Working on some tech +EQT 
+* Fixed the laptop audio, 
+* Fixed the laptop second click 
+* Fixed the laptop clipboard manager 
+
+
+## 19/07/22 07:30 to 14:45, +EQT prison work
+
+## 19/07/22 19:32 to 19:49, Wokring on the recursive decent parser 
+
+## 19/07/22 19:49 to 20:44,  +EQT email 
+* And a reasonable amount of faff. I'm NOT there. And I'm hungry.  
+
