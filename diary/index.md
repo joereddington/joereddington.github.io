@@ -7235,6 +7235,8 @@ There's been a lot of refactoring and I'm reasonably happy that the code is in b
 
 ## 10/06/22 08:46 to 09:36, Hello! Bonus sorting things out time 
 * Lots of good stuff - including some old memory palace stuff 
+Edit - where did I put it? 
+
 ## 10/06/22 09:36 to 10:33, Pleased to have ticked that one off. 
 
 
@@ -7414,8 +7416,8 @@ Write slides for tomorrow.
 o
 
 
-## 10/07/22 07:21 to 08:11, Back on the prison 
-* I've created a deposit invoice. +EQT 
+## 10/07/22 07:21 to 08:11, Back on the prison +EQT
+* I've created a deposit invoice. 
   * Running the replace now to see if it works. 
 * Refactored the code to use a name dictionary rather than a bunch of integers. 
 * Fixing a bunch of bugs 
@@ -7462,4 +7464,13 @@ Got to pay the bank
 
 ## 19/07/22 19:49 to 20:44,  +EQT email 
 * And a reasonable amount of faff. I'm NOT there. And I'm hungry.  
+
+## 20/07/22 07:30 to 16:45, +EQT prison work
+## 20/07/22 19:30 to 20:09, In delores. 
+## 20/07/22 20:11 to 20:29, (B) Setup the standing orders for the other accounts 
+## 20/07/22 20:28 to 20:36, (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+
+## 20/07/22 20:36 to 21:00, (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+
+Reviewed. Worked on some stuff. Time to do some recreation now. 
 
