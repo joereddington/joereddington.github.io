@@ -7474,3 +7474,85 @@ Got to pay the bank
 
 Reviewed. Worked on some stuff. Time to do some recreation now. 
 
+## 21/07/22 07:30 to 20:00, Prison work and then travel +EQT
+
+
+
+## 24/07/22 13:49 to 14:01, Hello 
+
+## 24/07/22 20:11 to 20:37, Personal Todo list. 
+## 25/07/22 06:14 to 06:22, Delores +EQT
+* Fixed a bug in the main site. Running the scoring one locally  
+
+## 25/07/22 06:22 to 07:01, sorted something out for Kat. 
+## 25/07/22 07:01 to 08:04, Delores again +EQT
+From last time: 
+Completed: 38
+Failed : 3
+NA : 0
+
+Okay, those are the numbers to beat (although they only refer to the main system) 
+
+## 25/07/22 10:24 to 10:47, Sorting out Money claimed on the wrong card +EQT
+I processed the July Halifax statement and found  £985 that should be in the other account. I've messaged it to Kat 
+
+## 25/07/22 10:47 to 10:57, Fixing annual leave.  +EQT
+## 25/07/22 10:58 to 11:37,  Delores  +EQT
+So the position I'm in is this. I have been working on site for more than two weeks, and the weeks before that were very spotty. So I'm caught between three things. 
+
+* Organise. Get everything into the todo list and properly prioritise everything 
+* Do the 'urgent' things that I've been a bit worried about and that are causing stress 
+* Code, because I a haven't had a chance to for weeks and I psychologically need to access that bit of my brain. 
+
+So what's the answer.  The algorithm.  We do the code at the end of the day.  
+
+
+## 25/07/22 11:37 to 11:46,  Fixed some code in Delores. +EQT
+* Getting glasses and water 
+* Dinner soon! 
+* Going for a walk then it looks like. 
+
+## 25/07/22 12:30 to 12:33, DElores +EQT
+So, what do I want to do? 
+
+Touch everything 
+
+## 25/07/22 12:33 to 14:19, Battling the machine that constantly wants to reboot +EQt
+Twice, that's really annoying. 
+
+## 25/07/22 14:19 to 14:36,  +EQT Finance 
+* Generated an invoice for Yvonne, did a reconciliation. 
+## 25/07/22 14:36 to 16:53, +EQT Working on the white water writers cost calculator 
+
+* Doing the logic first. 
+* Once again had to look up vim's non-greedy match (https://stackoverflow.com/a/1305957/170243) which is .\{-} rather than .* 
+
+* Tried to learn Mocha
+  * After a lot of pain installing things I updated node, which fixed the problem 
+  * , so it turns out that mocha *really* likes to work under node systems and won't let you import a random file unless it is a node module - so it would require going fully into the echosystem (see, https://stackoverflow.com/questions/14874208/how-to-access-and-test-an-internal-non-exports-function-in-a-node-js-module 
+* I think I've decided I should run my own testing module. 
+
+
+# Big day, going to crush it +EQT 
+* I'm excited about a solid diet day and clearing out the inbox 
+* I'm a bit scared that I'm losing touch with some friends
+
+## 26/07/22 05:29 to 05:46, Delores. 
+Yesterday we completed 35 things on delores 
+* Planning food. 
+  * Salad for lunch. Then bbq 
+* Social media after my eight hours. 
+
+## 26/07/22 05:46 to 07:57, Emails +EQT
+## 26/07/22 07:57, Okay let's do some parenting! 
+Bike day! 
+
+## 26/07/22 10:27 to 11:48, Email +EQT
+But particularly the prison stuff. That was the big bit. 
+
+## 26/07/22 11:48 to 12:13,  Typesetting +EQT
+## 26/07/22 12:54 to 12:55,  Typesetting again +EQT 
+Did all the typesetting by hand - definitely should have a list of the commands for next time I do it. 
+
+## 26/07/22 12:55 to 15:12, Typesetting and email +EQT
+## 26/07/22 15:12, Social media algorithm
