@@ -7556,3 +7556,34 @@ Did all the typesetting by hand - definitely should have a list of the commands 
 
 ## 26/07/22 12:55 to 15:12, Typesetting and email +EQT
 ## 26/07/22 15:12, Social media algorithm
+## 27/07/22 05:55 to 06:29, Faffy slow wake up +EQT 
+## 27/07/22 06:30 to 06:37, Back into emails  +EQT
+
+## 27/07/22 11:42 to 14:02,  Recovery mode.  +EQT
+* 1L of water downed. 
+* Let's see what work I can do on the todo list 
+* It starts 76 items long, I want to touch evertyhing. 
+
+* Fixed the OVF site 
+* Fixed the https on www.theopenvoicefactory (from notes) 
+* Fixed the final FFT payment 
+* Did a cull on parts of the rest of the list. Down to 41 now. 
+* 27 now. I want to at least sort out this red line. 
+
+## 27/07/22 14:02 to 14:16, GOing for lunch now. 
+
+## 27/07/22 14:16 to 15:16, Back on the list +EQT
+* List is attacked nicely. 
+
+## 27/07/22 15:16 to 16:19, Delores +EQT
+I'm excited about getting delores working - I'm worried about the state of eQuality Time - it needs a push from somewhere. Some big bit of funding - some cool idea.  
+
+The big thing for the week is recovery 
+
+* Sorting box 
+* Processing this file .
+
+
+## 27/07/22 16:19 to 16:37, Delores code +EQT
+* Working through the reasoning. 
+* Rewriting the plan rather than the code 
