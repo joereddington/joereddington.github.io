@@ -7587,3 +7587,93 @@ The big thing for the week is recovery
 ## 27/07/22 16:19 to 16:37, Delores code +EQT
 * Working through the reasoning. 
 * Rewriting the plan rather than the code 
+## 28/07/22 06:14 to 07:13, Hello  +EQT
+* Delores 
+I'm excited to get back into a routine, and to publish that damn book. 
+I'm worried I'll have another messed up day 
+
+* Food Planning
+  * Salad for lunch. I'll put that together. 
+  * BBQ for dinner.  Indirect heat. Sausages but also carrots, potatoes, that sort of thing. 
+    * Take the stoves out and do veg on the top. 
+* Wrote up the thing 
+* Did a really nice cherry-pick of a git commit, feel like a guru. 
+
+## 28/07/22 07:13 to 07:27, (.) Write up blog for move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+* Drafted and published. 
+
+## 28/07/22 07:27 to 07:35, (A) Send Invoice to GNSA https://github.com/eQualityTime/Home/issues/123 +EQT
+* I forgot to put the extra charge in the TOR template! Task added 
+
+## 28/07/22 07:35 to 07:47, (A) Set up payments in unity and message Sarah  +EQT
+* Okay, open quickbooks and open unity and make it happen. 
+
+Ah, out of time. But I like the rhythm we have going here.  
+
+## 28/07/22 09:54 to 10:29, (A) Set up payments in unity and message Sarah  +EQT
+* Got very confused about vim. 
+* Quickbooks NOT responding so I have to sort seperately. 
+
+## 28/07/22 10:29, (B) Ring Unity Bank about signatories again on: https://github.com/eQualityTime/Home/issues/119 +EQT
+I'm set up for this, but I think it should probably be done when I'm prepping dinner. 
+
+
+## 28/07/22 10:29 to 10:53, Staff email  +EQT
+## 28/07/22 10:53 to 11:10, Publish Book +EQT
+* Published.  
+
+## 28/07/22 11:12 to 11:46, (A) Set up payments in unity and message Sarah  @quickbooks +EQT
+* Private mode was needed for Quickbooks. 
+
+## 28/07/22 11:46 to 12:17, (B) Ring Unity Bank about signatories again on: https://github.com/eQualityTime/Home/issues/119 +EQT
+* Having a really productive day actually 
+
+## 28/07/22 12:32 to 12:51,  Working on Unity Bank +EQT
+
+## 28/07/22 12:51 to 13:02, (C) Write thank you cards for Styal
+Okay then. 
+
+## 28/07/22 13:02 to 13:12, Fix book publishing. +EQT
+## 28/07/22 13:12 to 13:15, (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+Looked at the oldest couple, but we are in a fairly good space. 
+
+## 28/07/22 13:16, (D) 10 Activate Dropbox on the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
+
+## 28/07/22 13:18 to 13:27, Take a breath +EQT 
+17 things left. Three hours left as well. That's pretty good.  
+
+Been really good on food, exercise. Focus. All great. 
+## 28/07/22 13:27 to 13:50, (D) 10 Create google ads campaign for OVF . https://github.com/eQualityTime/Public/issues/131 +EQT
+* Small progress, written into the github issue. 
+
+## 28/07/22 13:51 to 14:45, (D) 20 Write an email newsletter for trustees on: https://github.com/eQualityTime/Home/issues/116 +EQT
+* Done! 
+
+## 28/07/22 14:46 to 15:14,  +EQT business social media 
+
+## 28/07/22 15:41 to 15:44, last 20 minutes. End of a good day.  +EQT
+Ticked off the git thing. 
+Gave everything a time. 
+There's probably less than a day's  work left here. 
+
+## 31/07/22 13:59 to 15:08, Working on personal list for a bit. 
+
+
+# The 8th - mostly a wash - was too tired to get much done
+
+## 08/08/22 07:04 to 07:54, Working +EQT 
+* Lots of fixing IT and general getting my head back in gear. 
+* Fancying the look of some of the curry's PC's 
+
+## 08/08/22 10:18 to 10:45, Delores +EQT
+I am excited about crushing everything.  I'm scared this will be another false start. 
+
+## 08/08/22 12:37 to 13:10, Sorting boxes.  +EQT
+## 09/08/22 06:48 to 07:55, Hello. Email day!  +EQT 
+## 09/08/22 10:10 to 12:04, Email +EQT 
+## 09/08/22 12:05 to 13:00, Making lunch. 
+## 09/08/22 13:00 to 13:49,  Emails +EQT
+## 09/08/22 13:49 to 14:07, Need a break 
+## 09/08/22 14:07 to 15:16, Emails +EQT
+* Working upstairs because frying. 
+## 09/08/22 15:16 to 16:10, Talking to line manager +EQT
