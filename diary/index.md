@@ -1043,7 +1043,7 @@ The commands are:
 ]c and [c to move around 
 :diffput and :diffget to make changes 
  - I tried :do and :dp but now I've read up, I think it should have been dp and do in normal mode rather than command 
-
+Later edit: you can do 'ls' to find out the buffer numbers and then do :diffput 2 to put it in the second buffer. That's useful for 'more than one buffer open' errors
 
 - 14/01/21 smallest next step:  work out a script/vim THING for new jekyll post 
 
@@ -7677,3 +7677,18 @@ I am excited about crushing everything.  I'm scared this will be another false s
 ## 09/08/22 14:07 to 15:16, Emails +EQT
 * Working upstairs because frying. 
 ## 09/08/22 15:16 to 16:10, Talking to line manager +EQT
+## 10/08/22 07:16 to 07:54, Email +EQT  
+## 10/08/22 10:55 to 12:40, Email +EQT
+## 10/08/22 12:43 to 13:16, Email +EQT
+* Working with Pomodoros today 
+* First email review in ages. That needs to be more regular 
+
+## 10/08/22 13:16, Lunch time. 
+
+## 10/08/22 13:37 to 14:20, Back for some delores.  +EQT
+* What is our big thing for the week? 
+  * Code - we're going to do some serious OVF code. We need to sort out the balance sheet for a start 
+
+## 10/08/22 14:21 to 14:42, (A) 10 Map out the tiktok for cybok project.  +EQT
+
+So, this one really needs to be outside of github, because that's what we are doing. 
