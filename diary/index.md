@@ -7692,3 +7692,104 @@ I am excited about crushing everything.  I'm scared this will be another false s
 ## 10/08/22 14:21 to 14:42, (A) 10 Map out the tiktok for cybok project.  +EQT
 
 So, this one really needs to be outside of github, because that's what we are doing. 
+## 10/08/22 14:43 to 15:13, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/142 +EQT 
+## 11/08/22 06:37 to 07:58, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/142 +EQT 
+## 11/08/22 09:57 to 12:48, Back on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/142 +EQT
+(all details in the issue) 
+
+Debugging! 
+
+I used code.interact(local=locals()) 
+ and traceback.print_stack() to print the stack 
+
+
+
+## 11/08/22 12:47 to 13:00, Trying to fix the aws credits  +EQT
+In order to improve AWS credits I have: 
+* Switched off the cron for backups 
+* Switched off the watchtower cron
+* Moved a bunch of the camps to 'paused'  
+* (Edit) this worked and the chart looks really good now 
+## 11/08/22 13:00 to 14:34,  Back on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/142 +EQT
+## 11/08/22 14:35 to 15:58, So I'd like to look through all the code todos.  +EQT TheOpenVoiceFactory
+I've realised that I should be staging things, then running the full suite of tests while doing other things.  
+
+## 13/08/22 19:43 to 19:53, Working on Personal todo list +Home
+Having a very strange moment with git - visualisitng iwth the thing  
+
+## 13/08/22 20:26 to 21:09,  Back on the git.  +Home (and +EQT by virtue of how much I learned about git Here's my command history: 
+ 7634  13/08/22 19:58:39 git commit -a -m "Add contnet"
+ 7635  13/08/22 19:58:41 git status
+ 7639  13/08/22 19:59:01 git checkout main
+ 7641  13/08/22 19:59:19 git checkout scoring
+ 7643  13/08/22 20:27:58 git status
+ 7644  13/08/22 20:28:03 git rebase -i main # attempting to interactively put two commits onto main, actually put them onto scoring, dropping all of the others. 
+ 7645  13/08/22 20:28:25 git log # Find out it didn't work 
+ 7649  13/08/22 20:30:57 git reflog
+ 7650  13/08/22 20:33:44 git reset --hard HEAD@{7} # Fixing back to where I was. 
+ 7653  13/08/22 20:37:28 git rebase --onto main a01a1 # Trying again, this time with an --onto an a commit id - it didin't work. 
+ 7654  13/08/22 20:37:47 git reflog
+ 7655  13/08/22 20:38:01 git reset --hard HEAD@{3}
+ 7656  13/08/22 20:41:22 git log
+<this whole section had NO effect> 
+ 7657  13/08/22 20:41:25 git checkout main
+ 7658  13/08/22 20:41:42 git rebase --onto master a01a1e17f38e048e30ad8fe923eaa09bddc5c630 334579e31cd77fac72ced0df374a8d056a9a55a0
+ 7659  13/08/22 20:41:55 git rebase --onto main a01a1e17f38e048e30ad8fe923eaa09bddc5c630 334579e31cd77fac72ced0df374a8d056a9a55a0
+ 7660  13/08/22 20:42:14 git status
+ 7661  13/08/22 20:42:20 git checkout main
+ 7662  13/08/22 20:42:27 git log
+ 7663  13/08/22 20:42:40 git rebase --onto main a01a1e17f38e048e30ad8fe923eaa09bddc5c630
+ 7664  13/08/22 20:42:54 git log
+ 7665  13/08/22 20:43:11 git reflog
+<now starting to properly cherry pick>  
+ 7666  13/08/22 20:43:22 git cherry-pick 334579e31cd77fac72ced0df374a8d056a9a55a0
+ 7667  13/08/22 20:43:31 git log
+ 7668  13/08/22 20:43:56 git cherry-pick a01a1e17f38e048e30ad8fe923eaa09bddc5c630
+ 7669  13/08/22 20:44:02 git log # Check it had worked
+ 7670  13/08/22 20:44:11 git checkout scoring
+ 7671  13/08/22 20:44:14 git log
+ 7672  13/08/22 20:44:25 git reset --hard 18d4 #Taking those two commits back off 'scoring' 
+ 7673  13/08/22 20:44:32 pwd
+ 7674  13/08/22 20:44:50 pwd
+<Realised I should actually move all the content changes in main in to my scoring branch> 
+ 7677  13/08/22 20:46:33 git checkout scoring
+ 7679  13/08/22 20:47:03 git merge main
+<snip - had to completely restart the merge because I was trying to get vimdiff to be easy> 
+ 7703  13/08/22 20:52:45 git mergetool --tool=vimdiff
+ 7705  13/08/22 20:58:32 git commit # finally committed the thing
+
+## 13/08/22 21:09 to 21:33, So where am I now? +EQT 
+Learned about Raindstream from: 
+2022-08-13 20:17:38, https://www.omgubuntu.co.uk/2016/10/twitter-command-line-client-rainbow-stream
+Turns out there is a hack to posting from the command line, but it's nobody's idea of easy. 
+2022-08-13 20:27:45, https://github.com/orakaro/rainbowstream/issues/283
+2022-08-13 20:27:57, https://github.com/OnikenX/github-twitter-commits/blob/master/tweet
+## 14/08/22 12:48, Hello  +Home 
+* Fast delores 
+* Iterupt to do ebay 
+
+## 16/08/22 06:14 to 07:29,  Workinng through emails +EQT 
+## 17/08/22 06:31 to 07:30, Working on emails +EQT 
+
+## 21/08/22 14:53 to 15:10, +home 
+How do I manage testing for the export history? 
+
+I'd need to commit a database to the source control.  
+Options: 
+* Create a tiny database that has nothing in it. 
+* wipe the contents of another database. 
+* have a wrapper that we assume is fine...? 
+
+Tiny database sounds like a good move. 
+
+
+## 22/08/22 05:58 to 07:26, Emails sorted +EQT 
+## 22/08/22 13:57 to 15:30, Meeting about tiktok for Cybok  +EQT
+
+## 23/08/22 06:20 to 07:55, +EQT emails and other tidy +EQT 
+## 23/08/22 09:30 to 10:03, Delores  +EQT
+## 23/08/22 10:03 to 11:52, Email +EQT
+## 23/08/22 11:52 to 12:30, Next inbox +EQT
+## 23/08/22 13:04 to 14:19, emails +EQT 
+## 23/08/22 14:19 to 15:22, Expenses +EQT
+## 23/08/22 15:42 to 17:01,  Late delores +EQT 
