@@ -16,7 +16,7 @@ In 2021 I published [Advanced Memory Palaces](https://www.amazon.co.uk/Joe-Reddi
 The rest of the site is a collection of 400 or so posts of various odds-and-ends. I've been blogging since 2013 so topics range from webapps to [choosing colours for baby blankets](2015/11/04/its-not-baby-boy-blue.-its-sirius/html).
 
 
-Occasionally either me or my work [appears in the press](media/) and I can be contacted on [joe@joereddington.com](mailto:joe@joereddington.com). I am active on most social media, but the best place to find out what I’m working on and thinking about is <a href="https://www.facebook.com/joe.reddington" onclick="getOutboundLink('my facebook page')">my facebook page</a>  where I do a lot of talking about projects and designs before they make it here.
+Occasionally either me or my work [appears in the press](media.html) and I can be contacted on [joe@joereddington.com](mailto:joe@joereddington.com). I am active on most social media, but the best place to find out what I’m working on and thinking about is <a href="https://www.facebook.com/joe.reddington" onclick="getOutboundLink('my facebook page')">my facebook page</a>  where I do a lot of talking about projects and designs before they make it here.
 
 
 
