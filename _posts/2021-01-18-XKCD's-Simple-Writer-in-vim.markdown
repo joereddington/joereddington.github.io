@@ -30,6 +30,7 @@ and
 
 to put the right mode on and off. 
 
+People interested in this work might also be interested in [this workthought of a vim mapping problem]({{ site.baseurl}}{% link _posts/2020-05-09-vim-notes.md  %} ), or this [basic bit of scripting]({{ site.baseurl}}{% link _posts/2018-12-27-simple-photo-import-script.md %}).
 
 
 
