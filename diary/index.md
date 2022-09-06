@@ -7793,3 +7793,98 @@ Tiny database sounds like a good move.
 ## 23/08/22 13:04 to 14:19, emails +EQT 
 ## 23/08/22 14:19 to 15:22, Expenses +EQT
 ## 23/08/22 15:42 to 17:01,  Late delores +EQT 
+## 24/08/22 06:29 to 06:50, Getting started +EQT
+## 24/08/22 06:50 to 07:22, Delores One Pomodaro +EQT
+## 24/08/22 07:21 to 07:25, First few things are blog posts +EQT
+Everything turns out to have already been blogged. 
+
+## 24/08/22 07:26 to 07:45, (A) Submit funding.  +EQT
+We've submitted a bid to Garfield Weston to scale up White Water Writers. Fingers crossed!   
+
+
+## 24/08/22 07:45 to 07:50, (A) 20 Merge the OVF branch   +EQT
+Write blog about the OVF branch 
+
+## 24/08/22 12:19 to 12:29, Ticking off some bits  +EQT 
+Working down the list. 
+
+## 24/08/22 12:29 to 13:25, (B) 20  Create new ads for the Open Voice Factory  OpenVoiceFactory +EQT
+* Updated the Add for OVF - moved from poor to average 
+* Deleted some search terms from a project real to make it a bit leaner. 
+* created a new White Water Writers Advert 
+
+
+
+## 24/08/22 13:26 to 14:05,  TikTokForCyber  +EQT
+The audience is two people. The crusty old Cyptogopher and the interested kid. 
+
+## 24/08/22 14:27 to 15:19,  (B) OVF Code on: Small Issue Round-up https://github.com/eQualityTime/TheOpenVoiceFactory/issues/143 +EQT
+
+## 25/08/22 07:08 to 07:59, OpenVoiceFactory +EQT
+## 25/08/22 09:24 to 10:19, OpenVoiceFactory +EQT  
+## 25/08/22 10:18 to 11:04, OpenVoiceFactory +EQT
+## 25/08/22 11:07 to 12:30, OpenVoiceFactory +EQT 
+* Fixing a bug and generally improving the test process.  
+
+Removing this: 
+    def test_all_regressions_with_json(self): 
+         for file in glob.glob("tests/regressions/regression_tests_size_5/*.pptx"):
+            print("Testing a Regression: {}".format(file))
+            with self.subTest(file):
+                regress(file,5) 
+         for file in glob.glob("tests/regressions/regression_tests_size_4/*.pptx"):
+            print("Testing a Regression: {}".format(file))
+            with self.subTest(file):
+                regress(file,4) 
+ Althought I liked the way of doing subtests, I'm sure it will be useful again. 
+
+* Did a bunch of refactoring 
+  * The problem is now that grid.py is *massive*. And Pageset is quite small.  
+* We're still on the refactoring branch - that needs to be brought in. 
+
+## 25/08/22 14:00 to 14:22, Brainstorming and mental health work +EQT
+## 26/08/22 09:29 to 11:37,  Solving the website indexing issue 
+Or at least attempting to. I wrote a blog post on the topic. 
+I wrote a blog on the topic : https://joereddington.github.io/2022/08/26/coverage.html
+## 26/08/22 11:37 to 11:50,  Working on +EQT sites 
+## 26/08/22 13:14 to 13:28, Back after run and lunch  +EQT
+Working on code - running tests to check I'm even in the right places. 
+
+## 26/08/22 15:00 to 15:48 , OpenVoiceFactory +EQT
+## 28/08/22 06:58 to 07:09, Making a comic 
+## 28/08/22 07:32, Making a comic 
+## 28/08/22 10:28 to 10:53, Making a comic 
+
+## 29/08/22 16:08 to 17:00, making the next one 
+How does it take so long! 
+
+## 30/08/22 09:23 to 09:55, Here and doing work +EQT
+What's some things that I'd be really pleased with today? 
+* Starting pickles. 
+* Drafted a course plan for  Tiktok for Cybok
+  * And asked for name suggestions on facebook. 
+    * Which means emailing trustees. 
+* Drafted a plan for disneyland. Along with a budget and so on. 
+
+If I do all of that will I be able to say "Yes! That was an awesome day!" Yes. I think I will. 
+
+EDIT - it was actually an amazing day - even if it didn't feel like it. 
+
+## 30/08/22 09:55 to 10:32, did a couple of useful bits.   +EQT
+## 30/08/22 12:37 to 14:00, brainstorms and forward planning.  +EQT
+
+## 31/08/22 05:49 to 06:00, Delores!  +EQT
+## 31/08/22 10:46 to 11:00, Working on delores +EQT
+## 31/08/22 11:01 to 11:10, fixing bug +EQT
+## 31/08/22 11:10 to 12:00, talking to clare +EQT
+
+## 31/08/22 12:55 to 15:05, Attacking the todo list - effectively at random +EQT
+A lot of them where nonesense. 
+* Included some TLL for javascript 
+
+## 31/08/22 15:06 to 15:34, Brain back in gear  +EQT
+
+
+## 04/09/22 21:26 to 22:06, Alright. Let's do a comic. QUickly  
+It's taking a while, but that's mostly the sheer number of items... 
+
