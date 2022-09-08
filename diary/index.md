@@ -7888,3 +7888,56 @@ A lot of them where nonesense.
 ## 04/09/22 21:26 to 22:06, Alright. Let's do a comic. QUickly  
 It's taking a while, but that's mostly the sheer number of items... 
 
+## 05/09/22 06:12 to 06:22, starting algorithm.  +EQT
+* Did a temporary vim fix 
+
+## 05/09/22 06:22 to 07:30, Comic .
+* this comic is long. Next time It's problem: solution. 
+* gif conversion takes ages
+* Overal this comic was about 90 minutes. That is too too long. 
+
+## 05/09/22 10:00 to 10:10, Fixing vim +EQT
+## 05/09/22 10:10 to 12:18,  Email +EQT
+* Filing the confirmation statment 
+  * Waiting on Yvonne's date of birth. 
+There are seven. 
+
+## 05/09/22 12:18 to 12:44,  Okay the next email task boils down to: sort this file out (280 lines!) and grab the relevent blog posts +EQT  
+## 05/09/22 13:15 to 13:48,  Sideline in fixing lnc +EQT 
+* Fixed with https://stackoverflow.com/a/23917799/170243  
+* Still NOT working, but some of that might be reboot problems. 
+
+## 05/09/22 13:50, Back to whatever I was doing. 
+This file is now only 50 lines long, most of which is the damn 
+
+
+## 05/09/22 14:28 to 17:09, Email (and banking) +EQT
+Back on the thing. 
+* reconciliation done (only one transaction) 
+* Email is hard. 
+* Fucking hell, the balance sheet is terribule. 
+
+* Fix it by: 
+  * Reducing the OVF libilities given the work. 
+  * Making the prison invoices the same. 
+  * Adding an invoice for the Cyber-security bid. 
+  * Finding out about Keele  (NOT a goer) 
+  * Working out what that deferred income is. 
+  * Showing end of year. 
+
+## 05/09/22 17:09, Calling it. 
+## 06/09/22 05:43 to 06:35, +EQT working on invoices and balance sheet
+## 06/09/22 06:36 to 07:56, +EQT working on invoices and balance sheet
+## 06/09/22 09:29 to 09:58, Hello. Fixing little things.  +EQT
+## 06/09/22 11:27 to 12:49, Emails and phone calls.  +EQT
+## 06/09/22 15:00 to 16:55,  +EQT email
+
+## 06/09/22 19:38 to 19:48,  Comic 
+So, How to I convert these things quickly into the banners  
+
+Working on comics - the next action is to take the image styling and put it into the css file like this: https://www.w3schools.com/css/css3_images.asp
+
+## 06/09/22 19:48 to 21:33, +EQT trustee meeintg
+
+
+## 06/09/22 21:52 to 22:47, Comic 
