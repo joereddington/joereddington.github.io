@@ -7941,3 +7941,30 @@ Working on comics - the next action is to take the image styling and put it into
 
 
 ## 06/09/22 21:52 to 22:47, Comic 
+# Today 
+I want a delores day but leaning in to being a bit ill. So with a scheduled nap and proper work. 
+
+## 08/09/22 07:10 to 07:30, Looking into OCR for prison books +EQT
+Tesseract looked promising but dosen't build for osx. 
+AWS has an API - the demo was promising (and workable) , I wonder if we can get that working properly 
+
+## 08/09/22 09:42 to 10:43, Delores +EQT
+## 08/09/22 10:43 to 12:11, Delores. +EQT 
+I'm working through delores.  Slowly, but in the process I'm working on making sure that I'm also recovering: I've sheduled a nap, and a senible time to have lunch. 
+## 08/09/22 12:16 to 12:36, https://github.com/eQualityTime/Home/issues/126 +EQT
+## 08/09/22 13:00 to 13:25, call relating to https://github.com/eQualityTime/Home/issues/126 +EQT
+She's sending me an email. 
+
+## 12/09/22 06:17 to 06:35, Already diverted  +EQT
+## 12/09/22 06:35 to 07:30, +EQT working on https://github.com/eQualityTime/Home/issues/126
+## 12/09/22 10:55 to 12:02, +EQT working on https://github.com/eQualityTime/Home/issues/126
+## 12/09/22 12:02 to 14:02, +EQT working on https://github.com/eQualityTime/Home/issues/126
+(Town working) 
+
+
+## 12/09/22 20:00 to 20:17, Pulling the plug 
+Writing the blog post
+## 12/09/22 20:18 to 20:57, Pulling the plug 
+To-do list polishing. Reletively little got done but was quite satisfying. 
+* Amazingly 28 of the next actions don't need the internet. 
+## 12/09/22 20:58 to 21:38, Pulling the plug 
