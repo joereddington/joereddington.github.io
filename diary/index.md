@@ -5860,7 +5860,7 @@ Also some bonus  WWW
   * And also properly transfer all the designs first. 
 * I have to properly rewrite this file so that It's clear that what command were used at what points. 
 
-## 02/02/22 17:03 to 17:10,  Call from Clare +EQT
+## 02/02/22 17:03 to 17:10,  Call from Clare +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 02/02/22 19:54 to 20:21, 
 Down to 96 in the personal list, JUST  ticking things off 
 70-odd 
@@ -5870,13 +5870,13 @@ Down to 96 in the personal list, JUST  ticking things off
 * Rewrote the blog post 
 * Also sent some stuff to Trustees
 
-## 03/02/22 07:22 to 07:38, +EQT
+## 03/02/22 07:22 to 07:38, +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 From histroy: Finding out about AWS, amazon buckets, some stackoverflow
 
 ## 03/02/22 07:38 to 08:00, +EQT
 Fixing zoom, messaging Yvonne... 
 
-## 03/02/22 09:48 to 11:18, WWW +EQT
+## 03/02/22 09:48 to 11:18, WWW +EQT  https://github.com/equalityTime/whitewaterwriters
 * Creating list.php for IMPS 
 * Rewriting the index file. 
 * Keeping Richard up to date
@@ -5890,7 +5890,7 @@ Alright, this is a 1300 word notes file. Let's sort that out.
 ## 03/02/22 13:53 to 14:12,  Fixing crontabs +EQT
 * And looking for an EQT diversity polciy. Failing pretty miserably.  
 
-## 03/02/22 14:12 to 14:35,   Mail merge code now.  +EQT
+## 03/02/22 14:12 to 14:35,   Mail merge code now.  +EQT  https://github.com/equalityTime/whitewaterwriters
 It would be great if the Mail merge code exported a 'follow up' grid when it ran.  
 
 It could start with the list of email addresses. 
@@ -5920,7 +5920,7 @@ Calendar - exercise and social media.  Today will be the post about public inter
 * Fast ways to take photos with webcame 
   * Webcam photos are very hard work. 
 
-## 04/02/22 09:20 to 09:24, (B) 04 Try to fix the CORS error with https://serverfault.com/a/176729  +EQT
+## 04/02/22 09:20 to 09:24, (B) 04 Try to fix the CORS error with https://serverfault.com/a/176729  +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 
 ## 04/02/22 09:24 to 09:31, (B) 20 Check in with Unity about adding extra signatories.  +EQT
 Calling them helpline over skype to ask if we have got through the process.  Position in the queue: 7
@@ -5955,7 +5955,7 @@ Was meant to be 15 minutes, but there's a lot of small projects in here that app
 
 ## 04/02/22 13:49 to 13:52,  Quick blog post +EQT
 
-## 04/02/22 13:52 to 13:57,  (E) 20 Read a chapter of grant book  +EQT
+## 04/02/22 13:52 to 13:57,  (E) 20 Read a chapter of grant book  +EQT https://github.com/orgs/eQualityTime/projects/3
 Three things to do and I think I can definitely do them. 
 
 I really love that I can look back over the list and be like "Yes, yes, I did do all of those in that order, that was brilliant" 
@@ -6024,12 +6024,12 @@ I am so ready to be angry. Because I'm very hurt. I'm looking for any opportunit
 ## 07/02/22 11:16 to 11:46,  (E) Fix plotpri.py cron (and put in python3) +EQT
 ## 07/02/22 11:47 to 11:47,  (D) map project:Continually improve and train on working practices and technology +EQT
 
-## 07/02/22 11:48 to 12:17, (E) Map the 'create all the ebooks' project (in practice I think it's 'have a go' because if you can get the codes from all books ever then you are probably to do a fast script.    +EQT
+## 07/02/22 11:48 to 12:17, (E) Map the 'create all the ebooks' project (in practice I think it's 'have a go' because if you can get the codes from all books ever then you are probably to do a fast script.    +EQT https://github.com/equalityTime/whitewaterwriters
 * Done, also ticked some other boxes
 
 ## 07/02/22 12:17 to 12:21, General working  +EQT
 * Tided a repo 
-## 07/02/22 12:25 to 12:58, Working out Google Ads  +EQT
+## 07/02/22 12:25 to 12:58, Working out Google Ads  +EQT https://github.com/eQualityTime/Public/issues/131 
 And getting very frustrated. I want people to find this and make it work and it's NOT happening.   
 
 ## 07/02/22 12:58 to 13:14, Asking myself how to be better.  +EQT
@@ -6122,7 +6122,7 @@ Lots of files now working.
 * Now can give a slug and get a wordcount. That's cool. 
 * Need to be able to save it in a way that works for the php. 
 
-## 11/02/22 10:30 to 11:20, Grant writer call.  +EQT
+## 11/02/22 10:30 to 11:20, Grant writer call.  +EQT  https://github.com/orgs/eQualityTime/projects/3
 Lots of good notes about
 * Redoing the website 
 * Proofreading the website for WWW 
@@ -6157,9 +6157,9 @@ Update_books script first.
 * Total word counts were done in php. 
 
 
-## 13/02/22 19:40 to 23:59, +EQT Driving up to preston
-## 14/02/22 08:30 to 21:30, +EQT Monday in preson 
-## 15/02/22 06:02 to 07:47, Working on camp +EQT
+## 13/02/22 19:40 to 23:59, +EQT Driving up to preston https://github.com/equalityTime/whitewaterwriters
+## 14/02/22 08:30 to 21:30, +EQT Monday in preson https://github.com/equalityTime/whitewaterwriters  
+## 15/02/22 06:02 to 07:47, Working on camp +EQT  https://github.com/equalityTime/whitewaterwriters 
 * Fixed slug
 * Corrected wordcoutns
 * Fixed ordering 
@@ -6167,16 +6167,16 @@ Update_books script first.
 * Zoom set up 
 
 
-## 15/02/22 09:30 to 16:40, +EQT camp 
+## 15/02/22 09:30 to 16:40, +EQT camp  https://github.com/equalityTime/whitewaterwriters
 Including the code to get the ordering file to work and to run the latex. 
 
 
-## 16/02/22 09:30 to 13:03, supervising camps  +EQT
+## 16/02/22 09:30 to 13:03, supervising camps  +EQT https://github.com/equalityTime/whitewaterwriters 
 * Also cleared an inbox 
 * Also rewrote this file 
 * Checked in with Annual leave, going well. 
 
-## 16/02/22 14:00 to 16:27,  Back +EQT
+## 16/02/22 14:00 to 16:27,  Back +EQT  https://github.com/equalityTime/whitewaterwriters
 * Closed one issue, mapped another 
 * Did the string replacements 
 * Ah -that's got more complicated - how do we put info in... 
@@ -6187,14 +6187,14 @@ Including the code to get the ordering file to work and to run the latex.
 
 ## 17/02/22 06:30 to 07:32, Delores +EQT
 
-## 17/02/22 09:30 to 14:00,  Minding camp and working +EQT
+## 17/02/22 09:30 to 14:00,  Minding camp and working +EQT  https://github.com/equalityTime/whitewaterwriters 
 * Did the accounts stuff. 
 * Writing a CEO column 
 
-## 17/02/22 14:01 to 16:38,  Minding camp and working +EQT
+## 17/02/22 14:01 to 16:38,  Minding camp and working +EQT  https://github.com/equalityTime/whitewaterwriters 
 22 things left on the todo list. 
 
-## 18/02/22 07:58 to 09:39, Brainstorms and motivation +EQT
+## 18/02/22 07:58 to 09:39, Brainstorms and motivation +EQT  https://github.com/equalityTime/whitewaterwriters 
 (Don't remember any motivation now) 
 
 ## 18/02/22 09:39 to 10:55, (A) Do payments unity +EQT
@@ -6234,8 +6234,8 @@ All empty
 ## 23/02/22 06:15 to 07:25, DELORES +EQT
 (B) 20 Restart the Unity application process - you have an email about it. 
 ## 23/02/22 07:26 to 07:47, Sorted Unity Bank +EQT
-## 23/02/22 07:48 to 07:48, (B) Fix ebooks on Tec and bsdc  +EQT
-## 23/02/22 09:55 to 09:58,  (B) Fix ebooks on Tec and bsdc  +EQT 
+## 23/02/22 07:48 to 07:48, (B) Fix ebooks on Tec and bsdc  +EQT https://github.com/equalityTime/whitewaterwriters 
+## 23/02/22 09:55 to 09:58,  (B) Fix ebooks on Tec and bsdc  +EQT  https://github.com/equalityTime/whitewaterwriters 
 ## 23/02/22 09:58 to 10:14, Expenses +EQT
 ## 23/02/22 10:14 to 10:40, (C) 20 Find out about these people https://docs.google.com/spreadsheets/d/1CD0_IlURaI9XJywN0O8KnfGnl11Jr7g7lfeFXn2UEpM/edit?usp=sharing +EQT
 * Done, super proud. Did a bunch of follow up emails, reminded myself bout something we were arranging. 
@@ -6248,7 +6248,7 @@ Working on EQT website:
 * Removed the trustee and projects pages. 
 * added text about our two larger projects. 
 
-## 23/02/22 11:50 to 12:01, Fixing bug on WWW site +EQT
+## 23/02/22 11:50 to 12:01, Fixing bug on WWW site +EQT  https://github.com/equalityTime/whitewaterwriters 
 
 ## 23/02/22 12:25 to 13:57, (D) 10 Update all the morgan info files (link at github): https://github.com/eQualityTime/Home/issues/118 +EQT
 * I've written a script that downloads lots of files and creates the pdfs and the ebooks. I've also created an issue for Connor.  
@@ -6256,7 +6256,7 @@ Working on EQT website:
 ## 23/02/22 14:02 to 14:56, fixing+blogging+updating   +EQT
 ## 23/02/22 14:56 to 15:13, There are only 9 things left and I don't want to do any of them +EQT
 
-## 23/02/22 15:14 to 16:09, The Drawing version.  +EQT
+## 23/02/22 15:14 to 16:09, The Drawing version.  +EQT  https://github.com/equalityTime/whitewaterwriters
 
 ## 23/02/22 16:09 to 16:29, Processing Google Drive +EQT
 ## 24/02/22 05:50,  Up before the kids! 
@@ -6393,7 +6393,7 @@ But imports the whole history and is buggy.
 ## 03/03/22 15:34 to 16:00, Playing on a personal (and silly) project
 
 
-## 07/03/22 10:00 to 12:00, Somewhere in there was a call with a funder for two hours (including prep) +EQT
+## 07/03/22 10:00 to 12:00, Somewhere in there was a call with a funder for two hours (including prep) +EQT  https://github.com/orgs/eQualityTime/projects/3
 
 ## 14/03/22 10:00 to 14:00, Operating system reinstall and other setup faff +EQT
 ## 14/03/22 13:58 to 14:44, Delores  +Eqt
@@ -6427,7 +6427,7 @@ I'm doing my email. That's mostly the emails in the stack but also the emails in
 
 ## 16/03/22 12:32 to 13:23, Working on brainstorms +EQT
 
-## 16/03/22 13:23 to 16:27, I'm back. +EQT
+## 16/03/22 13:23 to 16:27, I'm back. +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (A) Do the OVF correction in Quickbooks. 
 -Done 
 (A) Create report for 'can we pay for Joe' (do the OVF correction first) 
@@ -6487,12 +6487,12 @@ Processed tweetdeck for the first time in a week. Sent like, three tweets. That'
 * Processing Stack 
   * (which includes this file) 
 * Sorting out the github repo for domesday 
-## 28/03/22 13:15 to 13:41, Did the pay justification +EQT
+## 28/03/22 13:15 to 13:41, Did the pay justification +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 28/03/22 15:11 to 16:15,  Back from Cycle +EQT
 * Running a command... will take a awhile. 
 * Okay, we are ready for the recording. Will do tonight.  
 
-## 28/03/22 20:27 to 21:10, Livestream books  +EQT
+## 28/03/22 20:27 to 21:10, Livestream books  +EQT  https://github.com/equalityTime/whitewaterwriters
 ## 29/03/22 07:00 to 07:55, +EQT Email 
 ## 29/03/22 10:05 to 12:24, +EQT email 
 ## 29/03/22 12:24 to 13:24, +EQT emailing luton schools in particular 
@@ -6517,14 +6517,14 @@ Also sending some emails, checking things for Richard S
 * Reviewing all the todos
 
 ## 31/03/22 13:00 to 13:30, Back after lunch and doing some tidying  +EQT
-## 31/03/22 13:30 to 16:24, Working on IMPS3  +EQT
+## 31/03/22 13:30 to 16:24, Working on IMPS3  +EQT  https://github.com/equalityTime/whitewaterwriters 
 Pushed, pulled and working on server. Pleased with that. 
 
 ## 31/03/22 16:24 to 16:49, Some blogging. 
 ## 04/04/22 09:50 to 10:41,  Live work for +EQT
 * A lot of it is remembering how to run a thing live. 
 
-## 04/04/22 10:48 to 11:04, Sorting out drawing supplies for WWW +EQT
+## 04/04/22 10:48 to 11:04, Sorting out drawing supplies for WWW +EQT https://github.com/equalityTime/whitewaterwriters
 * Do I want fancy clipboards or do I want traceing paper and masking tape. 
 * The user's drawing are going to be reduced to be at most a quarter of the size.   
   * And I won't to go *down* levels of detail so I think it's going to be highlighters and sharpies. 
@@ -6591,7 +6591,7 @@ Emails are on pause
 ## 05/04/22 16:25 to 16:30, Closing down.  +EQT
 
 
-## 05/04/22 19:15 to 20:55,  Online session +EQT 
+## 05/04/22 19:15 to 20:55, Online session +EQT 
 Workshop with Lousie from define fine 
 ## 06/04/22 07:18 to 07:53, Deloresing  +EQT
 ## 06/04/22 09:53 to 10:48, Delores and TODO +EQT
@@ -6599,7 +6599,7 @@ Workshop with Lousie from define fine
 Is now generating and I now need to properly fill out the spreadsheet. 
 * Have (largely) filled out the spreadsheet. Still feel like I need to do some serious work 
 
-## 06/04/22 13:55 to 14:10, Migrating  the designs +EQT
+## 06/04/22 13:55 to 14:10, Migrating the designs +EQT
 
 ## 07/04/22 06:15 to 07:49, Setting up proper charts 
 ## 11/04/22 07:02 to 07:15, 30 minutes in Google drive.  +EQT
@@ -6622,7 +6622,7 @@ Smashing Boxes and lists and ticking off all the little disorganised things.
 ## 11/04/22 16:31, Have reached 'write down review of calendar'. Might have to come back to that one. 
 ## 11/04/22 16:32 to 16:57, (A) 20 Work out what was going on with that strange payment 
 
-## 12/04/22 06:32 to 06:51, Solved Strange payment +EQT
+## 12/04/22 06:32 to 06:51, Solved Strange payment +EQT  https://github.com/equalityTime/whitewaterwriters 
 Okay it was a payment of £2,100 from 'HMP Hindley' on the 16/11/2020
 It's marked as having paid invoice 1006 
 - But actually I had generated duplicate transaction. 
@@ -6650,7 +6650,7 @@ One hour sprint.
 * Posted a link. 
 * went from 64 emails to 4 
 
-## 12/04/22 11:03 to 12:57, Second sprint.  +EQT
+## 12/04/22 11:03 to 12:57, Second sprint. email   +EQT
 Deal with the big email. 
 
 ## 12/04/22 12:57, I'm shattered nd NOT coping. 
