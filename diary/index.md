@@ -7968,3 +7968,134 @@ Writing the blog post
 To-do list polishing. Reletively little got done but was quite satisfying. 
 * Amazingly 28 of the next actions don't need the internet. 
 ## 12/09/22 20:58 to 21:38, Pulling the plug 
+
+## 13/09/22 07:06 to 07:51, Delores +EQT
+## 13/09/22 09:54 to 10:29, Delores  +EQT
+Working through list  
+* Daily checklisti s the first thing that needs internet (and calendar is really low)  
+  * Processing the file needs some if you are updating properly 
+* So, I now ask the question, how to remove 
+* Fixed a delores bug and committed 
+* There was some personal internet on phone before this, I suspect that counts. 
+  * Downloaded a film tho. 
+* Needing the internet for processing this file. That's okay for the first say at least. 
+* By processing this file we moved tightrope forward a little bit. 
+
+## 13/09/22 10:29 to 11:31, https://github.com/eQualityTime/Home/issues/126 +EQT
+Plan 
+* Write header 
+* Go through the categories and write down ideas. 
+* Switch to google drive 
+* Set up learning outcomes for each categories 
+* Fill out the first session in detail. 
+
+## 13/09/22 11:31, Off to dentist
+
+## 13/09/22 12:14 to 13:42, https://github.com/eQualityTime/Home/issues/126 +EQT
+* Also did the confirmation statement 
+## 13/09/22 15:18 to 16:28, Typesetting for Prisons +EQT
+## 13/09/22 19:28 to 19:45,  Typesetting for Prisons +EQT 
+We've been given a book manuscript as a series of jpg files. That's mildly ridiculous. I've put them through https://aws.amazon.com/textract/ and have a set of 34 raw files.  I don't believe they are chapters, but we shall work that out. 
+
+They downloaded as zip files.  I used this command to list the files:  
+
+:r !ls ~/Downloads/*/rawText.txt
+
+...and then a macro to import the individual files from the filenames. 
+
+
+## 15/09/22 04:38 to 06:56, Typesetting for Prisons +EQT
+## 15/09/22 06:56 to 07:59, Interrupt to do a quick Delores  +EQT
+Okay, so we've reached calendar, and we now need internet for a bit. 
+
+## 15/09/22 09:48 to 10:38, Typesetting for Prisons +EQT
+I'm working thought the latex file and fixing all the little things. In the process I made a script ( .vim/typesetting.script) to use next time.  
+* There's a strange issue - two chapters were missing and their contents replaced with others.  The downloaded zip files were fine, so that suggests it was in the vim importing I didn 
+* Not using the internet is really really helping. I'm a lot more focused. A lot better generally. 90 minutes good work been done.  
+* Notes on the text:  
+  * It's written in scouse. Like, the sentence constructions are such that read it in a scouse accent. 
+  * Lots of feelings of being trapped, of having only one choice. 'pointless trying to talk X out of it'  
+  * It's the butchers fault they got stole from, because they were paying a low wage. 
+  * "Working in a butchers is normally a job for well to do people" 
+  * Couple of chapters in the wrong order and such.  
+  * Money solves all of the problems. 
+  * It's quite hard to break them into paragraphs - because they don't write in a way that's particularly paragraph friendly - they give you the whole story at once, repeatedly, just changing some of the words. 
+
+* Fixed chapter 6
+* Fixed chapter 30 
+* Identified that the fault isn't with textextract 
+* Searching for cover. I remember it being murphy 
+
+## 15/09/22 10:38 to 11:59, Email +EQT
+* Even tho I haven't done delores??? 
+* I think the plan is wipe out the email  and then go dark. 
+
+* Something that stuns us a little bit is that so many of the early tasks are calenar 
+
+## 15/09/22 11:59 to 11:59, Just four things left:  +EQT
+
+* Put the names in two books 
+  * Open IMPS3 
+* Open Quickbooks 
+  * Damnit - find all the damn other receipts FFS 
+* Hmm. Check for other languages 
+* Seperate out the replies to Laure 
+
+
+## 15/09/22 14:04 to 15:18,  Email +EQT
+## 15/09/22 16:54, Buying books. 
+
+
+## 18/09/22 15:52 to 17:00, Quick power hour. 
+x (A) 02 Cancel Marvel Subscription +phone
+x (E) 02 Message Mum - Richard hasn't called in a while +Internet
+(E) 02 Put bag of mending stuff in the car.  +offline 
+x (D) 02 Send something to the reddington  whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919 +internet
+x (E) 02 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 +Internet
+x (E) 03 Go through phone and save all of the numbers +Overhead  @phone  Time:08 +Internet
+(D) 04 Send a message to Redddington whatsapp group abotu excitement  on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
+(E) 05 Post to Sibling Facebook group  @phone  Time:06 +Internet
+(E) 05 Post to Vegan Facebook group  @phone  Time:06 +Internet
+(C) 05 Put together ingredients for ice-cream +offline 
+x (E) 05 Talk to sibs about trust for Richard. +Internet
+x (C) 05 book flu jab +internet 
+(E) 06 Do Menu for the week +Family  @phone  Time:01  +offline 
+(E) 08 Measure Nova's room for carpet +offline
+
+
+
+## 18/09/22 20:22 to 21:00, Thinking  
+Working out evening delores: 
+
+The controlling idea is: if we've never woken up with a different feeling than we went to bed, then we should be very careful how we go to bed. 
+
+I've set up a basic 'night list' to help. Edit: it didn't work great the second morning.  I think I could have been a bit better psycologically, but also: I was slaughtered. I fell asleep reading the book.   
+
+
+## 19/09/22 05:09 to 05:23, (D) 20 Write a test for clustering the history output https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects+offline
+Okay, so it turns out that the nice safe places.sqlite I created isn't so safe anymore. 
+* Check that the public history really has been updated and we didn't swtich.
+
+## 19/09/22 05:23 to 07:15, Working on comic 
+## 19/09/22 19:21 to 20:46, Working on comic 
+* Installed Jekyll 
+* Rewrote all the comics to:
+    * use the same css file. 
+    * Use jeyull templates
+    * Have permalinks  
+    * Make consistent - they are now all the same page size and all have a cover. 
+
+What did I learn? 
+* px is needed for measurements when I go threw jekyll - presumably because it uses a stricter content. 
+* Can use lines like "ls *.html  |  sed 's/.html//' | xargs -I XXX  mv XXX.html XXX-comic.md " to change the names 
+* Worked out text boxes that float above the comic 
+  * Give the size to the containing div, and set overflow to hidden. 
+  * Then there is a text box, and below that, an image (which you give the panel properties to for the border), you can move the image up so that there is overlap, but the div will be the same size, and in fact, you can probably do all the cropping in css.   
+  * however then the picture is over the text, so you can set z-index to -1 to send it to the back. 
+* The floating text boxes will need more work (particularly when I introduce text boxes) 
+
+# Project stack 
+* Remove old css files
+* Merge and push 
+* Work out speech marks 
+* Update the scripts 
