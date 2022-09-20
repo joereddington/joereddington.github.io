@@ -7075,7 +7075,7 @@ Hmmm. What are the options.
 After significant brainstorming I've decided to have the python directly output a single latex file from the json.  We're NOT going to touch the downloaded files (and in future, we might not download them)  
 
 
-## 25/05/22 16:07 to 16:47, IMPS3 +EQT
+## 25/05/22 16:07 to 16:47, IMPS3 +EQT  https://github.com/equalityTime/whitewaterwriters
 * Making a plan 
 * How to do I store text templates properly in python 
   * https://docs.python.org/3.4/library/string.html#template-strings  is about templates
@@ -7086,7 +7086,7 @@ After significant brainstorming I've decided to have the python directly output 
 
 # Today 
 
-## 26/05/22 06:32 to 08:02, IMPS3 Sprint +EQT 
+## 26/05/22 06:32 to 08:02, IMPS3 Sprint +EQT  https://github.com/equalityTime/whitewaterwriters 
 Okay, so this sprint was meant to be about fixing the latex, instead I ended up adding regression tests for the processing of Seed files. They are much stronger now though.  
 
 In the process, I've added code that lets germinate write to file rather than everpad - it's probably useful to have a version of IMPS3 that works entirely onfiles (including, crazily, word documents), but that's long in the future. 
@@ -7099,22 +7099,22 @@ I'll finish this mini-sprint off by adding another seed file.
 - 26/05/22 smallest next step:      # This needs to be the size of the file list with SLug in the name 
  
 
-## 26/05/22 09:36 to 10:05, Fixing IMPS2  +EQT
+## 26/05/22 09:36 to 10:05, Fixing IMPS2  +EQT https://github.com/equalityTime/whitewaterwriters 
 
-## 26/05/22 10:05 to 11:05, meeting with Yvonne +EQT 
+## 26/05/22 10:05 to 11:05, meeting with Yvonne +EQT  https://github.com/equalityTime/whitewaterwriters 
 
-## 26/05/22 11:05 to 11:27, Back to IMPS3  +EQT
+## 26/05/22 11:05 to 11:27, Back to IMPS3  +EQT https://github.com/equalityTime/whitewaterwriters
 * Okay, Multiple Seed regressions are working. Pleased with that. 
 * Wrote up this file
 
-## 26/05/22 11:27 to 12:11, Starting the latex +EQT
+## 26/05/22 11:27 to 12:11, Starting the latex +EQT https://github.com/equalityTime/whitewaterwriters
 * I've written the basic method for outputting latex 
 * It processes a compilable file. 
 * The file looks pretty identical to the original. 
 
 Okay, so what are the tests? 
 
-## 26/05/22 12:11 to 14:26, Fixing an error in IMPS2- then moving on to IMPS3  +EQT
+## 26/05/22 12:11 to 14:26, Fixing an error in IMPS2- then moving on to IMPS3  +EQT https://github.com/equalityTime/whitewaterwriters 
 * Created a regression test for latex files per slug 
 * Updated the make_pdf file so that it works for the pure latex. 
 * For simplicity we now have three bash scripts for making books, proofs, and epubs. And we'll have three buttons for the process.  
@@ -7126,14 +7126,14 @@ Okay, so what are the tests?
 * I've written a proper set of notes for Richard about the changes. 
 
 
-## 26/05/22 14:23 to 14:33, Writing up the Github  +EQT
+## 26/05/22 14:23 to 14:33, Writing up the Github  +EQT https://github.com/equalityTime/whitewaterwriters
 * Fix the IMPS3 
 * Got to say, I think the next code sprint should be on OVF 
 
 ## 26/05/22 14:33 to 15:08, Okay - time to look t the list . +EQT
 I've got three books to read but also, lets think about 
 
-## 26/05/22 15:08 to 15:31,  Project Real  +EQT
+## 26/05/22 15:08 to 15:31,  Project Real  +EQT  https://github.com/eQualityTime/Public/issues/124 
 Fix project real. 
 
 
@@ -7141,12 +7141,12 @@ Fix project real.
 * Taking calls, sending emails 
 
 
-## 30/05/22 06:28 to 07:29, Updating IMPS3 +EQT 
+## 30/05/22 06:28 to 07:29, Updating IMPS3 +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/  
 - 30/05/22 smallest next step:  Processing calendar 
 
 ## 30/05/22 10:44 to 11:08,  +EQT 
 ## 30/05/22 11:08 to 11:23, Just give me one big task.  +EQT
-## 30/05/22 11:23 to 12:42,  Preparing stuff for the grant writer person. +EQT
+## 30/05/22 11:23 to 12:42,  Preparing stuff for the grant writer person. +EQT https://github.com/orgs/eQualityTime/projects/3
 * Then watching creative writing video during lunch prep. 
 
 ## 30/05/22 12:43 to 12:50, Messaging about bank +EQT 
@@ -7185,9 +7185,9 @@ The task "Map project for contacting small charities about The open voice factor
 
 ## 06/06/22 12:02 to 13:00, Meeting about funding +EQT
 ## 07/06/22 05:35 to 07:52, Hello  Working on an application.  +EQT 
-## 07/06/22 09:50 to 10:11, Messahing and stuff.  +EQT
+## 07/06/22 09:50 to 10:11, Messaging and stuff.  +EQT
 ## 07/06/22 10:11 to 11:17, this time with Twitter.  +EQT
-## 07/06/22 11:17 to 11:45, Interup to sort out a unity payment.  +EQT
+## 07/06/22 11:17 to 11:45, Interrupt to sort out a unity payment.  +EQT
 * And fuck it, the rest of the banking 
 
 ## 07/06/22 11:45 to 11:54,  Doing delroes +EQT
@@ -7200,10 +7200,10 @@ The task "Map project for contacting small charities about The open voice factor
 * Lots of planning for the day and week
 ## 09/06/22 06:24 to 07:57, Rewrote the T4C design document and replied to the email  +EQT
 ## 09/06/22 09:53 to 10:55,  Traced the odd +EQT payments for Sarah
-## 09/06/22 10:57 to 11:16, Watching the video for IMPS3 +EQT  
+## 09/06/22 10:57 to 11:16, Watching the video for IMPS3 +EQT https://github.com/equalityTime/whitewaterwriters 
 
-## 09/06/22 11:16 to 12:07, Sprint on IMPS3 code +EQT
-## 09/06/22 12:42 to 15:08,  Speeding up tests on IMPS3 +EQT
+## 09/06/22 11:16 to 12:07, Sprint on IMPS3 code +EQT https://github.com/equalityTime/whitewaterwriters
+## 09/06/22 12:42 to 15:08,  Speeding up tests on IMPS3 +EQT https://github.com/equalityTime/whitewaterwriters 
 Did lots and pushed it - it's now the develop branch on server. 
 
 Check out these command lines: 
