@@ -6665,10 +6665,10 @@ Time for some relaxing.
 
 ## 19/04/22 06:15 to 07:39, +EQT email 
 ## 19/04/22 10:04 to 11:29, Delores  +EQT
-## 19/04/22 11:29 to 12:22, Interview prep +EQT
+## 19/04/22 11:29 to 12:22, Interview prep +EQT https://github.com/equalityTime/whitewaterwriters
 ## 19/04/22 12:35 to 13:54, Back and working  +EQT
 ## 19/04/22 13:54, Had the chat, will send them some notes. +EQT
-## 19/04/22 13:56 to 15:58, (A Sarah external examinater, tax office.) 30 Make changes to the accounts.  @private +EQT
+## 19/04/22 13:56 to 15:58, (A Sarah external examinater, tax office.) 30 Make changes to the accounts.  @private +EQT https://github.com/eQualityTime/Public/issues/141
 Serious work on the accounts. Fixing bugs and replying to problems. 
 ## 20/04/22 06:39 to 07:54,  Working on list.  +EQT
 Started at 77. Now 27. Lots of things were done. 
@@ -6688,7 +6688,7 @@ Delores.
 ## 21/04/22 10:02 to 10:39, Writing up an idea.  +EQT
 ## 21/04/22 10:53 to 11:05, Going to post this cheque.  +EQT
 ## 21/04/22 11:06 to 12:00, +EQT ticking things off. 
-## 21/04/22 12:00 to 12:49, Writing Funding thing for Yvonne +EQT
+## 21/04/22 12:00 to 12:49, Writing Funding thing for Yvonne +EQT https://github.com/orgs/eQualityTime/projects/3
 ## 21/04/22 12:49 to 12:52, Literally three things left.  +EQT
 ## 21/04/22 13:26 to 14:39, Emptying the todo list. +EQT
 
@@ -6705,8 +6705,8 @@ Don't want to.
 * Cleared the stack 
 * Tidying up. 
 * Big thing for the week: Cracking the delivery of IMPS3 
-
-## 25/04/22 11:57 to 12:17,  Find old notes on submitting accounts +EQT
+ 
+## 25/04/22 11:57 to 12:17,  Find old notes on submitting accounts +EQT https://github.com/orgs/eQualityTime/projects/3 
 Submitting accounts: https://github.com/eQualityTime/Public/issues/125 
 "I wrote up a guide for doing it next year in google drive." that's interesting
 OMH it's great! 
@@ -6714,9 +6714,9 @@ OMH it's great!
 ## 25/04/22 12:17 to 12:26, (B) 30 scp the OVF generated aids to the Amazon account +EQT
 
 
-## 25/04/22 12:30 to 12:57, call from clare +EQT
+## 25/04/22 12:30 to 12:57, call from clare +EQT   
 
-## 25/04/22 13:05 to 13:47, Fixing AWS +EQT 
+## 25/04/22 13:05 to 13:47, Fixing AWS +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 The staging domain for OVF had broken - I need to expand the size of the drive before I could log in. 
 * Designs is now corking for some of the directories, but throwing errors for others. 
 
@@ -6733,7 +6733,7 @@ Too much going on.
 
 20 minutes isn't bad if it works. 
 
-## 25/04/22 15:18 to 15:54, Talking to Richard about IMPS.  +EQT
+## 25/04/22 15:18 to 15:54, Talking to Richard about IMPS.  +EQT  https://github.com/equalityTime/whitewaterwriters
 
 ## 25/04/22 15:55 to 16:03,  TEDX again  +EQT
 All in the drafts. 
@@ -6747,7 +6747,7 @@ This looks in teresting: https://www.spreadshop.com/open-a-shop?affiliateID=1254
 
 
 
-## 26/04/22 09:25 to 19:10, Trip to Keele    +EQT
+## 26/04/22 09:25 to 19:10, Trip to Keele    +EQT  https://github.com/equalityTime/whitewaterwriters 
 ## 27/04/22 10:31 to 15:23,  +EQT Emails 
 
 I'm going to send 200 emails today, including clearing the whole inbox out. 
@@ -6763,7 +6763,7 @@ I'm going to send 200 emails today, including clearing the whole inbox out.
 * Ticking off the last emails 
 * I'm frustrated with Richard's lack of listening and that they run camps so differently 
 
-## 28/04/22 10:00 to 11:17, +EQT
+## 28/04/22 10:00 to 11:17, +EQT https://github.com/equalityTime/whitewaterwriters 
 * Photography (for drawings by students) 
 * Responding to messhaes
 * Moving meetings 
@@ -6808,7 +6808,7 @@ Prepping for meeting with Prison People.
 * Sent the script to myself. 
 
 ## 03/05/22 11:41 to 11:49, stack +EQT
-## 03/05/22 11:40 to 12:46, Call and notes with prison guy +EQT
+## 03/05/22 11:40 to 12:46, Call and notes with prison guy +EQT https://github.com/equalityTime/whitewaterwriters 
 ## 03/05/22 13:24 to 13:53, Back from lunch. Back to delores +EQT
 ## 03/05/22 13:55 to 14:24, Clear desk into inbox. +EQT
 ## 03/05/22 14:24 to 15:07, Emails (for meeting prep) +EQT
@@ -6821,7 +6821,7 @@ Was doing delores, but I've got only 90 minutes left of work time so I'm going t
 * Did reconciliation, lots of unity and quickbooks payments.
 
 ## 03/05/22 16:29 to 16:40, Back on Delores.  +EQT
-## 03/05/22 19:45 to 21:43,  Meeting, pre-meeting, post-meeting urdu work +EQT
+## 03/05/22 19:45 to 21:43,  Meeting, pre-meeting, post-meeting urdu work +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 
 # Eight hour day 
 Big thing for the day is to complete the ovf transfer and wipe out the inbox. 
@@ -6836,7 +6836,7 @@ Delores. Mostly calendar and other planning.
 * Rewriting this file. 
 * Setting up Zoom shortcut as an interrupt 
 
-## 04/05/22 10:11 to 11:34, Now the inbox.  +EQT
+## 04/05/22 10:11 to 11:34, Now the email.  +EQT
 25 minutes behind on the tick tock. 
 * So, I've cleared out most things but I have 
 
@@ -6872,9 +6872,9 @@ And then the guy didn't show up!
 
 ## 05/05/22 12:52, Imbox done. 
 
-## 05/05/22 12:52 to 13:36, Next we are doing the transfer  +EQT
+## 05/05/22 12:52 to 13:36, Next we are doing the transfer  +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Turns out that the automatic aids don't work for the last few attempts. I think it's transfer and then fix them. 
-## 05/05/22 13:36 to 13:47, Interupt  - I have to fix the epub.  +EQT 
+## 05/05/22 13:36 to 13:47, Interupt  - I have to fix the epub.  +EQT  https://github.com/equalityTime/whitewaterwriters
 Back to what I'm meant to be doing. 
 
 ## 05/05/22 14:09 to 15:16, Okay, let's do the rest of the list.  +EQT
@@ -6912,7 +6912,7 @@ Just uploading and compressing and all that jazz.
 ## 10/05/22 10:09 to 12:24, email   +EQT
 ## 10/05/22 12:24 to 14:29, Ticking off emails +EQT
 ## 10/05/22 14:29 to 14:30, One last one +EQT
-## 10/05/22 14:32 to 15:20, I'm going to write some code for an hour.  +EQT
+## 10/05/22 14:32 to 15:20, I'm going to write some code for an hour.  +EQT  https://github.com/equalityTime/whitewaterwriters
 IMPS3. 
 
 * I've tidied up online. 
@@ -6942,7 +6942,7 @@ TODO
 
 Everything in the commit message. 
 ## 16/05/22 06:26 to 07:04,  +EQT https://github.com/eQualityTime/Public/issues/159
-## 16/05/22 07:04 to 07:19,  Working on +EQT  accounts
+## 16/05/22 07:04 to 07:19,  Working on +EQT  accounts  https://github.com/eQualityTime/Public/issues/141
 ## 16/05/22 09:50 to 10:32, Delores +EQT 
 ## 16/05/22 10:32 to 11:09, brainstorming +EQT
 ## 16/05/22 12:22 to 13:22, Meeting with hoD and talking to trustee +EQT
@@ -6980,9 +6980,10 @@ So it has to be made a little more complex. And For future, we should be able to
 
 ## 19/05/22 13:00 to 15:31, +EQT Working on the stack 
 ## 19/05/22 16:33 to 16:43, +EQT sorted the hotels Had lunch +EQT  
+
 # Flowers for Turing Launch day!  
 
-## 23/05/22 06:15 to 07:01, Fixing watchtower +EQT 
+## 23/05/22 06:15 to 07:01, Fixing watchtower +EQT   https://github.com/equalityTime/whitewaterwriters
 ## 23/05/22 07:01 to 07:29, +EQT https://github.com/eQualityTime/Public/issues/160
 ## 23/05/22 09:51 to 11:59,  FFT mail merge +EQT  https://github.com/eQualityTime/Public/issues/160 
 ## 23/05/22 12:00 to 13:22, Delores it up 
@@ -6999,14 +7000,14 @@ Today big things:
 * Post on Reddit at 4pm. 
 
 
-## 24/05/22 07:03 to 08:04, Accounts +EQT 
-## 24/05/22 10:00 to 11:43, Accounts +EQT
+## 24/05/22 07:03 to 08:04, Accounts +EQT  https://github.com/eQualityTime/Public/issues/141
+## 24/05/22 10:00 to 11:43, Accounts +EQT https://github.com/eQualityTime/Public/issues/141
 *Crap - found an error in the spreadsheet
 * Fixed with martin. Lovely and quick. 
 * Have ordered paper copy to my mum 
 
-## 24/05/22 11:43 to 12:27, Looking at code.  +EQT 
-## 24/05/22 12:27 to 14:37, Clearing out the inbox.  +EQT
+## 24/05/22 11:43 to 12:27, Looking at code.  +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
+## 24/05/22 12:27 to 14:37, Clearing out the emails.  +EQT
 
 ## 24/05/22 14:37 to 14:41, Hello +EQT
 * Clearing out this file. 
@@ -7019,7 +7020,7 @@ I want eight hours.
 ## 25/05/22 06:45 to 08:00, Lets do some good.  +EQT
 Processing the todo list a bit. Discovering problems 
 
-## 25/05/22 09:56 to 11:03,  Fixing the camp clash +EQT
+## 25/05/22 09:56 to 11:03,  Fixing the camp clash +EQT https://github.com/equalityTime/whitewaterwriters
 ## 25/05/22 11:03 to 11:38,  Updating Watson   +EQT
 Now does much better display
 
@@ -7056,7 +7057,7 @@ Turns out that I never created the spreadsheet. Canceling.
 ## 25/05/22 15:02 to 15:16, Deleting the dreamhost +EQT
   Next day - finally reduced down the VPS to minimum size 
 
-## 25/05/22 15:16 to 16:07, IMPS3 +EQT
+## 25/05/22 15:16 to 16:07, IMPS3 +EQT https://github.com/equalityTime/whitewaterwriters
 I want to overhaul the latex. 
 
 There are three problems to solve: 
