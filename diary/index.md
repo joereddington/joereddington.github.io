@@ -7236,15 +7236,15 @@ Edit - where did I put it?
 I tested using Delores to popular a file similar to this one, with a scoring system. It was pretty good actually Needs a bit more code. Recreational stuff.  
 
 ## 27/06/22 12:17 to 12:26,  +EQT  Plannning 
-## 27/06/22 12:26 to 15:10, (. A) Rewrite the T4C document   +EQT
+## 27/06/22 12:26 to 15:10, (. A) Rewrite the T4C document   +EQT  https://github.com/eQualityTime/Home/issues/126
 Update: I've transfered my notes on the process to the paper writing talk
 
 ## 27/06/22 15:10 to 15:24,  Submit Charity Commission  +EQT
-## 27/06/22 15:25 to 15:59,  Writing letter of support!  +EQT
+## 27/06/22 15:25 to 15:59,  Writing letter of support!  +EQT https://github.com/eQualityTime/Home/issues/126 
 ## 27/06/22 15:59 to 16:44,  (A) Accounting post for Turing  +EQT
 Done - and I created a notes document in Google Drive on the topic. 
 
-## 27/06/22 19:19 to 19:29,  TT4CB  +EQT
+## 27/06/22 19:19 to 19:29,  TT4CB  +EQT https://github.com/eQualityTime/Home/issues/126
 ## 27/06/22 19:29 to 19:43, Turing +EQT
 
 ## 28/06/22 09:56 to 16:13, Hello!  +EQT
@@ -7268,7 +7268,7 @@ Josephs-Mac-mini:~ joe2021$ grep -c ✓ delores.md
 
 Took a while and finally sorted out. 
 
-## 29/06/22 11:46 to 11:58, TT4CB +EQT
+## 29/06/22 11:46 to 11:58, TT4CB +EQT https://github.com/eQualityTime/Home/issues/126
 ## 29/06/22 12:51 to 12:58, Just so tired.  +EQT 
 So, let's do the delores. 
 
@@ -7286,20 +7286,20 @@ Ticking things off.
 Currently fighting dropbox. 
 
 
-## 04/07/22 07:40 to 15:40, In person at camp +EQT
-## 04/07/22 17:44 to 20:16, Working on camp  +EQT
+## 04/07/22 07:40 to 15:40, In person at camp +EQT https://github.com/equalityTime/whitewaterwriters 
+## 04/07/22 17:44 to 20:16, Working on camp  +EQT https://github.com/equalityTime/whitewaterwriters
 * Wrote my talk for tomorrow 
 * Lots of playing with IMPS  - I've found a lot more bugs/problems in the usability 
 
-## 05/07/22 07:40 to 15:40, In person at camp +EQT
+## 05/07/22 07:40 to 15:40, In person at camp +EQT https://github.com/equalityTime/whitewaterwriters
 
-## 05/07/22 16:00 to 17:17, Email and phone call with Richard +EQT
+## 05/07/22 16:00 to 17:17, Email and phone call with Richard +EQT https://github.com/equalityTime/whitewaterwriters
 
-## 05/07/22 17:17 to 18:00, +EQT
+## 05/07/22 17:17 to 18:00, +EQT email 
 Trying to do email but internet NOT consistent 
 Got *some* done 
 
-## 06/07/22 09:00 to 15:54,  +EQT Camp and travel 
+## 06/07/22 09:00 to 15:54,  +EQT Camp and travel  https://github.com/equalityTime/whitewaterwriters 
 * And fixing things when I get home. 
 ## 06/07/22 15:54 to 16:34, Processing notes +EQT
 ## 07/07/22 10:14 to 10:30, Replying to some messages and stuff +EQT
@@ -7333,9 +7333,9 @@ Frame it like this
 
 Which should make the javascript better because you are looking at children? 
 
-## 07/07/22 16:07 to 16:11, (A) 05 Read Sarah message about Camp deposits and work out next action  +EQT
+## 07/07/22 16:07 to 16:11, (A) 05 Read Sarah message about Camp deposits and work out next action  +EQT https://github.com/equalityTime/whitewaterwriters 
 
-## 07/07/22 16:11 to 16:41, (A) Improlve the Automatic Camp calendar so you can answer Sarah's questions +EQT
+## 07/07/22 16:11 to 16:41, (A) Improlve the Automatic Camp calendar so you can answer Sarah's questions +EQT  https://github.com/equalityTime/whitewaterwriters 
 Sarah needs invoices and terms of reference that clearly sort out deposits for camps.  I need NOT to spend my life creating invoices.  
 
 I also need to be able to show leaders the most accurate spreadsheet of who is where and when. 
@@ -7361,8 +7361,8 @@ So:
 
 
 
-## 07/07/22 16:41 to 16:45, working on google apps script +EQT
-## 07/07/22 16:45, You are debugging the Google Script 
+## 07/07/22 16:41 to 16:45, working on google apps script +EQT https://github.com/equalityTime/whitewaterwriters 
+## 07/07/22 16:45, You are debugging the Google Script  https://github.com/equalityTime/whitewaterwriters
 
 - you are in the middle of refactoring so that you can do the project above. 
 
@@ -7374,14 +7374,14 @@ I don't understand:
 Next action is to rewrite the terms of refernce 
   * and thus - find the other terms of reference 
 
-## 07/07/22 19:41 to 19:54,  Rewrote the terms of reference +EQT 
+## 07/07/22 19:41 to 19:54,  Rewrote the terms of reference +EQT  https://github.com/equalityTime/whitewaterwriters 
 * Added a seperate prison one. 
 * Next action is to produce a template invoice 
   * Possibly the next action is to refactor the code a bit. 
     * Comments. 
     * Separate out into a few more functions.  
 
-## 08/07/22 05:27 to 05:53, Bit more +EQT 
+## 08/07/22 05:27 to 05:53, Bit more +EQT  https://github.com/equalityTime/whitewaterwriters 
 
 * Need to work out the prices for them all. 
 * Invoices in quickbooks aren't as much help as I expected
@@ -7392,9 +7392,9 @@ We now create two files
 NEXT ACTION IS TO DRAFT THE INVOICES. 
 
 
-## 08/07/22 19:50 to 21:10, Been working on the books since like  +EQT
+## 08/07/22 19:50 to 21:10, Been working on the books since like  +EQT https://github.com/equalityTime/whitewaterwriters 
 
-## 10/07/22 06:50 to 07:21,  +EQT
+## 10/07/22 06:50 to 07:21,  +EQT https://github.com/equalityTime/whitewaterwriters 
 Books have been ordered  for school and Iyun 
 
 
@@ -7406,7 +7406,7 @@ Write slides for tomorrow.
 o
 
 
-## 10/07/22 07:21 to 08:11, Back on the prison +EQT
+## 10/07/22 07:21 to 08:11, Back on the prison +EQT https://github.com/equalityTime/whitewaterwriters 
 * I've created a deposit invoice. 
   * Running the replace now to see if it works. 
 * Refactored the code to use a name dictionary rather than a bunch of integers. 
@@ -7414,7 +7414,7 @@ o
 * Checked the dates 
 
 
-## 10/07/22 09:36 to 13:45, Back on the prison invoices again +EQT 
+## 10/07/22 09:36 to 13:45, Back on the prison invoices again +EQT  https://github.com/equalityTime/whitewaterwriters 
 I've got the invoicing system working. 
 
 ## 10/07/22 13:45, Writing Presentation +EQT
@@ -7432,15 +7432,15 @@ Bank is closed again!
 Got to pay the bank 
 
 
-## 11/07/22 06:30 to 16:30, +EQT at guru nanak
-## 12/07/22 06:30 to 16:30, +EQT at guru nanak
-## 13/07/22 06:30 to 16:30, +EQT at guru nanak
-## 14/07/22 06:30 to 16:30, +EQT at guru nanak
-## 15/07/22 06:30 to 16:30, +EQT at guru nanak
+## 11/07/22 06:30 to 16:30, +EQT at guru nanak https://github.com/equalityTime/whitewaterwriters
+## 12/07/22 06:30 to 16:30, +EQT at guru nanak https://github.com/equalityTime/whitewaterwriters
+## 13/07/22 06:30 to 16:30, +EQT at guru nanak https://github.com/equalityTime/whitewaterwriters
+## 14/07/22 06:30 to 16:30, +EQT at guru nanak https://github.com/equalityTime/whitewaterwriters 
+## 15/07/22 06:30 to 16:30, +EQT at guru nanak https://github.com/equalityTime/whitewaterwriters
 
 
-## 17/07/22 15:30 to 18:55, +EQT travel to prison
-## 18/07/22 07:30 to 16:45, +EQT prison work
+## 17/07/22 15:30 to 18:55, +EQT travel to prison https://github.com/equalityTime/whitewaterwriters
+## 18/07/22 07:30 to 16:45, +EQT prison work https://github.com/equalityTime/whitewaterwriters
 
 ## 18/07/22 20:17 to 20:18, Working on some tech +EQT 
 * Fixed the laptop audio, 
@@ -7448,14 +7448,14 @@ Got to pay the bank
 * Fixed the laptop clipboard manager 
 
 
-## 19/07/22 07:30 to 14:45, +EQT prison work
+## 19/07/22 07:30 to 14:45, +EQT prison work https://github.com/equalityTime/whitewaterwriters 
 
 ## 19/07/22 19:32 to 19:49, Wokring on the recursive decent parser 
 
 ## 19/07/22 19:49 to 20:44,  +EQT email 
 * And a reasonable amount of faff. I'm NOT there. And I'm hungry.  
 
-## 20/07/22 07:30 to 16:45, +EQT prison work
+## 20/07/22 07:30 to 16:45, +EQT prison work https://github.com/equalityTime/whitewaterwriters
 ## 20/07/22 19:30 to 20:09, In delores. 
 ## 20/07/22 20:11 to 20:29, (B) Setup the standing orders for the other accounts 
 ## 20/07/22 20:28 to 20:36, (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
@@ -7464,7 +7464,7 @@ Got to pay the bank
 
 Reviewed. Worked on some stuff. Time to do some recreation now. 
 
-## 21/07/22 07:30 to 20:00, Prison work and then travel +EQT
+## 21/07/22 07:30 to 20:00, Prison work and then travel +EQT https://github.com/equalityTime/whitewaterwriters
 
 
 
@@ -7512,7 +7512,7 @@ Twice, that's really annoying.
 
 ## 25/07/22 14:19 to 14:36,  +EQT Finance 
 * Generated an invoice for Yvonne, did a reconciliation. 
-## 25/07/22 14:36 to 16:53, +EQT Working on the white water writers cost calculator 
+## 25/07/22 14:36 to 16:53, +EQT Working on the white water writers cost calculator  https://github.com/equalityTime/whitewaterwriters
 
 * Doing the logic first. 
 * Once again had to look up vim's non-greedy match (https://stackoverflow.com/a/1305957/170243) which is .\{-} rather than .* 
@@ -7540,8 +7540,8 @@ Bike day!
 ## 26/07/22 10:27 to 11:48, Email +EQT
 But particularly the prison stuff. That was the big bit. 
 
-## 26/07/22 11:48 to 12:13,  Typesetting +EQT
-## 26/07/22 12:54 to 12:55,  Typesetting again +EQT 
+## 26/07/22 11:48 to 12:13,  Typesetting +EQT https://github.com/equalityTime/whitewaterwriters 
+## 26/07/22 12:54 to 12:55,  Typesetting again +EQT  https://github.com/equalityTime/whitewaterwriters
 Did all the typesetting by hand - definitely should have a list of the commands for next time I do it. 
 
 ## 26/07/22 12:55 to 15:12, Typesetting and email +EQT
@@ -7679,7 +7679,7 @@ I am excited about crushing everything.  I'm scared this will be another false s
 * What is our big thing for the week? 
   * Code - we're going to do some serious OVF code. We need to sort out the balance sheet for a start 
 
-## 10/08/22 14:21 to 14:42, (A) 10 Map out the tiktok for cybok project.  +EQT
+## 10/08/22 14:21 to 14:42, (A) 10 Map out the tiktok for cybok project.  +EQT  https://github.com/eQualityTime/Home/issues/126
 
 So, this one really needs to be outside of github, because that's what we are doing. 
 ## 10/08/22 14:43 to 15:13, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/142 +EQT 
@@ -7694,7 +7694,7 @@ I used code.interact(local=locals())
 
 
 
-## 11/08/22 12:47 to 13:00, Trying to fix the aws credits  +EQT
+## 11/08/22 12:47 to 13:00, Trying to fix the aws credits  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 In order to improve AWS credits I have: 
 * Switched off the cron for backups 
 * Switched off the watchtower cron
@@ -7781,39 +7781,39 @@ Tiny database sounds like a good move.
 ## 23/08/22 10:03 to 11:52, Email +EQT
 ## 23/08/22 11:52 to 12:30, Next inbox +EQT
 ## 23/08/22 13:04 to 14:19, emails +EQT 
-## 23/08/22 14:19 to 15:22, Expenses +EQT
+## 23/08/22 14:19 to 15:22, Expenses +EQT https://github.com/equalityTime/whitewaterwriters
 ## 23/08/22 15:42 to 17:01,  Late delores +EQT 
 ## 24/08/22 06:29 to 06:50, Getting started +EQT
 ## 24/08/22 06:50 to 07:22, Delores One Pomodaro +EQT
 ## 24/08/22 07:21 to 07:25, First few things are blog posts +EQT
 Everything turns out to have already been blogged. 
 
-## 24/08/22 07:26 to 07:45, (A) Submit funding.  +EQT
+## 24/08/22 07:26 to 07:45, (A) Submit funding.  +EQT https://github.com/orgs/eQualityTime/projects/3
 We've submitted a bid to Garfield Weston to scale up White Water Writers. Fingers crossed!   
 
 
-## 24/08/22 07:45 to 07:50, (A) 20 Merge the OVF branch   +EQT
+## 24/08/22 07:45 to 07:50, (A) 20 Merge the OVF branch   +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 Write blog about the OVF branch 
 
 ## 24/08/22 12:19 to 12:29, Ticking off some bits  +EQT 
 Working down the list. 
 
-## 24/08/22 12:29 to 13:25, (B) 20  Create new ads for the Open Voice Factory  OpenVoiceFactory +EQT
+## 24/08/22 12:29 to 13:25, (B) 20  Create new ads for the Open Voice Factory  OpenVoiceFactory +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 * Updated the Add for OVF - moved from poor to average 
 * Deleted some search terms from a project real to make it a bit leaner. 
 * created a new White Water Writers Advert 
 
 
 
-## 24/08/22 13:26 to 14:05,  TikTokForCyber  +EQT
+## 24/08/22 13:26 to 14:05,  TikTokForCyber  +EQT https://github.com/eQualityTime/Home/issues/126
 The audience is two people. The crusty old Cyptogopher and the interested kid. 
 
 ## 24/08/22 14:27 to 15:19,  (B) OVF Code on: Small Issue Round-up https://github.com/eQualityTime/TheOpenVoiceFactory/issues/143 +EQT
 
-## 25/08/22 07:08 to 07:59, OpenVoiceFactory +EQT
-## 25/08/22 09:24 to 10:19, OpenVoiceFactory +EQT  
-## 25/08/22 10:18 to 11:04, OpenVoiceFactory +EQT
-## 25/08/22 11:07 to 12:30, OpenVoiceFactory +EQT 
+## 25/08/22 07:08 to 07:59, OpenVoiceFactory +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
+## 25/08/22 09:24 to 10:19, OpenVoiceFactory +EQT   https://github.com/eQualityTime/TheOpenVoiceFactory/
+## 25/08/22 10:18 to 11:04, OpenVoiceFactory +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
+## 25/08/22 11:07 to 12:30, OpenVoiceFactory +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Fixing a bug and generally improving the test process.  
 
 Removing this: 
@@ -7840,7 +7840,7 @@ I wrote a blog on the topic : https://joereddington.github.io/2022/08/26/coverag
 ## 26/08/22 13:14 to 13:28, Back after run and lunch  +EQT
 Working on code - running tests to check I'm even in the right places. 
 
-## 26/08/22 15:00 to 15:48 , OpenVoiceFactory +EQT
+## 26/08/22 15:00 to 15:48 , OpenVoiceFactory +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 28/08/22 06:58 to 07:09, Making a comic 
 ## 28/08/22 07:32, Making a comic 
 ## 28/08/22 10:28 to 10:53, Making a comic 
@@ -7934,7 +7934,7 @@ Working on comics - the next action is to take the image styling and put it into
 # Today 
 I want a delores day but leaning in to being a bit ill. So with a scheduled nap and proper work. 
 
-## 08/09/22 07:10 to 07:30, Looking into OCR for prison books +EQT
+## 08/09/22 07:10 to 07:30, Looking into OCR for prison books +EQT https://github.com/equalityTime/whitewaterwriters
 Tesseract looked promising but dosen't build for osx. 
 AWS has an API - the demo was promising (and workable) , I wonder if we can get that working properly 
 
@@ -7983,8 +7983,8 @@ Plan
 
 ## 13/09/22 12:14 to 13:42, https://github.com/eQualityTime/Home/issues/126 +EQT
 * Also did the confirmation statement 
-## 13/09/22 15:18 to 16:28, Typesetting for Prisons +EQT
-## 13/09/22 19:28 to 19:45,  Typesetting for Prisons +EQT 
+## 13/09/22 15:18 to 16:28, Typesetting for Prisons +EQT https://github.com/equalityTime/whitewaterwriters
+## 13/09/22 19:28 to 19:45,  Typesetting for Prisons +EQT  https://github.com/equalityTime/whitewaterwriters 
 We've been given a book manuscript as a series of jpg files. That's mildly ridiculous. I've put them through https://aws.amazon.com/textract/ and have a set of 34 raw files.  I don't believe they are chapters, but we shall work that out. 
 
 They downloaded as zip files.  I used this command to list the files:  
@@ -7994,11 +7994,11 @@ They downloaded as zip files.  I used this command to list the files:
 ...and then a macro to import the individual files from the filenames. 
 
 
-## 15/09/22 04:38 to 06:56, Typesetting for Prisons +EQT
+## 15/09/22 04:38 to 06:56, Typesetting for Prisons +EQT https://github.com/equalityTime/whitewaterwriters
 ## 15/09/22 06:56 to 07:59, Interrupt to do a quick Delores  +EQT
 Okay, so we've reached calendar, and we now need internet for a bit. 
 
-## 15/09/22 09:48 to 10:38, Typesetting for Prisons +EQT
+## 15/09/22 09:48 to 10:38, Typesetting for Prisons +EQT https://github.com/equalityTime/whitewaterwriters
 I'm working thought the latex file and fixing all the little things. In the process I made a script ( .vim/typesetting.script) to use next time.  
 * There's a strange issue - two chapters were missing and their contents replaced with others.  The downloaded zip files were fine, so that suggests it was in the vim importing I didn 
 * Not using the internet is really really helping. I'm a lot more focused. A lot better generally. 90 minutes good work been done.  
