@@ -4663,7 +4663,7 @@ Long and interesting sprint (I've cut a lot of the writing) investigating the mi
 ## 04/11/21 21:19 to 21:51, Finding grants +EQT
 ## 05/11/21 10:11 to 10:25,  Rewriting this file +EQT
 ## 05/11/21 11:40 to 14:20, Attacking the todo list
-## 05/11/21 15:17 to 15:35, Booking hotels +EQT
+## 05/11/21 15:17 to 15:35, Booking hotels +EQT  https://github.com/equalityTime/whitewaterwriters
 
 ## 08/11/21 09:50 to 10:37, Trying to fix python and ruby +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 * I believed I had fixed python (by uninstalling) but now (command line) vim is broken
@@ -4698,7 +4698,7 @@ Wokring on Home/108
 ## 08/11/21 14:05 to 14:22, Here's a problem - there are 30 (C) tasks.  +EQT
 Updated the Delores about how to deal with the situation 
 
-## 08/11/21 14:23 to 14:55,  Phone call +EQT
+## 08/11/21 14:23 to 14:55,  Phone call +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 
 ## 08/11/21 14:56 to 15:13, Got a few minutes before leaving for Nova. So doing the payments notes +EQT
 
@@ -4802,8 +4802,7 @@ Went into Town and did a bunch of paper-work - like work on paper. It was good.
 
 ## 11/11/21 10:55 to 13:23, Working on https://github.com/eQualityTime/Public/issues/139  +EQT
 
-## 11/11/21 13:38 to 14:13,  +EQT
-
+## 11/11/21 13:38 to 14:13,  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 installed php with https://linuxize.com/post/install-php-7-on-centos-7/
 
 ## 11/11/21 14:13 to 16:11, Getting Driver working on AWS +EQT https://github.com/eQualityTime/Public/issues/139
@@ -4894,8 +4893,8 @@ Okay next things are to set up etherpad (again) and finally fix the jeykll links
 
 ## 18/11/21 15:35 to 16:45, Back to poke +EQT https://github.com/eQualityTime/Public/issues/139
 ## 19/11/21 06:42 to 09:45, +EQT Working on https://github.com/eQualityTime/Public/issues/140 
-## 19/11/21 10:29 to 10:35, Time to pound away on the todo list
-## 19/11/21 14:37 to 15:14, Pounding away at todo list
+## 19/11/21 10:29 to 10:35, Time to pound away on the todo list +EQT
+## 19/11/21 14:37 to 15:14, Pounding away at todo list +EQT
 ## 22/11/21 09:54 to 10:27, +EQT
 I am going to sprint until 12:00, when I shall go to the shop for salad things. 
 I am using delores, focusing on mindset.
@@ -4927,7 +4926,7 @@ I am using delores, focusing on mindset.
 ## 22/11/21 12:39 to 13:28, Sprint +EQT
 Sprinting until alarm. Which didn't go off. Agggg!  
 
-## 22/11/21 13:38 to 14:50,   School visit 
+## 22/11/21 13:38 to 14:50,   School visit https://github.com/equalityTime/whitewaterwriters +EQT
 
 ## 22/11/21 14:50 to 15:53, Working on https://github.com/eQualityTime/Public/issues/57 +EQT
 * Start at the top and read I guess
@@ -4939,9 +4938,9 @@ Sprinting until alarm. Which didn't go off. Agggg!
 * I have stopped being quite so mindful, but I did get a lot out of it and will be doing it tomorrow as well. 
 
 ## 22/11/21 16:26 to 16:58, Working on https://github.com/eQualityTime/Public/issues/140 +EQT
-## 22/11/21 19:30 to 20:10,  Picking up where I left off +EQT
-## 22/11/21 20:10 to 21:22, Working on +EQT   https://github.com/eQualityTime/Public/issues/139 
-## 23/11/21 06:44 to 08:01, Working on +EQT Public/issues/139
+## 22/11/21 19:30 to 20:10, Working on https://github.com/eQualityTime/Public/issues/140 +EQT
+## 22/11/21 20:10 to 21:22, Working on +EQT https://github.com/eQualityTime/Public/issues/139 
+## 23/11/21 06:44 to 08:01, Working on +EQT https://github.com/eQualityTime/Public/issues/139 
 ## 23/11/21 09:41 to 11:37, DELORES  +EQT
 Sprinting until 12:00 
 * Really need to work out where 'social media process' goes. 
@@ -4961,7 +4960,7 @@ Sprinting until 12:00
 * Two funding bids. 
 * The money can wait I think. 
 
-## 24/11/21 06:58 to 08:04, Working on Collaborate Grant +EQT
+## 24/11/21 06:58 to 08:04, Working on Collaborate Grant +EQT https://github.com/orgs/eQualityTime/projects/3
 * They are looking for the top ten expressions of interest, we are then given a shortlist of three academics to work with.  
 * Topics must broadly relate to the Centre’s social definition of cultural 
 value - i.e. “The difference arts, culture, heritage and screen makes to people’s lives and 
@@ -4970,29 +4969,29 @@ society”.
 * Expressions of Interest are limited to one submission per cultural organisation, Sounds like White Water Writers. 
   * Doesn't cover evaluation of existing projects. 
 
-## 24/11/21 09:39 to 10:34,  Getting started  +EQT
+## 24/11/21 09:39 to 10:34,  Getting started  +EQT https://github.com/orgs/eQualityTime/projects/3 
 Sprinting until 1pm because we'll have eaten. 
 * Plan food. Um, getting through these peanuts... Salad, late afternoon.  
 * Social media process  When the eight hours are up. 
 * Reviewing yesterday - the networking helped, but there is NO subsitute for being at the desk early. 
 
-## 24/11/21 10:34 to 11:24, First funding Application +EQT
+## 24/11/21 10:34 to 11:24, First funding Application +EQT https://github.com/orgs/eQualityTime/projects/3 
 New plan,  abandon what we wrote before - it's too angry. Switch to dumpertrucking in from the scotland grant. 
 I drafted and submitted. 
 
-## 24/11/21 11:24 to 12:06, Second Funding application  +EQT
+## 24/11/21 11:24 to 12:06, Second Funding application  +EQT  https://github.com/orgs/eQualityTime/projects/3 
 10 pages for a, what?, 10% chance of £3,000 presume 5 hours? at 18 per hour that's £100.  It's still technically worth it, but honestly. I need a person for this. 
 
 ## 24/11/21 12:07 to 12:14, if I don't have lunch I'll finish on time today. Small break.  
 
 ## 24/11/21 12:14, So ah, what now? 
-## 24/11/21 12:19 to 12:39,  Accounts +EQT
+## 24/11/21 12:19 to 12:39,  Accounts +EQT https://github.com/eQualityTime/Public/issues/141 
 * Balance sheet matches
 * Changed up the SOFE - it matches now! Whoop!  
 
 ## 24/11/21 12:39 to 13:29, Taking a break 
 
-## 24/11/21 13:29 to 16:08, Back  Working on AWS +EQT
+## 24/11/21 13:29 to 16:08, Back  Working on AWS +EQT https://github.com/eQualityTime/Public/issues/139
 * I've created an issue at https://github.com/michal-h21/tex4ebook/issues/83
 * Installed some vim colour schemes
 * I've added a www cname record to whitewaterwriters. 
@@ -5004,7 +5003,7 @@ I drafted and submitted.
 * Did a really nice push on Higher horizons ones. 
 * Talked to trustee about laptops. 
 
-## 24/11/21 16:09 to 16:44,  Attempted an educational video +EQT
+## 24/11/21 16:09 to 16:44,  Attempted an educational video +EQT https://github.com/eQualityTime/Public/issues/139
 Would NOT recommend 
 
 ## 24/11/21 16:44 to 17:04,  Sprinting the last bit +EQT  
@@ -5033,7 +5032,7 @@ Sprint until 12:00
 * What is the 'big thing'? 
 * The 'recreational code thing' is to sort out my internet history   
 
-## 29/11/21 10:29 to 10:39, Three small tasks  +EQT
+## 29/11/21 10:29 to 10:39, Three small tasks  +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 x (A) Resend Kat the OVF document  +EQT
 x (A) Respond to voicemail 
 x (A) Try allen key on bottom of Kat chair 
@@ -5067,7 +5066,7 @@ Getting confused about a meeting and talking to yvonne +EQT
 * It's +EQT because it's so that I can work. 
 * I took control - I've been reactive to the feeling rather than proactive. It was "I'm sad so I'm forced into playing computer games" rather than "I will act this way to feel better."  
 
-## 01/12/21 12:21 to 13:11,  Rewriting this file but really completing the issues in the previous day +EQT
+## 01/12/21 12:21 to 13:11,  Rewriting this file but really completing the issues in the previous day +EQT https://github.com/eQualityTime/Public/issues/139
 * This is useful https://medium.com/@m.yunan.helmy/increase-the-size-of-ebs-volume-in-your-ec2-instance-3859e4be6cb7 but the actual resize command came from https://stackoverflow.com/a/56897576/170243  
 * Running sudo ./install-tl again.  
   * Now we wait 
@@ -5080,23 +5079,23 @@ Getting confused about a meeting and talking to yvonne +EQT
 
 - 01/12/21 smallest next step:  go and get the paying in book. 
 
-## 01/12/21 13:53 to 14:17, Hello  +EQT
+## 01/12/21 13:53 to 14:17, Hello  +EQT https://github.com/eQualityTime/Public/issues/139 
 * I Watched https://www.youtube.com/watch?v=X3Pr5VATOyA to find out about https: 
   * I learned a bit about how the system works - or at least, everything she said made sense
 * Also looking at https://www.youtube.com/watch?v=_3t-DZEPSIg  but it involves using some boilerplate code that I'm NOT that imporessed with
 
 
-## 01/12/21 14:17 to 15:23, Posted letter and working on AWS +EQT
+## 01/12/21 14:17 to 15:23, Posted letter and working on AWS +EQT https://github.com/eQualityTime/Public/issues/139
 
-## 01/12/21 15:23 to 16:12,  Prep for call and then report for YS +EQT
-## 01/12/21 16:12 to 16:25,  SSL is now working!  +EQT
+## 01/12/21 15:23 to 16:12,  Prep for call and then report for YS +EQT https://github.com/equalityTime/whitewaterwriters
+## 01/12/21 16:12 to 16:25,  SSL is now working!  +EQT https://github.com/eQualityTime/Public/issues/139
 * But only on the https://whitewaterwriters.com/ - the www is still NOT a thing 
 
 ## 01/12/21 16:25 to 16:36,  +EQT improving commands
 lnc now returns a blank file   
 lnc is now fixed. 
 
-## 01/12/21 19:12 to 19:25, Back  +EQT
+## 01/12/21 19:12 to 19:25, Back  +EQT  https://github.com/orgs/eQualityTime/projects/3
 * Did some reading of the grants books 
 
 Two hours to knuckle down for 
@@ -5111,7 +5110,7 @@ Two hours to knuckle down for
 I've done the Route 53 yet another way. Waiting to find out if it works 
 * Find more funding. I mean, I'm exhausted. I'm fed up with the whole thing and I should have an exit strategy. 
 
-## 10/12/21 09:09 to 10:43, Hello  +EQT
+## 10/12/21 09:09 to 10:43, Hello  +EQT https://github.com/equalityTime/whitewaterwriters
 Top of the list is to reply to connor. 
 
 * I've downloaded the files
@@ -5131,16 +5130,16 @@ Everything is on git (hopefully) so that it is not a loss if the drive has an is
   * Ran 28 tests in 397.006 seconds
 * Folder taking a very long time to copy 
 
-## 13/12/21 10:03 to 10:38, +EQT
+## 13/12/21 10:03 to 10:38, +EQT https://github.com/equalityTime/whitewaterwriters
 * Some delores
 * Investigated a WWW problem 
 * Planning day and keeping up with the copying. 
 
-## 13/12/21 10:40 to 13:31, +EQT
+## 13/12/21 10:40 to 13:31, +EQT https://github.com/eQualityTime/Public/issues/141
 (A) Update accounts document : https://github.com/eQualityTime/Public/issues/141 +EQT
 * Reply to Eleanor  At alexandrea Pakr 
 
-## 13/12/21 13:32 to 15:29, I'm tired and grumpy +EQT
+## 13/12/21 13:32 to 15:29, I'm tired and grumpy +EQT https://github.com/equalityTime/whitewaterwriters
 Write the mail merge code for luton teachers. 
 * First - fix the WWW problem I've b een avboiding 
 * fixed overleaf for a friend 
@@ -5159,13 +5158,10 @@ Write the mail merge code for luton teachers.
 16:49, docs.google.com
 * Trying to work out my annual leave. 
 
-## 13/12/21 16:52 to 17:02, Time to hack at things +EQT
+## 13/12/21 16:52 to 17:02, Time to hack at things +EQT https://github.com/equalityTime/whitewaterwriters
 I've checked in with the WWW error. 
-
 I Sshed in, changed the path. 
-
 I'd like to fix the WWW latex. 
-
 Or at least post about it on SE. 
 
 
@@ -5173,7 +5169,7 @@ Okay, I remember - we had to put it in the path, then it broke
 
 
 
-## 13/12/21 18:58 to 20:00,  +EQT
+## 13/12/21 18:58 to 20:00,  +EQT https://github.com/equalityTime/whitewaterwriters
 Sent ebook version to Richard. They are pleased 
 * Updated the update_live.py script and are running it. 
 * Let's find out if if it works off the crontab. 
@@ -5187,7 +5183,7 @@ Sent ebook version to Richard. They are pleased
 * It's running. I've sent. 
 
 
-## 13/12/21 20:54 to 20:59, Back after dinner.  +EQT
+## 13/12/21 20:54 to 20:59, Back after dinner.  +EQT   https://github.com/eQualityTime/TheOpenVoiceFactory/  
 Okay, solid day really. What's next?  
 
 * AWS: sort out priorities. 
@@ -5208,12 +5204,11 @@ There's some writing up to do for WWW I think. and indeed some reading.
 
 * Should lookup the vim issue 
 
-## 14/12/21 06:49 to 07:53,  +EQT
+## 14/12/21 06:49 to 07:53,  +EQT email 
 * Just processing the email. 
 
-## 14/12/21 10:18 to 10:41,  +EQT
+## 14/12/21 10:18 to 10:41,  +EQT 
 I was doing invoices. 
-## 14/12/21 10:41, Which aren't working. I'm restarting and I'll do the other thing
 ## 14/12/21 13:50 to 14:30, +EQT phone call 
 
 ## 15/12/21 06:35 to 08:00,  Email +EQT
@@ -5284,19 +5279,18 @@ Okay, well I should do that.
 ## 16/12/21 10:56 to 11:35,  +EQT 
 * sorting annual leave
 (D Clare) Open the Projects file and review/rewrite  https://www.dropbox.com/scl/fi/102dqqrdod0z9wb2kyarq/Projects-file-Updated.docx.docx?cloud_editor=gdoc&dl=0 and write Who it helps? How much it helps them? How much it costs us?
-## 16/12/21 11:36 to 12:13, (D Truestees) Write more Ads for OVF XX +EQT
+## 16/12/21 11:36 to 12:13, (D Truestees) Write more Ads for OVF XX +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * If I'm going into Google Ads I should probably work out what's going on with WWW. 
   * I looked into it a bit more and wrote a SE question 
-## 16/12/21 12:14 to 12:44, Now what?  +EQT
-Emails. 
+## 16/12/21 12:14 to 12:44, Email  +EQT
 
-## 16/12/21 12:58 to 13:12,  +EQT
+## 16/12/21 12:58 to 13:12,  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 Updating the server +EQT
 ## 16/12/21 13:13 to 14:08, Four hours done. Four left. But I'm grumpy as hell.  +EQT
 Oh hey! I think I fixed the issue! 
 * Of course, now I have NO execuse NOT to do the google ads
 
-## 16/12/21 14:08 to 14:34,  Tried some netowrking on twitter +EQT
+## 16/12/21 14:08 to 14:34,  Tried some networking on twitter +EQT
 ## 16/12/21 14:34 to 16:21, Had rant in my head and it started a rare productive sprint  +EQT
 * Doing quickbooks 
 * Email closed. 
@@ -5305,15 +5299,10 @@ Oh hey! I think I fixed the issue!
   * Should have got up at a reasonable time then shouldn't you? 
 * Streaming eh? That feels like a bit of a 'those where the days' option. Let's do a brainstorm. 
 * It's a big and interesting brainstrom 
-## 17/12/21 07:49 to 07:58, Latex issue +EQT
-## 20/12/21 20:12 to 21:50, Working on todolist hcart
-
+## 17/12/21 07:49 to 07:58, Latex issue +EQT https://github.com/equalityTime/whitewaterwriters
+## 20/12/21 20:12 to 21:50, Working on todolist 
 ## 21/12/21 06:55 to 07:35,  Working on igor
 ## 21/12/21 13:42 to 14:24, Igor
-
-
-## 03/01/22 10:21, 
-Hi, How we doing? Wow - big day eh? Let'd get some stuff worked on right? Yeah...  
 
 ## 03/01/22 10:26 to 10:36, Bug in the chart - I ran igor and it added 8 week-old tasks
 ## 03/01/22 10:36 to 13:23, There are 87 items in the box. What can I do with each of them... 
@@ -5324,7 +5313,7 @@ Clearing inbox.
 * Found out that meetup has a 'starting soon' option, which might turn out to be nice. 
 
 ## 04/01/22 09:55 to 10:49, Email +EQT
-## 04/01/22 10:49 to 12:16, Accounts +EQT
+## 04/01/22 10:49 to 12:16, Accounts +EQT  https://github.com/eQualityTime/Public/issues/141
 ## 04/01/22 12:16 to 13:45, Connor and Networking Meeting +EQT
 
 ## 04/01/22 13:50 to 14:14, Getting the task Chart for EQT working +EQT
@@ -5336,7 +5325,7 @@ Started with 77 things. All the way down to 18. Solid tidying up of the list. Al
 * Also reviewed the adenda for todnight 
 
 ## 04/01/22 19:40 to 20:50, Meeting +EQT
-## 05/01/22 06:48 to 07:56,  +EQT Audio tags in OVF
+## 05/01/22 06:48 to 07:56,  +EQT Audio tags in OVF  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Theres a file with the fart noise in. 
 * It's in a branch on my desktop
 * Wrote a issue at https://github.com/scanny/python-pptx/issues/782 
@@ -5352,7 +5341,7 @@ Okay, well, I should do that then.
 ## 05/01/22 12:03 to 13:53, Did the tender form +EQT
 ## 05/01/22 14:04 to 14:07,  Updating these notes +EQT
 
-## 05/01/22 14:50 to 14:57, Turns out that I already set up analytics on the website +EQT
+## 05/01/22 14:50 to 14:57, Turns out that I already set up analytics on the website +EQT https://github.com/equalityTime/whitewaterwriters
 ## 05/01/22 14:58 to 15:33, I am tired.  +EQT
 * Closing things down, removing files. Deleting. Thinking.  
 * We're below ten in the EQT list. Which I think means that we run igor again right? 
@@ -5374,7 +5363,7 @@ Okay, well, I should do that then.
 * Open EQT
 * Looking for stuff
 
-## 06/01/22 06:22 to 07:46, Hello  +EQT
+## 06/01/22 06:22 to 07:46, Hello  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Checked invoices 
 * Remembered that the ovf site is local again. 
 * Sorted out the analytics on button. 
@@ -5513,12 +5502,13 @@ Cron appears to be working (via https://apple.stackexchange.com/a/378558/16077 )
 * Created a print version 
 Later: igor really needs a version 
 
-## 11/01/22 16:04 to 16:36,  Working on the Bonus chapter  +EQT
+## 11/01/22 16:04 to 16:36,  Working on the Bonus chapter  +EQT https://github.com/equalityTime/whitewaterwriters
 Got the grey border via SE. More to do, but the rest is on an occasional basis.  
 
 
 ## 11/01/22 20:12 to 20:38, Hello.  +EQT
 I've created a pivot table, it's interesting. It also revealed how rarely I'm marking things with the right github project. 
+EDIT: I'm now (Sept 2022) working through to label things 
 
 - 11/01/22 smallest next step: go through and mark a much of things in index.md with the right issue? Is that even possible.   
 ## 12/01/22 06:03 to 06:16, Reading background technical doc +EQT
@@ -5632,26 +5622,25 @@ Github saved me with excellent documentation and this is now fixed.
 NA: rebranding the Etherpad and getting the old files to work. 
 * 16 things left 
 ## 17/01/22 14:48 to 15:07, Had a break +EQT
-## 17/01/22 15:08 to 16:06,Rewriting WWW site +EQT
+## 17/01/22 15:08 to 16:06,Rewriting WWW site +EQT https://github.com/equalityTime/whitewaterwriters
 I started with the idea that I'd do it all in the code. But actually this would be a really nice chance to, work it on the A/B testing. 
 Or NOT right? Just do it in the site, let's NOT get fancy.  
 
-## 17/01/22 16:06 to 16:08,  Okay, so can we get it to fucking build? +EQT
+## 17/01/22 16:06 to 16:08,  Okay, so can we get it to fucking build? +EQT https://github.com/equalityTime/whitewaterwriters 
 
 Okay, so the Jekyll building issue has been annoying me on, like, four different platforms at the moment. I can't install, I can't do anything. Go to do some reading.  
 
 
-## 17/01/22 16:16 to 16:41, Should I JUST  start doing 20 or so programs in ruby?  +EQT
+## 17/01/22 16:16 to 16:41, Should I JUST  start doing 20 or so programs in ruby?  +EQT https://github.com/equalityTime/whitewaterwriters 
 Solved the first two, that's bound to be a reasonable start
-
 
 ## 17/01/22 16:46 to 16:49, summary  +EQT
 There are 16 things on my todo list. Some of that is stored for tomorrow, but some isn't. I'm going to read some books tonight, Find out a bit more about ruby. 
 
-## 17/01/22 19:57 to 20:03, Back for more.  
+## 17/01/22 19:57 to 20:03, Back for more.   https://github.com/equalityTime/whitewaterwriters 
 Fixed the build bug in the WWW site. 
 
-## 17/01/22 20:04 to 20:33, Working on the project real site.   +EQT
+## 17/01/22 20:04 to 20:33, Working on the project real site.   +EQT  https://github.com/eQualityTime/Public/issues/124 
 * Cloning. 
 * 'bundle add webrick'
 * reducing the size of the icon 
@@ -5660,7 +5649,7 @@ Fixed the build bug in the WWW site.
 * Waiting for a site update - and it's done. 
 * Which puts us down to 14 
 
-## 17/01/22 20:38 to 21:27, Working on MAT  +EQT
+## 17/01/22 20:38 to 21:27, Working on MAT  +EQT https://github.com/equalityTime/whitewaterwriters
 MAT, and finding a conference. 
 
 # 18/01/22 06:57 to 07:54,  Email +EQT
@@ -5676,7 +5665,7 @@ Which includes ranting.
 ## 18/01/22 15:18 to 15:34,  Read a chapter of a book  +EQT
 I recongise within myself that I have overloaded on input today
 
-## 18/01/22 15:35 to 15:40,  Applied to be a MAT trustee +EQT
+## 18/01/22 15:35 to 15:40,  Applied to be a MAT trustee +EQT https://github.com/equalityTime/whitewaterwriters 
 
 ## 18/01/22 15:41 to 16:42,  Ticking off +EQT
 * Reviewing upwork. 
@@ -5747,12 +5736,12 @@ SA - you have reached t they 'reminders' bit of the Delores
 ## 25/01/22 06:47 to 07:56,  +EQT
 Email and some basic private tasks
 
-## 25/01/22 09:42 to 13:03, Fix a www issue   +EQT
+## 25/01/22 09:42 to 13:03, Fix a www issue   +EQT https://github.com/equalityTime/whitewaterwriters
 IMPS failing to run the script.  The problem turned out to be memory - I increased the size of the instance, which helpfully also solved the etherpad problem from yesterday. 
 * While I was there I built up the trace.php file so it was usable and pretty
 
-## 25/01/22 13:30 to 13:45, phone call with fundraiser +EQT
-## 25/01/22 14:06 to 14:49, That was complicated there was a phone call and all sorts +EQT
+## 25/01/22 13:30 to 13:45, phone call with fundraiser +EQT https://github.com/orgs/eQualityTime/projects/3
+## 25/01/22 14:06 to 14:49, That was complicated there was a phone call and all sorts +EQT https://github.com/orgs/eQualityTime/projects/3
 Inboxes empty. 
 
 
@@ -5760,7 +5749,7 @@ Inboxes empty.
 I feel stress and have to choose a thing to do.  
 * Going live to do the amazon bid. 
 
-## 25/01/22 15:06 to 15:19, The plan is to rewrite this file and then the amazon grant.  +EQT
+## 25/01/22 15:06 to 15:19, The plan is to rewrite this file and then the amazon grant.  +EQT https://github.com/orgs/eQualityTime/projects/3
 ## 25/01/22 15:19 to 16:48, Working on https://github.com/eQualityTime/Public/issues/149  +EQT
 ## 25/01/22 16:48 to 16:53, Working out the future plan.  +EQT
 ## 25/01/22 16:53 to 17:07, (C) 20 Customise the etherpad on AWS https://github.com/eQualityTime/Public/issues/77 +EQT @public
@@ -5768,10 +5757,10 @@ I feel stress and have to choose a thing to do.
 * Turns out you don't want to push settings changes because they have passowrds nad stuff in.  Possibly that's why they go in the locales? 
 * JUST  need it to build... 
 
-## 26/01/22 06:02 to 07:25, Fixing a www bug +EQT
+## 26/01/22 06:02 to 07:25, Fixing a www bug +EQT https://github.com/equalityTime/whitewaterwriters
 * I'm happy I've fixed it 
 
-## 27/01/22 06:56 to 07:49,  +EQT
+## 27/01/22 06:56 to 07:49,  +EQT https://github.com/equalityTime/whitewaterwriters
 Ticked off a few minor things. Set up a 404 page for the WWW site but need to bring it onto the server (and then adjust nginx probably) 
 * Deadline for the amazon grant isn't when I thought it was. 
 # Solid day 
@@ -5843,7 +5832,7 @@ Sort of psching myself up to go live.
 
 
 ## 02/02/22 06:06 to 06:42,  Working on https://github.com/eQualityTime/Public/issues/148 +EQT
-## 02/02/22 06:43 to 07:52,  Several different tasks +EQT
+## 02/02/22 06:43 to 07:52,  Several different tasks +EQT  https://github.com/equalityTime/whitewaterwriters
 * fixed an issue with IMPS 
 * Downloaded the Orcale code  
 * Did some mailscript coding 
@@ -5864,7 +5853,7 @@ Also some bonus  WWW
 * Created the directory and added the nginx so I can access it at https://whitewaterwriters.com/oracle/driver/ 
 
 
-## 02/02/22 16:46 to 16:50, I think I'm done but let's make sense.  +EQT
+## 02/02/22 16:46 to 16:50, I think I'm done but let's make sense.  +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * I have to follow up with Clare and Simon about their code. 
 * I have to write the blog post and (gasp) actually do the mirgration. 
   * Part of this is to do the changes to the code first, and then update the dns. 
