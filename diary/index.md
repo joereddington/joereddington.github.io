@@ -8084,8 +8084,146 @@ What did I learn?
   * however then the picture is over the text, so you can set z-index to -1 to send it to the back. 
 * The floating text boxes will need more work (particularly when I introduce text boxes) 
 
+## 20/09/22 05:48 to 07:54, Delores +EQT 
+Okay, so mostly I'm still in delores. It's taken a while this morning - the 'stuff' had piled up. But I'm ready to go soon. 
+* Dark Dolphin - "commit to work in vim" is interesting in DD context - where else would I work?  My intent might have been that I was to commit to working *well* in vim. 
+
+The next action is to sort the stack out. 
+
+There are 40 things on that todo list. It's a big ask with a appointment in the middle of the day. 
+EDIT: I did 3, but they were high priority 
+
+## 20/09/22 07:54 to 07:54, +EQT email servers 
+## 20/09/22 09:53 to 10:10, +EQT email servers
+## 20/09/22 11:31 to 12:30, +EQT email servers  
+I've written up the notes at https://docs.google.com/document/d/1L4NBFFdhrSe1_DOXKJ94Ji5zCN7UT-VH2bF7nepbpP0/edit 
+* I tested the ten acknowledged email addresses - all fine.  
+
+
+## 20/09/22 12:30 to 13:50, (B) 10 Mark the time spent on Open Voice Factory recently https://github.com/eQualityTime/TheOpenVoiceFactory/ +EQT
+## 20/09/22 14:13 to 14:37, (B) 10 Mark the time spent on Open Voice Factory recently https://github.com/eQualityTime/TheOpenVoiceFactory/ +EQT
+I'm working out what time should have been charged to OVF in the last calendar year. I haven't looked at the logs since 4th November last year so it's quite a big job. 
+
+Most of the time was spent tagging entries.  Even after I'd gone through - only about a third of the time was direct project work. The rest was email, delores, or random untagged things 
+
+Thoughts I had when looking through the old files. 
+  * It's interesting to see times from six months ago where I was working on things that *still* aren't done. 
+  * Also  - I had three weeks in a row in January were I completely zerod the todo list. I want to be back there - and it's easier the second week if I can zero it the first week 
+
+## 20/09/22 14:56 to 16:30, (B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
+I've used the Disabled Charity Alliance website (https://disabledchildrenspartnership.org.uk/about-us/) to pull 100 website addresses. 
+I'm now seeing if I can pair them up with the charity commission downloaded data  (https://register-of-charities.charitycommission.gov.uk/register/full-register-download) 
+* removing all lines that don't have a website makes the charity commission file 10mb instead of 150 
+* A lookup that gave an email address would be wonderful - particularly if it also gave income levels and others. 
+* I think I finally got the csv file by using this: https://www.cyberciti.biz/faq/how-to-convert-json-to-csv-using-linux-unix-shell/ 
+* This turned out to be the command cat publicextract.charity.json | jq '.[]| join("$")' > big.csv 
+* There's a bunch of nice things to do with this:
+  * Send that person a list of the Luton charities 
+  * Contact the very local Luton charities.  
+
+
 # Project stack 
 * Remove old css files
 * Merge and push 
 * Work out speech marks 
 * Update the scripts 
+
+
+## 21/09/22 05:57 to 06:19, Delores +EQT
+## 21/09/22 06:20 to 06:42, Doing tasks in an offline/online order.  +EQT
+## 21/09/22 06:42 to 07:00, (D) 10 Map new ten year and one year goals.  +offline  +EQT
+## 21/09/22 07:00 to 07:10, Read quickbooks book   +EQT
+## 21/09/22 07:10 to 07:16, Sort internet-off cron   +EQT
+* Had to comment out a vim line to make the cron work. Computers are strange. 
+## 21/09/22 07:16 to 07:50, (E) Put the price calculator on the website +offline (because code)   +EQT
+## 21/09/22 10:00 to 10:15, (E) Put the price calculator on the website +offline (because code)   +EQT
+## 21/09/22 10:15 to 11:56, (E) Put the price calculator on the website +offline (because code)   +EQT
+I put a price calculator here: https://whitewaterwriters.com/prices.html 
+* Learned some css - particularly around styling and locations. 
+* Used checkboxes interestingly: all in the file
+
+There's a larger task to built it into the funnel but that can wait. 
+## 21/09/22 11:59 to 11:59, (B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT +Internet
+## 21/09/22 11:59 to 13:09, (B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT +Internet
+Very frustrating. I Did a lot of good work with regular expressions and flashy things only to discover that most of the charities websites don't match up. 
+* I suppose I could find the names and attempt to get them to match up that way, but that feels annoying. 
+* Like, I suppose that is the best way. 
+In general, only about ten of the charities were identifiable by their website. 
+
+## 21/09/22 13:09 to 13:26,  (C) 10 Move these to the IMPS3 project board  Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
+## 21/09/22 13:26 to 13:44,  Messaged Phoebe.  +EQT
+## 21/09/22 13:44 to 13:54, Fixed the certbot thing (I think)  +EQT
+## 21/09/22 13:54 to 14:56, (B) More dreamhost migration.  +Internet +EQT
+I'm moving the eQualityTime site 
+* I've created an AWS instance using https://themeisle.com/blog/install-wordpress-on-aws/ (although most of the setup was intutive 
+* The public IP is 13.40.52.102 and starting password is rR0JMdk1QJUg
+* I have installed the 'duplicator' plugin for wordpress on the old site. 
+  * I am creating a 'package' on the old site. 
+    * Had to try again because the first one took too long - removed a bunch of directories
+* Watching a YouTube video on the topic: https://www.youtube.com/watch?v=3YDQ3Ey_2wYNA: 
+* This might actually be a better route: https://aws.amazon.com/getting-started/hands-on/migrating-a-wp-website/ 
+* struggling with internet - majorly - time to come back to this.  
+
+## 21/09/22 14:56 to 15:00, Reading minutes would be good.    +EQT
+## 21/09/22 15:01 to 15:08,  +EQT
+## 21/09/22 15:08 to 15:21, trying to find a document that turns out to be on this machine +EQT
+## 21/09/22 15:50 to 16:31, Opening delores todo. +EQT
+First thing - I want to make the cookies about days 
+* I've put the JavaScript in a separate file 
+* I've added a day to the javascript saving of the cookies.
+* I've set up a basic display of previous dates  
+* So here's what I want next: bullets that sucessfully track subpages. 
+
+## 21/09/22 16:32 to 16:36, Ten minutes to close down.  +EQT
+* WOrking on the stack 
+## 22/09/22 10:00 to 10:05, Hello +EQT
+It's going to be a slow start this morning
+
+I'm a bit done with everything. 
+
+I'm stuffed up. 
+
+## 22/09/22 10:30 to 11:01, talking to trustee +EQT
+## 22/09/22 11:02 to 11:19, Learning about Github Pages +EQT
+## 22/09/22 11:19 to 11:30, Using that learning on my own site :s 
+
+I want the github pages sites to look the same online as they do on the desktop. 
+Turns out that github pages sites need a particular gem. 
+* https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+* I'm trying to follow the instructions in case that solves things.
+* I have learned that Gemfile.lock is the last working version of the gems. deleting it improved matters.0
+
+## 22/09/22 14:03, 
+The only way I get a comic out of this is two work like a dog for two hours and crush everything. 
+* So obviously I'm getting some caffeine
+
+
+## 22/09/22 14:21 to 15:49,  +EQT work
+Okay, let's do the hard things. 
+13 things left 
+
+Uploaded the duplicator archive. It turns out NOT to work. That was annoying. Just gave a standard error. 
+
+* I'm a bit flummoxed really. I run the code but I get a error. 
+* I terminated in haste. I'll next try the other migration link. 
+* Okay so  
+## 25/09/22 12:11 to 13:32, Working on home tasks
+x 2022-09-25 20 Practice handstands and cartwheels with Nova.  +offline 
+x 2022-09-25 See if you can put Google calendar on watch to improve internet stuff. 
+x 2022-09-25 Buy self guardian of galaxy dvd 
+x 2022-09-25 Map cradle project 
+x 2022-09-25 Put vasiline on training rubiks cube 
+Fixed air con 
+x 2022-09-25 Buy a couple of scott pilgrim books 
+x 2022-09-25 Fix comic site +online(C) Fix comic site +online 
+x 2022-09-25 Download app for NHS percriptions .
+12:45 cleaned Vaccum sensor and started it off again
+12:47 started again. 
+12:40 skye has got sleepy and gone to bed. 
+x 2022-09-25 Update blog post on laptop 
+x 2022-09-25 15 Empty whatsapp and facebook inboxes. +Overhead Time:20 +Internet
+x 2022-09-25 10 Start to build the outdoor table and work out what the blocking action is.  +offline 
+x 2022-09-25 10 Email Kat with budgeting map and research disneyland project on: https://github.com/joereddington/Projects-Private/issues/203 +PersonalProjects
+
+What do you want for lie-ins? 
+* Done earlier - No reason it should be until 9.
