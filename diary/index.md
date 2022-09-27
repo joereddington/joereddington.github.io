@@ -8227,3 +8227,74 @@ x 2022-09-25 10 Email Kat with budgeting map and research disneyland project on:
 
 What do you want for lie-ins? 
 * Done earlier - No reason it should be until 9.
+
+
+# Last week 
+Last work week I had two very strong days, a bank holiday because of the queen's funeral and then a mental health day of. Was overall good in the circumstances. The big places I'm losing time are:
+* Getting up
+* Taking over the kids early   
+* Got getting back in my seat quickly after having dropped them off. 
+
+# Today 
+I want a perfect Delores day, so that I learn to trust it. A day of doing things properly. 
+* And to clear out the inbox. 
+* And to get eight hours of work done  
+* And to go climbing. 
+* Have a comic about the day  (which is a winning one compared to last time) 
+
+That's a really ambitious target.  Particularly when we started so late. 
+
+## 26/09/22 06:48 to 07:56, Delores +EQT
+## 26/09/22 09:39 to 10:34, Delores +EQT
+Today is going to be an Delores day, but it it taking a lot longer than it should (like any of the build up habits: compare cutting hair) 
+
+## 26/09/22 10:37 to 10:48, (A) Review and rewrite the Tightrope document +EQT
+I moved and lightly edited the document 
+## 26/09/22 10:48 to 11:08, (B) 10 AGM dates doodle poll  +Internet +EQT
+* Waiting on Clare for confirmation now. 
+* Damnit, they did the confirming. 
+## 26/09/22 11:09 to 11:48, Email  +EQT
+## 26/09/22 11:48 to 12:24, We've come up to the very mighty  " Write seven social media posts as blogs" +EQT
+I've published one and scheduled two more. 
+Got a four about recent publishing. 
+Four left then. 
+
+## 26/09/22 12:33 to 12:55, Watching Writing video +EQT
+## 26/09/22 12:55 to 13:18, Okay So back on the publishing.   +EQT
+## 26/09/22 13:19 to 14:32, Back to regular email   +EQT
+* I'm doing really well and JUST sorting out the top thing and working down. 
+* Reached a review of 'sweet' things and I'm getting a little on the tired side. 
+* Next action is gratitude post. 
+
+
+This week I've been grateful for: 
+
+* Genuinely quiet time to myself 
+* The energy to read 'proper' books. 
+* Taking Nova to get their first pair of climbing shoes.
+* Friends - particularly Kim, 
+* Long walks with Leo. 
+* Rope swings in the woods 
+* Leo kissing me on the nose. 
+* Cupcake injections 
+* Lots of nice reviews on my book. 
+* Making some comics. 
+* Esme Patrick 
+* Hannah and Oscar 
+* Climbing at the place 
+
+
+## 26/09/22 14:32 to 14:36, Write the top ten on the dodo list as blog posts +EQT
+This is actually an interesting exercise that establishes how transparent we are and how much work we have to go 
+* We have scheduled our AGM 
+* We've designed a new project about Cyber Security
+* We've created this books in prison 
+* More improvements to IMPS3  
+
+## 26/09/22 14:36 to 16:28, Been email +EQT
+## 26/09/22 16:29 to 16:44, Publishing a book. 
+* Working out which names go with which books. 
+NA is to check the gender of the missing names, if they are male I'll put them in group B 
+
+
+## 26/09/22 18:01 to 18:03,  Accidentally reading an email +EQT
