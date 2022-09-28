@@ -8298,3 +8298,19 @@ NA is to check the gender of the missing names, if they are male I'll put them i
 
 
 ## 26/09/22 18:01 to 18:03,  Accidentally reading an email +EQT
+
+
+# Today
+Today was email and a big Cyber Security meeting. As a bonus I got signed off at a climbing place. 
+
+
+## 27/09/22 06:18 to 07:26, Good morning. +EQT
+* Delores took over an hour again this morning, and it's NOT clear what I was doing with the time. I think I probably could have done that a lot faster.  
+## 27/09/22 07:26 to 07:55,  +EQT Email 
+## 27/09/22 09:20 to 15:09, Trip for meeting +EQT (less 30 minutes for sidequest)
+## 27/09/22 15:39 to 15:42,  email +EQT
+## 27/09/22 16:02 to 16:06, Distracted back again +EQT
+
+
+
+
