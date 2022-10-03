@@ -8314,3 +8314,67 @@ Today was email and a big Cyber Security meeting. As a bonus I got signed off at
 
 
 
+## 28/09/22 10:00 to 10:27, Been fixing a bug  +EQT
+## 28/09/22 11:37 to 11:49, Another bug  +EQT
+## 28/09/22 11:49 to 11:58, Brainstorming +EQT 
+
+20 good things 
+1  Elizabeth was great. Have proper plans in place
+2  Internet going really well. 
+3  Leo really improving 
+4  Climbing regularly 
+5  Back on the notebook. 
+6  Really staying off twitter 
+7  Phone usage is really down. 
+8  Comics is much better 
+9  Started to think properly about happyiness  
+10 Kat applying for jobs 
+11 Kat going to theryap 
+12 Fixed the damn air conditioning  
+13 There are lots of options for being amazing. 
+14 I am following the algorithm 
+15 I'm basically off caffine 
+16 I was climbing 6a!s 
+17 I'm going to have a cool birthday party
+18 We're going to sort out  
+19 Kids meal plans are going really well 
+20 It was okay that I had a day off because I'm great 
+
+This is a gift. It's an absolute gift because now I know. Now I know that this is triggering for me.  I understand that this is a part of me that's trying to look after my interests. Like, I know that there is a part of me that is always looking after me. That spots when I lie. Like, that's part of the problem, I didn't stop to think about what worked for me rather than what worked for their and I didn't trust 
+
+## 28/09/22 13:30 to 14:15, Call with line manager +EQT
+## 28/09/22 14:20 to 15:30, Work related brainstorming with brownie +EQT 
+
+## 28/09/22 19:49 to 20:16,  Delores late +EQT
+I think I've decided that next week the weekly thing will be about getting up early, having a good close down slash going to bed ritual and having the energy. It's going to be a little stressful, but that's were we are.   
+
+Did Delores in 25 minutes: missed some important bits but certainly wasn't rushing. 
+
+
+## 28/09/22 20:16 to 20:39, * Rewrite delores about mental health days. See if you can do a shorter version with check-ins. +EQT
+Also commited and stuff 
+
+# Today 
+Really slow grindy day, NOT in a good place. 
+## 29/09/22 06:09 to 07:35, Getting started and rebooting machine  +EQT
+## 29/09/22 09:03 to 10:11, Trying to get the damn thing working +EQT
+## 29/09/22 10:11 to 10:12, Delores
+## 29/09/22 10:14 to 11:55,  Delores +EQT
+## 29/09/22 11:56 to 12:18, Doing thinking about screenshots  +EQT
+## 29/09/22 12:19 to 12:31, Working on book  +EQT
+## 29/09/22 12:49 to 13:14, Working on book +EQT
+## 29/09/22 13:14 to 14:51, writing talk  +EQT
+## 29/09/22 14:51 to 15:05, Books +EQT
+## 29/09/22 15:37 to 16:04, +EQT
+Checking out other book and replying to messages
+
+## 30/09/22 10:37 to 10:53, 
+So I spent some of this morning just bawling on the floor.  It was the cumulation of several difficult days. Something upset me on Tuesday night, I was angry all Wednesday, exhausted all Thursday and Bawled my eyes out this morning.   It would be good, in future, to speed that up a little bit. 
+
+I've got three things to do today. 
+
+NA: for halloween is talk to Chris across the road.  
+
+
+
+## 30/09/22 11:35 to 13:38, Let's do  the work.  +EQT
