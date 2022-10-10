@@ -8378,3 +8378,98 @@ NA: for halloween is talk to Chris across the road.
 
 
 ## 30/09/22 11:35 to 13:38, Let's do  the work.  +EQT
+
+
+# This week
+* Our priority for this week is: https://github.com/eQualityTime/Home/issues/126 
+* The small self improvement project is to never go to sleep with unsorted 'Joe' boxes. 
+(Edit) Desktop machine got so bad this week that I factory reset it. Between the problems and the solutions it took a lot of time.  
+
+
+# Today 
+✅ Hammering out and mapping the Tightrope project 
+❌ Going Climbing 
+✅ Rest and power 
+
+
+## 03/10/22 06:23 to 07:41, Brainstorming and planning the week.  +EQT
+* Some time knocked off for personal stuff 
+
+## 03/10/22 09:39 to 10:09, Delores +EQT
+* Xcode isn't installed? 
+* Review of last week? Two really solid days and then a complete mess. And really only one of the days was that solid.  
+* Hmm. Delores isn't really up to the idea of a project focused approach is it? 
+* I'd really really like to clear out those next actions. That would be wonderful. 
+* Let's fix it up. 
+
+## 03/10/22 10:13 to 12:23, Todo list +EQT
+There are 77 of them 
+Now at 58 by clearing out the dead wood 
+
+Quickbook notes: if the beginning balance is off, you might be able to reconcile again.  Also it would be nice to do the reconciliation in monthly statements 
+
+* Watching the writing course while having dinner 
+
+## 03/10/22 12:23 to 13:52,  +EQT Writing a big lesson plan thing 
+## 03/10/22 13:53 to 15:15, +EQT  Interview 
+## 03/10/22 15:32 to 15:58,  Grant application +EQT
+## 03/10/22 15:59, Okay +EQT 
+## 03/10/22 16:12, (c) experiment with using a remote aws machine for work.   +EQT
+## 03/10/22 16:20 to 16:40 , Working thorugh https://discourse.ubuntu.com/t/running-ubuntu-desktop-on-an-aws-ec2-instance/13953  +EQT
+
+## 03/10/22 19:55 to 20:30, Hello.  
+Down to 100 of the personal ones, which feels like a lot really. 
+* down to 80, but I'm JUST  clearing dead wood I think.  
+* Did the emotional processing rewrite as well. 
+
+
+## 05/10/22 06:28 to 07:58,  +EQT Writing slides 
+
+## 05/10/22 09:52 to 13:06, Still writing slides +EQT
+Okay, so I think the second session has to be about threat modeling.
+
+
+## 05/10/22 13:07 to 14:09, +EQT Working on slides 
+
+
+# Today 
+✅  Look at the OVF 
+✅  Email Trustees and El about the project 
+❌  Clear out emails 
+❌  Gratitude.  
+
+## 06/10/22 06:20 to 07:30, Setting up factory reset mac. +EQT 
+Worked very well.  Has the advantage that everything I put back on is now the latest version and should have solved problems with the 'different user accounts using sudo'. 
+* Nearly forgot the password to my password manager tho so that would have been difficult.  
+* Vim's script worked (and I fixed some old problems.
+
+## 06/10/22 10:05 to to 12:00, +EQT I've been working on the tightrope project. 
+(and sent) 
+
+
+## 06/10/22 13:08 to 14:47, +EQT OpenVoiceFactory bug 
+
+Okay so there's a file that is producing black backgroundx
+
+* Found out that 0f72fbed64e60b870c7c9520ff24a2b1686fccc6 is the commit used in production
+* There is a refactor branch that is a direct decendent from the main one. It's waiting to be put online. 
+* Okay, both production and local are at the same place. 
+* Ran './create.sh ~/Downloads/error.pptx 4 hope' and got NO errors. I'll check it is valid OBZ    
+* But I strongly suspect there is a problem with colours so I'm going to look at that. 
+* Have emailed - it's an optikey issue 
+
+## 06/10/22 14:47 to 15:43,  +EQT
+Now the emails! 
+
+My emails are kicking my butt 
+
+Just exhausted. 
+
+Turning phone off. 
+
+Putting kettle on.  
+
+
+## 07/10/22 07:11 to 07:16, Rewriting this file.   +EQT
+255 lines! 
+
