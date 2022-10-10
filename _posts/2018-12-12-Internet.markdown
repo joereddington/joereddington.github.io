@@ -5,19 +5,25 @@ title: Public Internet History
 
 _This post was first published in December 2018 and then rewritten in Feb 2022_ 
 
-My web history reveals that I’m far from the person I’d like to be: too much time distracted, too little time doing deep thinking.
+My web browswer history reveals that I’m far from the person I’d like to be: I spend too much time distracted and too little time doing deep thinking.
 
-I’m making my web history public: when I know I might be watched I at least pretend to be the person I want to be. Some of this is about strict ruthless efficiency, some of it is about peeling back an emotional layer and feeling a little less closed in. 
+So I’m making my browser history public. 
 
+## Why
+I'm doing this because I don't like the idea of being a different person in private and public.  I don't want to give myself the option to paint myself in a more flattering light (or as more of a victim than I might actually be) 
+
+## How
 I wrote a script that reads that history from Firefox on my main machine (Firefox syncs history and I use it on my laptop and mobile so those get picked up as well). It runs every 45 minutes or so. 
 
- [To be safe](https://security.stackexchange.com/questions/199557/what-attacks-are-made-possible-by-public-release-of-my-web-history/199569#199569), the script takes out everything but the main domain and time. Over time I've 'whitelisted' some domains so that you can see, for example, what I'm watching on YouTube or struggling with on Stackoverflow. You can see the history so far [here](https://joereddington.github.io/export-history/). The page starts from 2018-12-10. 
+[To be safe](https://security.stackexchange.com/questions/199557/what-attacks-are-made-possible-by-public-release-of-my-web-history/199569#199569), the script takes out everything but the main domain and time. Over time I've 'whitelisted' some domains so that you can see, for example, what I'm watching on YouTube or struggling with on Stackoverflow. You can see the history so far [here](https://joereddington.github.io/export-history/). The page starts from 2018-12-10. 
 
 ##### FAQs
 
 *   I know about private mode. I don’t use it (I will have to from now for any sensitive work)
-*   I know that there are lots of other ways around my history appearing. All of which are more work than, you know, stopping doing the thing I’d want to hide.
-*   Yes this is information that removes my anonymity and could be used steal an identity. I’ve thought about that a lot (it’s about my family and they come first) and asked people I trust. However, it’s also a lot less information that is already on Facebook and other places about me, or lots of other people. If I get hurt because of this, you’ll read about it here first.
+*   I know that there are lots of ways to stop my history appearing. All of which are more work than, you know, stopping doing the thing I’d want to hide.
+*   Yes this is information that removes my anonymity and could be used steal an identity. I’ve thought about that a lot (it might also have an effect on my family) and asked people I trust. However, it’s also a lot less information than is already on Facebook and other places about me, or lots of other people. If I get hurt because of this, you’ll read about it here first.
 *   This doesn’t include pages visited when livestreaming – I have a different account for that. Given that it’s live streaming I don’t think I’m hiding anything there.
-*   I don’t (normally - I've gone through phases over the last few years) have the Instagram or Facebook app on my phone (which wouldn’t be recorded).
+* 
+*   I don’t (Normally - I've gone through phases over the last few years) have the Instagram or Facebook app on my phone (which wouldn’t be recorded) - if I look at social media on my phone I use the mobile web browser - and that appears in the list. 
+
 
