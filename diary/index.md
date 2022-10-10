@@ -8442,6 +8442,8 @@ Okay, so I think the second session has to be about threat modeling.
 Worked very well.  Has the advantage that everything I put back on is now the latest version and should have solved problems with the 'different user accounts using sudo'. 
 * Nearly forgot the password to my password manager tho so that would have been difficult.  
 * Vim's script worked (and I fixed some old problems.
+* There are a few pip3 installs to do that I missed. 
+* I forgot my bashrc! That's super annoying 
 
 ## 06/10/22 10:05 to to 12:00, +EQT I've been working on the tightrope project. 
 (and sent) 
@@ -8473,3 +8475,12 @@ Putting kettle on.
 ## 07/10/22 07:11 to 07:16, Rewriting this file.   +EQT
 255 lines! 
 
+# Sunday morning. 
+
+## 09/10/22 06:48 to 06:58, 
+Well, something has gone wrong here... I'm missing some information.  
+
+Looking at the todo. 
+
+
+## 09/10/22 07:01 to 08:01, Writing gratitude
