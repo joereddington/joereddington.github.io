@@ -8449,7 +8449,7 @@ Worked very well.  Has the advantage that everything I put back on is now the la
 (and sent) 
 
 
-## 06/10/22 13:08 to 14:47, +EQT OpenVoiceFactory bug 
+## 06/10/22 13:08 to 14:47, +EQT OpenVoiceFactory bug  +EQT
 
 Okay so there's a file that is producing black backgroundx
 
@@ -8484,3 +8484,128 @@ Looking at the todo.
 
 
 ## 09/10/22 07:01 to 08:01, Writing gratitude
+
+# Today 
+* Today I want to show myself that I'm back. Back baby. Let's do some things! 
+* EDIT - that was pretty successful. Did lots of little thigns  
+
+## 10/10/22 06:15 to 07:58,  Monday morning.  +EQT
+* Internet off 
+* Rewriting this file. Incredibly it's been a full week.  
+* Okay, so that was interesting to look back on the week. Some big bits done, but it's hardly that impressive 
+* The bash rc! 
+  * agggh! I wonder if I can get it off the laptop 
+* Mapped the google ads project 
+
+
+## 10/10/22 09:29 to 10:51, +EQT AWS backup scripts 
+All our code is running in AWS, which has it's own backup systems. But there are risks with that: 
+* AWS has a disaster 
+* We have a billing problem with AWS and get locked out.  
+* We find a cheaper solution. 
+
+So, we want to be able to recover quickly if there is a problem. 
+
+- [x] Write a script that compresses and encrypts the obz files on sever into a single archive
+      * Not viewable from web 
+- [x] Have reoccuring task to run the script and download the archive.
+- [x] Have recoccuring task to check that IMPS runs locally and has copies of the databases 
+- [x] Put multi-git-status on both AWS servers so that we can find all the git repos and their status. 
+- [x] Reoccuring task to check that all of the code on server is pushed to cloud. 
+
+* Password for the file is in firefox 
+* The encrypt command is sudo zip -e backup.zip html/designs/*.obz and it will ask for a password.
+
+# So far 
+* I've set up the regular reminders
+* I've put multi-git-status on OVF AWS 
+  * Fixed the demo file link while I was there. 
+  * Multi-git status pointed out a few things to change so I've updated the staging files and cleared some crap (this also happened with IMPS3 ) 
+* I've worked out the command line switches for a password protected file  (above)
+* I've scp'd the password protected file down to the hard dirve. 
+
+
+## 10/10/22 10:54 to 11:13, Fix annual leave sheet +EQT
+* I've set up the main annual leave sheet to start again from 31/8/2022. Currently 4 days being (although some of them were unannouced leave). 
+
+## 10/10/22 11:14 to 11:44, Fix the bash_profile +EQT
+* First, spend half an hour messing about with the bash_profile (otherwise history of commands is going to be fucking boring. 
+
+## 10/10/22 11:44 to 13:58, (E) 10 Fix lnc and lnh  on vim.  +offline 
+## 10/10/22 14:00 to 15:30, +EQT Meeting  with Yvonne and Dan 
+14:04, research.facebook.com/research-awards/2022-foundational-integrity-research-request-for-proposals/#requirements 2022 Foundational Integrity Research request for proposals - Meta Research
+14:14, not-equal.tech/ Not-Equal | Join Network+ | Social Justice through the Digital Economy. – Not-Equal – supporting social justice in the digital economy | Challenges: Algorithmic social justice, digital security & fairness in work | Join Network+.
+14:29, en.wikipedia.org/wiki/Stable_Diffusion Stable Diffusion - Wikipedia
+14:54, www.samsungsds.com/en/insights/what-are-cheapfakes.html What Are Cheapfakes (Shallowfakes)
+15:12, en.wikipedia.org/wiki/List_of_common_misconceptions List of common misconceptions - Wikipedia
+## 10/10/22 15:59 to 16:26, (E) 10 Fix lnc and lnh  on vim.  +offline 
+I really want to make good notes and track time properly. So that involves having a look at lnc and lnh. 
+
+...and actually that turns into a small part of 'properly fix and expand export_history' 
+
+* The command starts as noremap lnh 0f y$ :r !"/Volumes/Crucial X8/git/export-history/history_list.sh" """
+* I've created the new firefox profile for tests. 
+* I've created a new branch that is only for code. Sooner or later we'll move away from this stupid git approach.  
+* Tests are working and I've committed. 
+* Now to check if it works at all.  
+* Okay, I've got a script that works. 
+* I've put in the gaps 
+* I've removed some code I don't like. 
+
+* NA is to make scripts for the lnh 
+
+I've fixed lnh, which is lovely. Pushed and merged the code, setup the crontab, setup a test script, updated the domain filter so that it doesn't add html unecessarily, and am happy   
+* Lnc only needed some small adjustments
+
+# Todo 
+* test the deploy script. 
+* Proper test coverage. 
+* Fix the script location  
+* Get the testing working properly
+  * Get some outputs happening
+* Have a command line thing 
+* Setup the cron
+* Write the blog 
+
+## 10/10/22 20:23 to 21:05, +EQT Writing talk 
+
+
+
+## 11/10/22 06:14 to 06:37, Hello  +EQT
+## 11/10/22 06:38 to 07:55, Email +EQT
+## 11/10/22 10:30 to 11:53, Email +EQT
+## 11/10/22 13:30 to 13:59, Back +EQT Working on Talk
+## 11/10/22 14:00 to 14:34, Meeting pitching Tightrope  +EQT
+## 11/10/22 14:40 to 16:17, What am I doing? Writing a course/talk +EQT
+(worked out from history) 
+
+## 12/10/22 06:20 to 08:05, Hello +EQT  
+## 12/10/22 09:34 to 09:55, (B) Backup the CK downloads folder on dreamhost +EQT
+## 12/10/22 10:43 to 11:24, Search for funding for eQuality Time Projects +EQT
+## 12/10/22 11:24 to 12:36, Research dive on missing children. +EQT
+## 12/10/22 12:53 to 13:22, Okay 10 left   +EQT
+## 12/10/22 13:36 to 14:37, Bring the OVF code up to date. Let's have a look . +EQT +OpenVoiceFactory
+* Ran the tests on the refactor branch. All passing
+* Created a branch called 'staging' (from main) and squash committed refactoring into it
+* Pushed to server 
+* Tested on the staging server
+  * UI test on staging server. 
+  * Failed because I can't acces sthe file? 
+  * Where is the file? 
+  * The link is https://designs.theopenvoicefactory.org/1c25139e979edc635282b3004ac38d08.obz
+  * find . | grep d08.obz didn't find anythingk  
+* Okay this is either a problem with the code or the staging area.  
+  * The command works from the console. (and puts the code with the rest of the obz 
+* Why doesn't the debugging information work? 
+  * On either of them? 
+  * Oh - the create file is NOT producing any output
+* The problem turned out to be permissions in the staging area. 
+
+## 12/10/22 14:37 to 15:04,  Tidying
+## 12/10/22 15:04 to 15:48, +EQT OVF code again   +OpenVoiceFactory
+## 12/10/22 20:07 to 20:07, +EQT OVF code again +OpenVoiceFactory
+## 12/10/22 20:08 to 21:15, +EQT writing talk for RHUL 
+## 13/10/22 09:48 to 10:21, fixing +EQT site (found from commands)
+## 13/10/22 11:48 to 23:20, Networking day +EQT 
+* Lots of follow ups needed 
+
