@@ -8609,3 +8609,125 @@ I've fixed lnh, which is lovely. Pushed and merged the code, setup the crontab, 
 ## 13/10/22 11:48 to 23:20, Networking day +EQT 
 * Lots of follow ups needed 
 
+## 17/10/22 09:40 to 10:42, Working on the Security Project +EQT 
+* Emailed about logos, domain names, and classrooms  
+## 17/10/22 10:42 to 10:55, Getting delores rolling +EQT 
+## 17/10/22 10:55 to 11:27, Call from trustee +EQT
+## 17/10/22 11:27 to 11:33, Adding a vim mapping +EQT
+## 17/10/22 11:33 to 11:59, Back to Delores +EQT
+* Also iterating laundry and shaving 
+
+## 17/10/22 11:59 to 12:26, Delores (gratitude +EQT) 
+* Do I want to go climbing? 
+  * yes, Yes I do. 
+  * Kit is all in bag 
+* Climbing (or proper film) 
+* At 4pm we're going to do the social media
+## 17/10/22 12:26 to 12:46, Delores (processing boxes +EQT) 
+## 17/10/22 12:47 to 13:12, Processing this file.  +EQT
+
+## 17/10/22 14:09 to 14:09,  +EQT 
+## 17/10/22 14:09 to 14:23, +EQT +OpenVoiceFactory
+Push-pulling to get the most recent code locally 
+## 17/10/22 14:25 to 14:31,  Working on stack  +EQT
+
+## 17/10/22 14:31 to 15:22, (B) Review school mail merge  on: https://github.com/eQualityTime/Home/issues/115 +EQT
+* I've reviewed and fixed up the code. 
+* I now understand that the follow up csv has to be created locally - because it's directly relevant to the mail merge itself. (allbooksever grows for example)  
+* So I have to create a function that creates the follow up list. 
+  * Probably in core, because it will be simple. 
+    * Name, email, linked email. 
+* Wrote a thing to get the csv out. 
+* Added a module to get out the thing 
+
+## 18/10/22 05:58 to 06:31, Networking +EQT
+## 18/10/22 06:31 to 07:50,Email +EQT
+## 18/10/22 09:35 to 13:08, Email +EQT
+## 18/10/22 13:08 to 13:16, Delores +EQT
+## 18/10/22 14:13, That was quite a break
+## 18/10/22 14:13 to 14:31, Delores +EQT
+
+## 18/10/22 14:48 to 15:52, Rolling Google ads project. +EQT 
+* I've build the spreadsheet and filled it in for the first week. 
+* It's pretty shit. Now I need to find ways of improvement.
+* Looking at the others - 'nothing content related' is our most common! 
+## 18/10/22 15:59 to 16:08,  Going out to deliver cards
+
+# It's my birthday! 
+❌  Finnish the mail spreadsheet thing 
+✅  Rolling Google ads: project real. 
+  * Particularly the live downloads 
+✅ (mostly)  Blast through the todos   
+❌  Tonight I want to watch the new Edgar Wright film 
+❌  You know, I really want a comic today. It would be super fun to get into that habit.  
+
+## 19/10/22 09:45 to 10:18, +EQT  Faffing with vim 
+## 19/10/22 10:18 to 11:00, Ticking off small tasks in the eqt todo +EQT
+* What followups do I need to from the talk... 
+* Only 29 left. That's suprisingly doable 
+
+
+## 19/10/22 11:02 to 11:15, +EQT https://github.com/eQualityTime/Home/issues/127
+## 19/10/22 13:16 to 14:05, +EQT https://github.com/eQualityTime/Home/issues/127
+## 19/10/22 14:05 to 14:31, More on Google analytics +EQT
+
+
+# Today. 
+* Set up Trick-or-treat.
+* Delores
+* Clear Inbox 
+
+
+
+## 20/10/22 06:25 to 07:39, More on the Google analtics  +EQT
+## 20/10/22 09:32 to 11:03, More on Google analytics  +EQT 
+I have blogged it at https://joereddington.github.io/2022/10/17/ga4.html  
+## 20/10/22 11:03 to 11:28, Rewriting this file. 
+
+## 20/10/22 11:30 to 12:06, Comic 
+## 20/10/22 12:06 to 13:04, https://github.com/eQualityTime/Public/issues/163  +EQT
+* Updating the project file 
+* Creating a folder
+* Worked out the right amount of money to transfer is £3,271.24 (the workings out are in the annual leave file) and have created a journal entry
+* Checked and it now looks like our accounts are back, and we show a profit on the year (yay!) 
+NA: on this is to create the files.
+NA: Fill out the red shaded areas 
+
+
+## 20/10/22 15:09 to 15:55,      Tightrope +EQT
+Building a website
+* Have created the email and added it to the mailchimp
+* Have done a basic page 
+Have messaged. 
+
+
+Alright, let's have a sprint! 
+
+
+## 20/10/22 16:00 to 17:11,  Been having lots of fun making a comic +EQT
+* Still amazingly slow. Amazingly  
+* I've reached the point were I have to clear a row. 
+
+## 22/10/22 14:00 to 15:00, +EQT call from 6th form 
+
+## 22/10/22 16:21, Let's properly work out git blame 
+* Ah - it's NOT git blame, it's git bisect
+
+
+bash-3.2$ git bisect good
+Bisecting: 0 revisions left to test after this (roughly 1 step)
+[8a6cc715c17945ec13ca6ccb56f1c5795053531c] New comic!
+bash-3.2$ git bisect good
+ac6bc10104629d34a2ec91e407aed2c7d9cad3da is the first bad commit
+commit ac6bc10104629d34a2ec91e407aed2c7d9cad3da
+Author: Joe Reddington <joe@joereddington.com>
+Date:   Fri Oct 21 13:28:17 2022 +0100
+
+    Fixing bug with mobile view of page
+
+ Gemfile.lock               | 12 +++++++-----
+ _posts/2022-09-14-comic.md | 32 ++++++++++++++++----------------
+ comics.todo.txt            |  1 +
+ 3 files changed, 24 insertions(+), 21 deletions(-)
+bash-3.2$ 
+
