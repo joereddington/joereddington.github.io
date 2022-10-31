@@ -8731,3 +8731,86 @@ Date:   Fri Oct 21 13:28:17 2022 +0100
  3 files changed, 24 insertions(+), 21 deletions(-)
 bash-3.2$ 
 
+## 24/10/22 06:30 to 07:43, Fixing comics
+## 24/10/22 10:00 to 10:44, +EQT a variety of electrical and other things to fix
+* Also rebooting this stupid machine. 
+* The firefox profile being lost
+## 24/10/22 10:44 to 10:57, Just fucking nothing is working this morning +EQT
+## 24/10/22 10:57 to 12:19, Delores and Email +EQT
+* All internet is off. Breathe joe. Just breathe. 
+* Inbox clear
+
+## 24/10/22 12:19 to 12:46,  +EQT delores
+Now processing this file. 
+## 24/10/22 12:46 to 13:09, Working on Google Ads https://github.com/eQualityTime/Public/issues/164  +EQT
+
+## 25/10/22 06:27 to 06:56, Very fast comic. 
+Okay, seven  images on a page. 
+
+
+
+## 25/10/22 06:56 to 07:52, Chainmail +EQT
+Creating tests
+Chainmail 
+python3 -m unittest                                       
+pip3 install coverage                   
+python3 -m coverage unittest            
+python3 -m coverage -m unittest          
+python3 -m coverage run -m unittest     
+python3 -m coverage report              
+python3 -m coverage html                 
+open htmlcov/index.html                 
+
+I did a reasonable amount of refactoring on an early file so that I could now work out what was happening. 
+
+I need to rename a lot of thigns to make this make sense
+
+What do we call the set of fields that will go into the template? records?  
+
+
+
+## 26/10/22 06:10 to 06:43,  +EQT
+Jesus I'm tired. Delores presumably  
+
+
+
+
+
+
+## 26/10/22 10:14 to 11:47, Plan +EQT 
+I've got a plan. It's called five hours of work. 
+
+I'm going to do five hours of offline work in this library (breaks for toilet) then I'm going to monstera for food and to send the resulting emails.   Update: I did need to go online for the actual files to work on. 
+
+Grumps: I'm a bit cold and starting to lose concentration. Also quickbooks doesn't work and ovf doesn't work.   Not that that matters because the thing I actually have to do is still possible.    
+
+
+## 26/10/22 11:00, First hour went well. 
+## 26/10/22 11:09, Aggg - stupid lack of internet means I have to start saving things again. 
+
+## 26/10/22 11:26, bit bored with the risk register now. 
+## 26/10/22 11:26, How about looking into ovf 
+## 26/10/22 11:28, Okay, let's think about this. 
+
+
+
+working on the risk register in libreoffice 
+using this description to for risk area: https://blog.bcm-institute.org/bcm-planning-methodology/assessing-your-risk-descriptor-for-seven-risk-impact-area
+
+
+## 26/10/22 11:47 to 15:46, more lcoation work +EQT
+* Inclduing trustee emails and emailing about luton college
+
+## 26/10/22 21:08, Comic work. 
+## 27/10/22 06:25 to 06:36, Comic and twitter 
+* Found out that I really can use child-selectors to do a proper page, and have created a working.md to get started with. 
+
+## 27/10/22 06:35 to 07:29, Hello.  +EQT
+Okay so when do we do our social media and our exercise? 
+* Climbing at night? Is the harness cleaned 
+
+
+## 27/10/22 20:39 to 21:01, Comic 
+Still very slow - even with the layout help.  Giving up haflway
+
+## 28/10/22 10:29, starting comic again 
