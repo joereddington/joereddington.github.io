@@ -8814,3 +8814,72 @@ Okay so when do we do our social media and our exercise?
 Still very slow - even with the layout help.  Giving up haflway
 
 ## 28/10/22 10:29, starting comic again 
+
+## 31/10/22 06:41 to 07:21, Delores +EQT
+## 31/10/22 09:38 to 10:07, Process this file.  +EQT 
+## 31/10/22 10:07 to 10:26, Time for the google ads experiment  +EQT +openvoicefactory
+* Created two new ad groups for OVF 
+
+## 31/10/22 10:27 to 12:30, (A) Produce accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT +online
+Took a while to work out subscriptions. 
+Sent! 
+
+## 31/10/22 12:30 to 13:09, +EQT +openvoicefactory
+Working on emailing everything out. 
+
+## 31/10/22 13:59, That was a big of low fcosu   +EQT
+## 31/10/22 13:59 to 15:40, Working on +openvoicefactory +EQT tasks
+* Oh cool, there's already a generate_regressions.py file. 
+(E) OVF - rewrite create.sh - it should be fine with a space in the filename
+(E) Fix the OBF debugging information issue (the script is redirecting all input to a file) 
+(E) Fix regression tests for OVF (new colour)
+(B) Sprint on these gentle ovf fixes https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT
+(B) Review and revise the OVF documentation doc https://github.com/eQualityTime/Public/issues/162 +EQT
+
+
+
+## 31/10/22 16:00, (D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
+
+I'm a bit unsure of the giving talks one - don't want to turn up and be attacked but I can also make that clear at the start.  
+
+So what's the ask? I want to come to you and write some books?  I want to teach people to write books?  
+
+## 01/11/22 05:35 to 06:45, making comic 
+## 01/11/22 09:43 to 15:48, +EQT working on list. 
+Big things were chainmail (manchester emails) and some focusing on emailing people about talks and other projects.  Experimenting by returning to focus entirely on the todo list and forgive myself for the occasional social media.  
+## 02/11/22 06:50 to 07:50, I'm here. 
+* Installed dropbox 
+* Set up for the charity data download  (which was annoying NOT availible) 
+
+## 02/11/22 09:20 to 10:36, Phone calls, one after the other +EQT
+
+## 02/11/22 10:56 to 12:18, Working on OpenVoiceFactory manuals +EQT
+Everything sluggish with dropbox, might have to pause and leave overnight. 
+Trying to install jq with brew 
+
+
+## 02/11/22 12:18 to 13:02, WWW again +EQT
+Okay here's what I've done
+* Found the spreadsheet by tracking down the VA 
+  * the drive file https://docs.google.com/spreadsheets/d/1ni4npqxb416S0MKFlgRIirHq8K7SGeSjZV1V59l1y0U/edit#gid=0 
+* Created the folder and the code in chainmail 
+* Stripped the code right down into the very basics. 
+  * In General this is how I should be running this files - from basically nothing and then a short sequence of things that are already in core. 
+
+- 02/11/22 smallest next step: Is to do the fucking horrible 'finding the person' bit. I hate that.  
+
+The next thing is to write, with tests, the code for generating from a script. 
+
+## 02/11/22 13:08 to 13:33, Back to OVF +EQT 
+* bash-3.2$ cat publicextract.charity.json |  jq '.[]| join("$")' > big.csv
+  * Feel like there is probably a better way of doing that... 
+* Yeah, this is now a chainmail problem - read the database, sort it out. 
+* Okay we're now at the coding level 
+ 
+## 02/11/22 13:33 to 16:29, Moving forward with tests and stuff.  +EQT
+The thing you are about to do is  write the tests for create and expand contacts (which you should have one in advance...) 
+
+Jesus - this doesn't feel efficient when I take this long... 
+
+
+
