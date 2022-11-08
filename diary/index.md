@@ -8444,6 +8444,11 @@ Worked very well.  Has the advantage that everything I put back on is now the la
 * Vim's script worked (and I fixed some old problems.
 * There are a few pip3 installs to do that I missed. 
 * I forgot my bashrc! That's super annoying 
+EDIT: 
+  * Several months later I have more feedback 
+    * Use pip3 freeze to create a list of all python modules on the system.(possibly regularly so I can sync up laptop on dekstop  
+    * bashrc didn't have much in it really. Wasn't missed.  
+
 
 ## 06/10/22 10:05 to to 12:00, +EQT I've been working on the tightrope project. 
 (and sent) 
@@ -8883,3 +8888,165 @@ Jesus - this doesn't feel efficient when I take this long...
 
 
 
+## 03/11/22 06:10 to 07:31,  +EQT
+Working on this file, google ads, general getting starting. 
+## 03/11/22 09:13 to 13:49, +EQT email
+Ticking them off. 
+
+## 03/11/22 13:49 to 15:59, Time for an attack of the personal todo list
+We start with over 116, got down to 43 with a bit of a power hour. 
+
+
+
+
+## 04/11/22 09:40 to 11:17, Hello. 
+it's clear that a 'do five minutes on everything' task would be a really good idea to wipe out some of these. 
+
+# Big work thing for the week
+* All the chainmail things sent
+
+
+# Small self-improvement thing for the week. 
+* No internet after 6pm or before 8pm. Checked with the export history. 
+  * Could probably do with some code. 
+  * Needs exceptions for: Google maps and when I'm out of the house. 
+    * and calendar 
+* exercise really needs to start 
+
+
+## 07/11/22 03:41, Jarvis, you up? 
+
+## 07/11/22 03:42 to 04:29, It's a working day. Let's see what we can do...  +EQT
+* Read up on some vim stuff
+* Dropbox 
+  * Starts at 326GB - I'm pulling out the particularly big ones. 
+    * Of which 144G is Camera uploads! They can stay there I think but I would like the backup. 
+
+
+ 11M    ./To uploads
+ 12M    ./Personal Finance
+ 12M    ./data
+ 12M    ./eQuality Time Confidential
+ 15M    ./Teaching
+ 16M    ./White Water 2015
+ 18M    ./Sibs
+ 20M    ./Jobs
+ 22M    ./iTest
+ 23M    ./ironclad
+ 31M    ./ck_icons
+ 32M    ./From USB sticks
+ 34M    ./codeThatIsNotJava
+ 38M    ./.dropbox.cache
+ 41M    ./sqllite
+ 43M    ./RSC
+ 49M    ./Photos for frame
+ 49M    ./Public
+ 49M    ./oldVision
+ 54M    ./gromit
+ 56M    ./Hosted for people
+ 65M    ./Photos for editing
+ 67M    ./Kate hates
+ 74M    ./Nice Things book
+ 86M    ./Photos for other people
+ 96M    ./Meditation
+1.1M    ./Photos for cork board
+1.1M    ./Workflows
+1.7M    ./New export
+120M    ./Christmas 2016 photos
+131M    ./Richard Christmas Photos 2015
+146M    ./qt
+147M    ./Photos
+193M    ./tenders
+198M    ./Dementia
+2.3M    ./Books
+2.6M    ./WWW
+2.7M    ./SwipeTableCell
+2.7M    ./SwipeTableCell copy
+240M    ./JOE DOCS
+241M    ./latexPapers
+249M    ./USBkit
+275M    ./HOUSE SEARCHING
+3.2M    ./pdfs
+3.4M    ./WWW Data
+356M    ./Kat Backup of photos on SD card
+380M    ./Handover from Lisa
+386M    ./screenshots
+388M    ./ITP videos for AzuleJoe
+4.0M    ./scripts
+4.4M    ./InvoiceISAAC
+4.9M    ./RSC (1)
+418M    ./Eric2019
+433M    ./Doghouse photos
+468M    ./BABY
+486M    ./Recorded Calls
+5.3M    ./analysiskit
+5.4M    ./Nw6
+514M    ./presentationsAndSpeeches
+516M    ./podcast1edited.band
+547M    ./August export sms photos and messages
+586M    ./TOVF videos
+595M    ./screeenshots-old
+6.6M    ./freedomOfInformation
+681M    ./analysis
+686M    ./textmessagebackup
+7.6M    ./Jarvis
+724M    ./AAC and literacy skills
+739M    ./BJJ Grading
+8.1M    ./rich file for dropbox
+8.5M    ./staff handbook
+880M    ./Archive
+896M    ./for Joe
+9.0M    ./Deamhostbackups of databases and such
+904M    ./eQuality Time
+992M    ./Richard MicroSD card for R4 card
+999M    ./combinetest
+
+1.0G    ./Houses
+1.1G    ./Nova Photos
+1.2G    ./Cooper Family
+1.4G    ./Apps
+1.4G    ./screencasts
+1.8G    ./Camera Photos
+1.9G    ./CommuniKateShared
+144G    ./Camera Uploads
+3.3G    ./Comics
+4.6G    ./equality time - Project Media
+5.3G    ./DesktopTracking
+8.4G    ./Dreamhost
+ 10G    ./archives
+ 11G    ./storage
+ 13G    ./File requests
+ 15G    ./Online only files looks empty
+ 33G    ./Big dreamhost
+ 40G    ./Joe Reddington - Video Takes
+326G    .
+* Organising dropobx a bit. 
+  * Lots of slow copying. THis will take a while. 
+* Do I want to improve Delores? I'm kind of cycling away from that... 
+
+There are only 26 things to do in the todo list. And we're looking good.  
+* I mean, is it the thing I thought? That delores gets so much in the way that I don't focus on the right stuff? And that I've got a lot better at *other* stuff to the point that I can now nail the list? 
+
+## 07/11/22 04:28 to 05:24, Chainmail code for charities...  +EQT
+* The contacts file should be the main thing right? Like, that's were all the strings should end up... 
+* Getting a bit stuck working out how to do the design. 
+
+I understand what I want. 
+
+Wait, can I do this backwards. 
+What if I passed the whole string to contacts?
+* 'Contact' the class inherits from the core. 
+* Nah, this boils down to populating a string, let's NOT get fancy - find out how you format a string with a dic and come back
+
+## 07/11/22 05:25 to 05:34, More Dropbox   +EQT
+
+## 07/11/22 05:34 to 05:45, Reviewing document  +EQT
+NA: is text-to-speech so get headphones
+
+## 07/11/22 05:45 to 07:08, Various delores, break for family +EQT
+
+## 07/11/22 07:28 to 08:03, Tidying processing fixing +EQT
+* But mostly brainstomring
+
+
+## 07/11/22 09:45 to 11:16, Back - social media and working on manual.+OpenVoiceFactory  +EQT
