@@ -9050,3 +9050,41 @@ NA: is text-to-speech so get headphones
 
 
 ## 07/11/22 09:45 to 11:16, Back - social media and working on manual.+OpenVoiceFactory  +EQT
+# Today 
+
+I've done two good bits of work today 
+
+✅ send Kate the revised manual 
+✅ got the chainmail code in much better shape 
+✅ Send updated accounts to Sarah 
+
+
+## 08/11/22 05:50 to 06:14,  Working on Manual +openvoicefactory +EQT
+Gone through - have some online things to do now. 
+
+## 08/11/22 06:15 to 06:23, Okay, we're going online. +EQT
+pip3 freeze makes a list of requirements so we can install all the dependencies...
+
+## 08/11/22 06:24 to 06:36, IMPS3 syncing up +EQT
+* Updated the syncscript (since I changed the ssh keys)
+* Installing php (with brew?)  
+
+## 08/11/22 06:56 to 07:08,  Manual again +openvoicefactory +EQT
+## 08/11/22 07:08 to 08:03, Working on chainmail +EQT
+## 08/11/22 09:40 to 09:57, Working on code +EQT
+## 08/11/22 09:57 to 11:59, Emailing potential artsits +EQT
+## 08/11/22 12:08, Okay, making a curry.
+## 08/11/22 12:48 to 13:44, Right - reply to Francesaca  +EQT
+## 08/11/22 13:44 to 15:53, Okay, two hour figthing thing.  +EQT
+The idea was to move each thing exactly one space forward. Did the accounts instead ✅ 
+
+(A) 30 Email some more 6th forms for tightrope.  +online
+
+Messaged Richard 
+
+(A) 40 Make corrections to accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT +online
+
+Completely redid a thing  and ended up doing the whole damn thing. Silly me. 
+
+## 08/11/22 15:53 to 16:46, Trying again.  +EQT
+Sorted out a few more bits. Hit my eight hours.  
