@@ -8439,6 +8439,7 @@ Okay, so I think the second session has to be about threat modeling.
 ❌  Gratitude.  
 
 ## 06/10/22 06:20 to 07:30, Setting up factory reset mac. +EQT 
+Tags: factory reset factory resetting reinstalling reinstallation
 Worked very well.  Has the advantage that everything I put back on is now the latest version and should have solved problems with the 'different user accounts using sudo'. 
 * Nearly forgot the password to my password manager tho so that would have been difficult.  
 * Vim's script worked (and I fixed some old problems.
@@ -8448,6 +8449,8 @@ EDIT:
   * Several months later I have more feedback 
     * Use pip3 freeze to create a list of all python modules on the system.(possibly regularly so I can sync up laptop on dekstop  
     * bashrc didn't have much in it really. Wasn't missed.  
+    * installing universal ctags from brew "brew install universal-ctags" migth be an idea  
+    * brew install --cask mactex #For latex.  
 
 
 ## 06/10/22 10:05 to to 12:00, +EQT I've been working on the tightrope project. 
@@ -9088,3 +9091,175 @@ Completely redid a thing  and ended up doing the whole damn thing. Silly me.
 
 ## 08/11/22 15:53 to 16:46, Trying again.  +EQT
 Sorted out a few more bits. Hit my eight hours.  
+## 09/11/22 06:00 to 06:27,  Clocking in +EQT
+Did some good planning 
+
+## 09/11/22 06:28 to 06:50, (B) 60 Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT +offline +TheOpenVoiceFactory
+Set up a new file that allows unittesting. Next step is to actually refactor the files so that's a thing (also to do the same for IMPS3 
+
+## 09/11/22 06:50 to 07:26, Building Domesday site. +TheOpenVoiceFactory (ish) +EQT
+## 09/11/22 07:26 to 07:43, Okay, 11 things left to do   +EQT
+Breaking down the list. 
+
+## 09/11/22 07:43 to 07:54, Going online  +EQT
+Some small email 
+
+## 09/11/22 10:04 to 10:26,  +EQT
+Agggh! Domesday dateset was already online. 
+
+## 09/11/22 10:26 to 10:34, +OpenVoiceFactory +EQT
+Investigated bug and created issue for it because it turned out to big. Well, NOT that big. It was probably JUST  about writing the correct tests.
+
+## 09/11/22 10:34 to 11:36, Google ads for Open Voice Factory +EQT +OpenVoiceFactory
+## 09/11/22 11:37 to 11:43,  +EQT Supertitle search 
+## 09/11/22 11:43 to 12:12, Trying new OVF commits on server  +OpenVoiceFactory  +EQT
+## 09/11/22 12:12 to 12:20, emails +EQT
+## 09/11/22 12:40 to 13:05, Emails +EQT
+## 09/11/22 13:05 to 13:34, +OpenVoiceFactory again  +EQT
+The code is updated! 
+## 09/11/22 13:34 to 14:24, Supertitle +EQT
+Trying to find the code, found later 
+
+## 09/11/22 14:24 to 16:54, Email +EQT
+
+## 09/11/22 19:04 to 19:26, Quick look at the personal todo. 
+Transferred a blog post
+## 09/11/22 19:57 to 20:28, Memory book promotion 
+## 10/11/22 05:15 to 05:50, Working on Chainmail +EQT
+## 10/11/22 05:55 to 06:50, Okay going online.   +EQT
+* Cleared the inbox (only five thinkgs  
+
+## 10/11/22 11:14 to 11:32,  Call with Prison lady +EQT 
+## 10/11/22 11:32 to 12:19,  Did a short slidedeck  +EQT
+## 11/11/22 04:53, My course access for the fermentation one expries in 10 days. 
+* Penciliation is a defence! Because microbies don't like to share! (Alcohol is also)  
+
+## 14/11/22 06:32 to 07:55, Hello   +EQT
+Look - a completely blank todo list. How cool is that? Particularly because I can go through and add a bunch of things I want to do. 
+* Ran igor - 45 things to do. 
+  * How many are Monday things? 
+* Bought a printer 
+* Read a chapter of a book 
+  * installed ctags while there. 
+* Put events in calendar 
+* 16 things already! 
+  * Speaks to a lot of things (IMPS3, OVF) NOT being in the calendar at all. 
+
+## 14/11/22 07:55, Analyics +EQT
+
+* Make an event to come back and check 
+
+CK G-VN39HLQV1J 
+Domesday G-HKVXXN46GM
+
+NA: you are about to put the tracking id into Communkate (blue vim) and upgrade the css for Domesday  
+
+## 14/11/22 10:17 to 12:39, Hello   +EQT
+* Tried to call about the hearing 
+* Sorted the estimate 
+* Iterated the WWW Google ads  
+* 15 left. 
+* Did some Dropbox sorting. Lots left to do. 
+* 14 left. 
+* Processed the git directory - 13 left. 
+  * There's still a bunch of things that need some work, but actually everything fair. 
+
+## 14/11/22 12:39 to 16:10,  +EQT git and php testing  +EQT
+Well, spent a lot of today on this. 
+
+* I've added a php test file. 
+* I've started using a php formatter beautifier pep thing.  
+   576  phpcs functions.php
+    577  phpcbf functions.php
+* There are relatively few tests, but there has been a reasonable amount of refactoring to do. 
+
+Next steps 
+* Very definitely test in production - I've been playing fast and loose with some of the file stuff. 
+* Put a 'beautify this' command in vim. 
+* Start working through the open issues to see how many of them are a bit easier with a test. 
+
+## 15/11/22 05:38, Email from phone +EQT
+It was nice and warm by the cooker
+
+## 15/11/22 06:58 to 07:30, Trying php on server   +EQT
+* Upgraded the php(!) Really pleased with that 
+* Checked the code, squashed the commit and left it running
+* Fixed a typo on the 404 page.  
+* Reviewed the open issues - nothing I feel like doing right at this second. 
+
+## 15/11/22 07:30 to 07:59, Bought a safe  +EQT +tightrope
+
+## 15/11/22 10:00 to 11:31,  Fixing the chainmail code for MATs +EQT
+Uggh. Literally ended up just sorting the drive document and getting despondent
+
+## 15/11/22 11:31 to 11:58, Brainstorms  +EQT
+* The 'work on' tasks should be JUST  that - because then you update the damn issue. 
+* Also some emails and code. 
+* Working on the mat one. The next code problem is that I now need to get the latex to cope with multiple letters one after the other. 
+
+
+## 15/11/22 12:03, Lunch 
+## 15/11/22 13:00 to 14:05, back +EQT
+So, I'm a bit torn. 
+
+On the one hand I've got seven things left to do. That's awesome. I've got a day and a half left to do them, that's also awesome. The problem is that to do them super well would take a bit longer.  
+
+
+Here's the thing - the 'wipe out todo list' plan is great. But it causes problems: 
+
+It encourages 'doing the minimum' (on things I wouldn't otherwise do) 
+It also  
+
+
+Top level down: 
+* I want to achieve the ten year goals 
+* I want to achieve the yearly goals 
+* I want to be closing projects and writing blog posts about them. 
+
+What's the best way to do that without missing stuff? 
+
+How does it work with delores? 
+
+
+
+## 15/11/22 14:05 to 16:33, Alright can I actually sent the emails? 
+Have to work out attachments. 
+Try: https://stackoverflow.com/questions/3362600/how-to-send-email-attachments 
+
+## 16/11/22 06:00 to 07:02, Emails and mood +EQT
+## 16/11/22 07:02 to 07:59, chainmail +EQT 
+
+## 16/11/22 09:35 to 10:35, Being grumpy +EQT
+## 16/11/22 10:35 to 11:30, finishing mail +EQT
+
+## 17/11/22 06:30 to 07:11, Getting started   +EQT
+NA: Update the damn thing. Search to see if policy approved For all the draft policies 
+
+
+## 17/11/22 10:14 to 13:25,   Working on Supertitle +EQT
+There are four repos. 
+
+* The injector 
+* My original player 
+* My 'get subtitles' script 
+* The freelancers files that look great. 
+
+They are all on my github. 
+
+Today I upgraded the freelancers files to Python3 and fixed the bugs that happen when one does that.  
+
+Next step is to put this shit online. 
+
+## 17/11/22 13:25 to 16:13, Wiping out the eamils +EQT
+
+## 18/11/22 08:29, Hello  
+
+## 18/11/22 09:29, I'm going to do some delores +EQT Just to get in the right place I think. Clean up after last week.   
+## 18/11/22 10:05, No, Now I'm starting.  
+
+## 18/11/22 10:50, Now, *now* I'm starting. 
+## 18/11/22 10:50 to 11:51, Working a brainstorm +EQT
+## 18/11/22 11:51 to 11:51,  Starting again. 
+## 18/11/22 12:05 to 12:25, Call about tightrope +EQT
+
+## 21/11/22 05:10 to 15:30, +EQT  Strodes College for session.  +tightrope
