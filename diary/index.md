@@ -9263,3 +9263,13 @@ Next step is to put this shit online.
 ## 18/11/22 12:05 to 12:25, Call about tightrope +EQT
 
 ## 21/11/22 05:10 to 15:30, +EQT  Strodes College for session.  +tightrope
+## 22/11/22 07:12 to 07:27, Cleaning this file   +EQT 
+## 22/11/22 07:27 to 08:00, Thinking +EQT
+## 22/11/22 10:00 to 12:10, Rushing back home to fix a bug +EQT +WWW
+Everything  got put in https://serverfault.com/questions/1116317/nginx-error-after-upgrading-php/1116318#1116318 https://serverfault.com/questions/1116317/nginx-error-after-upgrading-php/1116318#1116318
+
+## 22/11/22 15:20 to 16:08,  Back again  +EQT
+
+## 22/11/22 16:08 to 16:30, (A) Rewrite the next session for strodes +EQT https://github.com/eQualityTime/Home/issues/126
+
+
