@@ -9273,3 +9273,145 @@ Everything  got put in https://serverfault.com/questions/1116317/nginx-error-aft
 ## 22/11/22 16:08 to 16:30, (A) Rewrite the next session for strodes +EQT https://github.com/eQualityTime/Home/issues/126
 
 
+
+## 23/11/22 06:10 to 07:22, Delores +EQT
+## 23/11/22 07:22, Rewriting the Strodes slides
+NA: Process this file. 
+* Included Google Ads optimisation. 
+
+## 23/11/22 07:39 to 07:58,  Working on Next tightrope slides.  +EQT
+## 23/11/22 11:14 to 12:23, Rewriting next tightrope sessions.  +EQT
+I've drafted a bunch of emails, updated the slides and other things. 
+Only thing remaining is to write the proper FOI request for the Missing children.   
+
+
+## 23/11/22 13:12 to 15:28, Back from dinner. +EQT did all the emails 
+Well, NOT all  
+Emails 
+
+## 23/11/22 15:29 to 16:00, Reviewing dropbox policies +EQT
+15:30, www.dropbox.com/ Dropbox
+15:30, www.dropbox.com/home Files – Dropbox
+15:30, www.flowkey.com/en/baby-shark
+15:30, www.google.com
+15:31, www.nytimes.com/2022/10/28/technology/twitter-changes.html How Twitter Will Change as a Private Company Under Elon Musk - The New York Times
+15:33, www.dropbox.com/home/eQuality%20Time eQuality Time – Dropbox
+15:33, www.dropbox.com/home/eQuality%20Time/TrusteesOnly TrusteesOnly – Dropbox
+15:33, www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Minutes Minutes – Dropbox
+15:34, www.dropbox.com/search/personal Search results - Dropbox
+15:34, www.dropbox.com/search/personal
+15:34, www.dropbox.com/scl/fi/fdptcukqlgiaarjhqopnl/Minutes-2021-09-07.docx
+15:34, www.dropbox.com/scl/fi/fdptcukqlgiaarjhqopnl/Minutes-2021-09-07.docx
+15:34, www.dropbox.com/search/personal
+15:48, www.dropbox.com/search/personal
+15:50, www.dropbox.com/scl/fi/d68hwzrvudpk8gc60zqb4/Minutes-2018-04-11.docx
+15:50, www.dropbox.com/scl/fi/d68hwzrvudpk8gc60zqb4/Minutes-2018-04-11.docx
+15:50, www.dropbox.com/scl/fi/d68hwzrvudpk8gc60zqb4/Minutes-2018-04-11.docx
+15:52, www.dropbox.com/search/personal
+15:52, www.dropbox.com/search/personal
+15:52, www.dropbox.com/scl/fi/fdptcukqlgiaarjhqopnl/Minutes-2021-09-07.docx
+15:52, www.dropbox.com/scl/fi/fdptcukqlgiaarjhqopnl/Minutes-2021-09-07.docx
+
+
+
+# This week  (think this is a day late in the index
+* Absolutely sort all the reviews of all the emails everything becomes a calendar event 
+✅  No igor - this week has three working days all with existing plans. 
+✅  Still have to sort the existing things on the todo list.  
+
+
+## 24/11/22 06:10 to 06:43,  More on the polcies.  +EQT
+## 24/11/22 06:43 to 07:20, Wrote a missing children request for Tightrope 
+## 24/11/22 07:20 to 07:30, Trying to put Supertitle online  +EQT
+## 24/11/22 11:20 to 14:52, Working on Supertitle +EQT
+* Okay, I've read the article on virtual environments. (https://realpython.com/python-virtual-environments-a-primer/) 
+* I've decided that I want to host Supertitle in a subdirectory of White Water Writers site for now. 
+* It will need some 'how to use' conversation.  
+* I've been working through the steps to create a systemclt service. I suspect that the stopping point is the users and groups. 
+
+* Here's where I am. 
+I have followed the steps. 
+* If flask is NOT running an app, then nginx gives an error. If it running (either app) then nginx serves a 'file NOT found' 
+
+Here's what I learned: I can write a systemclt service file for any server I want to run (there's one for etherpad and one for the flask python)  I can imagine using flask in future.  I can use Nginx to transfer the right requests to the right server. 
+
+
+
+## 24/11/22 14:52 to 15:26,  Let's have a look at the analtics  +EQT
+## 24/11/22 15:27 to 15:41, creating mail merge Followup sheet.  +EQT
+
+
+
+## 25/11/22 06:30 to 07:50, Working on public internet history 
+Mostly sorting the CSS a bit, but also adding days of the week and generally giving it a spruce up.  
+
+## 25/11/22 20:51, So what's going to be different about tomorrow? 
+
+
+❌  Photoshoot. 
+✅  And lots of camera photos for stories. 
+❌  Climbing on my own.
+
+
+## 30/11/22 00:01, Daily happits 
+Ate well: No
+Weight	: ?? 
+Before kids: Yes 
+Did I rest today: No, games and other faff instead
+Proper social media process: No. 
+Exercise: Yes, Leg day at gym.
+Crying/grumpy: No, possibly manic. 
+
+
+## 30/11/22 15:00 to 15:28, Well this is bullshit.  Complete loss of internet  +EQT
+* Ran Igor (at least that worked) 
+* Reviewed and rewrote this file. 
+* Messaged FB about the report. 
+* Created an internet stack 
+* Got the EQT list down to a reasonably focued list. 
+
+What am I going to do at the swimming? 
+
+Better - I'm going to do better. Notepad  
+
+## 30/11/22 15:40 to 15:56, I'm feeling good. Like really good. I've got plans and I'm crushing it. +EQT
+* Asked Stackoverflow 
+* Working on Whatdotheyknow.com 
+
+## 02/12/22 08:26 to 15:32, Email +EQT
+* Once again I'm trying to work out how to sort the Novus invoices. 
+* I have a system that creates the invoices. I sent them.  
+* Except I have two systems and I need to check that they are in sync. 
+* Every invoice needs a name 
+
+Also talking to Clare, also Writing a end of year report. 
+## 05/12/22 05:00, Good morning 
+Ate well: No
+Weight	: ?? 
+Before kids: Yes 
+Did I rest today: No, games and other faff instead
+Proper social media process: No. 
+Exercise: No, 
+Crying/grumpy: No, possibly manic. 
+
+## 05/12/22 05:00 to 15:26,  +EQT trip out to egham 
+
+* Power public protection private. 
+* Third session is a bit short, second is a bit long. 
+
+
+## 05/12/22 15:27 to 15:40, Light Fires and Kick tyres.  +EQT
+* Fixed a couple of longstanding bugs in vim 
+  * The shift-space issue in the terminal  
+  * The clash between the todo.txt and buffergater plugins. 
+
+I'd like to resurrect the keyboard approaches I was taking 
+* Mouse sniper isn't going to work like it did 
+  * Or, more likely, it's going to have a new way of writing the code so that it's a keyboard map with more than nine options - 16 is fairly handy 
+  * It would also be nice to fix shortcat. 
+    * I've unplugged the other machine, but it remains possible. 
+* This large macvim window I've started using really doing match up well with the window tiling tool. 
+
+Okay, so what's the thing we want? 
+
+Long term fucking plans! 
