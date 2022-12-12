@@ -9352,6 +9352,9 @@ Mostly sorting the CSS a bit, but also adding days of the week and generally giv
 ✅  And lots of camera photos for stories. 
 ❌  Climbing on my own.
 
+## 28/11/22 05:30 to 11:30, Delivering tightrope +EQT 
+* Cut some time because it was fun seeing Yvonne 
+
 
 ## 30/11/22 00:01, Daily happits 
 Ate well: No
@@ -9415,3 +9418,91 @@ I'd like to resurrect the keyboard approaches I was taking
 Okay, so what's the thing we want? 
 
 Long term fucking plans! 
+# This week 
+The things I absolutely have to do this week are: 
+❌  Produce the damn book for the prison. 
+✅  Make sure Elizabeth is prepared for next Monday.  
+❌   Email 30 6th forms about tightrope. 
+
+## 06/12/22 06:47, 
+Ate well: Not after the gym. 
+Weight	: 88.3
+Before kids: Yes 
+Did I rest today:  No
+Proper social media process: No
+Exercise: Yes, Chest day 
+Crying/grumpy: No, pretty good. 
+
+## 06/12/22 06:47 to 06:58, What's the long term plans?  +EQT
+* Working through old issues and closing a bunch of them. 
+
+## 06/12/22 11:42 to 14:37,  +EQT Delores
+## 06/12/22 14:37 to 16:00 , (A) Typeset Prison Book  +EQT
+Needs to be done by the 9th. 
+* I've collected and compiled them all.  53 pages. So I'm going to get the others.  
+
+* Create latex template 
+  * Find the last liverpool one you did 
+* Copy and paste 
+* Run the replacements for common thigns 
+  * Did you save it as a script? 
+* See how long it is 
+* Find other short story collections. 
+
+
+## 06/12/22 19:30 to 21:30, +EQT meeting 
+
+## 07/12/22 07:26, 
+Ate well: 
+Weight	: 90.2 
+Before kids: Yes 
+Did I rest today: 
+Proper social media process: 
+Exercise: Yes, Chest day 
+Crying/grumpy: 
+
+## 07/12/22 07:26 to 07:49,  Delores  +EQT
+## 07/12/22 10:00 to 10:20,  Repling to people on Whatsapp. 
+## 07/12/22 10:20 to 10:46, If someone was giving me a million pounds to follow Delores exactly. 
+How would I make it easy? 
+* Push the damn scoring code. 
+* Set up the damn printer and print a version for the morning 
+  * Order printer paper. 
+* Sound effects and music. 
+* There's a remarkable amount of it that can happen without the machines. 
+* Particularly without sitting down. 
+* I do want that standing desk 
+
+## 07/12/22 12:00 to 13:00, +EQT meeting at Luton Irish Centre. 
+
+## 07/12/22 14:20, 
+Frustration, procrastination, 
+
+Lack of joy 
+
+## 07/12/22 14:23 to 15:00, Let's do email.  +EQT
+## 08/12/22 06:45 to 07:24,  Working on the prison book +EQT 
+## 08/12/22 09:45 to 12:46,  Email +EQT 
+* One of the things I really want to do is to be up to date with all of the Prison documentation. And that means having every book linked to an invoice and vice versa. 
+
+## 08/12/22 15:00 to 15:35,  Talking to Yvonne.  +EQT
+## 08/12/22 15:35 to 16:10, Working on all books ever.  +EQT
+## 08/12/22 17:07 to 17:28, Working on all books ever +EQT
+I have used the old watchtower code to generate the list of missing books from watchtower. Evertyhing else is from IMPS3.  
+
+## 08/12/22 17:29 to 17:54, Working on all books ever +EQT
+* Working locally on develop branch 
+* The Book class now outputs the title. 
+
+# Todo 
+* Add a .date @property to the book class
+* Write script that outputs archived_sprints.json to a csv 
+  * First create archived sprints.json. 
+* Import that csv into all books ever 
+* Match every prison camp or book to an invoice. 
+* Work out what invoices are missing slash needed. 
+* Send to Sarah H 
+
+* Then remove all the junk from the 'sprints' folder. 
+* Write a script to properly back up the bookdatabase. 
+  * Probably I mean 'add to the book database' 
