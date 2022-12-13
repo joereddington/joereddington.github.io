@@ -9506,3 +9506,59 @@ I have used the old watchtower code to generate the list of missing books from w
 * Then remove all the junk from the 'sprints' folder. 
 * Write a script to properly back up the bookdatabase. 
   * Probably I mean 'add to the book database' 
+
+# Today 
+✅  Work right through lunch as part of a super productive day 
+* Big thing for tonight
+  ❌  Improve the turbo trainer system 
+    ✅  Longer ride. 
+
+## 12/12/22 07:12 to 07:30, OMG, How am I already furious?  +EQT
+Ate well: Yes, ish. Fasted, had a bit of a binge when the fast stopped but...  
+Weight	: 89.2kg
+Before kids: No
+Did I rest today: No
+Proper social media process: (posted in the morning) ish. A bit too much instagram in the day, but generally a lot better than yesterday 
+Exercise: ✅  
+Crying/grumpy:  Quite grumpy in morning but pulled myself out of it by 'work angry'
+
+## 12/12/22 07:30 to 07:56, Delores +EQT
+## 12/12/22 09:58 to 10:29, Starting Delores.  +EQT
+## 12/12/22 10:29 to 10:43, Interupt, text mesage from prisons +EQT
+## 12/12/22 10:43 to 11:55, Back Delores +EQT
+NA: Process this file. 
+
+## 12/12/22 11:55 to 12:57, +WWW +EQT Sorting the allbooksever.  
+Working on Prison stuff. 
+I think it's turned out that we're fine with the prisons.  I've sent a detailed email to one of the prison people to find out. 
+
+
+## 12/12/22 12:57 to 13:20, Delores +EQT
+* Working on Stack 
+* Turns out I've got to work beyond five pm to get my eight hours today. 
+* Skipping Google Ads - that's NOT working at all.  
+
+## 12/12/22 13:26 to 15:21, (A) Email 30 schools about tightrope  +EQT
+Done! Two hours for 40 emails feels like a lot from scratch but there it is. 
+  * Particularly given that there wasn't really any code needed - it was checking titles and writing emails and double checking. 
+* Commited and pushed
+
+## 12/12/22 15:21 to 16:16, (B) 30 minutes processing dropbox. https://github.com/eQualityTime/Home/issues/120 +EQT
+There's  212.8 GB in Dropbox somehow. 
+  * A lot of that will be photos I think. That can be properly backed up. 
+I did a lot of deleting and moving. 
+
+## 12/12/22 16:16 to 17:11, (B) Review the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
+Just working through them 
+
+## 12/12/22 18:16 to 18:26, Back to finish off.   +EQT
+Backing up ovf 
+Commands are: (remote)
+ sudo zip -e backup.zip html/designs/*.obz -t yyyy-mm-dd (for last known backup) and it will ask for a password.
+Then local 
+scp -i ~/.ssh/aws_www.pem ec2-user@theopenvoicefactory.org:/usr/share/nginx/backup.zip .
+
+
+## 12/12/22 18:27, Result! 
+* Okay, at the end of today I fasted for the full 20 hours, and I also did the full eight hours at my desk. Result.  
+
