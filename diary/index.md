@@ -9562,3 +9562,55 @@ scp -i ~/.ssh/aws_www.pem ec2-user@theopenvoicefactory.org:/usr/share/nginx/back
 ## 12/12/22 18:27, Result! 
 * Okay, at the end of today I fasted for the full 20 hours, and I also did the full eight hours at my desk. Result.  
 
+# Today 
+* Full eight hours - working through lunch. 
+* Daytime - Exercise 
+* Bonus And a comic! 
+
+## 13/12/22 06:00
+Ate well: Yes actually - less of an explosive binge at end of day although still a bit random 
+Weight	: 90.2kg
+Before kids: Yes 
+Did I rest today: Yes!
+Proper social media process: (posted in the morning) No!
+Exercise:  Yes, bit more on bike 
+Crying/grumpy:  Quite grumpy 
+
+
+
+## 13/12/22 06:51 to 07:50, Delores   +EQT 
+* Exercise should be before end of the day, so 4pm? If I can work through. 
+  * Nothing wrong with doing it twice if I have to? 
+  * Or at least experimenting wit hit. 
+* Processed this file and stuff 
+* Mapped the bike project.
+NA:  Open up comic for the day. 
+
+## 13/12/22 09:24 to 09:29,  Back setting up comic +EQT
+## 13/12/22 09:29 to 09:35,  Delores  +EQT
+## 13/12/22 09:35 to 10:50, Email day!  +EQT
+## 13/12/22 10:50 to 10:58, Work Gratitude(!) +EQT
+## 13/12/22 10:58 to 11:33, +EQT Phone call
+## 13/12/22 11:32 to 12:03, +EQT writing a post for digital local heroes 
+## 13/12/22 12:05 to 12:28, (E) 05 Mark the AGM meetings properly in the dropbox.   +EQT
+## 13/12/22 12:28 to 12:42,  Working on Tasks. +EQT 
+## 13/12/22 12:42 to 13:01, Work Facebook post +EQT
+## 13/12/22 13:02 to 13:05, 8 things left.   +EQT
+## 13/12/22 13:05 to 13:41, Working on the gardfield westron funding +EQT
+## 13/12/22 13:41 to 13:56, Big afternoon dip.  +EQT
+## 13/12/22 13:56 to 14:12, Following up with all the manchester schools.  +EQT
+Turns out if you do it on the keyboard you can do 50 in 15 minutes. 
+## 13/12/22 14:13, 5 things left  
+## 13/12/22 14:13 to 14:47, Expenses +EQT
+Mostly JUST  looking for receipes 
+* Also did an invoice for tightrope. 
+
+## 13/12/22 14:47 to 14:51, Checking in with self +EQT
+## 13/12/22 14:51 to 15:08, Working on MAT Latter +EQT
+## 13/12/22 15:08 to 16:20, Cycling
+* But really a lot of faff. I was a bit out of it. 
+
+
+## 13/12/22 18:15 to 18:30,  Trying to fix monitor stand +EQT
+* There was more time spent on this but it turned into a fun play hting rather than a work thing
+
