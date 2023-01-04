@@ -9614,3 +9614,61 @@ Mostly JUST  looking for receipes
 ## 13/12/22 18:15 to 18:30,  Trying to fix monitor stand +EQT
 * There was more time spent on this but it turned into a fun play hting rather than a work thing
 
+# New week
+* Personal self improvement thing of the week: Food after dark (✅✅ xxxxx)  
+  * EDIT - this went fairly well I think, I certainly would like to bring it back. 
+* Big thing of the week:
+  ✅  Email a bunch of local schools about tightrope  https://github.com/orgs/eQualityTime/projects/4#card-87198132
+
+# New day 
+Bonus big thing. I'm going to write code. 
+
+## 14/12/22 06:00
+Ate well: 
+Weight	: 88.7kg :) 
+Before kids: No 
+Did I rest today: 
+Proper social media process:  No!
+Exercise:  
+Crying/grumpy:  Quite grumpy 
+
+## 14/12/22 06:36 to 07:33, Making a comic 
+I mean. It took an hour and I don't feel that proud of it.  Woke me up a bit
+
+## 14/12/22 07:33 to 07:51, Learning about css +EQT 
+## 14/12/22 07:53, Aggggh! 
+Okay, the morning shift is simply NOT working... 
+
+## 14/12/22 09:30 to 10:02,  Working on OVF thing  +OpenVoiceFactory +EQT
+## 14/12/22 10:02 to 10:04, Sharing comic to linkedin.  
+## 14/12/22 10:04 to 10:38, +EQT +OpenVoiceFactory again  
+## 14/12/22 10:38 to 11:31, +EQT Delores +EQT
+## 14/12/22 11:31 to 13:42, IMPS code  +EQT
+* Fixed the bug with the individual pdfs 
+* Connected up the allbooksever with imps. 
+* Fixed a 'make pdfs locally' bug 
+
+## 14/12/22 14:02, Hello. Zoned out there for a minute. Code was fun right?   
+## 14/12/22 14:03 to 14:22,  Quick look at email +EQT
+## 14/12/22 14:22 to 15:03, Back to IMPS3  +EQT
+* Working out a bunch of things on paper. 
+Man
+## 14/12/22 15:15, Break for dinner 
+## 14/12/22 15:15 to 15:20, telling +EQT Kat about the charity emails   
+## 14/12/22 15:22 to 15:36, Wires, Wires is the last one.  At least it's a bit warm. 
+## 14/12/22 15:36 to 16:30, Shutting down for wires.  +EQT
+
+# New day
+* Clear out inbox again. 
+* Do exercise. 
+
+## 15/12/22 10:11 to 10:47, Getting started +EQT
+## 15/12/22 10:47 to 11:23,  Did email +EQT
+* Sent out a bunch of invoices. 
+
+## 15/12/22 11:23 to 11:59, Looking at vocational training +EQT
+
+
+## 15/12/22 13:56, Did the door
+## 15/12/22 13:56 to 14:28, Now normal todo list. 
+
