@@ -9672,3 +9672,86 @@ Man
 ## 15/12/22 13:56, Did the door
 ## 15/12/22 13:56 to 14:28, Now normal todo list. 
 
+## 03/01/23 1930 to 20:35, +EQT meeting 
+
+
+# New week! New year! 
+Big task: https://github.com/eQualityTime/Home/issues/126 
+  ✅  Chase Luton venues and other enquiry's 
+  ✅  Update the presentation contents
+✅ Personal thing for the week is to stick to keto. 
+      Notes on this - have been doing really well. Stuck to it, lots of nuts. The issue is that there is still some grazing and my meals aren't really sinking up at all with how they should. There should be a clear 'breakfast' a clear 'lunch' and a clear dinner and those shouldn't be JUST  nuts. They should be actuall meals. 
+
+## 04/01/23 06:40 to 07:06, Started the day with some light photo editing
+## 04/01/23 07:02 to 07:47, Delores +EQT 
+* Planning a salad lunch. 
+* Social media processing whenever I feel like it, as long as it's the full algorithm. 
+* Today is a delores day. 
+
+## 04/01/23 09:50 to 11:21,  Delores +EQT
+* Just working everything through. 
+
+## 04/01/23 11:21 to 11:49, (A) 20 Write the EQT minutes. +EQT
+
+## 04/01/23 11:49 to 12:16,   Chase about tightrope schools.  +EQT
+* Clearly need to message all hte luton ones. 
+  * I did! We didn't get anything back... 
+    * Clearly this isn't the right way to do it... 
+
+## 04/01/23 12:46 to 13:01, +EQT spinning up again.  +EQT
+* I chased the schools. 
+
+## 04/01/23 13:02 to 13:17, Post the books.   +EQT
+* Have bought envelopes 
+  * Edit arrived later 
+
+## 04/01/23 13:17,  Tired really tired.  
+
+## 04/01/23 13:46, Okay I really do JUST  need a break 
+
+## 04/01/23 15:03 to 16:22, Had a break - unsure if I feel better.  +EQT
+Doing emails 
+
+## 04/01/23 16:22, 
+Okay, it's been a good day. 
+
+## 05/01/23 06:43 to 06:55, Morning. 
+Okay, lost some weight, that's good. Up relatively early, hat's good. 
+Absolutely lost an hour to my phone. That's less good. 
+
+## 05/01/23 06:56, What's on the list today? 
+## 05/01/23 07:09 to 07:30, Starting +EQT
+## 05/01/23 10:09 to 12:26, Hello again.  +EQT
+## 05/01/23 12:26 to 13:14, Okay, grinding the day out.  +EQT
+
+# 20 good things that have happened recently. 
+1 Stuck to diet for 5 days! 
+2 Stayed healthy 
+3 Leo has been wonderfully behaved. 
+4 Disneyland soon! 
+5 gate fixed 
+6 nice clean house
+7 Know what to do about radiator 
+8 Still off caffeine. 
+9 Nova is going to have a great birthday party. 
+10 Nice film with Kat
+11 Easy EQT meeting 
+12 Not worried about income at all 
+13 No twitter or Instagram 
+14 actually lots of the fuses are in place. 
+15 Excited to make long term plans. 
+
+
+## 06/01/23 08:23 to 08:23,  Tightrope +EQT
+88kg this morning. Nice. 
+Reviewing sessions 
+
+## 09/01/23 05:29 to 14:00,  on site for +EQT visit. 
+## 09/01/23 15:49 to 15:53,  A few quick mintues doing email +EQT
+Ate well: Yes, stage 1 keto 
+Weight	: 88kg 
+Before kids: No 
+Did I rest today: Yes!
+Proper social media process: (posted in the morning) No!
+Exercise:  Walked around London, but generally NO.
+Crying/grumpy:  in a really good mood 
