@@ -9742,9 +9742,10 @@ Absolutely lost an hour to my phone. That's less good.
 15 Excited to make long term plans. 
 
 
-## 06/01/23 08:23 to 08:23,  Tightrope +EQT
+## 06/01/23 08:23 to 10:23,  Tightrope +EQT
+## 06/01/23 13:23 to 14:10,  Tightrope +EQT
 88kg this morning. Nice. 
-Reviewing sessions 
+Reviewing sessions and emailing the guy.  
 
 ## 09/01/23 05:29 to 14:00,  on site for +EQT visit. 
 ## 09/01/23 15:49 to 15:53,  A few quick mintues doing email +EQT
@@ -9755,3 +9756,128 @@ Did I rest today: Yes!
 Proper social media process: (posted in the morning) No!
 Exercise:  Walked around London, but generally NO.
 Crying/grumpy:  in a really good mood 
+
+
+
+## 10/01/23 10:28 to 12:26, Delores +EQT 
+Reviewing last week: (also fixed a missing bit)
+* Only two days work - the morning shift isn't working out, that needs work.  (Edit, clearly NOT enough sleep ) 
+
+## 10/01/23 12:26 to 12:54,  (A) Book hotels and things for Hewell camp  +EQT
+* Messaged Iyun to Check 
+
+## 10/01/23 12:43 to 13:23, 30 minutes sorting dropbox. +EQT
+## 10/01/23 13:23 to 15:02, (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
+
+## 10/01/23 17:59 to 18:31, (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
+# New Day! 
+  ❌  I think it would be cool to the Darktable videos with the bike would be good. 
+  ❌  This evening I'm excited to finish Black Hawk down. 
+  (Edit, I did the much more sensible thing of going to bed early) 
+
+## 11/01/23 06:25, +EQT hello
+Ate well: Kept it Keto, but was a reasonably large amount. 
+Weight	: on watch 
+Before kids: No 
+Did I rest today: NOT really, and should have 
+Proper social media process: (posted in the morning) broadly
+Exercise:  Ran with Nova 
+Crying/grumpy:  tired, but in good mood 
+
+## 11/01/23 06:25 to 07:01, Updating the CK20 files.  +EQT
+I changed the CK20 files (created a new minor version) to fix the issue with the label "04" appearing under the clear symbol. 
+
+## 11/01/23 07:08 to 08:00, I'm switching to email while I wait for links to update +EQT
+Foi details in the google drive document. 
+
+## 11/01/23 11:51 to 12:56, Email +EQT
+## 11/01/23 13:30 to 14:10, reviewed all the first inbox.  +EQT
+## 11/01/23 14:11 to 15:29, Back on the work email +EQT 
+## 11/01/23 15:29, There's MAYBE  10 left and I have run out of the spoons. 
+## 11/01/23 15:29 to 16:31,  +EQT
+* Did the banking amongst other things. 
+# New day 
+* Big work tasks 
+  ❌ * Full email review 
+  ✅  Improve the slides for Monday 
+  ❌ * Sort out Certificate 
+❌ Exciting evening task: rest of Black Hawk down...  
+
+## 12/01/23 06:12 to 07:11, Delores +EQT
+Ate well: Really well actually - didn't start until 11 and was in good keto 
+Weight	: 88
+Before kids: Yes!
+Did I rest today: Once
+Proper social media process: Nah
+Exercise:  Ran with Nova 
+Crying/grumpy:  Good mood all day. 
+
+## 12/01/23 07:11, Going to have a go at some of the stack
+## 12/01/23 07:11 to 07:24, +OpenVoiceFactory +EQT Updating the CK things 
+I've updated and pushed the OVF webiste. 
+
+## 12/01/23 10:26, Back  
+## 12/01/23 10:26 to 10:46,  Delores +EQT
+* Rewriting this file 
+  ✅ fixing the OVF site 
+  ✅ updating the issue
+  ✅  Replying to message 
+
+## 12/01/23 10:47 to 11:21, Okay- email time!   +EQT
+* Starting by clearing out the whole thing. 
+  * Then the review. 
+
+
+
+## 12/01/23 14:45 to 16:33,  +EQT
+Don't want do the work today. 
+
+Review: 376 emails to clear out. Wow.  
+## 12/01/23 15:25, Down to 211
+## 12/01/23 16:12, Down to 89.
+
+# New Week! 
+✅  The big thing I want to do this week is properly review all the emails. All of them. 
+? Personal self improvement thing for the week is to improve diet - three set meals a day.  (edit unclear if we got this right - I'm certainly much much better with a bit of sleep, but there are still snacks and tests and stuff. 
+  ✅  The other one is spotting tiredness and having five minute break when I do. 
+    * Not sure that spotting tiredness is working that well for me but you never know. 
+
+
+
+# New day 
+* Leo good day 
+* Finnish reviews  
+* Solid bit of code. 
+
+## 13/01/23 06:01 to 06:31,  Delores +EQT
+## 13/01/23 06:31 to 07:51,Reviewing emails +EQT
+Reviewed all the emails - amazingly didn't take that long in the end. There's a half dozen that are of interest.  
+## 13/01/23 07:51 to 08:15, Stack +EQT
+
+
+## 13/01/23 13:14 to 13:40,  Hello!  +EQT
+## 13/01/23 13:41 to 14:33, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
+
+
+## 13/01/23 14:33 to 14:54,  Writing notes on tightrope
+## 13/01/23 14:54 to 16:44,  +EQT +Openvoicefactory
+Working on refactoring.  I took the 'destination' parameter out of pageset creation and that appears to have revealed some problems with image creation, particularly in the Arabic regressions. 
+
+Next action is to run the tests, run the diff to see what is different, and think about which one is correct. 
+
+* Fix Arabic windows images
+* Fix Arabic regression
+* Commit and push. 
+
+## 15/01/23 06:50 to 08:12,  Weekend. 
+Iterating todo list
+## 16/00/23 05:30 to 16:20,  Away delivering a talk +EQT
+Wrote a blog:  https://equalitytime.co.uk/6698/2023/01/17/tightrope/
+
+Ate well: Really well actually 
+Weight	: 87
+Before kids: Yes!
+Did I rest today: Yes 
+Proper social media process: Nah
+Exercise:  Bike 
+Crying/grumpy:  Good mood all day. 
