@@ -9871,7 +9871,7 @@ Next action is to run the tests, run the diff to see what is different, and thin
 
 ## 15/01/23 06:50 to 08:12,  Weekend. 
 Iterating todo list
-## 16/00/23 05:30 to 16:20,  Away delivering a talk +EQT
+## 16/01/23 05:30 to 16:20,  Away delivering a talk +EQT
 Wrote a blog:  https://equalitytime.co.uk/6698/2023/01/17/tightrope/
 
 Ate well: Really well actually 
@@ -9881,3 +9881,45 @@ Did I rest today: Yes
 Proper social media process: Nah
 Exercise:  Bike 
 Crying/grumpy:  Good mood all day. 
+
+# New day
+* Work goal: wipe out inbox, rewrite sessions, sort prison. 
+* Productivity goal: Delores, watcher, phone locked away. 
+* Food goal: No snacks (I did have breakfast) 
+* Exercise: bike time. 
+* Excited for: Making a shelf. 
+
+## 17/01/23 06:23 to 07:16,  Delores +EQT
+Ate well: Yes, ( NO snacks, but I think I made my meals a little too big to compensate)  
+Weight	: 86.5
+Before kids: Yes* 
+Did I rest today: Not explicityly 
+Proper social media process: Yeah... Certainly upper quartile. 
+Exercise: Yes 
+Crying/grumpy:  Good mood all day. 
+
+* Email is blocked out 
+* Box is much more processed than it has been in ages. Looking good. 
+* Pink book is next to process 
+
+
+## 17/01/23 09:25 to 11:06, Delores +EQT
+Getting started again, making drinks and the like. 
+* Had great idea about coconut oil ice cubes. 
+* Stack
+
+## 17/01/23 11:06 to 11:57,  Email +EQT
+* DBS 
+* Expenses 
+* GDPR and safeguarding, all the courses 
+
+
+## 17/01/23 13:28 to 15:29, Email +EQT
+* Just working down. 
+  * And sending various messages. 
+* Finding a supertitle application to send to Rachel. 
+* Wiped it out! 
+* All of it. 
+
+## 17/01/23 15:30 to 15:52, What next? +EQT 
+Looks like it's rewriting the sessions. 
