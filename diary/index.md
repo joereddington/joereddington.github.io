@@ -9923,3 +9923,90 @@ Getting started again, making drinks and the like.
 
 ## 17/01/23 15:30 to 15:52, What next? +EQT 
 Looks like it's rewriting the sessions. 
+# New day 
+The word of the day is prevention: I don't want what Nova has, so let's NOT be a hero with food. We'll take our vitamins and get lots of rest and water 
+
+✅  Work plan: Crack the drafts of the first sessions? Including the cards
+✅  Exercise: evening, during Pam 
+✅  Productivity goal: Delores into comic... 
+  * Every time it runs out I take a photo. 
+❌  Excited for Giving blood tomorrow. (book it)   
+
+
+## 18/01/23 06:03 to 07:15,  Delores +EQT
+Ate well: 
+Weight	: 86.6
+Before kids: Yes* 
+Did I rest today: Yes 
+Proper social media process:  Yes
+Exercise: Yes
+Crying/grumpy:  No 
+
+NA: Process this file. 
+
+
+## 18/01/23 07:15 to 08:00, +EQT  https://github.com/eQualityTime/Home/issues/126
+## 18/01/23 09:31 to 11:54, +EQT  https://github.com/eQualityTime/Home/issues/126
+Long morning rewriting the content for the Tightrope course. Did two of them completely. The next one needs more work.   
+
+NA: is to make the cause cards. 
+
+After lunch. 
+
+That was a really solid morning work that was. Full marks. 
+## 18/01/23 13:03 to 13:30, Send expectations to prison  +EQT
+## 18/01/23 13:31 to 14:53, Print out the cards for tighrope  +EQT
+## 18/01/23 14:54 to 15:33, Update accounts.  +EQT
+Done and sent, also filled in some other parts I had to.  
+
+I could go and cook some seitain, or sort out the monitor 
+
+## 18/01/23 15:33 to 16:18, I think I'm brainstorming a bit  +EQT
+In a massive range of ways I'm doing really well. 
+
+
+
+
+
+
+
+
+
+* No arguments 
+* Leo being really good 
+* daily exercise 
+* Haven't binged (18 days now!) 
+* dropping weight. 
+* Focusing on work, which was already going well.
+* Hardly any phone usage 
+* No caffeine 
+* Awake before the kids 
+* No youtube or netflix for the kids 
+* Really sensible use of the house improvement fund
+* Actual resting is happening. 
+
+Like, it's amazing. I'm in a really happy place. 
+
+It was going well before Christmas. I think having the cycling target for Christmas helped. Everybody being sick at Christmas was a problem but we came back strong. 
+
+The cycling is clearly good. 
+I'm doing a bit more sharing with family and friends
+
+How can we lock more of this in? 
+* Cycling can be more productive, particularly if I can set up a proper screen in the garage. 
+  * Also - cycling can have much more of a 'standard goal' and a race to get it.  
+
+
+Honestly, I'm scared of going back. 
+
+The keystone 'am I doing okay?' Metric is food. If that's working I feel pretty good. But I don't want things to bleed out into other places.  The second is sleep. If food is good and I'm waking up early then I think I am doing well. And I feel like sleep is at least under my control 
+
+Everything else appears to follow from those.  That and asking for help more. I feel like I'm NOT doing that much.  
+
+
+What are the threats? 
+* Snacking 
+* Stress appearing in other places: itches, negativity 
+* I haven't got anything particularly focused on positivity 
+* Not much evening time if I'm going to bed so early. 
+* Still NOT quite destroying the eight hour days. 
