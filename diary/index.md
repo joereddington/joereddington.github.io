@@ -9768,7 +9768,6 @@ Reviewing last week: (also fixed a missing bit)
 
 ## 10/01/23 12:43 to 13:23, 30 minutes sorting dropbox. +EQT
 ## 10/01/23 13:23 to 15:02, (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
-
 ## 10/01/23 17:59 to 18:31, (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
 # New Day! 
   ❌  I think it would be cool to the Darktable videos with the bike would be good. 
@@ -9965,13 +9964,6 @@ I could go and cook some seitain, or sort out the monitor
 In a massive range of ways I'm doing really well. 
 
 
-
-
-
-
-
-
-
 * No arguments 
 * Leo being really good 
 * daily exercise 
@@ -10010,3 +10002,21 @@ What are the threats?
 * I haven't got anything particularly focused on positivity 
 * Not much evening time if I'm going to bed so early. 
 * Still NOT quite destroying the eight hour days. 
+# New Week
+* Get everything ready for being away for a week. 
+  ✅ Tightrope  https://github.com/eQualityTime/Home/issues/126
+  ✅ Emails 
+  ✅ Prison
+
+
+## 23/01/23 06:43 to 07:51, Delores +EQT 
+## 23/01/23 09:36 to 10:40, Setting up a countdown timer in vim. +EQT
+## 23/01/23 10:40 to 12:30, Delores +EQT
+## 23/01/23 12:30 to 12:50, Doing invoice +EQT and artist emails 
+## 23/01/23 13:05 to 13:34, Power hour  +EQT
+## 30/01/23 06:00 to 12:59, Delivering talk +EQT https://github.com/eQualityTime/Home/issues/126  +tightrope
+## 30/01/23 12:59 to 13:37, Fixing up countdown timer +EQT
+## 30/01/23 13:37 to 14:51, Delores  +EQT
+## 30/01/23 14:51 to 15:17, Write Slide for next sessions +tightrope https://github.com/eQualityTime/Home/issues/126 
+
+## 01/02/23 06:53 to 07:26, Delores +EQT  
