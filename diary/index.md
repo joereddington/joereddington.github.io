@@ -10062,7 +10062,7 @@ Send Slides to Artists
 Last sprint on conferences and emails and the like. 
 
 ## 02/02/23 16:06 to 16:36, Call with Clare +EQT
-## 04/02/23 14:00 to 16:00, Total of two hours in the day on various calls, booked hotels, that sort ofhting. 
+## 04/02/23 14:00 to 16:00, Total of two hours in the day on various calls, booked hotels, that sort ofhting.  +EQT
 
 ## 05/02/23 07:24 to 08:30, working on Inbox, particularly finances. +EQT 
 Ate well: Not brilliant, NOT terrible - having some trouble adjusting back to full keto 

@@ -26003,12 +26003,12 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Total of two hours in the day on various calls\, booked hotels\, t
- hat sort ofhting.
+ hat sort ofhting.  +EQT
 DTSTART;VALUE=DATE-TIME:20230204T140000Z
 DTEND;VALUE=DATE-TIME:20230204T160000Z
 DTSTAMP;VALUE=DATE-TIME:20230204T160000Z
 UID:Total of two hours in the day on various calls\, booked hotels\, that 
- sort ofhting.2023-02-04 14:00:00+00:002023-02-04 16:00:00+00:00
+ sort ofhting.  +EQT2023-02-04 14:00:00+00:002023-02-04 16:00:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
