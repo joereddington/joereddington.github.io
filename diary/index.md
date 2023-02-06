@@ -10020,3 +10020,68 @@ What are the threats?
 ## 30/01/23 14:51 to 15:17, Write Slide for next sessions +tightrope https://github.com/eQualityTime/Home/issues/126 
 
 ## 01/02/23 06:53 to 07:26, Delores +EQT  
+## 02/02/23 06:41 to 06:59, +EQT
+## 02/02/23 10:13 to 10:20, Hello  The plan is to do 90 minutes strong and then sleep.  +EQT
+## 02/02/23 10:20 to 11:22, Delores code +EQT 
+✅  Read the plugin description 
+✅  Branch the git to 'local' 
+✅  Do a test include of todo.txt 
+* Get to that point in the day. 
+
+## 02/02/23 11:22 to 12:31,  Normal delores... +EQT
+
+## 02/02/23 12:31 to 13:03, https://github.com/eQualityTime/Home/issues/126 +EQT Tightrope
+Reading the issue
+* Issue needs to be completely remapped
+* I created a Delores for Remapping an issue. 
+* I've been working in the issue. 
+* Messaged Elizabeth 
+
+
+## 02/02/23 13:32 to 15:08, Back after lunch +EQT  Tightrope 
+NA: Rewrite the course notes  
+* Go through from beginning to make sure that the content is deliverable. 
+* Look at Cybok syllabus to find out what should be in the later sessions. 
+
+
+The first 3+5 sessions have been reformatted and given:
+* A theme
+* A contents slide
+* A bit more about them 
+I've also messaged the artist, emailed the teacher, and brought EQ up to date. 
+
+(A) contents of the course
+Contents (and summary) of the session.
+Put the Logo on the slides
+Much more signposting of what is coming next
+Send Slides to Artists
+
+* Put the exercises in. 
+
+## 02/02/23 15:08 to 16:06, Going to go lie down for an hour.  +EQT
+Last sprint on conferences and emails and the like. 
+
+## 02/02/23 16:06 to 16:36, Call with Clare +EQT
+## 04/02/23 14:00 to 16:00, Total of two hours in the day on various calls, booked hotels, that sort ofhting. 
+
+## 05/02/23 07:24 to 08:30, working on Inbox, particularly finances. +EQT 
+Ate well: Not brilliant, NOT terrible - having some trouble adjusting back to full keto 
+Weight	: 84.4
+Before kids: No, had an extra hour 
+Did I rest today: Yes, in bath 
+Proper social media process: Nah
+Exercise:  Bike 
+Crying/grumpy:  Good mood all day. 
+
+* Iyuns expenses took ages. 
+* Last reconciliation 11th of the 1st 
+24,156.45
+
+## 05/02/23 11:10 to 11:25,  +EQT
+Reconciliation is done 
+
+## 05/02/23 14:26 to 15:31,  +EQT sorting Iyun 
+* Making feedback forms and such 
+* Small break to do multiplication with Nova. 
+
+
