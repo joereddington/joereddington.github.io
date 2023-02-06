@@ -10019,6 +10019,10 @@ What are the threats?
 ## 30/01/23 13:37 to 14:51, Delores  +EQT
 ## 30/01/23 14:51 to 15:17, Write Slide for next sessions +tightrope https://github.com/eQualityTime/Home/issues/126 
 
+
+## 31/01/23 09:15 to 11:55, Giving wixams talk +EQT 
+## 31/01/23 11:55 to 16:55,  Playing out with KAt 
+
 ## 01/02/23 06:53 to 07:26, Delores +EQT  
 ## 02/02/23 06:41 to 06:59, +EQT
 ## 02/02/23 10:13 to 10:20, Hello  The plan is to do 90 minutes strong and then sleep.  +EQT
