@@ -10062,7 +10062,7 @@ Send Slides to Artists
 
 * Put the exercises in. 
 
-## 02/02/23 15:08 to 16:06, Going to go lie down for an hour.  +EQT
+## 02/02/23 15:08 to 16:06,   +EQT
 Last sprint on conferences and emails and the like. 
 
 ## 02/02/23 16:06 to 16:36, Call with Clare +EQT
@@ -10091,3 +10091,21 @@ Reconciliation is done
 * Small break to do multiplication with Nova. 
 
 
+## 06/02/23 06:19 to 07:15, Slow Delores   +EQT
+## 06/02/23 07:15 to 07:50, Reviewing slides +EQT
+## 06/02/23 09:03 to 11:37, visit at Wixams    +EQT
+## 06/02/23 11:37 to 12:14, Delores +EQT
+## 06/02/23 13:12 to 15:13,  +EQT  Email. 
+I've been really running rings around this inbox today. Crushing it. 
+* I've got two left in the main inbox and 18 left in the EQT one.  It's probably going to take more times than I had
+EDIT: (two days later it's still NOT done. 
+
+## 06/02/23 15:13 to 15:25, Reading a chapter +EQT 
+## 07/02/23 06:15 to 06:28,  +EQT email 
+Ate well: Great for 2022, bad for 2023 
+Weight	: 84.2 (new low) 
+Before kids: No, absolutely shattered 
+Did I rest today: No. 
+Proper social media process: Nope, very nope 
+Exercise:  None 
+Crying/grumpy:  Exhausted and grumpy all day. 
