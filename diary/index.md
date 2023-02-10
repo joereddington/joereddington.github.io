@@ -9554,7 +9554,7 @@ Just working through them
 ## 12/12/22 18:16 to 18:26, Back to finish off.   +EQT
 Backing up ovf 
 Commands are: (remote)
- sudo zip -e backup.zip html/designs/*.obz -t yyyy-mm-dd (for last known backup) and it will ask for a password.
+ sudo zip -e backup.zip html/designs/*.obz -t yyyy-mm-dd (for last known backup) and it will ask for a password. (normally use Iron man) 
 Then local 
 scp -i ~/.ssh/aws_www.pem ec2-user@theopenvoicefactory.org:/usr/share/nginx/backup.zip .
 
@@ -10109,3 +10109,29 @@ Did I rest today: No.
 Proper social media process: Nope, very nope 
 Exercise:  None 
 Crying/grumpy:  Exhausted and grumpy all day. 
+
+## 08/02/23 07:11 to 07:38, Hello, How fast can I delores +EQT  
+ate well: good in morning (except some chocolate) - fell down a little in the afternoon) 
+weight	: 84.9kg (bit of a sugar day yesterday) 
+before kids: yes (not by much 
+did i rest today: no. 
+proper social media process: nope, very nope 
+exercise:  bike for 30 minutes 
+crying/grumpy: fine until right at the end  
+
+## 08/02/23 07:38 to 07:55,  Emails +EQT
+## 08/02/23 09:45 to 12:14, Email +EQT 
+## 08/02/23 12:39 to 12:48, Reviewing eqt.todo.txt +EQT
+## 08/02/23 13:20 to 13:33, Reviewing eqt.todo.txt +EQT
+Decided to work on OVF: it's 8 tasks in the main todo list. 
+
+## 08/02/23 13:33 to 13:37, (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT OVF
+## 08/02/23 13:33 to 16:08, OpenVoiceFactory Code sprint +EQT
+Cleared up a bunch of confused commits and branches. Added some testing functionality. Did a full deploy to the live site and wrote a blog post about it. 
+
+# Useful commands 
+git diff refactoring main '*.py' - it gives JUST  the differences in the python. 
+git log --graph --oneline --all  is good for seeing the relationship between branches
+git remote update origin --prune - to update the list of remote branches
+
+
