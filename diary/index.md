@@ -10135,3 +10135,29 @@ git log --graph --oneline --all  is good for seeing the relationship between bra
 git remote update origin --prune - to update the list of remote branches
 
 
+
+## 09/02/23 07:13 to 07:24, Delores +EQT
+ate well: bit triggered in the morning - ate some of the kid's chocolate 
+weight	: 84.3kg (on the path) 
+before kids: yes, solidly (but grumpily) 
+did i rest today: 
+proper social media process: Um, yes? Maybe? No. 
+exercise:  bike for 30 minutes 
+crying/grumpy: got triggered last night and it came out in the morning. 
+*slightly* slower than normal. 
+
+## 09/02/23 09:39 to 10:02, Delores +EQT
+## 09/02/23 10:02 to 11:08, Delores -inbox.md - completing yesterday's tasks +EQT
+## 09/02/23 10:30 to 11:08, tightrope - meeting with Elizabeth +EQT 
+## 09/02/23 11:08 to 11:32, Delores -inbox.md - completing yesterday's tasks +EQT
+## 09/02/23 11:32 to 11:47, Delores normal .  +EQT
+## 09/02/23 11:47 to 11:51, +OpenVoiceFactory +EQT Running backup. 
+
+* Remember to delete the old backup. 
+
+
+## 09/02/23 11:53 to 12:18, (A) Work on: Apply to Wikimedia for funding for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
+Well Crap! That's tomorrow! 
+
+But apparently NOT... 
+
