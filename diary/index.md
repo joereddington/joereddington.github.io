@@ -10161,3 +10161,18 @@ Well Crap! That's tomorrow!
 
 But apparently NOT... 
 
+## 09/02/23 12:18,  +EQT Garfield 
+
+## 09/02/23 12:58 to 16:01, +EQT Various
+* Talking to yvonne
+* Finding out about hyphenation for Richard
+* Posting to WWW facebook page 
+* Reading up on vim 
+## 10/02/23 07:23 to 07:32,  Working out annual leave +EQT
+## 10/02/23 07:32 to 07:42, My own list. 
+## 13/02/23 06:42 to 07:30, Hello +EQT 
+## 13/02/23 07:30 to 07:58, Oldest task is hosting expenses.   +EQT
+## 13/02/23 09:25 to 11:26,    +EQT MAT letter code. 
+## 13/02/23 11:26 to 13:07, +EQT Emails with chatGPT 
+## 13/02/23 14:30 to 15:20, Fixing Git on multiple projects +EQT  
+## 13/02/23 15:20 to 15:36, The task "(D) 20 Check the 'IMPS to allbooksever' code" is 39 days old 
