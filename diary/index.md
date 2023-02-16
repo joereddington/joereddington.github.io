@@ -10176,3 +10176,52 @@ But apparently NOT...
 ## 13/02/23 11:26 to 13:07, +EQT Emails with chatGPT 
 ## 13/02/23 14:30 to 15:20, Fixing Git on multiple projects +EQT  
 ## 13/02/23 15:20 to 15:36, The task "(D) 20 Check the 'IMPS to allbooksever' code" is 39 days old 
+
+## 14/02/23 05:45 to 06:44, +EQT sorting out Preston. 
+ate well: Nuts, salad, and a bit of a post blood snack in the afternoon. Good going really 
+weight	: 85.x better than yesterda, NOT as good as last week.
+before kids: yes, solidly. Real win. 
+did i rest today: NOT really  
+proper social media process: NO 
+exercise:  Gave blood 
+crying/grumpy: back on the path 
+## 14/02/23 06:44 to 07:22, Back to Allbooksever.  +EQT 
+## 14/02/23 07:22 to 08:40, +EQT sorting out preston again
+## 14/02/23 11:05 to 13:36,  Back on the allbooksever.   +EQT 
+## 14/02/23 13:56 to 15:48, Working on the css more.  +EQT
+Pushed a commit to develop - it didn't work. Back to the drawing board. 
+
+## 14/02/23 15:48, Good morning Mr Phelps 
+## 14/02/23 15:49 to 16:36, Delores +EQT
+* Also did the new social media projects. 
+
+
+
+## 14/02/23 16:37 to 16:44, Quick list of things that CHATGPT will help with: +EQT 
+* Blogging on EQT 
+* Regular social media posts on all accounts 
+* writing difficult emails 
+* Writing manuals   
+
+Hopefully this hops over a few random bits. 
+
+## 15/02/23 06:11 to 06:29, Sending hte job offer emai.  +EQT
+ate well: Yes? Yeah I think so.  Was reasonable at least 
+weight	: 86.1kg - doesn't feel fair. 
+before kids: yes 
+did i rest today: NOT really  
+proper social media process: NO 
+exercise:  Small cycling 
+crying/grumpy: Fine. 
+## 15/02/23 06:29 to 07:30, kat emergency and cycling 
+## 15/02/23 07:30 to 08:30, working on preston +EQT 
+Bloody hell ChatGPT is good. 
+
+## 15/02/23 09:00 to 12:49, working on preston +EQT 
+* Also tidying drawers, sorting bank statments and doing all the related stuff. 
+## 15/02/23 13:20 to 14:06, Just sort of hovering over preston for a while  +EQT
+## 15/02/23 14:06 to 14:26, Worked on Dropbox +EQT 
+## 15/02/23 14:26 to 15:51, Worked on the tightrope document +EQT
+* Need to finnish writing the rest of the sesion notes 
+* Add pictures 
+
