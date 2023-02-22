@@ -10225,3 +10225,46 @@ Bloody hell ChatGPT is good.
 * Need to finnish writing the rest of the sesion notes 
 * Add pictures 
 
+## 16/02/23 06:00 to 06:10, The word of the day is resting.  +EQT 
+ate well: 
+weight	: 85.2kg - slowing coming back 
+before kids: yes 
+did i rest today: NOT really  
+proper social dia process: NO 
+exercise:  Small cycling 
+crying/grumpy: Fine. 
+
+I think there will be significant drop in weight once the cycling comes back up and I return to ketosis.  Got to work out how I'm handling everything at Mum & Dads tho. 
+
+## 16/02/23 06:10 to 06:44, Delores  +EQT 
+## 16/02/23 10:18 to 12:00,  WOrk on Tightrope +EQT 
+## 16/02/23 12:00 to 12:16, WOrk on a different bit of tightrope  +EQT
+## 16/02/23 12:16 to 12:25, Working on mapping scottish Libraries project +EQT
+## 16/02/23 12:25 to 12:40, Hindley Book +EQT
+## 16/02/23 12:40 to 15:02, Calls and other +EQT work 
+## 16/02/23 15:02 to 15:32, +EQT remapping (I think)  
+## 20/02/23 06:34 to 06:43, Hello +EQT 
+Some ChatGPT practice 
+## 20/02/23 06:43 to 07:10, Scheduling Social Media posts +EQT 
+## 20/02/23 07:10 to 07:52, Rethinking marketing +EQT 
+## 20/02/23 11:00 to 12:13, Sorting out Holiday spends +EQT
+## 20/02/23 12:13 to 12:22, Email  +EQT 
+## 20/02/23 12:22 to 12:32, Is it delores now? And then Lunch?  +EQT 
+## 20/02/23 13:20 to 13:40, Trying to fix keyboard. 
+## 20/02/23 13:40 to 14:17, +EQT finding tightrope workshops nd stuff. 
+## 20/02/23 14:21 to 14:47, Breakdown of +EQT  tasks
+## 20/02/23 14:47 to 16:20,  Library data  +EQT
+## 20/02/23 18:25 to 18:29,  +EQT more work 
+## 20/02/23 19:00 to 19:49,  +EQT more on the library data
+## 21/02/23 06:49 to 07:55,  Working on Library +EQT 
+## 21/02/23 09:38 to 12:18, Working on library +EQT  
+And wrote a blog post and social media post about it. 
+
+So what we didn't talk about was updating the post in the future.  
+
+Is the assumption that every ten books or so I'll pull the information out of kdp and then run the script for oracle? Then generate the website? It's a job that gets faster after a while but it's hardly super speedy.    
+
+## 21/02/23 12:18, There's only two things left on my list. 
+## 21/02/23 12:18, But email 
+## 21/02/23 13:19 to 13:29,  Rebooting 
+## 21/02/23 13:29 to 15:50, Email +EQT 
