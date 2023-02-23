@@ -10268,3 +10268,33 @@ Is the assumption that every ten books or so I'll pull the information out of kd
 ## 21/02/23 12:18, But email 
 ## 21/02/23 13:19 to 13:29,  Rebooting 
 ## 21/02/23 13:29 to 15:50, Email +EQT 
+# New Day 
+✅  Crack the inbox 
+✅  Crack the todo list. 
+❌  Use delores 
+✅  Eat properly 
+  * Salad, and Roast veg. 
+❌  Rest properly 
+❌  Two hour blocks. 
+
+
+## 22/02/23 06:55 to 07:50, Delores   +EQT 
+ate well: yes, brilliantly. Bit of pasta at the end. 
+weight	: 85.2kg
+before kids: NO 
+did i rest today: 
+proper social media process: 
+exercise:  30 min bike 
+crying/grumpy: Totally find 
+## 22/02/23 09:29 to 09:38, Delores +EQT Getting into mindset. 
+## 22/02/23 09:38 to 12:37, Delores, I have a process for this. +EQT
+## 22/02/23 13:31 to 14:10, Back for Zoom  +EQT 
+## 22/02/23 14:43 to 15:48, Back +EQT  
+Okay, So i'm doing the A/B test 
+* I use Chrome to access Google Optimise 
+* I use the joereddingtonanalytics account 
+* I have to install a extnesino. 
+
+## 22/02/23 15:47 to 15:58, (E) Map issue for father improvements to database  +EQT
+Done. 
+
