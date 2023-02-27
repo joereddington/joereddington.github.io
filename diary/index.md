@@ -10298,3 +10298,66 @@ Okay, So i'm doing the A/B test
 ## 22/02/23 15:47 to 15:58, (E) Map issue for father improvements to database  +EQT
 Done. 
 
+# New day 
+* Regenerate todo's properly 
+  * Including reviewing all hte projects. 
+* Another Tightrope set of slides 
+
+## 23/02/23 06:58 to 07:30,   +EQT 
+Ate well              :  Not great so far, but NOT terrible. 
+Weight	              :  85.0kg
+Before kids           :  NO, but nice snuggle with Kat 
+Resting               :  
+Social media process  :   
+Exercise              :   
+Crying/grumpy         :  
+## 23/02/23 09:56 to 10:21, Project reivew +EQT
+## 23/02/23 10:21 to 11:55, Delores +EQT
+Then exercise and lunch. 
+* Social media post is my new tool cabinet. 
+* Exciting evening task, um.  Games with Kat? Or eletronic course.  
+* Phone locked away after kids.
+* Tiny distraction while I check mouse sniper.
+* Running igor. 
+* I have three (A)'s that are due today and they are all quite reasonable. 
+
+## 23/02/23 11:55 to 12:21,  (A Nava) Due:today  Book Nava Tickets. +EQT
+* First check the timing. 
+* Message to say yes I'm coming 
+* Share tickets with Nava. Just so they know. 
+* Replying about arabic communication aids. 
+
+Okay 14.30 precisely.
+
+## 23/02/23 12:21, (A Uclan students) Due:today Publish Uclan book and set reminder to order books.  +EQT
+
+* Set reminder 
+* Genreate new pdf and check over (size as well)  
+* Open kdp .
+## 23/02/23 13:02 to 14:08,  CODE +EQT
+...and Publishing a book. 
+
+## 23/02/23 14:08 to 14:22,  advert for Yvonne +WWW +EQT
+* Also snuck in a blog 
+
+## 23/02/23 15:00 to 15:10,  Active thinkging +EQT 
+## 23/02/23 15:10 to 15:21, Hmm. No idea, definately at desk  +EQT 
+## 23/02/23 15:21 to 16:00, sorted out some stats  +EQT
+ blog 
+
+## 24/02/23 10:29 to 11:12, Quck work blog  +EQT 
+* And press release 
+* And social posts. 
+Chatgpt is great. 
+j
+## 24/02/23 11:12 to 11:34, Back to proper stuff. 
+We're going to touch everything
+
+## 24/02/23 11:34 to 13:32, There are 100 things.  And I have three hours at best. So two minutes a thing   
+## 24/02/23 12:04, 48 suddenly. That's good movement. 
+## 24/02/23 12:43, 34  
+So I knocked off 66 in an hour. Good work. 
+
+## 24/02/23 13:32, I need a break.
+There are like 12 more to touch but I'm tired.  
+
