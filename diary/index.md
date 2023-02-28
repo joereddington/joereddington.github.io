@@ -10361,3 +10361,13 @@ So I knocked off 66 in an hour. Good work.
 ## 24/02/23 13:32, I need a break.
 There are like 12 more to touch but I'm tired.  
 
+## 27/02/23 11:00 to 13:37, Writing presentation +EQT
+It's in the Tightrope directory on Google Drive. 
+## 27/02/23 13:39 to 14:33, Wrote a sixth session for tightrope +EQT  
+## 27/02/23 14:35 to 14:42, Doing a reward chart  
+## 27/02/23 14:42 to 14:42, Fixing tech +EQT 
+
+## 27/02/23 15:07 to 16:14, This sprint is until 4:10  +EQT 
+* Checked Murphies work and emailed both people about them. 
+* Cleared out some inboxes. 
+* Going to get Nova. 
