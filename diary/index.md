@@ -10371,3 +10371,20 @@ It's in the Tightrope directory on Google Drive.
 * Checked Murphies work and emailed both people about them. 
 * Cleared out some inboxes. 
 * Going to get Nova. 
+## 28/02/23 06:12 to 07:55, Email  +EQT
+## 28/02/23 09:30 to 09:44,  Also doing social posts and now linkedin posts. +EQT 
+## 28/02/23 09:45 to 11:37, Delores is the answer.   +EQT
+Reviewing stack 
+Revieiwng calendar - really good at working until 4- really bad at starting at six. 
+* Lots of processing a bit stack 
+
+## 28/02/23 13:15 to 14:00,  Processing accounts +EQT 
+Accounts 
+* Process all the invoices 
+* Raise invoices you want to 
+  * Check oldest invoices 
+  * Find out the last time you raised an invoice for RHUL 
+* Create a finance report for Trustees. 
+## 28/02/23 14:01 to 14:06, Time to properly brainstorm timings +EQT 
+## 28/02/23 14:01 to 15:35, Poking everything on the todo list +EQT
+## 28/02/23 15:36 to 16:08, 40 minutes left. +EQT
