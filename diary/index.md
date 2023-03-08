@@ -10388,3 +10388,89 @@ Accounts
 ## 28/02/23 14:01 to 14:06, Time to properly brainstorm timings +EQT 
 ## 28/02/23 14:01 to 15:35, Poking everything on the todo list +EQT
 ## 28/02/23 15:36 to 16:08, 40 minutes left. +EQT
+## 01/03/23 06:10 to 07:50, +EQT 
+## 01/03/23 09:30 to 13:13,  +EQT 
+* Working out the prison invoices, emailing Sarah, Messaging Clare. 
+Just at my desk - A brutally long run. 
+
+## 01/03/23 13:15 to 14:02, Stare +EQT  Tightrope 
+## 01/03/23 14:02 to 14:32,  Video on Chat GPT  +EQT
+* What shall I have for dinner slash lunch? 
+* For late lunch I'll have curry 
+* Lookign forward to exercise. 
+* This video  is just mind blowing. 
+  * It's going to be interesting to apply this to all of my old code. 
+
+## 01/03/23 14:35 to 15:16, Thinking - or resting. I don't know  +EQT
+Generating for IMPS 
+NA - put it online and message Ricahrd S 
+
+
+## 01/03/23 15:06 to 15:16, Generating something for IMPS 
+## 01/03/23 15:16, Cycling now 
+## 01/03/23 19:53 to 20:15,  Back for a half hour.  +EQT 
+
+## 02/03/23 06:00, Let's go  +EQT
+before kids: No  
+How many times did you rest today: 
+Where you grumpy and if so did you process the emotional file. 
+What was your excuse for NOT eating properly:  mad at Kat. 
+
+## 02/03/23 06:05 to 06:44,  +EQT working on a thing for IMPS 
+## 02/03/23 06:44 to 06:50, Delores code +EQT 
+## 02/03/23 06:50 to 07:30, No, Proper delores. At speed. In full algorthim +EQT 
+Planning: lunch is the tofu - dinner is the curry - unless I end up with JUST  one. 
+Exercise is once I've done a two hour work sprint. 
+* Rest! Rest is slowing down in a few minutes. 
+* Social media is when I've written gratitude blog post  
+  * Evening task? Going to have some fun with the electronics course and seeing if I can investigate this mega drive. 
+
+## 02/03/23 09:30 to 10:12, +EQT Emails and social : Disorganised 
+## 02/03/23 10:13 to 12:20, Delores +EQT 
+* Sprint until 11:30 and then exercise, rest, and back to the sprint.  
+Wrote a script and a SE question at https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/
+
+* NA: clear stack and then go. 
+
+
+## 02/03/23 12:20 to 12:40, I'm going to get my head right. +EQT 
+## 02/03/23 12:40 to 13:23, Generating an Artists Spreadsheet +EQT
+* Also sending a scary message. 
+
+NA: When I come back - payroll and accounts more 
+
+## 02/03/23 14:40 to 16:12, Accounts and payments  +EQT
+## 02/03/23 18:02 to 19:00,  Accounts and payments. +EQT 
+## 02/03/23 20:00 to 20:25, +EQT Accounts and payments  
+## 06/03/23 06:39 to 06:57, +EQT 
+Getting started. 
+
+## 06/03/23 06:57 to 08:01, Working on Tightrope +EQT 
+## 06/03/23 09:25 to 11:54, +EQT Working on Tightrope +EQT 
+Did three sessions. 
+* Emailed two people. I'm willing to count that as a really good sprint 
+
+## 06/03/23 11:54 to 12:14,  +EQT booking flights for glasgow. 
+## 06/03/23 14:23 to 15:10,  +EQT - struggling to focus a bit after an excellent morning.  The answer is delores. It always has been. 
+## 06/03/23 15:10 to 15:54, Call  +EQT 
+## 06/03/23 15:54 to 16:04, Getting a cable +EQT 
+
+## 06/03/23 16:04, Summary. +EQT 
+## 07/03/23 04:22 to 05:00 , Okay, let's get started.  +EQT 
+* I've done a general sweep of emails. 
+* But I am still tired.
+
+* Lets see what I can tick off.  
+
+
+## 07/03/23 06:17 to 06:57,  +EQT
+Getting my narrative right. 
+* Looking for wins. 
+
+## 07/03/23 10:35 to 12:13,  Tightrope +EQT
+* Reading up, meeting, sending minutes, sending an email, and that's it. 
+
+## 07/03/23 14:02 to 16:00, Back after nap +EQT  
+
+## 07/03/23 19:32 to 19:36,  Meeting prep.  +EQT
+## 07/03/23 19:36 to 21:03, Meeting.  +EQT
