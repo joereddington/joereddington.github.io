@@ -10474,3 +10474,104 @@ Getting my narrative right.
 
 ## 07/03/23 19:32 to 19:36,  Meeting prep.  +EQT
 ## 07/03/23 19:36 to 21:03, Meeting.  +EQT
+## 08/03/23 06:00 to 07:59,  +EQT Prep and Delores. 
+before kids: Would have been a yes
+
+## 08/03/23 09:29 to 10:02,  +EQT  Delores
+* Confirm all bags unpacked. 
+## 08/03/23 10:02 to 12:43, Email +EQT
+Now the big one about SLIF 
+## 08/03/23 12:43, inbox completely cleared. 
+## 08/03/23 12:43 to 13:28, Now the slides I think.  +EQT
+## 08/03/23 15:17 to 16:01, Mat Letters and an email +EQT
+## 13/03/23 06:15 to 08:05,  +EQT 
+## 13/03/23 10:21 to 12:40, Tightrope +EQT 
+* Website is transferred and updated
+* Slides have had their notes removed. 
+* Ads have been approved. 
+
+## 13/03/23 15:34 to 16:10, +EQT Booking tickets and that sort of thing. 
+Is that a three hour gap? Wow  
+
+## 14/03/23 09:50 to 10:43,  Meeting with EQ +EQT 
+## 14/03/23 10:43 to 13:41, Email +EQT 
+* And tightrope 
+## 14/03/23 13:41 to 14:43, I'm going to pack now. +EQT
+## 14/03/23 14:44 to 14:51, +EQT Have looked at the printing.  
+## 14/03/23 14:51 to 14:52, The brainstorm is: how can I get three days work in three days? +EQT 
+
+## 15/03/23 06:15 to 06:49, Hello  +EQT 
+## 15/03/23 09:20 to 21:30 +EQT conference visit. 
+* Put exercise shoes in bag 
+# New day 
+## 16/03/23 05:35 to 06:39,   Getting started +EQT 
+## 16/03/23 10:23 to 14:45, Accounts  +EQT 
+Did lots of really good work on the accounts. Solved a lot of long term problems and understood things. 
+
+## 16/03/23 15:31, I have been fixing Nova's room. 
+## 16/03/23 15:32, Comics! 
+* One for Leo Day. 
+* One for Coming Home 
+* One for today. 
+
+* Which one first? Leo day naturally. 
+
+## 16/03/23 15:34 to 16:13, Leo day comic. 
+
+Mostly I've been moving images. 
+
+mogrify -resize 50% *.png
+ls -tr *.png | cat -n | while read n f; do mv -n "$f" "$n.png"; done
+
+uugggh- I haven't even done them all, so those commands need to run again. 
+
+NA: setup a layout6. 
+* Do the rest of the images
+
+## 16/03/23 18:25 to 18:50, Try it again... 
+Okay, that's... about an hour start to finish. In total, including instagram and stuff. 
+
+## 16/03/23 18:50 to 18:53, Can we quickly do another? 
+
+
+## 16/03/23 18:53, 
+
+## 16/03/23 19:38 to 19:56,  Done - NOT including the instrgam 
+
+## 17/03/23 08:30, Where are the frition sources in the comic? 
+
+* Getting stuff from the phone to the machine 
+  * Make use of the dropbox. 
+* Planning arcs that are too long. 
+* Spinning up the server  
+  * Could have a static preview for most pages
+    * Including, literally the downloads folder
+      * A script that JUST  found the images that are tagged and copies them. 
+        * Generally good for delores. 
+* Getting the screenshots back out and posting to Instagram 
+
+## 17/03/23 08:35 to 10:22, Hello  
+I've been looking at the sleep analysis code for two hours. 
+Bottom line: right now my sleep habits are about average for all time - but they where much better in general a while back. 
+
+I'm tired. And I think I understood about sleep a while back and then let everything slide a bit. Okay, New plan.  Things have to get switched off at 9pm and I want to be in bed by then as well.   
+
+Today I want a nap, and a bike ride, and I also want to do a bunch of work. It's going to be tough to fit them all in. 
+
+## 17/03/23 11:04 to 12:43,  +EQT  Doing the books 
+## 17/03/23 15:10 to 16:43, Posting the damn books and doing email +EQT 
+Let's post some books! 
+
+Do I have envelopes? 
+Yes. 
+* Address labels will be the tricky part. 
+* Okay, I need to get the address into one thing. 
+
+## 19/03/23 15:32 to 20:00, plane trip to glasgow +EQT 
+## 20/03/23 07:30 to 16:10, Glasgow School +EQT
+## 21/03/23 07:30 to 16:10, Glasgow School +EQT
+## 22/03/23 07:30 to 16:10, Glasgow School +EQT
+## 23/03/23 07:30 to 16:10, Glasgow School +EQT
+## 24/03/23 07:30 to 19:10, Glasgow School and plane  +EQT
+
+## 26/03/23 10:30 to 12:00, Publishing glasgow books +EQT 
