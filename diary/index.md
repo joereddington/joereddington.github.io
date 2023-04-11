@@ -10575,3 +10575,65 @@ Yes.
 ## 24/03/23 07:30 to 19:10, Glasgow School and plane  +EQT
 
 ## 26/03/23 10:30 to 12:00, Publishing glasgow books +EQT 
+## 27/03/23 06:15 to 07:40, +EQT email 
+before kids: No 
+How many times did you rest today: none 
+Where you grumpy and if so did you process the emotional file: borderline 
+What was your excuse for NOT eating properly:  Kat being grumpy  
+
+## 27/03/23 10:06 to 12:29, Putting things back in order. Light emails, mostly sorting +EQT 
+
+## 27/03/23 12:50 to 14:30, Back in the main seat.  +EQT 
+## 27/03/23 14:30 to 16:07,  https://github.com/joereddington/IMPS3/issues/3 +EQT 
+
+I have mapped the GitHub 
+✅  I have checked it works locally 
+✅  I have found the original files 
+✅  I have created a folder
+  * I've moved all the files in 
+ ✅  Get the scripts working locally 
+   ✅  I ran update so the yingchen files are in sources 
+   ✅  get the xtabulate scripts working 
+   ✅  Install R 
+* The dashboard serves the files locally 
+
+
+## 28/03/23 06:35 to 07:59, https://github.com/joereddington/IMPS3/issues/3  +EQT
+## 28/03/23 09:22 to 12:05, Okay so what's the plan?   +EQT 
+✅ The next action is to create a leaders page 
+✅ Have the R script put things into the right places. 
+✅  create the button for leaders to use 
+* Message Richard about the thing. 
+* Squash down the commits. 
+* Merge into the main system. 
+
+
+Future plans 
+* Add the badwords
+* Add the ability to compare to other books. 
+* Add the present and past tense examples. 
+
+## 28/03/23 14:46 to 15:42, email.  +EQT 
+## 29/03/23 05:58 to 06:30, Email +EQT
+## 29/03/23 09:25 to 13:50, email but mostly expenses and accounting +EQT
+## 29/03/23 15:24 to 15:52,  +EQT emails 
+
+## 29/03/23 19:46 to 20:31, Homework. 
+Let's have a scan. 
+* Don't feel like I've done much really. 
+
+
+## 30/03/23 06:30 to 07:30, Emails +EQT
+## 30/03/23 09:30 to 13:05, Just emails basically. Processing all the emails.  +EQT
+* Finance and getting on top. 
+
+## 30/03/23 14:24 to 16:00, Working out the ads.  +EQT
+* Ads
+* Called with Elizabeth 
+* Sorting social for WWW 
+
+## 30/03/23 19:53 to 19:53, Quick update.  +EQT
+## 31/03/23 06:26 to 06:33, I'm here.  +EQT
+## 01/04/23 20:21 to 20:40, Publishing a boko.   +EQT
+## 04/04/23 08:21 to 08:39,  Book  +published +EQT 
+
