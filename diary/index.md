@@ -10636,4 +10636,28 @@ Let's have a scan.
 ## 31/03/23 06:26 to 06:33, I'm here.  +EQT
 ## 01/04/23 20:21 to 20:40, Publishing a boko.   +EQT
 ## 04/04/23 08:21 to 08:39,  Book  +published +EQT 
+## 05/04/23 06:10 to 07:11,  Emails in bed +EQT
 
+## 11/04/23 06:44 to 08:00,  +EQT 
+## 11/04/23 13:39 to 15:22,  Hello again +EQT
+before kids: No  
+How many times did you rest today: 2 so far. 
+Where you grumpy and if so did you process the emotional file: No 
+What was your excuse for NOT eating properly:  Leo stole my glasses so I had chocolate. 
+
+## 11/04/23 15:25 to 15:44, Email - I've got 20 minutes +EQT 
+## 11/04/23 15:44 to 15:46, What's the plan now? 
+## 11/04/23 18:16 to 18:35,  +EQT emails 
+## 12/04/23 02:31 to 03:27, +EQT Stress typing. 
+## 12/04/23 10:14 to 10:46, Delores first, that's always the thing.   +EQT
+## 12/04/23 10:46 to 15:12, Switched to the banking stuff.  +EQT
+## 12/04/23 15:12 to 15:38, +EQT cutting down the todo list 
+## 12/04/23 18:31 to 18:42, Running aws  +EQT 
+## 12/04/23 19:45 to 20:14, Code.  +EQT 
+## 13/04/23 05:54 to 07:25, The code would be fun, but I want/need to submit the accounts +EQT 
+## 13/04/23 09:58 to 11:37, 
+## 13/04/23 11:46 to 16:16, Back on the code.  +EQT 
+## 13/04/23 19:04 to 19:20,  +EQT 
+## 13/04/23 19:20 to 19:34, Just working out next actions 
+## 14/04/23 06:15 to 07:40,  +EQT morning 
+## 14/04/23 07:41 to 07:55, Why the headache? Why? +EQT 
