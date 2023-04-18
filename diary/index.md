@@ -10661,3 +10661,12 @@ What was your excuse for NOT eating properly:  Leo stole my glasses so I had cho
 ## 13/04/23 19:20 to 19:34, Just working out next actions 
 ## 14/04/23 06:15 to 07:40,  +EQT morning 
 ## 14/04/23 07:41 to 07:55, Why the headache? Why? +EQT 
+## 17/04/23 06:20 to 07:10 , I'm grumpy. +EQT
+## 17/04/23 11:19 to 12:37, Delores +EQT  
+before kids: No 
+How many times did you rest today: none 
+Where you grumpy and if so did you process the emotional file: yes 
+What was your excuse for NOT eating properly:  Trama anniversery (reasonable I think) 
+
+## 17/04/23 14:13 to 15:45, Hello  +EQT
+## 17/04/23 16:20 to 16:25,  Some WWW supervision +EQT 
