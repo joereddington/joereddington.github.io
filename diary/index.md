@@ -10615,6 +10615,24 @@ Future plans
 
 ## 28/03/23 14:46 to 15:42, email.  +EQT 
 ## 29/03/23 05:58 to 06:30, Email +EQT
+
+## 29/03/23 06:31 to 07:45,  +EQT 
+NA: 
+
+Send £2,000 worth of invoices to Liz, 
+* Go through all recent payments and create a bunch of expenses then. 
+* Open Natwest and open littlefinger. 
+
+* Need to do paypal stuff 
+
+
+
+NA: 
+
+Invoices for Ian 
+* Work out what the total amount of money is that they need
+* Craete the invoices in Quickbooks. 
+
 ## 29/03/23 09:25 to 13:50, email but mostly expenses and accounting +EQT
 ## 29/03/23 15:24 to 15:52,  +EQT emails 
 
@@ -10670,3 +10688,121 @@ What was your excuse for NOT eating properly:  Trama anniversery (reasonable I t
 
 ## 17/04/23 14:13 to 15:45, Hello  +EQT
 ## 17/04/23 16:20 to 16:25,  Some WWW supervision +EQT 
+# New Day 
+Solid eight hours. Including exercise.  
+No, all delores. 
+* I want to include the number of fails in the countdown timer. 
+* And I want to focus on Delores entirely 
+  * This includes NOT turning on the internet until I absolutely have to. 
+* My evening task will be... idk... Electronics! Or reading that damn book... 
+* Send out all the emails 
+
+
+## 18/04/23 06:22 to 06:59, Delores +EQT
+Very frustrated about the fact I'm struggling so much to get the hours in. 
+Time Plan: 
+   * Salad lunch when hungry. Make it at 12:00  
+   * Sauaages and veg for dinner 
+   * Exercise at 1230 
+* Have moved around some plans 
+
+before kids: No 
+How many times did you rest today: none 
+Where you grumpy and if so did you process the emotional file: yes 
+What was your excuse for NOT eating properly:  Trama anniversery (reasonable I think) 
+
+## 18/04/23 06:59 to 07:10, Process reminders onwards +EQT (internet on)
+## 18/04/23 07:18 to 07:48, Update the report for the Charity Commission for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
+## 18/04/23 07:48 to 07:52, (A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
+
+I think the next setps are now clear. 
+
+I think I can do all of these in four hours: 
+
+
+Let's do it. Internet on.  
+
+✅ A 40 Update the report for the Charity Commission for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
+✅ A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
+✅ (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
+✅ (A) 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. 
+✅  B) 10 Draft status email about Tightrope 
+✅ 10 Map writing report for Tightrope 
+(B) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
+(B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
+(B) 35 Produce the HMP Hemel book
+(B) 20 Send mum the refreshed report and date
+
+
+## 18/04/23 07:56 to 08:00, (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
+I can convincingly use the money to sort out core costs of the glasgow thing, but that also means emailing out schools in the area. 
+
+## 18/04/23 09:30 to 10:36, (A) 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. +EQT
+
+But the point of today is to focus on the delores. 
+
+I have returned to the main list. 
+## 18/04/23 10:36 to 11:08, (B) 10 Draft status email about Tightrope  +EQT
+
+## 18/04/23 11:08 to 11:25, (B) 10 Map writing report for Tightrope  +EQT
+## 18/04/23 11:25 to 11:55, (B) 35 Produce the HMP Hemel book +EQT
+Map it: 
+  * Check downloaded file 
+  * Open the IMPS2 thing and find the most recnet text file
+  * import them one by one. 
+      * Work out how to typset a peom 
+  * Find out what the title was meant to be 
+  * Find out about cover art
+  * Run the extra commands about speech marks and so on. 
+
+Taking a while. Asked a vim question. https://vi.stackexchange.com/questions/41923/paste-from-clipboard-without-triggering-iabbr
+
+## 18/04/23 14:27 to 16:10, +EQT recovered entry  
+## 18/04/23 18:00 to 19:00, +EQT publishing book 
+
+# New day 
+Big things 
+  ❌  Stay on diet (50% really) 
+  ✅   Email 
+  ❌  Tick off accounts (again) 
+  ❌  Proper social media process. 
+  ✅  Sort out Leo's blackouts. 
+
+## 19/04/23 06:00 to 06:54,  +EQT delores
+
+before kids: No 
+How many times did you rest today: once, MAYBE  twice 
+Where you grumpy and if so did you process the emotional file: yes
+What was your excuse for NOT eating properly: Tired and kat was grumpy
+Things you should have done better: 
+  * Locked away phone (in favour of kindle) 
+  * Explicitly rested
+  * Processed social media properly 
+
+## 19/04/23 06:54 to 07:27,  +EQT 
+## 19/04/23 07:27 to 08:00, Email +EQT 
+## 19/04/23 09:34 to 13:03, email +EQT
+## 19/04/23 14:29 to 16:12,  +EQT 
+## 20/04/23 06:02 to 07:00, Email  +EQT
+## 20/04/23 07:00 to 07:10, Delores +EQT
+Planning. 
+Got to eat with kids - And tidy and be in bed early.  
+Exercise early - morning, and then lunch. 
+Social media processing is going badly. I need a better approach  
+
+before kids: Yes
+How many times did you rest today: 
+Where you grumpy and if so did you process the emotional file: 
+What was your excuse for NOT eating properly: 
+
+## 20/04/23 07:10 to 07:17, Brief python distraction +EQT
+## 20/04/23 07:17 to 07:34, Dropbox +EQT
+Apparently if I started now I could cover all of the tasks by 13:31. I like that.
+
+## 20/04/23 09:20 to 10:51,  +EQT
+## 20/04/23 13:45 to 14:44, Remote runnign camp +EQT
+## 20/04/23 14:44 to 16:01, Planning +EQT
+Mostly fixing a cover. 
+
+
