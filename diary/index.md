@@ -10806,3 +10806,85 @@ Apparently if I started now I could cover all of the tasks by 13:31. I like that
 Mostly fixing a cover. 
 
 
+# Plan for new day 
+* Get head together 
+* Follow delores.
+
+## 24/04/23 09:50 to 12:49, Brainstorming +EQT
+## 24/04/23 12:49 to 14:29, Delores +EQT - "Let's find out what we don't want to do. 
+before kids: No
+How many times did you rest today: None 
+Where you grumpy and if so did you process the emotional file: Yes... No, NOT as a starting point, 
+What was your excuse for NOT eating properly: That I was sad. 
+* Plan for today. 
+  * Exercise is this evening. With game? Yeah. I did my crying for the week. 
+  * Roast dinner for food. 
+* Sprint until 15:50 
+
+
+## 24/04/23 14:28 to 15:28, Publish Local book.  +EQT
+✅  Check in with the others 
+✅  Download cover file 
+✅  Download and check main file 
+✅  Run the publishing. 
+ - it will definitely cope with 19 points past, but do we want that... 
+
+## 24/04/23 15:28 to 15:42, Try to get midjourney to work +EQT
+
+# Plan for new day 
+* Perfect(ing) Delores 
+* Crush the whole list. 
+
+## 25/04/23 05:45 to 07:29, Delores - let's find out what I don't want +EQT
+before kids: No - and it hardly counts - you know you can do it earlier and you should
+How many times did you rest today: 0
+Where you grumpy and if so did you process the emotional file: No
+What was your excuse for NOT eating properly: Tired
+
+## 25/04/23 07:29 to 07:43, (A) 10 Order 30 HMP Hemel Books  +EQT
+## 25/04/23 07:43 to 07:59, Chain mail +EQT (A) Contact Elizabeth with the draft emails (so do them) 
+## 25/04/23 09:25 to 10:02,  Recovering machine. +EQT
+## 25/04/23 10:02 to 12:39,  +EQT Chainmail 
+## 25/04/23 14:00 to 15:04, Back +EQT Call and chainmail 
+## 25/04/23 15:10 to 15:36,  +EQT
+Really tricky time with chainmail 
+Okay, so what did I learn today 
+
+* it's hard to move things around
+* we can add libraries to the pythonpath and use them more generally
+* OVF had already solved this problem. 
+* one of the problems we have is that it's hard to work out where the data originally came from. 
+* git add -u will add all the updated files - including the deleted ones
+
+So what now: 
+* Work out where the tightrope data came from last time 
+  * See if the data is still in in mailscript 
+    * contacts.csv still exists, but it's odd I can't find the original files 
+    * The emails were created on 12th December 14:46
+      * Let's check for the records
+* Make sure it's in the right directory 
+* Have chatGPT generate a simple email 
+* Add images to Website 
+* Fix conversions 
+* Generate sample ones 
+* Write email to Elizabeth 
+
+## 25/04/23 15:36, I am JUST  so fucking done with this shit. 
+## 25/04/23 15:38 to 16:16, I'm switching to email for a few minutes +EQT 
+
+
+## 25/04/23 20:14 to 20:49, Quiet evening time. 
+Let's attack the list. But with some music. A bit of time  
+
+There's 70 of them. I can work with that. 
+23 after 15 minutes of clearing out the junk. 
+
+Lets do the close down.
+
+## 25/04/23 20:50, 
+What's the exciting thing you'll do in the morning? 
+* Better at MGS 
+* Clear out the emails 
+* Talk to nice people 
+* Decent nights sleep with some reading. 
+  * It's quality NOT quantity 
