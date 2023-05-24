@@ -9551,12 +9551,14 @@ I did a lot of deleting and moving.
 ## 12/12/22 16:16 to 17:11, (B) Review the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 Just working through them 
 
-## 12/12/22 18:16 to 18:26, Back to finish off.   +EQT
+## 12/12/22 18:16 to 11:43, Back to finish off.   +EQT
 Backing up ovf 
 Commands are: (remote)
  sudo zip -e backup.zip html/designs/*.obz -t yyyy-mm-dd (for last known backup) and it will ask for a password. (normally use Iron man) 
 Then local 
 scp -i ~/.ssh/aws_www.pem ec2-user@theopenvoicefactory.org:/usr/share/nginx/backup.zip .
+
+Going to use something else. 
 
 
 ## 12/12/22 18:27, Result! 
@@ -10888,3 +10890,371 @@ What's the exciting thing you'll do in the morning?
 * Talk to nice people 
 * Decent nights sleep with some reading. 
   * It's quality NOT quantity 
+## 26/04/23 06:16 to 06:54, Good morning!  +EQT 
+before kids: Yes! Still in bed but I'll take it. 
+How many times did you rest today: 0
+Where you grumpy and if so did you process the emotional file: 
+What was your excuse for NOT eating properly: 
+
+## 26/04/23 06:54 to 07:41, (A) Contact Elizabeth with the draft emails (so do them)  +EQT
+* Updated the website with images
+* I've drafted a email and put it into the directory 
+* Next action is to produce the spreadsheet
+
+## 26/04/23 09:35 to 12:53,  +EQT
+* Working on Tightrope.
+Calls, (2!) 
+remote leading camps 
+Couple of emails 
+
+## 26/04/23 12:54 to 13:08, Okay, back to a proper delores for a while.  +EQT
+# New day 
+
+## 27/04/23 06:10 to 07:10, Hello +EQT
+## 27/04/23 09:24 to 09:59,  +EQT  Rearranging delores to be smaller and cleaner. 
+## 27/04/23 09:59 to 10:30, +EQT
+## 27/04/23 10:30 to 12:20, EMail +EQT
+## 27/04/23 13:50 to 16:15,  EMail +EQT
+
+## 28/04/23 06:39, Hello  Personal list. 
+## 30/04/23 06:42 to 06:55, QUick publishing +EQT
+## 30/04/23 16:08, Hello 
+
+# Scoresheet for 27/04/23 
+* Up before kids = 5/10 
+* Number of times rested = 0 
+* Number of times times grumpy minus number of times process followed = 2-1
+* Excuses for eating: 2 (almonds, very hard therapy last nigtht) ( chocolate - excited and it was there) 
+
+* Blogs written: 0  
+# New day! 
+Delores notes:
+  * There has been nothing recently in the notes file that has been any use at all. 
+    * A particular death of blog posts. 
+
+## 02/05/23 07:23 to 07:29,  Gratitude list
+* Claire and Laurence, 
+* Rachel 
+
+## 02/05/23 10:00 to 10:43, +EQT
+## 02/05/23 10:43 to 12:25, +EQT Now starting a sprint.  +EQT
+* Did some meeting stuff. 
+* Ordered books 
+* Updated a blog 
+
+## 02/05/23 15:32 to 15:53,  +EQT
+(B) Tightrope report
+
+NA: open up the draft. 
+
+## 02/05/23 20:00 to 20:31, v Meeting  +EQT 
+
+# Scoresheet for 02/05/23 
+* Up before kids = 5/10 
+* Number of times rested = 1 
+* Number of times times grumpy minus number of times process followed = 0-0
+* Excuses for eating: 1 - there was a guest - but still pretty godo actually 
+
+* Blogs written: 0  
+
+## 03/05/23 07:02 to 07:33, Okay then.   +EQT 
+How fast can we reasonably do delores?: 
+* Food plan: curry and scrambled tofu 
+* Tonights exciting thing? Some work? So that I can have fun with bike during day?  
+  * Planning exercise - let's try to really hit some numbers with the bike. Take phone and measure cadence.  
+
+## 03/05/23 07:33 to 07:44, Starting new script +EQT 
+We should probably time it until process inbox and stack 
+
+## 03/05/23 07:44 to 08:00, Fix tightrope conversions.  +EQT
+## 03/05/23 09:45 to 10:47,  +EQT still on tightrope. 
+On tightrope.co.uk - the Google Ads account is showing zero conversions. 
+![no_con](img/no_con.png)
+
+But Analytics is correctly showing conversions! 
+
+![ad_conversions](img/ad_conversions.png)
+
+I thought the problem was that tightrope wasn't linked (that's certainly part of the problem right?), but it is now. 
+
+![link](img/link.png)
+
+I've imported the tightrope file download goal from Analytics into Google ads, but note there are zero conversions. 
+
+![o](img/a.png)
+
+However, there might be 24 hour thing happening. 
+![24 hours](img/image_2023-05-03-10-26-27.png)
+
+I imported two goals and put them in the same custom conversion action called 'tightrope'. I've set the 'tightrope cannibal' to focus on them. I'm going to leave it for a few days to see if this helps. 
+
+# Future things 
+I should update all of these
+![future](img/future.png)
+
+## 03/05/23 10:47 to 11:39, Update Scottish library project  https://github.com/eQualityTime/Home/issues/131 +EQT
+
+
+## 03/05/23 11:39 to 12:19, (B) 40 Submit the report for the Charity Commission again for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
+(with the occasional email) 
+![sucess](img/submitted.png)
+
+## 03/05/23 12:19 to 12:49, Email +EQT
+I've reached reconcilation - only took ten minutes  
+
+## 03/05/23 14:40 to 16:04, +EQT
+* Finnished the last couple of emails 
+* Lets do the reviews. 
+  * Got down to 90 from a couple of hundred, but I feel good about the whole thing 
+# New day 
+✅  Lunch is tofu scramble 
+✅  Dinner is burgers and potatoes 
+✅  Exercise is running the school run 
+✅  I'm excited to have a laptop evening fixing things around the house 
+  ✅  And doing all the prep for the blinds
+❌  I want to do some blogs 
+
+## 04/05/23 06:23 to 07:03,  Lets go +EQT
+## 04/05/23 07:03 to 08:00, Email and email adjacent +EQT
+## 04/05/23 09:38 to 10:04, Email - +EQT
+72 Things to review RN 
+
+## 04/05/23 11:20 to 13:35,  +EQT 
+Okay, I've done three of these blasted social media posts and I don't like them. 
+
+Hotel - 30/1/23 was the first camp day, so 29?   
+
+## 04/05/23 13:35,  25 minutes before speaking to RIcahrd
+## 04/05/23 13:35, (B) Fix old book generation for Yvonne
+## 04/05/23 14:07 to 15:37, Meetings  +EQT 
+## 04/05/23 15:37 to 16:07, (B) Fix old book generation for yvonne 
+## 04/05/23 20:47 to 21:37, (B) Fix old book generation for Yvonne +EQT
+(Details in next entries
+# Scoresheet for 04/05/23 
+* Up before kids = 0/10 
+* Number of times rested = 0 
+* Number of times times grumpy minus number of times process followed = 
+* Excuses for eating: 
+
+* Blogs written: 0  
+
+# Scoresheet for 03/05/23 
+* Up before kids = 0/10 
+* Number of times rested = 0 (and so much phone time) 
+* Number of times times grumpy minus number of times process followed = 
+* Excuses for eating:  3: 'need some thing to go with this tofu' was ridicously 
+
+* Blogs written: 0  
+# New day 
+* Today I want to stick to diet and fix the word counts
+
+## 05/05/23 08:04 to 08:17,  +EQT
+## 05/05/23 09:13 to 09:53,  +EQT
+* I fixed the library code so that it correctly creates python code with the title. 
+* I modified the allbooks code so it spits out folder ids 
+* Chatgpt gave me this script to run one on the other
+
+while read folderid; do ./create.sh "$folderid"; done < folderids.txt
+
+* I renamed the folder Library
+
+## 05/05/23 09:53 to 10:09, Delores +EQT
+## 05/05/23 11:08 to 11:22, I DON'T WANT TO +EQT 
+## 05/05/23 11:22 to 11:47, DELORES AGAIN  +EQT
+## 05/05/23 11:47 to 13:14, word counts. What's wrong there?  +EQT
+## 05/05/23 13:48 to 14:37, +EQT (C) 30 Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+
+
+## 05/05/23 14:37 to 14:39, Deploy any old commits +EQT 
+
+# Scoresheet for 05/05/23 
+* Up before kids = 0/10 
+* Number of times rested = 1 
+* Number of times times grumpy minus number of times process followed = 0 
+* Excuses for eating:  'because kat moved my chocolate' 'to test if the cupcake really was bad'  
+
+* Blogs written: 0.2 (2 facebook post for Academics ) 
+
+## 05/05/23 14:39 to 14:45,  +EQT Working on Success page. 
+## 09/05/23 06:14 to 07:07,  +EQT
+* Planning 
+
+## 09/05/23 07:07 to 07:22,  +EQT
+* What do I want to do with the images? I mean, at the moment they aren't turning to blogs, which suggests I'm doing it wrong anyhow. Let's see what I can make happen today.  
+
+## 09/05/23 07:22 to 07:59, Upgrade the rest of the Google Analytics +EQT
+Okay, so there is a setup assistant, but then there is more work. 
+I've moved the joereddington.com forward and the White Water Writers as well. I'll come back in a few days to see if the data started coming trhoguh 
+
+## 09/05/23 11:11 to 11:21, Zone +EQT
+## 09/05/23 11:21 to 11:23, (B) Download tightrope contact details +EQT
+✅  Find github issue  https://github.com/eQualityTime/Home/issues/136
+* Find the contact details file. 
+* Make good notes and put it in the right place. 
+
+
+## 10/05/23 06:00 to 07:48,  +EQT 
+## 10/05/23 10:00 to 15:29,  +EQT fixing and things. 
+I've been kicking arse on this. Ticking off important things and also clearing out the inbox. 
+* Did the post and everthing 
+* I did do a 20 minute zone out on the thing
+* Wrote up this github issue: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/147 which included some good commands for backing up and others 
+> ssh user@yourserver 'find html/designs/ -name "*.obz" -newermt 2023-02-01 ! -newermt 2023-03-01 -print0 | tar -czf - --null -T -' > backup.tar.gz 
+
+
+
+## 10/05/23 15:29 to 16:09, Let's fix that Flowers For Turing site +EQT
+I put the donate link back. 
+* I tided up the typos. 
+* Pushed and put on social.  
+
+
+Social media posts
+* Flowers For Turing Website is now live. 
+* Here's an update on OVF 
+* Fixed longstanding bugs on IMPS3 
+
+
+
+## 11/05/23 06:00 to 07:50, +EQT working on laptop 
+
+## 11/05/23 09:50 to 13:06, +EQT getting in the system 
+I've been all over the place. Lots of things getting ticked off 
+
+
+* What's the resolution of my monitor? 
+  * That will tell me what graphics card I need
+  * My TV is 4k. Which is cool. 
+* What's my budget? 
+* I definitely want an SSD and I definitely want Linux. 
+* I want usb plugs and an SD card reader. How many USB ports... 
+  * Camera, keyboard, external hard drive, what else do I have down there?  
+
+* It seems like I don't actually want much. 
+
+* Let's say this. Let's email the trustees and message clare  
+
+
+I've been using a mac purchased in August 2018 for £1037.  It's getting creaky after five years and I'm starting to lose an amount of time to random reboots and the like. I'd like to replace it and would like the trustees to approve me spending no more than £780 (based on 75% of the last purchase) on a new desktop machine, with final specifications to be approved by the chair.  It's my intention in the next year to write a proper 'bring your own tech' policy  
+
+## 11/05/23 13:06 to 13:40, Tightrope Wbsite +EQT
+* How do I set up Google Optimise? 
+
+## 11/05/23 13:41, I have six things to do. +EQT 
+But I'm very tired. 
+
+## 11/05/23 18:11 to 19:53, Sending Iyun an email +EQT
+* Also artists
+* Also leaders
+
+## 14/05/23 06:15 to 06:33, Setting up camps  +EQ
+
+## 15/05/23 10:54 to 11:48, Hello  +EQT 
+* Wipe out the list. 
+* 7 things 
+* Mostly sorting the router so far. 
+
+## 15/05/23 11:48 to 12:27,  Turing +EQT 
+## 15/05/23 12:27 to 12:56, Quicly putting dinner on. 
+## 15/05/23 12:56 to 13:54, Okay now what?  +EQT 
+* I've recreated the private teachers contact details sheet from the Library file and done a lot of data cleaning. 
+  * We've got 34 names from 104 schools. That needs a bit more work I think. 
+  * Next action is to put in the names and emails for the other 70 schools. Sigh. 
+
+## 15/05/23 13:54 to 14:32, Lost in my head 
+## 15/05/23 14:32 to 15:11, Optimise and fixing Camps +EQT
+
+ 
+## 16/05/23 12:13 to 14:13,  +EQT put in to count for code and messages around WWW 
+## 16/05/23 14:13 to 15:16, Last bits of todo list +EQT
+
+
+## 17/05/23 10:50 to 11:40, Hello   +EQT
+
+The choice: 
+* Email
+* Delores 
+* Fuck around
+
+* Delores with a game. 
+
+So what I did was I completed the top blogs thing and checked the A/B testing.
+This is hardly the thing I was looking for. I am NOT motivated.  
+Called Nest 
+
+
+Pension information
+For eQuality Time I have a pension with Nest, the login is joe@joereddington.com and firefox has the password. 
+
+I used to have a pension at SAUL with Kings? 
+and one with USS from Aberdeen  
+
+I don't know what percentage I'm putting into my pension. 
+
+
+
+Student loan 
+- 70794472397 
+
+- £8,495.58.  
+
+## 17/05/23 14:00 to 15:50,  +EQT Work and emails and stuff 
+
+## 18/05/23 09:33, It's an email Day  +EQT 
+## 18/05/23 09:33 to 09:35, But first - proper delores  +EQT
+## 18/05/23 09:35 to 10:03,  Email +EQT
+"If you are half way throught and can get back to flow..." 
+
+## 18/05/23 10:03 to 10:13, Fixing a bug on WWW +EQT
+## 18/05/23 10:13 to 12:46, Email +EQT
+* Starting to get less flowy 
+## 18/05/23 12:46 to 14:08, I've had enough of email now. Let's look at Delores +EQT 
+## 18/05/23 14:08 to 15:03, Trying to fix covers +EQT
+* Exercise will be in an hour. 
+* What am I going to do this evening?  * Read a book, watch some more of that film 
+
+I'm so out. 
+
+## 19/05/23 13:04 to 13:58, Back +EQT 
+I'm going to do some todo list rewriting. 
+
+Thinking about ten year goals 
+
+What are my ten year emotional goals. 
+
+## 19/05/23 13:58, Well, I've worked out why I'm annoyed. 
+* I'm saying NO. 
+
+## 20/05/23 15:52 to 16:25 , Publishing a book.  +EQT
+## 23/05/23 06:28 to 07:47, Getting started on F4T +EQT  
+I've been writing up the points in my Google drive document for F4T
+
+## 23/05/23 09:45 to 11:41, Tired. So Tired.  Working through delroes +EQT
+* Delores actually going quite well
+
+## 23/05/23 11:42 to 11:58, Session break +EQT
+* Processing this file 
+
+## 23/05/23 11:59 to 12:25, Calling trustee +EQT
+## 23/05/23 12:53 to 14:20, Next thing is stack.  +EQT
+I reviewed Garfield Weston and we haven't spent enough money - we should also include some of my core time to: upgrade systems and train new people. 
+
+## 23/05/23 20:16 to 21:49, Sending the Flowers For Turing emails   +EQT
+* Just click and send. 
+  * Rewriting lots 
+  * For next year - have a script that includes 'personal friends' and triggers a (Hi!, yes I did writer a python script to talk to all the donors but I do read them first...) 
+* Done! And a social media post
+## 24/05/23 06:08 to 06:38, +EQT not sure it was 'real' work but it was worthwhile
+## 24/05/23 06:38 to 07:45, +EQT also a bit deranged, but working. 
+## 24/05/23 07:45 to 07:59,  Email +EQT
+## 24/05/23 09:26 to 11:54, Email +EQT
+## 24/05/23 11:54 to 12:23, Switch to dropbox processing +EQT
+Fancy command for deleting empty directories 
+find /path/to/directory -type d -empty -exec rmdir {} \; - there are lots of them but it doesn't make a massive difference. 
+
+I should look for the biggest files that aren't in the New Order really. 
+
+## 24/05/23 12:23 to 13:08, Lunch, and then back to email 
+## 24/05/23 13:08 to 13:35, More email +EQT
+* Suspending email because Lusia is going to send me a ting 
+## 24/05/23 13:34 to 14:36, Git reviews.  +EQT
