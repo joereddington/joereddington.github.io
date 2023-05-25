@@ -11258,3 +11258,10 @@ I should look for the biggest files that aren't in the New Order really.
 ## 24/05/23 13:08 to 13:35, More email +EQT
 * Suspending email because Lusia is going to send me a ting 
 ## 24/05/23 13:34 to 14:36, Git reviews.  +EQT
+# Scoresheet for 09/05/23 
+* Up before kids = 0/10 
+* Number of times rested = 0 
+* Number of times times grumpy minus number of times process followed = 0 
+* Excuses for eating:  'the chocolate was there' 'everything is fine' 
+
+* Blogs written: 0
