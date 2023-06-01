@@ -11265,3 +11265,41 @@ I should look for the biggest files that aren't in the New Order really.
 * Excuses for eating:  'the chocolate was there' 'everything is fine' 
 
 * Blogs written: 0
+## 24/05/23 19:59 to 20:18,  Back for a sprint +EQT 
+## 24/05/23 20:19 to 20:56, Starting new Sprint +EQT
+## 24/05/23 20:43 to 21:21, Photography 
+## 25/05/23 06:04 to 07:30, email +EQT
+## 25/05/23 09:30 to 11:03, email and excel consultanty +EQT
+## 25/05/23 11:03 to 11:16, Internet off +EQT
+## 25/05/23 11:16 to 11:40, Quick internet  +EQT
+## 25/05/23 11:40 to 15:32, +EQT +openvoicefactory 
+See this: https://equalitytime.co.uk/6737/2023/05/25/open-voice-factory-update-2/ 
+
+## 25/05/23 15:34 to 14:15, Can I email all the universities: +EQT
+## 25/05/23 18:06 to 18:40, You know, I might be able to...  +EQT
+## 25/05/23 20:22 to 21:20,  +EQT database for Flowers For Turing emails 
+## 26/05/23 08:58 to 10:12,  +EQT
+## 26/05/23 10:12 to 10:13, Working on todo list +EQT
+## 26/05/23 10:05 to 10:12, +OpenVoiceFactory fixing 404 page +EQT
+## 26/05/23 10:12 to 11:38, attacking the list +EQT
+
+## 26/05/23 21:08 to 21:28, Ordering a PC +EQT
+## 30/05/23 06:19 to 07:12, Hello  +EQT
+* Did littlefinger 
+* Did a Flowers post 
+* Fixed the export history 
+
+## 30/05/23 07:12 to 08:02, IMPS3 regression tests +EQT 
+## 30/05/23 19:02 to 19:17, +EQT working on Academics database 
+## 30/05/23 09:40 to 12:05, Long term planning +EQT
+## 30/05/23 19:10 to 20:35, Turing Emails +EQT
+## 31/05/23 05:30 to 05:44, Getting damn machine working +EQT
+## 31/05/23 05:44 to 07:51, Turing +EQT
+## 31/05/23 10:24 to 11:53,  Turning Emails  +EQT
+## 31/05/23 11:53 to 12:44, +EQT
+x 2023-05-31 10 Create seperate repo for the history code.
+## 31/05/23 12:44 to 13:30, (C) IMPS3 - AI should save images with dates +EQT
+* Writen and pushed as develop - I also removed the unfortunate broken commit from last week. 
+
+## 31/05/23 13:30 to 14:28, (A) 20 Typeset the Prison book  +EQT
+## 31/05/23 19:46 to 19:52, General +EQT
