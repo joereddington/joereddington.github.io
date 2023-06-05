@@ -1980,7 +1980,7 @@ I'm doing the WWW one because it's a bit easier (a lot easier) - I've copied and
 
 
 ## 02/03/21 16:12, Listening to the meeting 
-* The quote I copy pasted was "In effect, the guide’s ‘users’ are askedto reimagine their life as an asset management systemwith inputs and outputs" 
+* The quote I copy pasted was "In effect, the guide's 'users' are askedto reimagine their life as an asset management systemwith inputs and outputs" 
 * I also liked the switch from miliary to self care I enjoyed hat
 * I'm still digesting it 
 
@@ -10724,12 +10724,12 @@ I think I can do all of these in four hours:
 
 Let's do it. Internet on.  
 
-✅ A 40 Update the report for the Charity Commission for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
-✅ A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
-✅ (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-✅ (A) 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. 
-✅  B) 10 Draft status email about Tightrope 
-✅ 10 Map writing report for Tightrope 
+ A 40 Update the report for the Charity Commission for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
+ A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
+ (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
+ (A) 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. 
+  B) 10 Draft status email about Tightrope 
+ 10 Map writing report for Tightrope 
 (B) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
