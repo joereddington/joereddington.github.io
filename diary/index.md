@@ -11303,3 +11303,21 @@ x 2023-05-31 10 Create seperate repo for the history code.
 
 ## 31/05/23 13:30 to 14:28, (A) 20 Typeset the Prison book  +EQT
 ## 31/05/23 19:46 to 19:52, General +EQT
+# Scoresheet for 25/05/23 
+* Up before kids = 7/10 
+* Number of times rested = 0
+* Number of times times grumpy minus number of times process followed = 0 
+* Excuses for eating:   
+* Blogs written: 1(!)
+
+
+# Scoresheet for 24/05/23 
+* Up before kids = 0/10 
+* Number of times rested = 1 
+* Number of times times grumpy minus number of times process followed = 0 
+* Excuses for eating:   "I want that" 
+
+* Blogs written: 0
+## 01/06/23 05:11 to 07:38,  Got to do the emails today +EQT
+## 01/06/23 10:32 to 11:34, +EQT Still emails - nearly there. 
+## 01/06/23 11:34 to 13:17, Setting up tech and email +EQT 
