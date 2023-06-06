@@ -11321,3 +11321,41 @@ x 2023-05-31 10 Create seperate repo for the history code.
 ## 01/06/23 05:11 to 07:38,  Got to do the emails today +EQT
 ## 01/06/23 10:32 to 11:34, +EQT Still emails - nearly there. 
 ## 01/06/23 11:34 to 13:17, Setting up tech and email +EQT 
+## 05/06/23 05:45 to 07:47,   +EQT Delores
+* Menu: Scrambled Tofu 
+* Social media process time 3pm.  
+* Exercise from 3:50
+
+## 05/06/23 09:31 to 09:45,  +EQT  Delores for the day 
+## 05/06/23 09:45 to 09:50, (A) Order books from the prison book  +EQT
+## 05/06/23 09:50 to 10:54, (A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
+![bad sign really](img/Bad sign.png)
+## 05/06/23 10:54 to 11:22, (B) 30 Review the downloaded OVF manual project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
+## 05/06/23 11:22 to 11:35, (C) Refactoring sprint on OVF (Todo's or test coverage)   +EQT
+## 05/06/23 11:35,  Delores +EQT
+* Check the prioirty and the date for the remaining two actions (two were wrong) 
+## 05/06/23 11:38 to 12:21, (B) Write press contact email about Flowers For Turing.  +EQT
+More to do, but FB is off to Portugul for a week so it can wait a litt
+
+## 05/06/23 12:21 to 12:26, stack +EQT
+Fixing this error: 
+![](img/error message .png)
+* Somehow got 40 minutes spare, which I fully intend to use for a run 
+
+## 05/06/23 12:26 to 13:45, (B) 60 Rewrite the 'How to write a short story' guide +EQT
+## 05/06/23 13:45 to 13:46, (C) 10 Confirm that Annual leave sheet has a break calcualtion (extra 20 minutes after six hours)  +EQT
+* Fixed a unicode bug (sed couldn't cope with the unicode tick) 
+* Will have to check later when the web has updated
+
+## 05/06/23 13:46 to 14:11, (C) 10 Have chatGPT rewrite the luton schools email: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
+* They are in the emails ready to send.
+
+## 05/06/23 14:11 to 14:29, Stack +EQT
+## 05/06/23 14:29 to 14:46, (E) 20 Read this manual properly and see if there is an address spliter ttps://copyq.readthedocs.io/en/latest/  +EQT
+I've sadly skipped one todo item 
+## 05/06/23 14:46 to 14:56, (C) 10 Confirm that Annual leave sheet has a break calculation (extra 20 minutes after six hours)  +EQT 
+I regained three days work(!)
+## 05/06/23 14:56 to 15:00, (E) 10 Sort out top drawer  +EQTJ
+## 05/06/23 15:00 to 15:31, Alarm for social media.  +EQT
+...I didn't get to it. Drafting the post took all the time
+## 05/06/23 17:50 to 18:21,  +EQT WWW 
