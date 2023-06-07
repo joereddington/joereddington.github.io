@@ -11359,3 +11359,16 @@ I regained three days work(!)
 ## 05/06/23 15:00 to 15:31, Alarm for social media.  +EQT
 ...I didn't get to it. Drafting the post took all the time
 ## 05/06/23 17:50 to 18:21,  +EQT WWW 
+## 06/06/23 05:48 to 06:28, Morning   +EQT 
+## 06/06/23 06:29 to 06:30, Delores +EQT 
+## 06/06/23 06:30 to 07:12, Improve School contacts database  +EQT
+## 06/06/23 07:12 to 08:02, (C) 20 Write press contact email about Flowers For Turing.  +EQT
+## 06/06/23 10:22 to 10:48,(C) 20 Write press contact email about Flowers For Turing.  +EQT
+## 06/06/23 10:48 to 11:59, Claim expenses +EQT
+## 06/06/23 12:00 to 12:40, (E) 20 Sort open issues into 10 year project board +EQT
+## 06/06/23 12:40 to 13:06,  +EQT
+## 06/06/23 13:07 to 15:04, Bit of coding as reward.  +EQT
+Found out that you can start a local python server with python3 -m http.server, which is cool. 
+## 06/06/23 15:04 to 15:30, Social media +EQT
+## 06/06/23 15:30 to 15:42, Watching work video +EQT
+## 06/06/23 18:07 to 18:48,  +EQT Trying to drill down on a bug in my code
