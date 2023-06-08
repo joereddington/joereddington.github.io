@@ -11372,3 +11372,14 @@ Found out that you can start a local python server with python3 -m http.server, 
 ## 06/06/23 15:04 to 15:30, Social media +EQT
 ## 06/06/23 15:30 to 15:42, Watching work video +EQT
 ## 06/06/23 18:07 to 18:48,  +EQT Trying to drill down on a bug in my code
+## 07/06/23 05:45 to 06:15, Fixed an annoying bug I was halfway though.  +EQT
+## 07/06/23 06:15 to 06:46, More Delores +EQT
+## 07/06/23 06:46 to 07:23, Stack +EQT
+## 07/06/23 07:23 to 08:06, Email! +EQT
+## 07/06/23 09:49 to 10:00, Work video  +EQT
+## 07/06/23 10:00 to 10:22, Phone call - Flowers For turing+EQT
+## 07/06/23 10:22 to 10:40, Networking palnning +EQT
+## 07/06/23 10:40 to 12:52, Email +EQT
+## 07/06/23 12:52 to 13:30, +EQT
+## 07/06/23 13:30 to 15:22, +EQT
+## 07/06/23 15:26 to 15:41,  +EQT
