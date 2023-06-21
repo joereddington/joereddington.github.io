@@ -9557,6 +9557,7 @@ Commands are: (remote)
  sudo zip -e backup.zip html/designs/*.obz -t yyyy-mm-dd (for last known backup) and it will ask for a password. (normally use Iron man) 
 Then local 
 scp -i ~/.ssh/aws_www.pem ec2-user@theopenvoicefactory.org:/usr/share/nginx/backup.zip .
+EDIT - you can now use scp ovf: for the transfer
 
 Going to use something else. 
 
@@ -11383,3 +11384,128 @@ Found out that you can start a local python server with python3 -m http.server, 
 ## 07/06/23 12:52 to 13:30, +EQT
 ## 07/06/23 13:30 to 15:22, +EQT
 ## 07/06/23 15:26 to 15:41,  +EQT
+## 08/06/23 05:58 to 06:16,  Delores +EQT
+## 08/06/23 06:16 to 07:16, Slow start this morning +EQT
+## 08/06/23 07:16 to 07:32,  Starting new section +EQT 
+## 08/06/23 09:55 to 10:00, Hello, let's do the stack     +EQT
+## 08/06/23 10:00 to 10:16, AI cover for Ashley  +EQT
+## 08/06/23 10:16 to 10:49, Make todo list pretty +EQT 
+## 08/06/23 10:49 to 12:23, Deeply annoying non-existant networking event +EQT
+## 08/06/23 12:23 to 13:00, Make todo list pretty +EQT
+## 08/06/23 13:00 to 13:04, Small distraction sorting book out (and published a blog) 
+## 08/06/23 13:04 to 13:14, Generating cover +EQT
+## 08/06/23 13:14 to 13:17, Todo prettification +EQT
+## 08/06/23 13:17 to 13:35, What's next?  (A) 20 Review Garfield Weston and establish what else we can do with it: https://github.com/eQualityTime/Home/issues/130 +EQT
+## 08/06/23 13:35 to 13:48, Collecting new PC and generally admiring it.  +EQT
+## 08/06/23 13:48 to 13:48, Okay - what's the plan? +EQT 
+## 08/06/23 14:40 to 14:40,  Time to come back +EQT 
+## 08/06/23 13:55 to 14:13, (D) 20 Write a little python module that returns a Google Sheets file as a list of dictionaries: https://github.com/eQualityTime/Home/issues/127 +EQT
+## 08/06/23 14:13 to 14:25, Working out new setup. +EQT
+## 08/06/23 14:25 to 14:57, Starting again.  +EQT (E) 12 Run multi-git-status on OVF
+sudo -u apache ../multi-git-status/mgitstatus 
+
+## 08/06/23 14:57 to 14:57, (B) 20 minutes sorting dropbox  https://github.com/eQualityTime/Home/issues/120 +EQT
+## 08/06/23 14:58 to 14:58,  Open up the whole set +EQT
+## 08/06/23 14:58 to 15:35, (C) 20 Run the chainmail code on previous teachers and review outputs  https://github.com/eQualityTime/Home/issues/133 +EQT
+## 08/06/23 15:35 to 15:49, (C) 60 Refactor and write tests in IMPS3  +EQT
+* I went through the todos and added a bunch of notes. 
+* NA: run the tests 
+
+## 11/06/23 06:10 to 08:13, Publishing books +EQT
+## 12/06/23 06:04 to 07:14, Hello! Delores and general setup +EQT 
+## 12/06/23 07:14 to 07:36, Actual todo list time! +EQT 
+## 12/06/23 07:36 to 07:55, Generate Press list emails +EQT 
+## 12/06/23 09:42 to 12:04, Generate Press list emails +EQT 
+## 12/06/23 12:04 to 12:11,  Send Luton School emails +EQT
+## 12/06/23 12:11 to 13:23, The next set of emails  +EQT
+## 12/06/23 13:23 to 14:04, What am I doing now?  +EQT
+## 12/06/23 14:04 to 15:44, +EQT IMPS refactoring 
+## 13/06/23 06:00 to 06:07, Tidy up the git for IMPS +EQT
+## 13/06/23 06:07 to 07:12, Delores +EQT 
+* 3 hours 35 minutes to do all the tasks? That would be amazing. Let's do that.
+* I reviewed the timings - it is amazing how hard it is to put 8 hours in without also starting at 5:30 
+* I think I've set up to massively confuse myself with my new key mappings but we'll see
+* Social Media processing is JUST  NOT happening. 
+## 13/06/23 07:12, Actual tasks 
+## 13/06/23 07:12 to 07:59, (C) 60 Refactor and write tests in OVF  +EQT +OpenVoiceFactory
+## 13/06/23 10:00 to 11:53, (C) 60 Refactor and write tests in OVF  +EQT +OpenVoiceFactory 
+Refactoring OVF - have committed and pushed
+## 13/06/23 11:54 to 13:16, Rewrite document for prisoners  +EQT
+## 13/06/23 13:16 to 14:16, (D) 15 Import the most recent set of camps to the WWW library  https://github.com/eQualityTime/Home/issues/134 +EQT
+* Imported, found it was much easier to do it with Chatgpt 
+* Also fixed the missing books a bit as well. 
+## 13/06/23 14:17 to 14:41, (D) 20 Review the git projects and see what we can push  +EQT ## 13/06/23 14:41 to 14:48,  (E) 10 Backup AWS +EQT
+## 13/06/23 14:48 to 15:03, (D) 20 Look at the CS HoD sheet and see who else you can email about your collaborative writing https://github.com/eQualityTime/Home/issues/135 +EQT 
+## 13/06/23 15:03 to 15:50, Transfer the website and map as an issue +EQT
+Transfer EQT site 
+
+At the moment the EQT website is the only one keeping us on dreamhost (there are some subdomains that need changing). So it's costing us quite a lot of money every month. 
+
+We should move it to AWS. 
+
+We've tried this before, but never in a sustained way. 
+
+Our first approach will be to use the classic plugins for transfering. 
+* Let's see what we already have installed
+  * THe main one is 'Dublicator' 
+  * There is also 'wp on AWS'
+  * We already have a lightsail instance, with a public key, that we can login to with bitnami@35.178.250.233
+* Okay so next actions: 
+  * I think start an entirely new instance? Maybe use novareddington.com as a test.  
+  * Yes, I think I want to try that. 
+  * Or... I could host it next to WWW. That would definately be the simplest
+    * But it would also be the server with the most power. 
+    * Hey, can I JUST  duplicate it? 
+
+
+## 13/06/23 18:32 to 19:00, +EQT working out next actions  +EQT
+## 14/06/23 05:40 to 05:58,  +EQT
+## 14/06/23 05:58 to 06:36, Email +EQT
+## 15/06/23 06:12 to 06:12, Sort out event +EQT 
+## 15/06/23 06:12 to 06:51, Putting out some fires +EQT 
+## 15/06/23 09:20 to 16:00, Networking at that Betchley park  +EQT
+## 16/06/23 10:30 to 12:30, entroprenairship networking +EQT
+## 16/06/23 15:18 to 15:50, Publishing books +EQT 
+## 17/06/23 07:40, Reply to post and publishing books +EQT
+## 19/06/23 05:48 to 05:49, Hello  +EQT 
+## 19/06/23 05:49 to 06:20, Paypal first +EQT
+## 19/06/23 06:20 to 08:00, Delores +EQT
+* I had a quick diversion looking at my new code: 
+  * Reviewed the old issue https://github.com/joereddington/Projects-Private/issues/212 
+* Got to make a plan for Leo - and it's soft play in the afternoon I think. 
+  * We going to do good talking today. 
+  * Do the full list of games.  
+  * All of the football 
+
+
+## 20/06/23 05:43 to 06:46, Delores +EQT
+## 20/06/23 06:46 to 08:06, Delores +EQT
+## 20/06/23 09:20 to 09:45,  +EQT config 
+## 20/06/23 09:45 to 10:31, Delores +EQT back to stack 
+## 20/06/23 10:31 to 11:31, (A) Clean up the whole todo list  +EQT
+Down to 22 things. That's very calming.  
+Down to 18 things 
+17 things 
+## 20/06/23 11:31 to 11:35, Testing streaming +EQT 
+* Having to do some recording. 
+## 20/06/23 11:35, So now we have a choice  +EQT
+* Do we process normally? Or do we focus on the public ones? 
+* We process until we get a public one 
+
+## 20/06/23 11:36 to 14:00,  +EQT
+(A) 05 Download the files for the next prison book  @private
+
+* Found a cool pandoc command for combining things 
+pandoc *.docx -o output.docx
+ rename 's/^\d.docx/0$&/' * (adds a leading zero 
+
+## 20/06/23 14:00 to 15:00, Talking to Yvonne +EQT
+## 20/06/23 15:32 to 15:50,  +EQT Sorting out the book +EQT
+Finally finnished. learned some good tricks though. 
+
+
+## 20/06/23 15:51 to 16:12,  Social Media  Algorithm +EQT
+* First the open voice factory 
+* Then the CEOs group (although I did also check my own notifications) 
+
+
