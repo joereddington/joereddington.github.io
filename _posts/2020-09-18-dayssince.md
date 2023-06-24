@@ -20,11 +20,11 @@ add_to_list("Nova",'2018-01-26');
 add_to_list("Leo",'2020-05-03');
 add_to_list("Stopped being sick",'2020-01-14');
 //add_to_list("Klout",'2014-04-28');
-add_to_list("Cold Showers",'2019-02-22');//date messaged Pete about it
+add_to_list("Cold Showers",'2023-05-16');//date messaged Pete about it
 add_to_list("Mornings with Nova",'2036-09-22');//Assuming Uni or something? 
 add_to_list("Mornings with Leo",'2038-09-22');//Assuming Uni or something? 
 add_to_list("Death",'2064-09-22');//Assuming Uni or something? 
-add_to_list("Caffine",'2022-05-15');
+add_to_list("Caffine",'2023-05-16');
 }
 
 
