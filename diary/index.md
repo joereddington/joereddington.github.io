@@ -11509,3 +11509,26 @@ Finally finnished. learned some good tricks though.
 * Then the CEOs group (although I did also check my own notifications) 
 
 
+## 21/06/23 07:05 to 07:08, Deloresy things 
+Hello 
+## 21/06/23 07:08 to 08:05, Starting with the email +EQT
+## 21/06/23 09:40 to 10:25, Here now: the emails +EQT
+## 21/06/23 10:25 to 16:45, Meetup with Lizzie +EQT
+## 22/06/23 06:10 to 08:00, Getting started   +EQT
+## 22/06/23 11:42 to 11:43,  Email again  +EQT
+* If I can get through the whole email inbox then I'll switch to some delores code
+* The next thing is a terms of reference for Lauren 
+  * And cc ChenChen 
+
+## 22/06/23 13:40 to 14:57, +EQT EMail 
+## 22/06/23 14:57 to 15:25, Code +EQT
+The sprint is 
+
+"Display the next action in a big display at the top." 
+
+So what do I need to write for that... 
+
+a div. 
+
+A javascript class?  
+
