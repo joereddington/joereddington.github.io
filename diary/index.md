@@ -11532,3 +11532,34 @@ a div.
 
 A javascript class?  
 
+## 24/06/23 06:44 to 07:00, A few minuts on the personal todo list.  
+## 25/06/23 21:11 to 21:28, 
+
+## 26/06/23 06:32 to 07:05, +EQT * Grinding through 
+## 26/06/23 07:05 to 08:00, +EQT Tired and grumpy 
+## 26/06/23 09:26 to 10:48,  Working through stack  +EQT
+* And tidying up todo 
+## 26/06/23 10:48 to 11:20, (A) 20 Find and download a csv to use for the tightrope email out  @private +EQT Also the Turing posts 
+* I've created a Turing post, asked mum for some information, created the pages - there is more to do.  
+* At the very least NO more donations can come in. 
+
+## 26/06/23 11:36 to 12:07, Back to the CSV   +EQT
+## 26/06/23 12:07 to 12:16, Now trying the download sheet +EQT
+With the help of chatGPT I've now got a script that downloads spreadsheets, which is lovely. 
+## 26/06/23 12:16 to 12:42, Attempted to get somewhere with wikidata +EQT  It didn't go well  +EQT
+## 26/06/23 12:46 to 12:58, Back to the todo  +EQT
+## 26/06/23 12:58 to 13:12, Process the git directory  +EQT 
+* Did softlinks 
+* This command wipes all stashs find . -type d -name .git -execdir git stash clear \;
+* Really pleased with how fast that command JUST  ran  
+## 26/06/23 13:12 to 13:45, Reviewing social harms  +EQT
+## 26/06/23 13:45 to 14:12, More on git +EQT
+## 26/06/23 14:12 to 16:15, Delores code +EQT
+* As we start, we have two failing tests, I think I'd set something
+* Ah, our failing tests are because we've moved on. It's because the select the right method dates from a time when there was H1's to look at Now we need a class 
+* I've had a really good run getting tests to pass - much better now I've settled on an internal structure. 
+* the jumps are working, I now need the returns, and, annoyingly, the jump stack working.  
+
+## 26/06/23 16:15, Okay it's been fun +EQT
+I'm definitely pushing something stupid in the call stack 
+
