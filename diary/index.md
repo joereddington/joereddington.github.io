@@ -11563,3 +11563,17 @@ With the help of chatGPT I've now got a script that downloads spreadsheets, whic
 ## 26/06/23 16:15, Okay it's been fun +EQT
 I'm definitely pushing something stupid in the call stack 
 
+## 27/06/23 05:45 to 06:48,  +EQT 
+## 27/06/23 06:48 to 07:48, Lets complete that code sprint +EQT
+## 27/06/23 07:48 to 08:00, Delores +EQT
+## 27/06/23 09:40 to 10:36, spinning back up +EQT 
+Various messaging and contacting people 
+## 27/06/23 10:36 to 12:41,  Wipe them out: all of them  +EQT 
+Okay, so the big question is: how fast can I send literally all the emails out to six forms 
+## 27/06/23 12:41 to 13:42, Flowers for Turing report and clean up.  +EQT
+## 27/06/23 13:36 to 14:13, Just zoned out really 
+## 27/06/23 14:13 to 15:55, Phone call with clare +EQT
+## 27/06/23 15:55 to 16:02, Time for some code   +EQT
+* or faff 
+* Creating a report 
+* Next thing to do is sort out mum's expenses 
