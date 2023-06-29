@@ -11577,3 +11577,9 @@ Okay, so the big question is: how fast can I send literally all the emails out t
 * or faff 
 * Creating a report 
 * Next thing to do is sort out mum's expenses 
+## 28/06/23 06:28 to 08:01, Email +EQT 
+## 28/06/23 09:24 to 11:35,  Back to email +EQT
+## 28/06/23 11:55, After small break
+## 28/06/23 11:55 to 13:24,  Tightrope emails +EQT
+## 28/06/23 13:24 to 13:39,    +EQT 
+## 28/06/23 13:39 to 13:40, Okay, I can give the list a kicking or I can move on to the new delores.  +EQT 
