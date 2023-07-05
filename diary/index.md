@@ -11583,3 +11583,89 @@ Okay, so the big question is: how fast can I send literally all the emails out t
 ## 28/06/23 11:55 to 13:24,  Tightrope emails +EQT
 ## 28/06/23 13:24 to 13:39,    +EQT 
 ## 28/06/23 13:39 to 13:40, Okay, I can give the list a kicking or I can move on to the new delores.  +EQT 
+## 29/06/23 09:20 to 09:38,  config +EQT
+## 29/06/23 09:39 to 10:49, Getting started  +EQT with small delores 
+## 29/06/23 10:50 to 11:19, (A) 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
+## 29/06/23 11:19 to 11:50, Flowers for Turing +EQT
+## 29/06/23 11:50 to 12:28, Config nightmare +EQT
+## 29/06/23 12:28 to 12:44, Flowers for Turing +EQT
+## 29/06/23 12:45 to 13:00, Delores +EQT
+## 29/06/23 13:00 to 13:36, Talking to school +EQT
+## 29/06/23 13:36 to 14:26, Delores  code +EQT 
+## 29/06/23 14:26 to 14:50, Now actual delores   +EQT
+## 29/06/23 14:52 to 15:00, Finnish Turing +EQT
+I have sent the email! yay -and then hurriedly fixed a thing 
+## 29/06/23 15:03 to 15:22,  So I think the most important thing to put into Delores is the 'Why' jump. 
+* And that's hardcoded right? That's a keyboard shortcut that opens a seperate menu for 'don't want to'  
+
+## 29/06/23 15:22 to 16:15, Start a new section +EQT
+Working on stack and tidying this file
+* I've posted the FFT facebook post
+
+
+## 30/06/23 06:06 to 06:25, Delores +EQT
+What do I want for dinner
+Yorkshire puddings or coconut rice would be great. Or Curry Rex 
+Exercise eh? I should go for a run early on... Yeah, early in the stack  
+* What is the post for social media? 
+  * Well it could be a photo, but it turns out I have nothing to say... 
+* My evening task? Could it finally be the ps4? That would be amazing...  
+## 30/06/23 06:25 to 06:29, Now the stack  +EQT
+## 30/06/23 06:29 to 06:33, Quick +EQT Thing. 
+
+## 03/07/23 06:59 to 07:28,  Lets start up the delores process then +EQT 
+## 03/07/23 07:28 to 07:47, Looking after kids 
+## 03/07/23 07:47 to 07:47,  +EQT 
+* Going for classes 
+
+## 03/07/23 09:15 to 14:00, +EQT crap networking event. 
+* Manged to write a little bit of my presentation during it 
+
+## 03/07/23 18:03 to 20:37, Govenours meeting 
+## 03/07/23 20:37 to 20:50, Some quick presentation planning +EQT 
+NA: is to write the fucking thing out. 700 words. Shouldn't take long 
+## 03/07/23 20:51 to 21:09, Finally wrote the itest post
+## 04/07/23 05:31 to 05:57,  Delores and config +EQT
+## 04/07/23 05:57 to 06:23, Delores +EQT
+* Exercise is for this evening 
+  * And PS4! 
+* If I wipe out the list then I'll treat myself to some delores coding. 
+## 04/07/23 06:23 to 06:30, Delores +EQT
+## 04/07/23 06:30, The todos +EQT
+## 04/07/23 06:31 to 06:46, (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
+* I didn't draft it, but I did work out I could get down to 700 if I spent the glasgow money mostly on it and a computer 
+## 04/07/23 06:46 to 07:54, (B) Write presentation for MIX and send to the team  +EQT
+## 04/07/23 09:30 to 09:46, Hello +EQT x 2023-07-04 Send newsletter to trustees 
+## 04/07/23 09:46 to 10:13, 20 min Tidying Google Drive +EQT
+## 04/07/23 10:13, (C) 60 Code sprint on OVF todos +EQT @public 
+## 04/07/23 10:13 to 10:19,  +EQT 
+## 04/07/23 10:19 to 11:45,  OVF TODOs  +EQT in public +OpenVoiceFactory 
+* Notes are in the commit I pushed 
+* Thoughts on public 
+  * I need to enable the stop key for the recording and work out how to record without the audio, for wikipedia editing I can make them into reels and stuff with some serious cropping and fast-forwarding. (  
+Commands: 
+ffmpeg -i input.ogv -c:v copy -an output.ogv
+ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" output.mp4 should help with speeding things up for wikiepedia 
+ffmpeg -i input.mp4 -filter:v "crop=iw:ih*9/16,scale=-1:720" output.mp4 is for cropping for mobile 
+## 04/07/23 11:45 to 11:57, (C) Tidy up the Flowers for Turing in Quickbooks - I think there is a Quickbooks payment for 39.92 that needs moving +EQT
+## 04/07/23 11:57 to 12:05, Send the book +EQT
+## 04/07/23 12:05 to 12:18, Now littlefinger   +EQT
+## 04/07/23 12:19, Okay, so I've got a thing that would be fun (although I'm getting tired) and a thing that would be less fun. 
+## 04/07/23 12:19 to 15:10,  EQT website  +EQT
+* I found the old records
+* I'm working thorugh this https://lightsail.aws.amazon.com/ls/docs/en_us/articles/migrate-your-wordpress-blog-to-amazon-lightsail
+* I tried to use the natural wordpress export and import and didn't get good results 
+* Duplicator was attempted - and it completely bricked my install. 
+* After I paid for it! 
+* I've opened a complaint on paypal  
+* I've transfered all the files in wp-content 
+
+* I've transfered the DNS - I'm assuming I'll sort out CommuniKate later 
+
+TODO 
+* Wait for an update 
+* Check that the images work 
+* Put the download folder back (with a soft link for downloads)  
+* Fix CommuniKate 
+* Check when the next time you have to pay dreamhost is.  
+  * And do a big old backup 
