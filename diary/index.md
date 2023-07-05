@@ -11661,6 +11661,7 @@ ffmpeg -i input.mp4 -filter:v "crop=iw:ih*9/16,scale=-1:720" output.mp4 is for c
 * I've transfered all the files in wp-content 
 
 * I've transfered the DNS - I'm assuming I'll sort out CommuniKate later 
+## 05/07/23 06:39 to 06:39,  +EQT the hell
 
 TODO 
 * Wait for an update 
