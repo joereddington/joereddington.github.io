@@ -11670,3 +11670,37 @@ TODO
 * Fix CommuniKate 
 * Check when the next time you have to pay dreamhost is.  
   * And do a big old backup 
+## 05/07/23 05:43 to 08:01, Emails +EQT
+## 05/07/23 09:42 to 10:43, Emails +EQT
+## 05/07/23 10:43 to 11:44, Delores +EQT
+Mostly fixing this file  
+## 05/07/23 11:46 to 11:57, The equality Time page is super annoying.  +EQT
+I might have successfully moved it. 
+
+## 05/07/23 12:01, Okay, I'm going to do Spider-man and then shed. 
+
+## 05/07/23 19:00 to 08:43,   Prepping for meeting and meeting +EQT
+
+## 06/07/23 09:31 to 11:03, Hello +EQT  
+Booked hotel, booked train ticket 
+* I've practiced and edited my talk  
+
+## 06/07/23 14:39 to 15:28, Crap emails!  +EQT
+* and a call 
+* Double crap, haven't practiced my talk anything like enought 
+
+## 07/07/23 06:30 to 18:45, away at a conference +EQT
+
+## 11/07/23 05:30 to 18:30, away at a camp +EQT
+## 11/07/23 06:04 to 07:09, Fixing a problem with WWW servers +EQT
+* Creating a cloudwatch alarm https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/US_AlarmAtThresholdEC2.html
+
+## 11/07/23 09:35 to 10:04, Difficult conversation with Leader +EQT 
+## 11/07/23 10:04 to 11:05, calming down time +EQT
+
+
+## 11/07/23 11:00 to 12:02,  Sort of first attempt at a wikipedia post. 
+Good 
+* I got OBS setup 
+* Worked out the ffmpeg commands
+* Actually posted a video to youtube, instagram and facebook 
