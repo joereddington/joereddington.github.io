@@ -11691,7 +11691,7 @@ Booked hotel, booked train ticket
 
 ## 07/07/23 06:30 to 18:45, away at a conference +EQT
 
-## 11/07/23 05:30 to 18:30, away at a camp +EQT
+## 10/07/23 05:30 to 18:30, away at a camp +EQT
 ## 11/07/23 06:04 to 07:09, Fixing a problem with WWW servers +EQT
 * Creating a cloudwatch alarm https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/US_AlarmAtThresholdEC2.html
 
@@ -11704,3 +11704,28 @@ Good
 * I got OBS setup 
 * Worked out the ffmpeg commands
 * Actually posted a video to youtube, instagram and facebook 
+## 12/07/23 05:47 to 07:20, +EQT faff faff faff 
+## 12/07/23 07:20 to 08:01, Email +EQT
+## 12/07/23 10:29 to 10:43, Hello +EQT  
+## 12/07/23 10:43 to 12:18, Process this file.+EQT
+Did a reasonable amount of writing up in social 
+* Fixed a bunch of half done stuff 
+* Oh man, so much writing. 
+* I generated the new files. 
+* Something wrong with system? Oh I didn't say I'd do emails until later 
+* So emails: 
+
+
+## 12/07/23 12:19 to 12:48,  Emails +EQT
+## 12/07/23 12:48 to 13:06, Lunch 
+## 12/07/23 13:06 to 14:20, Back  Email done 
+and a social media sprint.  It was actually quite hard. Like, I'm tired now. 
+## 12/07/23 14:20 to 14:55, Okay- now the todo list +EQT 
+* Needs a first pass 
+
+## 12/07/23 14:55 to 15:15, 20 minute sorting Google Drive +EQT 
+I mean, one of the things that has to happen sooner or later is the we merge the dropbox and the Google drive versions. 
+
+* Google drive is quite hard to sort this way around compared to Dropbox. 
+* But New Order should be laid out the same 
+
