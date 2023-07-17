@@ -11729,3 +11729,29 @@ I mean, one of the things that has to happen sooner or later is the we merge the
 * Google drive is quite hard to sort this way around compared to Dropbox. 
 * But New Order should be laid out the same 
 
+## 13/07/23 05:18 to 06:06, Hello +EQT 
+* Did five social media things as well 
+
+## 13/07/23 06:06 to 06:31, Getting ready for first sprint +EQT
+This evening? Some light wikipedia I think? Or some serious work on the personal todolist slash shed. 
+
+## 13/07/23 06:31 to 06:55, New Sprint +EQT 
+* Trail mario timer 
+* Process this file 
+
+## 13/07/23 06:55 to 07:32, Working on midjourney prompts +EQT
+## 13/07/23 09:28 to 10:29, Email the artists then  +EQT
+## 13/07/23 10:29 to 11:00, Get back into Wordpress +EQT 
+## 13/07/23 11:00 to 11:27, (C) Map project to close down dreamhost. Backup, transfer joereddington.com  https://github.com/eQualityTime/Home/issues/137 +EQT
+## 13/07/23 11:27 to 11:37, +EQT Who do I have to contact from MIX? 
+## 13/07/23 11:37 to 12:54, Brainstorming on electronic waste +EQT
+
+## 13/07/23 14:14 to 14:50, 
+Tidying up this file. 
+
+## 13/07/23 14:50 to 15:22, Social push.  +EQT
+## 13/07/23 15:22 to 15:55, Git review  +EQT
+
+## 13/07/23 19:18 to 19:32, My review 
+Own tasks 
+down to 66 
