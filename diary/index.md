@@ -11755,3 +11755,5 @@ Tidying up this file.
 ## 13/07/23 19:18 to 19:32, My review 
 Own tasks 
 down to 66 
+
+## 14/07/23 16:00 to 23:59, prompt jam +EQT
