@@ -11757,3 +11757,48 @@ Own tasks
 down to 66 
 
 ## 14/07/23 16:00 to 23:59, prompt jam +EQT
+## 17/07/23 05:32 to 07:15, Hello. Start of the working week. +EQT
+* Working on Delores 
+
+## 17/07/23 07:15 to 07:37, Delores +EQT 
+## 17/07/23 07:37 to 07:40,  Process this file +EQT
+## 17/07/23 07:40 to 08:00, Reached 5 social items +EQT (ending this practice, that's NOT working 
+## 17/07/23 09:27 to 09:31, back  +EQT
+## 17/07/23 09:31 to 10:50, Back for coding.  +EQT
+## 17/07/23 10:50 to 10:53,  Reviewing starred items  +EQT
+## 17/07/23 10:53 to 11:37, Brainstorm Chainmail +EQT and other small tasks 
+## 17/07/23 11:37 to 12:52, Working on army grant +EQT
+## 17/07/23 12:52, Bike? Need a few more minutes.  
+## 17/07/23 12:52 to 13:02, Then it's a dogfight. 
+I've done the accounts algoritm first part, It's JUST  the next bit that's annoying
+## 17/07/23 13:04 to 13:08, Okay, so setting up the OVF process +EQT 
+## 17/07/23 15:00 to 15:00, Hello.   +EQT
+Blogging is still ahrd.  
+## 17/07/23 15:00 to 15:42, Let's do 30 mintues of the thing  +EQT
+Okay, I'm halfway through this code, I need to 
+## 18/07/23 05:33 to 05:49, Back +EQT
+## 18/07/23 05:49 to 06:50, Restarting the OVF  +EQT
+
+## 18/07/23 06:50, How can I make expenses exciting? 
+* With a podcast idiot. 
+
+## 18/07/23 06:50 to 07:21, Delores  +EQT
+* Salad or tofu for lunch. 
+* Dinner can be chickpea curry 
+* Want to make seiten and cake 
+* Definately going to be on the bike a bit today. 
+* Anything cool this evening? 
+  * Yeah - it's laptop evening. 
+## 18/07/23 07:21 to 08:00, +EQT Fixing stuff.  
+
+## 18/07/23 09:54 to 10:44, I'm here let's do the expenses.  +EQT
+So what's the plan? 
+* Where are the train tickets? 
+
+Things to claim: 
+* MIX
+* Turing Trip  
+* Prompt Jam  
+
+## 18/07/23 10:44 to 10:51, TODO list empty!  +EQT
+## 18/07/23 10:51 to 12:10, Going to do delores-compiler now  +EQT

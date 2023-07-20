@@ -28,3 +28,12 @@ But it's getting clear that I should actually learn ffmpeg because there are _so
 Of course, I'd probably get a lot more Wikipedia editing done if I wasn't distracted by seeing if I could do something I found cool with videos. 
 
 
+Update: 
+
+I've now read the ffmpeg help file and I can actually read the commands above. I'd also write them quite differently now (and probably in one swoop)  
+
+Also, it's nice to find something that pushes the CPU performance a bit: 
+
+![The CPUs running at maximum](/assets/images/cpumax.png)
+
+
