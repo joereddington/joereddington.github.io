@@ -11802,3 +11802,39 @@ Things to claim:
 
 ## 18/07/23 10:44 to 10:51, TODO list empty!  +EQT
 ## 18/07/23 10:51 to 12:10, Going to do delores-compiler now  +EQT
+## 18/07/23 12:10 to 12:17, That was fun but now  I'm going to go and save new york
+## 18/07/23 14:30 to 14:32, Hello  
+You know what, I don't know if I want to do delores. How about I do the other fucking list. 
+
+## 19/07/23 05:05 to 07:39, Email  +EQT
+Hey - wouldn't it be cool to have got all the way through the email before handover. 
+## 19/07/23 07:39 to 07:52, Looking into going browserless.   +EQT
+## 19/07/23 07:52 to 08:00, Hello. +EQT
+
+I don't know where I am - I should try Delores 
+
+## 19/07/23 09:20 to 10:49,  Delores +EQT
+* Food planned 
+* Exercise planned.
+  * But can it be upgraded? I really want a 600 calorie hour (and a photo!)  
+  * Like, is the answer a 10 minute run? A 20 minute run and then a blast on the bike? 
+* No social media today I think. I think I've had enought.
+* I think my evenning thing I'm excited for is sleep
+
+I'm updating Delores's algorithm a lot. It's that sort of day 
+Now - should the mario timer be part of the general 'look' of the homepage? Or part of the other bit.  
+
+NA: set alarm at the end of this sprint. 
+
+## 19/07/23 12:55 to 14:14, Delores +EQT
+## 19/07/23 14:14 to 15:02, Putting up the videos.  +EQT
+I'm learning a lot about ffmpeg (I read the manual) 
+* Long term I don't think it replaces the need for an actual video editor - which is something I'll clearly need for Ubuntu sooner or later. 
+
+Actions 
+* Make the other files into mp4. 
+* Check that you can use to: and the speed up together. 
+
+* First of all - what's the command for removing sound? 
+ffmpeg -i input.ogv -c:v copy -an output.ogv
+I think? 
