@@ -9556,9 +9556,9 @@ Backing up ovf
 Commands are: (remote)
  sudo zip -e backup.zip html/designs/*.obz -t yyyy-mm-dd (for last known backup) and it will ask for a password. (normally use Iron man) 
 Then local 
-scp -i ~/.ssh/aws_www.pem ec2-user@theopenvoicefactory.org:/usr/share/nginx/backup.zip .
+scp -i ~/.ssh/aws_www.pem ec2-user@theopenvoicefactory.org:/usr/share/nginx/backup.zip global copy [<0;76;36M[<0;76;36m .
 EDIT - you can now use scp ovf: for the transfer
-
+EDIT 2 - scp ovf:/usr/share/nginx/ovf_backup* 
 Going to use something else. 
 
 
@@ -11838,3 +11838,25 @@ Actions
 * First of all - what's the command for removing sound? 
 ffmpeg -i input.ogv -c:v copy -an output.ogv
 I think? 
+## 20/07/23 06:10 to 06:24, Delores +EQT
+## 20/07/23 06:24 to 08:03, I'm finally moving the eQuality Time site away from dreamhost   +EQT
+## 20/07/23 09:20 to 10:08,  Delores again.  +EQT
+## 20/07/23 10:08 to 11:10, Quickly doing little internet tasks +EQT
+## 20/07/23 11:10 to 11:29, Delores 
+* Blocked interent - I got a bit Online
+
+I'm stuck working out what would make today awesome? 
+* A real win would be emailing some agents about the book. That would be a super win. 
+
+## 20/07/23 13:18 to 14:37, Hello solid sprint until 1600.   +EQT
+* Process notes
+* I am tired... 
+* Fixed the ssl certificate 
+* Generated some new tasks 
+* Looking at vision now
+## 25/07/23 06:16 to 06:25, Getting there +EQT
+## 25/07/23 06:25 to 06:43, +EQT
+## 25/07/23 06:43 to 07:10, Moved on to first sprint  +EQT
+## 25/07/23 07:10, Something inside me isn't firing correctly.  +EQT 
+
+## 27/07/23 06:15 to 07:35, Emails +EQT
