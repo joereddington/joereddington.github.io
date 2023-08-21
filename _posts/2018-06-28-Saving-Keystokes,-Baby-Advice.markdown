@@ -9,7 +9,7 @@ title:      Saving Keystokes, Baby Advice
 Congratulations!
 
 Two facts about clothes:
-1. you WON’T be able to move for people giving you new clothes
+1. people give you lots of new clothes
 2. they’ll miss out lots of important bits.  
 This is an excellent time to start going to car boot sales – almost all of Nova’s clothes were bought for about 20p an item in a field. Quite a lot of the rest were hand me downs.   Anything with buttons is cursed, poppers are where it’s at.
 
@@ -65,5 +65,12 @@ Being me (Kat), I put together Excel spreadsheets of all the baby gear/hospital 
 * Harmony test - If you are unable to get a good reading on the neck folds scan and they offer you the NHS blood test (can’t remember the name), this does not give as confident a result as the scan in detecting anomalies. It is 100% worth going privately for a Harmony blood test - both for the reassurance, and it’ll give you the gender result earlier than the 20 week scan if you’re interested!
 * Don’t tell people the names you are thinking of - you’ll be able to tell from their facial reaction what they think and best to just wait until it’s a permanent decision so they don’t put you off!
 * Everyone has a dramatic/scary birth story they know of - try to avoid listening to them if you can - the best thing you can do is be prepared, and no need to scare yourself with horror stories!
-* There is no difference between having a boy or a girl baby!
+
+
+# Update with a 5yo and 3yo. 
+* Buy lots of backpacks. You'll end up with a swim kit, P.E. kit, climbing kit, running kit, gymnastics bag and a doesn't others. It's really handy to have a bunch of different bags that are normally packed and ready to go. 
+* The way to stop children asking lots of questions is to answer them fully, excitedly, and in detail. 
+
+
+
 
