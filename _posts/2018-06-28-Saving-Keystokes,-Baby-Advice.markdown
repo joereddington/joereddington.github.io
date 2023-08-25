@@ -3,7 +3,7 @@ layout:     post
 title:      Saving Keystokes, Baby Advice
 ---
 
-*A friend emailed today asking for input – he’s having a baby in the near future and was a bit lost about what to buy and what to avoid (particularly around clothes, which is why this post focuses on it.  I wrote a long email, and then Kat wrote her bit of it, and by the time I was finished adding to it I thought we’d leave it here to serve as an update of sorts – in many ways it’s less about advice and more about our experiences... Later on I added to it whenever I had an email conversation with a friend having a baby *
+_A friend emailed today asking for input – he’s having a baby in the near future and was a bit lost about what to buy and what to avoid (particularly around clothes, which is why this post focuses on it.  I wrote a long email, and then Kat wrote her bit of it, and by the time I was finished adding to it I thought we’d leave it here to serve as an update of sorts – in many ways it’s less about advice and more about our experiences... Later on I added to it whenever I had an email conversation with a friend having a baby_
 
 
 Congratulations!
@@ -11,7 +11,8 @@ Congratulations!
 Two facts about clothes:
 1. people give you lots of new clothes
 2. they’ll miss out lots of important bits.  
-This is an excellent time to start going to car boot sales – almost all of Nova’s clothes were bought for about 20p an item in a field. Quite a lot of the rest were hand me downs.   Anything with buttons is cursed, poppers are where it’s at.
+
+This is an excellent time to start going to car boot sales – almost all of Nova’s clothes were bought for about 20p an item in a field (Nova is five now and this is still true). Quite a lot of the rest were hand me downs.   Anything with buttons is cursed, poppers are where it’s at.
 
 ## Important purchases:
 
@@ -28,7 +29,7 @@ This is an excellent time to start going to car boot sales – almost all of Nov
 ## In response to ‘books for my partner who is going to be a father’
 Almost all the books directly aimed at fathers are complete wastes of paper and are more written for comedy than anything else. Reading ‘What to expect when you are expecting’ was good, and in general ‘Reading the same books as the mother because then you share a frame of reference’ is a good plan.
 
-I got more about parenting from Freakonomics (including names actually) than I have from any other book.  In general I found that most books about ‘evidence based parenting’ weren’t anything like as useful as ‘normal’ pop-science books that happened to use parenting as an example for a chapter.   I also got a lot of value out of this one, but it’s long term.
+I got more about parenting from Freakonomics (including names actually) than I have from any other book.  In general I found that most books about ‘evidence based parenting’ weren’t anything like as useful as ‘normal’ pop-science books that happened to use parenting as an example for a chapter.   
 
 Totally honestly – the best thing an expectant father can probably read is a big stack of ‘dealing with your emotions’ books, along with another big pile of books on sexism and gender roles.  The practical STUFF – nappies and washing and the rest of it, is all trivial, particularly for people like us who naturally think in terms of processes – the books are for later.
 
@@ -68,7 +69,7 @@ Being me (Kat), I put together Excel spreadsheets of all the baby gear/hospital 
 
 
 # Update with a 5yo and 3yo. 
-* Buy lots of backpacks. You'll end up with a swim kit, P.E. kit, climbing kit, running kit, gymnastics bag and a doesn't others. It's really handy to have a bunch of different bags that are normally packed and ready to go. 
+* Buy lots of backpacks. You'll end up with a swim kit, P.E. kit, climbing kit, running kit, gymnastics bag and many others. It's really handy to have a bunch of different bags that are normally packed and ready to go. 
 * The way to stop children asking lots of questions is to answer them fully, excitedly, and in detail. 
 
 
