@@ -21,7 +21,7 @@ A big thank you to everybody who has been on the other end of a phone/email rece
 
 I'm thankful for the little things: Nova being excited to get a book out of the library, Leo starting the dishwasher, the kids walking hand in hand.  Also that I have a new project I'm willing to be a little bit excited about and that I finally finished the Wolf Hall Trilogy. 
 
-Thank you to H for being an excellent soft-play buddy, 
+Thank you to H for being an excellent soft-play buddy! 
 
 
 
