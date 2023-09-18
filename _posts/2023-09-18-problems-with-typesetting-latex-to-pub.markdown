@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Problems with typesetting latex to pub"
+title: "Problems with typesetting latex to epub"
 date: "2023-09-18 07:23:03 +0100"
 ---
 
-I'm currently in the process of writing an ebook. I'm using LaTeX (which I used for years as an academic and which I wrote [Advanced Memory Palaces](https://www.amazon.co.uk/Advanced-Memory-Palaces-second-should/dp/B09GJFZ6JM) in. LaTeX is also the language that I get the hundreds of students of [White Water Writers](https://whitewaterwriters.com/) to write in (which I then have to debug), so I like to think I'm reasonably experienced with it. 
+I'm currently in the process of writing an ebook. I'm using LaTeX (which I used for years as an academic and which I wrote [Advanced Memory Palaces](https://www.amazon.co.uk/Advanced-Memory-Palaces-second-should/dp/B09GJFZ6JM)) in. LaTeX is also the language that I get the hundreds of students of [White Water Writers](https://whitewaterwriters.com/) to write in (which I then have to debug), so I like to think I'm reasonably experienced with it. 
 
-Apparently I am NOT. I am using tex4ebook as the conversion tool from *.tex files to *.epub and while it is a magnificent piece of software (it's been part of the White Water Writers tech stack for years) the underlying problem is (compiling tex files for ebooks) is quite hard and so there is lots to learn. 
+Apparently I am not. I am using tex4ebook as the conversion tool from *.tex files to *.epub and while it is a magnificent piece of software (it's been part of the White Water Writers tech stack for years) the underlying problem (compiling tex files for ebooks) is quite hard and so there is lots to learn. 
 
 Some of my problems have included: 
 
@@ -22,7 +22,6 @@ Some of my problems have included:
    \let\hrule\myrule %from https://github.com/michal-h21/tex4ebook/issues/5
 
 * Math mode is converted to images when that isn't sensible.  So epub and mobi (except for mobi3 which isn't supported by anything) don't support good maths displays so tex4ebook converts them to images. That's a problem because then they don't obey the text size settings of a kindle and can look extremely small (and pixelated). However, letters in math mode should be fine, and they are, but only sometimes.
-
 
   
   $HelloWorld$ %this will stay as text and appear as expected 
