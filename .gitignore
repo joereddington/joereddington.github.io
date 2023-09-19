@@ -6,3 +6,4 @@ _site
 vendor
 *.pyc
 18*social.md
+assets/images/*
