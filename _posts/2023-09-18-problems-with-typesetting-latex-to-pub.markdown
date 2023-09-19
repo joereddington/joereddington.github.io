@@ -4,7 +4,7 @@ title: "Problems with typesetting latex to epub"
 date: "2023-09-18 07:23:03 +0100"
 ---
 
-I'm currently in the process of writing an ebook. I'm using LaTeX (which I used for years as an academic and which I wrote [Advanced Memory Palaces](https://www.amazon.co.uk/Advanced-Memory-Palaces-second-should/dp/B09GJFZ6JM)) in. LaTeX is also the language that I get the hundreds of students of [White Water Writers](https://whitewaterwriters.com/) to write in (which I then have to debug), so I like to think I'm reasonably experienced with it. 
+I'm in the process of writing an ebook. I'm using LaTeX (which I used for years as an academic and which I wrote [Advanced Memory Palaces](https://www.amazon.co.uk/Advanced-Memory-Palaces-second-should/dp/B09GJFZ6JM)) in. LaTeX is also the language that I get the hundreds of students of [White Water Writers](https://whitewaterwriters.com/) to write in (which I then have to debug), so I like to think I'm reasonably experienced with it. 
 
 Apparently I am not. I am using tex4ebook as the conversion tool from *.tex files to *.epub and while it is a magnificent piece of software (it's been part of the White Water Writers tech stack for years) the underlying problem (compiling tex files for ebooks) is quite hard and so there is lots to learn. 
 
