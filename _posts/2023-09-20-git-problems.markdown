@@ -37,5 +37,22 @@ joe@joe-Amd-Am4-Home-Office:~/git$
 
 However, subtitle-play has no branches called ._vtt (I have one called vtt),  the showcuts repo is entirely clean, and I can find nothing different about the export history repo.   
 
-The showcuts and et-subtitle-player problems were solved by deleting the repos and cloning them again from remote.  That didn't work on the export-history one.  What worked for the export history one was renaming the directory (strangely, cloning a new copy to the old name caused the same error).  The problems are now solved, but I'd be interested to find out what the original problems where.  
+The showcuts and et-subtitle-player problems were solved by deleting the repos and cloning them again from remote.  
+
+That didn't work on the export-history one.  What worked for the export history one (after a large number of wrong turns was adding debug statements to the mgitstatus script that revealed the problem was actually in another directory: at one point on another machine (before copying the whole directory to the current desktop) I'd cloned a repo locally from export-history:
+
+
+```
+joe@joe-Amd-Am4-Home-Office:~/git/small_export$ git remote -v
+origin  /Users/joe2021/git/export-history/ (fetch)
+origin  /Users/joe2021/git/export-history/ (push)
+```
+The error message was telling me that the old remote location NO longer worked for fetching (I should have noticed earlier that the path it was complaining about wasn't actually on my machine). 
+
+
+Of course, now I understand the problem, the error message makes much more sense. :D 
+
+
+
+
 
