@@ -4,7 +4,7 @@ title: "How many sublists?"
 date: "Wed Nov 22 11:55:36 +0000 2023"
 ---
 
-_This was one of those posts were I wrote a long version first; realised that it was full of filler and wrote a much shorter version afterwards.  It also won't make much sense to people who haven't read [my book](https://www.amazon.co.uk/Advanced-Memory-Palaces-second-should/dp/B09GJFZ6JM) _ 
+_This was one of those posts were I wrote a long version first; realised that it was full of filler and wrote a much shorter version afterwards.  It also won't make much sense to people who haven't read [my book](https://www.amazon.co.uk/Advanced-Memory-Palaces-second-should/dp/B09GJFZ6JM)_ 
 
 I published a book several years ago and recently I got an nice email full of praise⁰ that had a question.  The person asking the question (We'll call them `Bob') was happy for me to put my answer online.¹
 
