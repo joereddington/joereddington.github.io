@@ -40,6 +40,9 @@ Math mode is converted to images when that isn't sensible.  The  epub and mobi f
 ![Hello World looking very pixelated](/assets/images/helloworldpixelated.png)
 
 
+# Tikz images 
+I use Tikz to produce nice diagrams.  I _thought_ they were being made extremely pixilated by the epub process but that turned out to be Mupdf - which was making them look pixilated. Actually tex4ebook exports lots of wonderful svg files and Amazon's ebook previewer accepts them nicely. 
+
 # Table sizes
 Table sizes don't respect the Kindle's font size: 
 
@@ -48,7 +51,7 @@ Table sizes don't respect the Kindle's font size:
 * [Tables don't appear at all in mupdf](https://tex.stackexchange.com/questions/700910/tabular-NOT-showing-with-tex4ebook/700911#700911) (one of epub viewers you can get on ubuntu) 
 
 # ebook Viewers
-If you use the ebook viewer mupdf then Ubuntu installs version 1.19. However that version doesn't display tables that tex4ebook generates so I built 1.23 from source. 
+If you use the ebook viewer mupdf then Ubuntu installs version 1.19. However that version doesn't display tables that tex4ebook generates so I built 1.23 from source.  After a system fail I found I couldn't reinstall that version, and got generally quite annoyed that Amazon's own previewer did a much better job. 
 
 # Endnotes
 Footnotes have to be converted to endnotes, which makes sense, but they don't appear automatically, so you have to put something like:
@@ -64,4 +67,6 @@ Footnotes have to be converted to endnotes, which makes sense, but they don't ap
 
 at the bottom of the document. 
 
+# ifpdf 
 
+There is an extremely useful \ifpdf command that you can use to change the formatting commands between a pdf version and a epub version.  
