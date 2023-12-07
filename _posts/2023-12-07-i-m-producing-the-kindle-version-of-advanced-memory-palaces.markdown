@@ -10,14 +10,14 @@ Helpfully, I recently started writing a book directly for the Kindle. It's far f
 
 So far I've: 
 
-✅ Fixed Linkboxes
-✅ Found four or so typos that are hard to see in the print book but much more obvious in the epub format
-✅ Converted all the footnotes to endnotes
-✅ Fixed my (over) use of math mode.  
+* Fixed Linkboxes
+* Found four or so typos that are hard to see in the print book but much more obvious in the epub format
+* Converted all the footnotes to endnotes
+* Fixed my (over) use of math mode.  
 
 I've got to find solutions to: 
-* image sizing (in such a way that I can still produce the pdf 
-* tables  
+* Image sizing (in such a way that I can still produce the pdf) 
+* Tables  
 * Finding a decent local epub viewer (I think I might be resorting to plugging in my old kindle by USB and JUST directly looking at versions that way) 
 * Fixing footnotes-within-linkboxes in such a way that it doesn't break for the pdf. 
 * The visual representative of the 'class' structure. 
