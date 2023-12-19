@@ -51,7 +51,9 @@ Table sizes don't respect the Kindle's font size:
 * [Tables don't appear at all in mupdf](https://tex.stackexchange.com/questions/700910/tabular-NOT-showing-with-tex4ebook/700911#700911) (one of epub viewers you can get on ubuntu) 
 
 # ebook Viewers
-If you use the ebook viewer mupdf then Ubuntu installs version 1.19. However that version doesn't display tables that tex4ebook generates so I built 1.23 from source.  After a system fail I found I couldn't reinstall that version, and got generally quite annoyed that Amazon's own previewer did a much better job. 
+If you use the ebook viewer mupdf then Ubuntu installs version 1.19. However that version doesn't display tables that tex4ebook generates so I built 1.23 from source.  After a system fail I found I couldn't reinstall that version, and got generally quite annoyed that Amazon's own previewer did a much better job.  It turned out that using Firefox to open the html files directly was the best bet (with the bonus that it made it a lot easier to debug).  
+
+When I found a bug that _only_ appeared on Amazon's I ended up using my partner's macbook and the offical Kindle Previewer client to produce a MCVE - this was slow and irritating but it got the job done (and as a bonus, did various quality control things like check that all my links still worked, which they didn't). 
 
 # Endnotes
 Footnotes have to be converted to endnotes, which makes sense, but they don't appear automatically, so you have to put something like:

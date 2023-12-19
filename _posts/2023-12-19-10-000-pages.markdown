@@ -1,0 +1,37 @@
+---
+layout: post
+title: "10,000 pages"
+date: "Tue Dec 19 07:14:25 +0000 2023"
+---
+
+A few months ago I had an ambition to read 10,000 pages before the end of the year. I've now done it. Here are the books. I like doing counting pages rather than books because I'd rather not be incentivised to read 'little' books.  There's some comfort reading in here (Fifth Elephant), quite a lot of 'turn your brain off' books, but also some that I wouldn't have tried before like White Tiger, and the Hilary Mantel books (and indeed, A Memory Called Empire). 
+
+I'd like to read more next year (I only started this around the summer), but it's actually more true to say I'd like to be doing less of the rubbish that I do instead of reading: scrolling, faffing, boredly eating. 
+
+
+
+| *Title*                   | *Pages*         |
+|---------------------------|-----------------|
+| A Giant Within            | 100(unfinished) |
+| Wolf Hall                 | 672             |
+| The Unquiet Spirit        | 217             |
+| Deathwatch Omnibus        | 1239            |
+| The Beast Volume 1        | 771             |
+| Bring Up the Bodies       | 528             |
+| White Tiger               | 336             |
+| Blackadder               | 455             |
+| The Mirror and the Light | 879             |
+| Triggers                  | 272             |
+| The Fifth Elephant        | 464             |
+| The Vim Textbook          | 513             |
+| Unbound                   | 304             |
+| Vainglorious              | 334             |
+| Mistborn 1                | 647             |
+| Mistborn 2                | 786             |
+| Mistborn 3                | 768             |
+| Unruly                    | Still reading   |
+| The Magician              | Still reading   |
+| GTD                       | 352             |
+| A Memory Called Empire    | 465             |
+| *Total*                   | *10102*         |
+
