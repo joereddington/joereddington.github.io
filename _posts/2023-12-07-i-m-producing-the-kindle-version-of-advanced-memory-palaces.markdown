@@ -13,7 +13,7 @@ So far I've:
 * Fixed Linkboxes
 * Found four or so typos that are hard to see in the print book but much more obvious in the epub format
 * Converted all the footnotes to endnotes
-* Fixed my (over) use of math mode.  
+* Fixed my (over)use of math mode.  
 
 I've got to find solutions to: 
 * Image sizing (in such a way that I can still produce the pdf) 
@@ -24,3 +24,5 @@ I've got to find solutions to:
 
 This project will be done-done when I've both released an actual Kindle version _and_ updated the pdf on the paperback version to one that is more flexible (and has fixed the typos I've found) 
 
+
+Update (27 December): The Kindle version went live a few days after this post and I'm taking some time before returning to the pdf. My current excuse is that I want to work on my next book, but I don't appear to be getting much of that done either. 
