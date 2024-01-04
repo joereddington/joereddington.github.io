@@ -71,7 +71,7 @@ Being me (Kat), I put together Excel spreadsheets of all the baby gear/hospital 
 # Update with a 5yo and 3yo. 
 * Buy lots of backpacks. You'll end up with a swim kit, P.E. kit, climbing kit, running kit, gymnastics bag and many others. It's really handy to have a bunch of different bags that are normally packed and ready to go. 
 * The way to stop children asking lots of questions is to answer them fully, excitedly, and in detail. 
-
+* Never step on the escalator first. 
 
 
 
