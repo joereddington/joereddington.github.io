@@ -10,7 +10,7 @@ This week I'm grateful for:
 * Leo asking Nova to play torch mouse with him. 
 * A nice visit from my parents 
 * My Lego Bonsai tree 
-* A general return to the normal rhymn of our lives to be honest.  
+* A general return to the normal pace of our lives to be honest.  
 * Kat and I getting through a whole film in an evening. 
 * A lovely clean house 
 * Finally fixing the heating (it was working, but coming on at the wrong times) 
