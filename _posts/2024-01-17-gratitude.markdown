@@ -18,7 +18,7 @@ I had a great Saturday afternoon with the kids while Kat DIY'd: arcades; hot cho
 
 I'm hurtling towards my first lectures for my new job - but I'm very pleased with how helpful and supportive all my new colleges are even if I did go full charlie_conspiracy.gif. 
 
-Kat and I had a lovely time last night trialing the magic set that is going to be Nova's birthday present - much more fun than a big trip out for dinner would have been :) 
+Kat and I had a lovely time last night testing the magic set that is going to be Nova's birthday present - much more fun than a big trip out for dinner would have been :) 
 
 I've had a lovely series of phone calls this week, did a podcast interview, and have generally done quite a bit. It's been a good week 
 
