@@ -7,3 +7,4 @@ vendor
 *.pyc
 18*social.md
 assets/images/*
+Gemfile.lock
