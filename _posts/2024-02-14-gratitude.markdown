@@ -12,7 +12,6 @@ date: "Wed Feb 14 14:42:30 +0000 2024"
 
 A weekly list of things I'm grateful for - it's been {{ weeks_since_start }} weeks since I started doing these (I did miss last week). 
 
-
 Right, what has gone well since I last (7th February) did a gratitude post? 
 
 * I cleared out the inspection pit in the garage (again!) - and I've made proper plans for how to upgrade it. 
