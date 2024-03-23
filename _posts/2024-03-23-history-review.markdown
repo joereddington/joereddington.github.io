@@ -5,7 +5,6 @@ date: "Sat Mar 23 06:49:09 +0000 2024"
 ---
 
 <style>
-Let's look at yesterday's history. 
 
 ul {
 list-style: none;
@@ -52,10 +51,13 @@ ul>li::after {
 
 </style>
 
+I'm taking a moment to review yesterday's web history (which is all [public](https://joereddington.com/export-history/))
+
 
 
 <H3>Friday, 22/03/24</H3><br>
 
+{::nomarkdown} 
 <ul><li> 15:39 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a>
 <li> 15:39 <a href="https://en.wikipedia.org/wiki/Talk:Patchwork_Girl_(hypertext)">Talk:Patchwork Girl (hypertext) - Wikipedia</a>
 <li> 15:39 <a href="https://en.wikipedia.org/wiki/Talk:Kratos_(God_of_War)">Talk:Kratos (God of War) - Wikipedia</a>
@@ -81,7 +83,6 @@ ul>li::after {
 <li> 15:32 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a>
 <li> 15:32 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a>
 
-I should have been on my way home, but instead I was exhaustedly faffing around with Wikipedia. 
 
 
 <li> 15:32 mail.google.com
@@ -107,10 +108,13 @@ I should have been on my way home, but instead I was exhaustedly faffing around 
 <li> 15:19 forms.office.com
 </ul>
 
-This is all "I'm sitting down after a lecture and doing a bit of a faff" 
+{:/nomarkdown}
+
+I should have been on my way home, but instead I was exhaustedly faffing around with Wikipedia.  This is all "I'm sitting down after a lecture and doing a bit of a faff" 
 
 
 
+{::nomarkdown} 
 <br><ul><li class='same'> 12:36 forms.office.com
 <li> 12:36 login.microsoftonline.com
 <li> 12:36 forms.office.com
@@ -131,8 +135,16 @@ This is all "I'm sitting down after a lecture and doing a bit of a faff"
 <li> 12:02 <a href="https://www.bbc.co.uk/news">Home - BBC News</a>
 <li> 12:02 monitormyhealth.org.uk
 </ul>
+{:/nomarkdown}
 
 Hey, I'm actually working here. I'm setting things up that I need. 
 
-<br><ul><li class='same'> 06:51 monitormyhealth.org.uk
-<li> 06:50 www.google.com
+{::nomarkdown} 
+<ul><li class='same'> 06:51 monitormyhealth.org.uk
+<li> 06:50 www.google.com</ul>
+{:/nomarkdown}
+
+Oh, actually looking up an important health thing first thing. 
+
+
+Overall this isn't as bad as I might have expected it to be. hmm.  
