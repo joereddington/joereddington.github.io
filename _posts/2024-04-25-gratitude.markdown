@@ -12,7 +12,7 @@ date: "Thu Apr 25 11:58:10 +0100 2024"
 
 
 
-This week's gratitude (since April 17th) - it's been {{ weeks_since_start }} since I started doing these. 
+This week's gratitude (since April 17th) - it's been {{ weeks_since_start }} weeks since I started doing these. 
 
 I am enormously grateful for the support of a bunch of people this week, many of whom will never see this.  I broke a little bit and threw myself on the mercy of people I trusted and that caught me - I am enormously glad they did. 
 
