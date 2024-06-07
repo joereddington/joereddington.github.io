@@ -13,6 +13,8 @@ date: "Fri Jun 07 15:21:45 +0100 2024"
 {% assign seconds_per_week = 604800 %}
 {% assign weeks_since_start = current_date | minus: start_date | divided_by: seconds_per_week %}
 
+This week's gratitude  - it's been {{ weeks_since_start }} weeks since I started doing these. 
+
 Leo's first full Parkrun was this week, it was awesome. 
 
 I'm grateful for a half term that filled up with playdates so thank you to Liz, Sam, and others for making that happen. For Nova making friends in Libraries, and for Leo starting to really love cycling.  
