@@ -1,39 +1,34 @@
 ---
-title: "Improvements to Attendance Tracking"
+title: "CASPER: Improvements to Attendance Tracking"
 ---
 
 ## tl;dr
 
-By adding three questions to an online form, we improve the accuracy and usefulness of student attendance tracking and transform a system that is currently not fit for purpose into one that is secure, fast, and provides several pedagogical advantages.
+By adding three questions to an online form, we improve the accuracy and usefulness of student attendance tracking. 
 
 ## The problem
 
-When I was an undergraduate, I would sign the names of friends on the paper attendance forms that were passed around. Periodically, I might ask them to do the same if I had a drastic emergency such as wanting to play a video game. This tradition has continued to today and has survived the transition to digital: the student dashboard for the course I taught in the spring shows there are an average of 181 people attended every Friday afternoon, which is problematic because I have never counted more than 50. 
+When I was an undergraduate, I would sign the names of friends on the paper attendance forms that were passed around. Periodically, I might ask them to do the same if I had a drastic emergency such as wanting to play a video game. 
 
-Because I cannot trust the attendance data, I cannot know how inclusive my teaching is. I reviewed the reports from the education support services about disability and check in with those students periodically, but without clear, reliable data, I can’t tell if any groups are disengaged from the course. I want to know what the attendance pattern is for:
+This tradition has continued to today and has survived the transition to digital: the official attendance for the last course I taught is 181; I have never counted more than 50. 
 
-- Neurodivergent students
-- Overseas students (I tend to talk rapidly, which I’m trying to control)
-- Students with particular fatigue issues
-- Students who have submitted the assessments
-
-The last one is particularly important because I will have a cohort of students that are engaging with videos, quizzes, and coursework but who aren't physically present – if I know how big that cohort is, then I can assign resources appropriately.  
-
-So, I needed a new attendance tracking system. It needs to be: 
+I wanted a new attendance tracking system. It needed to be: 
 
 * easy for the students 
 * easy for me (important) 
-* secure because if students can sign each other in then the system is useless. 
+* secure: it should only track students actually in the lecture.
 
 Signing in with Moodle is not fit for purpose, paper registers are a lot of work for me and don’t stop people signing friends in, and QR codes are fast and easy, but again, don’t stop the students sharing the link in group chats and so on.
 
-### My Solution
+## My Solution
 
 It turns out that we can solve almost all the security problems with a QR code by asking three additional questions:
 
 1. How many people are sitting to your left?
 2. How many people are sitting to your right?
 3. How many rows are in front of you?
+
+Here's a screenshot of the form I used: 
 
 ![An example of the form](/assets/images/attendenceform.png)
 
@@ -79,9 +74,8 @@ In practice, when I have deployed this method using a QR code, even though some 
 
 With these three simple questions, we completely fix accuracy problems in attendance tracking (and I can now properly track which student groups I’m failing to  reach with my teaching).
 
-The current code is ugly (and not hard!), I'll likely to a much clearer and more fully featured version for the Autumn Term classes 
 
-### Additional Benefits
+## Extra use case  
 
 Occasionally a student will claim they have been at every lecture but forgot to sign in (examples might be during disciplinary action or following a student complaint about quality of teaching, or during coursework feedback). With my system, students that have forgotten to sign in are immediately obvious (you can literally say “Mr Heeler, I don’t think you have signed in” after glancing at the map) and it’s possible to show for most lectures that there was nobody who forgot to sign in because the number of students on a row matches the total of the row.
 
@@ -111,10 +105,12 @@ There are three beneficial effects:
 This work was made possible by guidance from Professor Peter Komisarczuk, my academic mentor, and Professor Adrian Johnstone, who provided a historical view. Angelina Bianchi provided wonderfully detailed answers to my queries, and the admin staff at EMPS put up with my continuing strange questions.
 
 
-# Future work
+## Future work
+The current code is ugly (and not hard!), I'll likely to a much clearer and more fully featured version for the Autumn Term classes. 
+
 I'd like to get the code to work on a proper sever so that the I could see the map being built up in real time as the students filled in their answers. That would tighten up the feedback loop considerably. I'd also like the interface with Moodle to be much more clean and automatic.   
 
-## Random Extra things
+## Random Extra Tips
 * Works best halfway through the lecture - people turning up late is unhelpful for the data.
 * In general the data is much nosier than I have presented here - it would be accurate to describe this as 'a system where bad actors are obvious if you want to go and look for them' rather than 'a system where bad actors are prevented from adding bad data' 
 
