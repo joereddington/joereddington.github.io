@@ -13,7 +13,7 @@ if [ ! -d "$posts_dir" ]; then
 fi
 
 # Iterate over all markdown files in the _posts directory
-for markdown_file in "$posts_dir"/*.markdown; do
+for markdown_file in "$posts_dir"/*.{md,markdown}; do
   # Check if there are any markdown files
   if [ ! -f "$markdown_file" ]; then
     echo "No markdown files found in $posts_dir."
@@ -29,7 +29,7 @@ for markdown_file in "$posts_dir"/*.markdown; do
   # Iterate over each image name and stage the files
   for image_name in $image_names; do
     image_path="$(pwd)/$image_name"
-    echo "Adding $image_path"
+    echo "Adding $image_path to Git"
     git add -f "$image_path"
   done
 done
