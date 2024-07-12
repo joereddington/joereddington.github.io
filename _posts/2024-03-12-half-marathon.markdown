@@ -27,11 +27,12 @@ BTW - running a few HM is not sufficient: I hit my wall a little after the HM di
 # First Marathon
 ![finishmarathon](/assets/images/firstmarathon.png)
 
-I completed my first marathon in a little over six hours (phone and watch both ran out of battery in the last couple of km) on April 1st (it was a bit of a last minute decision; we were due to have friends over who canceled).  The first HM was done in 2:38 - the second half took nearly four hours as I hit what I now understand to be 'the wall' (it didn't feel anything like I expected). I thought I was overfueling but it turned out to be the opposite.  To try and get a slightly more respectable time (More honestly; to try and do a race where I don't feel completely pathetic for more than half the time) I have booked on to the MK marathon in May 
+I completed my first marathon in a little over six hours (phone and watch both ran out of battery in the last couple of km) on April 1st (it was a bit of a last minute decision; we were due to have friends over who canceled).  The first HM was done in 2:38 - the second half took nearly four hours as I hit what I now understand to be 'the wall' (it didn't feel anything like I expected). I thought I was overfueling but it turned out to be the opposite.  To try and get a slightly more respectable time (More honestly; to try and do a race where I don't feel completely pathetic for more than half the time) I am looking at doing the [Dunstable Marathon](https://dunstabledownschallenge.wordpress.com/) in September, but it looks hard!  (I think I will at least do the Half-Marathon) 
+
 
 Notes:
   * Much much more fuel. 
-  * Phone and watch batteries don't last for a full marathon (or at least, not one run that slowly) 
+  * Phone and watch batteries don't last for a full marathon (when you run as slowly as I do) 
   * The wall isn't very nice. 
 
 
