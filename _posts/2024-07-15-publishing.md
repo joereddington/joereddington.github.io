@@ -30,4 +30,4 @@ I am, as you would expect, having to do lots of this sort of command:
  perl -pi -e "s/’/'/g" *.tex
 ```
 
-...and as I write this, I realise that I already have a script with many such commands for White Water Writers - I should have used that and I will do next time.j
+...and as I write this, I realise that I already have a script with many such commands for White Water Writers - I should have used that and I will do next time.
