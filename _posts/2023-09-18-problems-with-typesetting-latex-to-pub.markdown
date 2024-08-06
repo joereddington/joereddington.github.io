@@ -23,9 +23,11 @@ The scale parameter in includegraphics doesn't work as I expect:
 
 As per [this issue](https://github.com/michal-h21/tex4ebook/issues/5) the hrule command needs to be redefined to give the expected \<hr\>
 
-  
+ ``` 
    \def\myrule{\HCode{<hr />}}
    \let\hrule\myrule %from https://github.com/michal-h21/tex4ebook/issues/5
+
+```
 
 However, redefining the hrule breaks \tableofcontents so it's easier to use the \myrule directly (for me) 
 
@@ -33,9 +35,11 @@ However, redefining the hrule breaks \tableofcontents so it's easier to use the 
 # Math mode 
 Math mode is converted to images when that isn't sensible.  The  epub and mobi formats (except for mobi3 which isn't supported by anything) don't support good maths displays so tex4ebook converts them to images. That's a problem because then they don't obey the text size settings of a kindle and can look extremely small (and pixelated). However, letters in math mode should be fine, and they are, but only sometimes.
 
-  
+ ``` 
   $HelloWorld$ %this will stay as text and appear as expected 
   \[ HelloWorld \]  %this will be converted to an image and look very pixilated. 
+
+```
 
 ![Hello World looking very pixelated](/assets/images/helloworldpixelated.png)
 
@@ -72,3 +76,11 @@ at the bottom of the document.
 # ifpdf 
 
 There is an extremely useful \ifpdf command that you can use to change the formatting commands between a pdf version and a epub version.  
+
+
+
+# Missing bits of the table of contents
+
+I'm currently dealing with this problem: 
+
+![toc](/assets/images/tocprob.png)
