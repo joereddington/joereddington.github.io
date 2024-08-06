@@ -84,3 +84,5 @@ There is an extremely useful \ifpdf command that you can use to change the forma
 I'm currently dealing with this problem: 
 
 ![toc](/assets/images/tocprob.png)
+
+I [have solved it before](https://tex.stackexchange.com/questions/703802/why-is-a-single-line-in-this-table-of-contents-NOT-a-link-tex4ebook-on-kindle) but not in a way I currently understand. 
