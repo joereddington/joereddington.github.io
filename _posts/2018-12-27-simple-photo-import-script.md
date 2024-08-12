@@ -44,4 +44,49 @@ find . -type f -flags +nouchg -name "*.NEF" -exec cp {} "$SCRIPT_DIRECTORY/$year
 
 The only interest bit of this is the uchg flag &#8211; that&#8217;s the one that is set on the camera when I protect a photo.
 
-As I get better at photography I might improve this a bit &#8211; make sure I pull of videos for a start.
+As I get better at photography I might improve this a bit. 
+
+
+# 2024 edit. 
+
+The script now looks like this: 
+
+<pre> 
+
+#!/bin/bash
+SCRIPT_DIRECTORY=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+echo $SCRIPT_DIRECTORY
+cd "$(dirname "$0")"
+echo "$(dirname "$0")"
+year=$(date +%Y)
+
+if [ ! -d "$year" ]; then
+  mkdir "$year"
+  echo "Created folder: $year"
+else
+  echo "Folder already exists: $year"
+fi
+cd $year 
+
+import_dir="import_$(date +"%F")"
+if [ ! -d "$import_dir" ]; then
+  mkdir "$import_dir"
+  echo "Created directory: $import_dir"
+else
+  echo "Directory already exists: $import_dir"
+fi
+
+
+# Change to the target directory where the photos are located
+cd "/media/joe/NIKON D7000/DCIM/106D7000" || { echo "Directory NOT found"; exit 1; }
+
+
+# Copy .NEF files to the import directory
+find . -type f -name "*.NEF" -exec cp {} "$SCRIPT_DIRECTORY/$year/$import_dir/" \;
+
+# Copy .xmp files to the import directory
+find . -type f -name "*.xmp" -exec cp {} "$SCRIPT_DIRECTORY/$year/$import_dir/" \;
+</pre>
+
+You can see I've got a bit more careful about how I run my scripting over the years. 
+
