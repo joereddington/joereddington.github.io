@@ -31,3 +31,13 @@ I am, as you would expect, having to do lots of this sort of command:
 ```
 
 ...and as I write this, I realise that I already have a script with many such commands for White Water Writers - I should have used that and I will do next time.
+
+
+# Update - A set of things to do differently next year. 
+
+* Tell students how this works before setting the coursework. 
+* Invite the selected students to the repo _immediately_ on emailing them. 
+* Send one long email with all the deadlines. No, have one long blog post with all of the deadlines, facts, and FAQs
+* Keep proper track of which students are 'yes', 'no' and 'not responded' and use a mailing list. 
+* Consider a book launch.  
+* Consider a foreword by someone with a title.    
