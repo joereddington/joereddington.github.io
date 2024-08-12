@@ -86,3 +86,19 @@ I'm currently dealing with this problem:
 ![toc](/assets/images/tocprob.png)
 
 I [have solved it before](https://tex.stackexchange.com/questions/703802/why-is-a-single-line-in-this-table-of-contents-NOT-a-link-tex4ebook-on-kindle) but not in a way I currently understand. 
+
+It seems to be related to this error message: 
+
+```
+1 of 31 pages converted in 0.282087 seconds
+[WARNING] domfilter: DOM parsing of memory.html failed:
+[WARNING] domfilter: .../texlive/texmf-dist/tex/luatex/luaxml/luaxml-mod-xml.lua:175: Unbalanced Tag (/center) [char=3136]
+
+[WARNING] domfilter: DOM parsing of memorych5.html failed:
+[WARNING] domfilter: .../texlive/texmf-dist/tex/luatex/luaxml/luaxml-mod-xml.lua:175: Unbalanced Tag (/div) [char=6466]
+
+[WARNING] domfilter: DOM parsing of memorych6.html failed:
+[WARNING] domfilter: .../texlive/texmf-dist/tex/luatex/luaxml/luaxml-mod-xml.lua:175: Unbalanced Tag (/div) [char=8544]
+
+```
+
