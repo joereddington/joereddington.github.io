@@ -2,7 +2,9 @@
 title: References
 ---
 
-At the end of an academic year, I am asked by some students to write them a reference. Often I have never met them.  That's part of a lecturer's job and so here are the templates I start with before editing appropriately to the student.
+At the end of an academic year, I am asked by some students to write them a reference. Often I have never met them.  
+
+Here is the template I normally start with before editing in a way that is appropriate to the student.
 
 > Bingo Heeler attended my course on Security Management in the academic year 23/24.  They did/did not ask me in advance if I would provide a reference.  They have not/have given me permission to share their marks for the course (75), their average for the year (62), and their final project (14).  
 >
