@@ -37,7 +37,7 @@ These questions are easy and fast (students take an average of 33 seconds), and 
 This makes it easy to:
 
 - Identify people who are in the lecture but forgot to sign in (because they appear in the counts of everybody else in the row)
-- Identify people who aren’t in the lecture but have filled out the online form anyway (because a friend has send them the QR code or link)  
+- Identify people who aren’t in the lecture but have filled out the online form anyway (because a friend has sent them the QR code or link)  
 
 Let's look at an example. Let's say I have the following data for row 3: 
 
@@ -106,7 +106,7 @@ This work was made possible by guidance from Professor Peter Komisarczuk, my aca
 
 
 ## Future work
-The current code is ugly (and not hard!), I'll likely to a much clearer and more fully featured version for the Autumn Term classes. 
+The original  code was ugly (and not hard!), I built a clearer and more fully featured version for the Autumn Term 2024 classes.  There is a lot still to do though. 
 
 I'd like to get the code to work on a proper sever so that the I could see the map being built up in real time as the students filled in their answers. That would tighten up the feedback loop considerably. I'd also like the interface with Moodle to be much more clean and automatic.   
 
@@ -114,4 +114,17 @@ I'd like to get the code to work on a proper sever so that the I could see the m
 * Works best halfway through the lecture - people turning up late is unhelpful for the data.
 * In general the data is much nosier than I have presented here - it would be accurate to describe this as 'a system where bad actors are obvious if you want to go and look for them' rather than 'a system where bad actors are prevented from adding bad data' 
 
-⁰ In a recent presentation I also claimed that the increase in attendence was due to me making my lectures very interactive so I probably need to get a bit more evidence for that... 
+⁰ In a recent presentation I also claimed that the increase in attendance was due to me making my lectures very interactive so I probably need to get a bit more evidence for that... 
+
+
+# Autumn 2024 
+For Autumn 2024 I did some improvements to the script. The mapping is now much quicker. Here's an example of the current version of the code. (Obviously these are fake names)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sb5s4rVPAe4?si=HfdSIhtJzPIg8rWp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Over the course of the term I would like to refine it quite a lot, and get it into a position that it works well for other members of staff. 
+* 
+
+
+
