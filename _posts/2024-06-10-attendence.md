@@ -125,5 +125,6 @@ For Autumn 2024 I did some improvements to the script. The mapping is now much q
 
 Over the course of the term I would like to refine it quite a lot, and get it into a position that it works well for other members of staff. 
 
+The current version of the Excel Script mapping code is in [this Github repo](https://github.com/joereddington/casper) 
 
 
