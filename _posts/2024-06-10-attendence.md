@@ -127,4 +127,25 @@ Over the course of the term I would like to refine it quite a lot, and get it in
 
 The current version of the Excel Script mapping code is in [this Github repo](https://github.com/joereddington/casper) 
 
+## Example
+In this example I showed the QR code for CASPER about 40 minutes in, and go on with the lecture.  Next time the students had a small bit of thinking time I press the 'go' button on my laptop and get a map like this (this is a real map, but I replaced all the student names): 
+
+![Example of a map](/assets/images/examplecasper2.png)
+
+With the (original version of) the map above I asked the following questions: 
+
+* Is Betty Ross here? (I could see the front row, and it was empty: Betty Ross wasn't present) 
+* Is Happy Hogan here? (He had put himself in the wrong row; he is the missing person at the end of row eight)
+* T'Challa and Sharon Carter where are you? Are you sitting on top of each other? (T'Challa had counted wrong, and should have been on the other side of Scott Land 
+* Justin Hammer - who is sitting to your left? (His friend was attending the lecture with them and didn't think she should have filled out the form)   
+
+That took about three minutes but it was clear to everybody in the room that: 
+
+* Everybody's attendance was correctly recorded
+* I can detect unexpected people
+* I can detect errors or attacks quickly.  
+
+...and that sort of full review only needs to be done a once or twice before a culture is clearly established.  
+
+
 
