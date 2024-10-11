@@ -106,16 +106,14 @@ This work was made possible by guidance from Professor Peter Komisarczuk, my aca
 
 
 ## Future work
-The original  code was ugly (and not hard!), I built a clearer and more fully featured version for the Autumn Term 2024 classes.  There is a lot still to do though. 
-
-I'd like to get the code to work on a proper sever so that the I could see the map being built up in real time as the students filled in their answers. That would tighten up the feedback loop considerably. I'd also like the interface with Moodle to be much more clean and automatic.   
+* The original  code was ugly (and not hard!), I built a clearer and more fully featured version for the Autumn Term 2024 classes.
+* I'd like to get the code to work on a proper sever so that the I could see the map being built up in real time as the students filled in their answers. That would tighten up the feedback loop considerably. I'd also like the interface with Moodle to be much more clean and automatic.   
+* The mapping code doesn't properly account for late people - if someone arrives _after_ everybody has counted then there should be a system to correctly insert them into the map.     
+* The 'putting the stuff on the college systems' stage is very long. I'm working on getting the admin access to make that fast. 
 
 ## Random Extra Tips
 * Works best halfway through the lecture - people turning up late is unhelpful for the data.
 * In general the data is much nosier than I have presented here - it would be accurate to describe this as 'a system where bad actors are obvious if you want to go and look for them' rather than 'a system where bad actors are prevented from adding bad data' 
-
-⁰ In a recent presentation I also claimed that the increase in attendance was due to me making my lectures very interactive so I probably need to get a bit more evidence for that... 
-
 
 # Autumn 2024 
 For Autumn 2024 I did some improvements to the script. The mapping is now much quicker. Here's an example of the current version of the code. (Obviously these are fake names)  
@@ -136,10 +134,10 @@ With the (original version of) the map above I asked the following questions:
 
 * Is Betty Ross here? (I could see the front row, and it was empty: Betty Ross wasn't present) 
 * Is Happy Hogan here? (He had put himself in the wrong row; he is the missing person at the end of row eight)
-* T'Challa and Sharon Carter where are you? Are you sitting on top of each other? (T'Challa had counted wrong, and should have been on the other side of Scott Land 
+* T'Challa and Sharon Carter where are you? Are you sitting on top of each other? (T'Challa had counted wrong, and should have been on the other side of Scott Lang)   
 * Justin Hammer - who is sitting to your left? (His friend was attending the lecture with them and didn't think she should have filled out the form)   
 
-That took about three minutes but it was clear to everybody in the room that: 
+That took under two minutes minutes but it was clear to everybody in the room that: 
 
 * Everybody's attendance was correctly recorded
 * I can detect unexpected people
@@ -147,5 +145,7 @@ That took about three minutes but it was clear to everybody in the room that:
 
 ...and that sort of full review only needs to be done a once or twice before a culture is clearly established.  
 
+## Roll out
+This year I have another lecturer who is also using the same system for their attendance. We are having all of the fun issues that turn up when someone else uses your code. We've got the attendance working fairly well but they don't have access to the full power of the system that I enjoy in my example.  The system will require a few more iterations before I can roll it out across the university.  
 
-
+⁰ In a recent presentation I also claimed that the increase in attendance was due to me making my lectures very interactive so I probably need to get a bit more evidence for that... 
