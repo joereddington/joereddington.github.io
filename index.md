@@ -9,7 +9,7 @@ list_title: Articles
 ![Joe Reddington in the Welsh Mountains](assets/images/profile.png)
 
 
-I’m Joe. If you'd like to know more about me as a person, you should read  [this post]({% post_url 2021-01-02-mynameis %}). 
+I’m Joe. If you'd like to know more about me as a person, you should read  [this post]({% post_url 2024-01-02-mynameis %}). 
 
 In 2021 I published [Advanced Memory Palaces](https://www.amazon.co.uk/Joe-Reddington/dp/B09GJFZ6JM), please check it out. 
 
