@@ -11,7 +11,7 @@ list_title: Articles
 
 I’m Joe. If you'd like to know more about me as a person, you should read  [this post]({% post_url 2024-01-02-mynameis %}). 
 
-In 2021 I published [Advanced Memory Palaces](https://www.amazon.co.uk/Joe-Reddington/dp/B09GJFZ6JM), please check it out. 
+In 2021 I published [Advanced Memory Palaces](https://www.amazon.co.uk/Joe-Reddington/dp/B09GJFZ6JM), please buy it. 
 
 The rest of the site is a collection of 400 or so posts of various odds-and-ends. I've been blogging since 2013 so topics range from webapps to [choosing colours for baby blankets](2015/11/04/its-not-baby-boy-blue.-its-sirius/html).
 
