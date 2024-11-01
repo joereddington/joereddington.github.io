@@ -20,5 +20,5 @@ Occasionally either me or my work [appears in the press](media.html) and I can b
 
 
 
-
+Thank you :) 
 
