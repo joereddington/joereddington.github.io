@@ -91,7 +91,9 @@ This is an example of the mapping code running on a set of fake data.
 
 
 ## How I run the session 
-In this example I showed the QR code for CASPER about 40 minutes² into a two-hour lecture, and go on with the lecture.  Next time the students had a small bit of thinking time I press the 'go' button on my laptop and get a map like this (this is a real map, but I replaced all the student names): 
+In this example I showed the QR code for CASPER about 40 minutes² into a two-hour lecture, and go on with the lecture.  
+
+The next time the students had a small bit of thinking time I pressed the 'go' button on my laptop and got a map like this (this is a real map, but I have replaced all the student names): 
 
 ![Example of a map](/assets/images/examplecasper2.png)
 
@@ -115,7 +117,6 @@ That took under two minutes minutes but it was clear to everybody in the room th
 ## Future work
 * I'd like to get the code to work on a proper sever so that the I could see the map being built up in real time as the students filled in their answers. That would tighten up the feedback loop considerably. I'd also like the interface with Moodle to be much more clean and automatic.   
 * The mapping code doesn't properly account for late people - if someone arrives _after_ everybody has counted then there should be a system to correctly insert them into the map.     
-* The 'putting the stuff on the college systems' stage is very long. I'm working on getting the admin access to make that fast. 
 
 ## Random Extra Tips
 The current version of the Excel Script mapping code is in [this Github repo](https://github.com/joereddington/casper) 
@@ -125,5 +126,7 @@ The current version of the Excel Script mapping code is in [this Github repo](ht
 This work was made possible by guidance from Professor Peter Komisarczuk, my academic mentor, and Professor Adrian Johnstone, who provided a historical view. Angelina Bianchi provided wonderfully detailed answers to my queries, and the admin staff at EMPS put up with my continuing strange questions.
 
 ⁰ In a recent presentation I also claimed that the increase in attendance was due to me making my lectures very interactive so I probably need to get a bit more evidence for that... 
+
 ¹ Worst. Date. Ever.
-² As with all such attendence systems, it's unwise to do them close to the start of the lecture.
+
+² As with all such attendance systems, it's unwise to do them close to the start of the lecture.

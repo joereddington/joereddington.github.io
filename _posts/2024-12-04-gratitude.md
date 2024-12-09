@@ -15,11 +15,11 @@ This week's gratitude  - it's been {{ weeks_since_start }} weeks since I started
 
 It has been a brutal week.  Some form of flu took out Kat and Leo at home. Ridiculous people were ridiculous at work and I had a mountain of marking to do.  Various bright ideas fizzled out. 
 
-So, gratitude is as important as ever. 
+So, it's particularly important to have a proper think about gratitude.
 
 I'm grateful that Leo is back in school after illness. That I make Kat smile. I'm grateful for chats with sensible people. That I've been able to get back my breath today. That various friends are getting over illnesses.   
 
-I'm particularly grateful that a friend randomly dropped round with vegan chocolate brownies when we were at our lowest point. 
+I'm particularly grateful that a friend randomly dropped round with vegan chocolate brownies when we were at our lowest point. Also that Nova and I had a wonderful birthday party to go to! 
 
 I'm grateful for... um... Lego flowers (they are pretty and they don't wilt), bringing the Christmas tree in with the kids (they drag it like a 1980's illustration of people building a pyramid), presents from relatives, running into people in Sainsbury's, Nova's epic parkrun, sleep,  sitting down with a blank bit of A2 paper and tea, fairy lights, daddy-daughter days, making pain au chocolat with the kids, and generally being able to cuddle up as a family.
 
