@@ -4,7 +4,7 @@ title: "CASPER: Improvements to Attendance Tracking"
 
 ## tl;dr
 
-By adding three questions to an online form, we improve the accuracy and usefulness of student attendance tracking. 
+By adding three questions to an online form, we improve the accuracy and usefulness of student attendance tracking. I piloted it in one module during Spring 2024 and implemented it properly in two modules in Autumn 2024.
 
 ## The problem
 
@@ -20,6 +20,7 @@ I require a new attendance tracking system that:
 
 Most systems aren't effective: signing in with Moodle is not fit for purpose, paper registers are a lot of work for me and don’t stop people signing friends in, and QR codes are fast and easy, but again, don’t stop the students sharing the link in group chats and so on. 
 
+
 ## My Solution
 It turns out that we can solve almost all the security problems with a QR code by asking three additional questions:
 
@@ -31,7 +32,7 @@ Here's a screenshot of the form I used:
 
 ![An example of the form](/assets/images/attendenceform.png)
 
-These questions are easy and fast (students take an average of 33 seconds), and they give enough information for my code to produce a map of where each student is sitting. 
+These questions are easy and fast (students take an average of 58 seconds over the last 1,000 responses), and they give enough information for my code to produce a map of where each student is sitting. 
 
 This makes it easy to:
 
@@ -78,7 +79,7 @@ Occasionally a student will claim they have been at every lecture but forgot to 
 ## Beneficial Effects
 There are several beneficial effects:
 
-1. Most concretely, once the students understood the system of attendance, the number of students in the room increased from 45 at the start of the course to consistently 50 or above during February, making this a rare case of a module where the attendance increases during the term.⁰
+1. During the pilot, once the students understood the system of attendance, the number of students in the room increased from 45 at the start of the course to consistently 50 or above during February, making this a rare case of a module where the attendance increases during the term.⁰  During the more serious implementation I maintained a much higher (real) percentage of student attendance than other (spot-checked) lectures. 
 2. The objective was to be able to find out which students were attending lectures so that I could tell (along with other sources of information) which groups of students were disengaging from the lectures. I was able to analyze the information and find several groups that I needed to contact, and I’ve put appropriate measures in place.  
 3. It's nice to contextualise emails from students: a regularly attending student might get a different response from a continually absent one (even if that's "This is a short version of the answer, come and see me after the lecture if it is unclear")  
 4. The most useful feature is this: you can have a laptop open in the lecture that shows a complete map with the names of the students where they are sitting. Suddenly it’s much easier to say “Okay, I’ll take the question from Stripe, and then the one from Nana” or “Muffin, do you have something you need to share?”
