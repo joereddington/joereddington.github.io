@@ -6,13 +6,13 @@ date: "Tue Nov 12 17:47:16 +0000 2024"
 
 A few weeks ago, I had a bit of a teaching adventure.
 
-I have a two-hour Friday lecture, and on this particular day, I brought NO slides and told the students that it would be a review lecture. For the next two hours, I would answer any questions about the material they'd been taught so far.
+I have a two-hour Friday lecture, and on this particular day, I brought no slides and told the students that it would be a review lecture. For the next two hours, I would answer any questions about the material they'd been taught so far.
 
-Happily (because I had NO backup plan), they went with it. For two hours, we did nothing but Q&A for a class of about 70 students. We talked about exceptions to particular rules, boundary cases, real-life examples, complex thought experiments, and a wide range of other things.
+Happily (I had no backup plan), they went with it. For two hours, we did nothing but Q&A for a class of about 70 students. We talked about exceptions to particular rules, boundary cases, real-life examples, complex thought experiments, and a wide range of other things.
 
-It was great—a full two hours of student-led learning where they focused on the topics or idiosyncrasies that mattered to them at their pace.
+It was great: a full two hours of student-led learning where they focused on the topics or idiosyncrasies that mattered to them at their pace.
 
-Now, I did "salt the mine" a little. Every undergraduate got a handout that included a description of running a 'flipped'⁰ lecture and, crucially, ten 'starter' questions. These questions were different³ for each student and were randomly chosen from a set of about one hundred I'd prepared.
+Now, I did salt the mine a little. Every undergraduate got a handout that included a description of running a 'flipped'⁰ lecture and, crucially, ten 'starter' questions. These questions were different³ for each student and were randomly chosen from a set of about one hundred I'd prepared.
 
 These starter questions did two things:
 
