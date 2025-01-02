@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hello, My name is Joe!"
-date: "Tue Jan 02 10:33:35 +0000 2024"
 ---
 
 
