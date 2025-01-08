@@ -16,13 +16,13 @@ date: "Wed Jan 08 15:25:52 +0000 2025"
 
 This week's gratitude - it's been {{ weeks_since_start }} weeks since I started doing these. 
 
-I've largely missed the Christmas Period (which was great), but I've got a lot for the last seven days anyway... 
+I forgot to do a gratitude post during Christmas Period (Christmas has been great), but I've got a lot for the last seven days! 
 
-I'm grateful for snow! There snowball fights, sledging, making a snowman, and making very muddy snow-angels. The classic memories of childhood. 
+I'm grateful for snow! There were snowball fights, sledging, making a snowman, and making very muddy snow-angels. The classic memories of childhood. 
 
-I'm super grateful to everybody who came to our little New Year's day party: you all helped make it wonderful and memorable and generally lovely. There are still balloons everywhere.   
+I'm super grateful to everybody who came to our little New Year party: you all helped make it wonderful and memorable and generally lovely. There are still balloons everywhere.   
 
-In general, I'm thankful for learning lots of new things about food, getting my teeth into big projects, my computer working again, time to myself when Kat took the kids out, films with Kat, ripping apart bits of the kitchen to make a new home for a robot cleaner (I'm extremely proud of this), and obligatory new years day walks.I'm also very happy that the car was super super clean, even if only temporarily. 
+In general, I'm thankful for learning lots of new things about food, getting my teeth into big projects, my computer working again, time to myself when Kat took the kids out, films with Kat, ripping apart bits of the kitchen to make a new home for a robot cleaner (I'm extremely proud of this), and obligatory New Year's day walks.I'm also very happy that the car was super super clean, even if only temporarily. 
 
 I'm enjoying that the kids have learned about table manners and spend dinner times watching each other like hawks to see if anyone puts an elbow on the table... 
 
