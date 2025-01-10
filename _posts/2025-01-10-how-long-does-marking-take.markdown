@@ -91,7 +91,7 @@ It's an interactive one!  The default values are the last course I taught and my
             <input type="checkbox" id="anonymousMarking" checked>
             Is this coursework to be marked anonymously?
         </label>
-        <p class="help-text">Note: For anonymous marking, we must wait 8 days after the submission date (this accounts for five working days plus 24 hours for official late submissions) before marking can begin.</p>
+        <p class="help-text">Note: For anonymous marking, we must wait 8 days after the submission date (this accounts for students who take the maximum five working days of extension and then submit 23 hours late) before marking can begin.</p>
     </div>
 
     <div class="form-group">
@@ -99,11 +99,11 @@ It's an interactive one!  The default values are the last course I taught and my
             <input type="checkbox" id="needsReview" checked>
             Is this coursework subject to 'marking with moderation'?
         </label>
-        <p class="help-text">Note: Moderation takes 3 additional days after first marking is complete.</p>
+        <p class="help-text">Note: Moderation takes three additional days after first marking is complete.</p>
     </div>
 
     <div class="form-group">
-        <label>Minutes to read 1,000 words thoroughly</label>
+        <label>How many minutes does it take to read 1,000 words thoroughly and carefully</label>
         <input type="number" id="readingSpeed" value="18">
     </div>
 
@@ -113,8 +113,8 @@ It's an interactive one!  The default values are the last course I taught and my
     </div>
 
     <div class="form-group">
-        <label>Minutes for personal feedback (we write ~35 words/min)</label>
-        <input type="number" id="feedbackTime" value="1">
+        <label>How many minutes should the marker spend writing personal feedback?</label>
+        <input type="number" id="feedbackTime" value="15">
     </div>
 
     <div id="minutesPerSubmission" class="alert alert-info" style="display: none;">
@@ -122,7 +122,7 @@ It's an interactive one!  The default values are the last course I taught and my
     </div>
 
     <div class="form-group">
-        <label>Number of students</label>
+        <label>Number of submissions</label>
         <input type="number" id="numStudents" value="120">
     </div>
 
@@ -131,7 +131,7 @@ It's an interactive one!  The default values are the last course I taught and my
     </div>
 
     <div class="form-group">
-        <label>Hours a lecturer can safely mark per day without making mistakes</label>
+        <label>Hours a lecturer can spend marking per day without making mistakes</label>
         <input type="number" id="hoursPerDay" value="2">
     </div>
 
@@ -140,7 +140,7 @@ It's an interactive one!  The default values are the last course I taught and my
     </div>
 
     <div class="form-group">
-        <label>Days per week the lecturer works</label>
+        <label>How many days a week does the lecturer work?</label>
         <input type="number" id="daysPerWeek" value="3" min="1" max="7">
     </div>
 
