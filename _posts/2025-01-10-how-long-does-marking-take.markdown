@@ -113,7 +113,7 @@ It's an interactive one!  The default values are the last course I taught and my
     </div>
 
     <div class="form-group">
-        <label>How many minutes should the marker spend down the marks and any personal feedback?</label>
+        <label>How many minutes should the marker spend writing down the marks and any personal feedback?</label>
         <input type="number" id="feedbackTime" value="15">
     </div>
 
