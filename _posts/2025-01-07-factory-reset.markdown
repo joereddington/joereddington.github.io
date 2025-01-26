@@ -187,15 +187,22 @@ pip3 install pytz
 sudo apt install xclip # for pasting images into posts
 sudo apt install texlive-full
 sudo apt install universal-ctags 
+sudo apt install xdotool #for delores
+sudo apt install screen
+cd git
+git clone https://github.com/fboender/multi-git-status
 ```
 
 ## Things I fixed during this process
 * i3config now includes the shortcut for copyq
 * My 'blackbox' script is significantly upgraded
-* I believe I've fixed the ongoing audio issue
 * Xmodmap is now working in the correct place. 
 * I started using proper python virtual environments (I think I was forced into this a little)  
+
+## Things that I accidentally fixed with a reinstall
 * My ```jekyll serve``` commands are working again, so that's cool. 
+* The printer is working!  
+* I believe I've fixed the ongoing audio issue
 
 
 ## Next time 
