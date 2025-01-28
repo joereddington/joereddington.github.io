@@ -15,6 +15,8 @@ One of the hard drives in the machine is a backup drive anyway (to the extent th
 
 I also have a script called 'blackbox' that I wrote in November 2023. It gathers a bunch of configuration files from all over the system and copies them into a folder that gets securely backed up.   I run it every so often and I made sure it was up to date.  I put it on a different usb stick. (I should probably do something much neater with symbolic links)  
 
+(Later edit: I should have been a bit more careful about where my ssh keys are)  
+
 # Install device 
 Next I made a install device. I have a 250GB USB stick and I'll use [these commands](https://askubuntu.com/a/377561/49853) to make it happen: 
 
