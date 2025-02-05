@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Feedback"
+date: "Wed Feb 05 13:15:22 +0000 2025"
+---
+
+
+Quick teaching thing. Last term I started I practice I will keep doing which was that I collected up any negative feedback I received along with the action I took in response. I put each example into a Microsoft form and gave it to the students during a break in a lecture.
+
+You can see an example of the form itself [here](https://forms.office.com/e/K6YGkt7KE6) and it looks like this: 
+
+![Sample of form](/assets/images/Sample of form.png) 
+
+
+There are two reasons for this: 
+
+1. I genuinely would like to know if any actions I take are sufficient.  
+2. It sends a clear message to the students that their feedback is considered, understood, and acted upon. 
+
