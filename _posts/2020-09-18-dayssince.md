@@ -23,7 +23,7 @@ add_to_list("Stopped being sick",'2020-01-14');
 //add_to_list("Cold Showers",'2023-05-16');//date messaged Pete about it
 add_to_list("Mornings with Nova",'2036-09-22');//Assuming Uni or something? 
 add_to_list("Mornings with Leo",'2038-09-22');//Assuming Uni or something? 
-add_to_list("Death",'2062-06-22');//Assuming Uni or something? //Using https://www.statista.com/statistics/281684/life-expectancy-in-the-uk-by-age-and-gender/
+add_to_list("Death",'2063-08-11'); //Using https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/nationallifetablesenglandandwalesreferencetables
 add_to_list("Caffeine",'2024-10-19');
 }
 
