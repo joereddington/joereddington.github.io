@@ -9,16 +9,12 @@ list_title: Articles
 ![Joe Reddington in the Welsh Mountains](assets/images/profile.png)
 
 
-I’m Joe. If you'd like to know more about me as a person, you should read  [this post]({% post_url 2025-01-01-hellomynameis %})
+I’m Joe.  I've been blogging since 2013 on topics such as [parenting](https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html), [exercise](https://joereddington.com/2023/02/28/bike.html), and [books](https://joereddington.com/2024/12/26/20-000-pages-in-2024.html).     
+
+To find out more about me read [this post]({% post_url 2025-01-01-hellomynameis %})
 
 In 2021 I published [Advanced Memory Palaces](https://www.amazon.co.uk/Joe-Reddington/dp/B09GJFZ6JM), please buy it. 
 
-The rest of the site is a collection of 400 or so posts of various odds-and-ends. I've been blogging since 2013 so topics range from webapps to [choosing colours for baby blankets](2015/11/04/its-not-baby-boy-blue.-its-sirius/html).
+Occasionally either me or my work [appears in the press](media.html) and I can be contacted on [joe@joereddington.com](mailto:joe@joereddington.com). 
 
-
-Occasionally either me or my work [appears in the press](media.html) and I can be contacted on [joe@joereddington.com](mailto:joe@joereddington.com). I am active on most social media, but the best place to find out what I’m working on and thinking about is <a href="https://www.facebook.com/joe.reddington" onclick="getOutboundLink('my facebook page')">my facebook page</a>  where I do a lot of talking about projects and designs before they make it here.
-
-
-
-Thank you :) 
 

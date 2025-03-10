@@ -73,5 +73,8 @@ Being me (Kat), I put together Excel spreadsheets of all the baby gear/hospital 
 * The way to stop children asking lots of questions is to answer them fully, excitedly, and in detail. 
 * Never step on the escalator first. 
 
+# Update with a 7yo and 4yo
+* Swiss army knifes are bizarrely useful. This week I've sharped pencils and cut out characters from paper in a cafe. Yesterday I used it to pick the lock of a toilet door. 
+* Almost all their clothes still come from car boot sales: in fact, most of their clothes Kat bought several years ago and stored in the loft for the right moment.  
 
 
