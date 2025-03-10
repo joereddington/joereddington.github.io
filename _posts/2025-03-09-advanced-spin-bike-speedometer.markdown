@@ -19,7 +19,7 @@ However, [some guy online](https://electronics.stackexchange.com/a/740571/308352
 
 I did a proof of concept test with my a photoresistor and an arduino microcontroller which worked well enough to convince me to buy some of [these IR sensors](https://www.amazon.co.uk/dp/B07L3NRTF7?ref=ppx_yo2ov_dt_b_fed_asin_title). 
 
-![I made a stand](/assets/images/arduino1.png)
+![First attempt with breadboard](/assets/images/arduino1.png)
 
 With the IR sensor and a stand I put together in the garage, the setup looks like this.¹
 
