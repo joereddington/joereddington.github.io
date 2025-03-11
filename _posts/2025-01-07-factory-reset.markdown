@@ -4,7 +4,7 @@ title: "Factory Reset"
 date: "Tue Jan 07 15:17:22 +0000 2025"
 ---
 
-My [Ubuntu machine](http://joereddington.com/2023/07/05/pc.html) was [not working properly](https://askubuntu.com/questions/1537327/oh-NO-something-has-gone-wrong-a-problem-has-occured-and-the-system-cant-reco) so I reinstalled the operating system. This most is mostly my notes for when I do it next time. 
+My [Ubuntu machine](http://joereddington.com/2023/07/05/pc.html) was [not working properly](https://askubuntu.com/questions/1537327/oh-NO-something-has-gone-wrong-a-problem-has-occured-and-the-system-cant-reco) so I reinstalled the operating system. This most is mostly my notes for when I do it next time (and indeed, I'm still updating it in March with libraries and bits of software I missed) 
 
 Because I use [Finder Zero](https://joereddington.com/2021/01/28/Finder-Zero-You-use-far-fewer-files-than-you-think,-so-stop-hoarding-them.html) it was relatively simple but still took a while. 
 
@@ -191,6 +191,7 @@ sudo apt install texlive-full
 sudo apt install universal-ctags 
 sudo apt install xdotool #for delores
 sudo apt install screen
+sudo apt install libreoffice
 cd git
 git clone https://github.com/fboender/multi-git-status
 ```
@@ -210,3 +211,4 @@ git clone https://github.com/fboender/multi-git-status
 ## Next time 
 * Put all the ```sudo apt install``` and ```git clone --depth``` commands and put them in a little script in blackbox. Some of them take a while. 
 * Keep a stronger eye on which system config files I edit. 
+* I will remember to set up duel boot to windows: it was periodically useful to have that option
