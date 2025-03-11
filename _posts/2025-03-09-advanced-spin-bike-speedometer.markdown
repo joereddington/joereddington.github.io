@@ -78,14 +78,14 @@ void loop() {
 }
 ```
 
-Next actions. 
-* Benchmarking. I want to thoroughly test on a long ride against my consumer sensor. 
-* Add some simple code to detect if a segment change is missed (i.e did I see black/red for more than twice as long as I expected to). 
-* Add a second sensor - it if is correctly offset I get 64 events a rotation rather than 8. 
+### Next actions: 
+* Benchmark the setup compared to both consumer sensor and the spin-bike's own sensor on a long ride. 
+* Add some code to detect if a segment change is missed (did I see black/red segment for more than twice as long as I expected to recently). 
+* Add a second sensor at one 16th a rotation offset from the first so I get 64 events a rotation rather than 8. 
 * Experiment with increasing the sample rate   
 * Add a seven segment display for debugging. 
 
-But first I should try it out a bit with my application and see what is actually necessary. 
+However, all of those can wait. The next proper action is to [replicate my _Road Rash II_ setup](https://joereddington.com/2024/06/10/bike.html) with this new speed sensor setup so I can get a handle on what responsiveness I need/want. Then I can prioritise other things. 
 
 ⁰ I've actually got a set of suitable magnets so I might do a test another day.
 ¹ I am ridiculously proud of this t tand. I know it looks very much of a bodge.  
