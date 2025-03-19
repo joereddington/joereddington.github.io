@@ -12,26 +12,27 @@ Two facts about clothes:
 1. people give you lots of new clothes
 2. they’ll miss out lots of important bits.  
 
-This is an excellent time to start going to car boot sales – almost all of Nova’s clothes were bought for about 20p an item in a field (Nova is five now and this is still true). Quite a lot of the rest were hand me downs.   Anything with buttons is cursed, poppers are where it’s at.
+This is an excellent time to start going to car boot sales – almost all of Nova’s clothes were bought for about 20p an item in a field (Nova is ~~five~~ seven now and this is still true). Quite a lot of the rest were hand me downs.   Anything with buttons is cursed for babies, poppers are where it’s at.
 
 ## Important purchases:
 
 * A couple of good insulated  cups.  You are entering a phase of life where you keep finding half full cups of stone cold tea.  Get some flasks. [I love this brand](https://www.amazon.co.uk/Contigo-Autoseal-Stainless-Steel-Travel/dp/B0077IERKW/ref=sr_1_3?ie=UTF8&qid=1530190403&sr=8-3&keywords=contigo+travel+mug).
-* Laser thermometer (ours is apparently no longer on amazon).  Either have an argument four times a day about if your baby is too hot or too cold or buy one. It’s about a tenner and is fun to use.
+* Laser thermometer (ours is apparently no longer on Amazon).  Either have an argument four times a day about if your baby is too hot or too cold or buy one. It’s about a tenner and is fun to use.
 * Two apps: the contraction timer, and the “baby feed timer”. Use them – otherwise one of you will delusionally convince the other that your baby hasn’t eaten in three days.  
+
 
 ## Useful facts:
 
-* Going to the prenatal classes isn’t particularly good for information (Drinking game: take a shot every time the person in charge avoids a question by saying “Whatever works for baby”), but is good for relaxation – turns out that you guys are more ready that most of the people there (and you’ll find yourself *vastly* more ready than most to-be fathers).  It’s also good for your partner to start making her baby friends. This is essential for lots of sensible mental health reasons and it’s amazing how much the mummy groups  are the de-facto information source.  
+* Going to the prenatal classes isn’t particularly good for information (Drinking game: take a shot every time the person in charge avoids a question by saying “Whatever works for baby”), but is good for relaxation: it turns out that you guys are more ready that most of the people there (and you’ll find yourself *vastly* more ready than most to-be fathers).  It’s also good for your partner to start making her baby friends. This is essential for lots of sensible mental health reasons and it’s amazing how much the mummy groups  are the de-facto information source.  
 * Gender reveal scan – is fucking awful because it’s also the anomaly scan.  It’s thorough and it’s brutal to go through.  In advance, agree to get the gender written down on paper (if you are finding out early) so that you can find out at home when you have calmed down.
 
 
 ## In response to ‘books for my partner who is going to be a father’
 Almost all the books directly aimed at fathers are complete wastes of paper and are more written for comedy than anything else. Reading ‘What to expect when you are expecting’ was good, and in general ‘Reading the same books as the mother because then you share a frame of reference’ is a good plan.
 
-I got more about parenting from Freakonomics (including names actually) than I have from any other book.  In general I found that most books about ‘evidence based parenting’ weren’t anything like as useful as ‘normal’ pop-science books that happened to use parenting as an example for a chapter.   
+I got more about parenting from Freakonomics (including names actually) than I have from any other book.  In general I found that most books about ‘evidence based parenting’ are much less useful than ‘normal’ pop-science books that happened to use parenting as an example for a chapter.   
 
-Totally honestly – the best thing an expectant father can probably read is a big stack of ‘dealing with your emotions’ books, along with another big pile of books on sexism and gender roles.  The practical STUFF – nappies and washing and the rest of it, is all trivial, particularly for people like us who naturally think in terms of processes – the books are for later.
+Totally honestly: the best thing an expectant father can probably read is a big stack of ‘dealing with your emotions’ books, along with another big pile of books on sexism and gender roles.  The practical elements: nappies and washing and the rest of it are all trivial, particularly for people like us who naturally think in terms of processes – the books are for later.
 
 ## Kat random brain dump
 
@@ -72,9 +73,12 @@ Being me (Kat), I put together Excel spreadsheets of all the baby gear/hospital 
 * Buy lots of backpacks. You'll end up with a swim kit, P.E. kit, climbing kit, running kit, gymnastics bag and many others. It's really handy to have a bunch of different bags that are normally packed and ready to go. 
 * The way to stop children asking lots of questions is to answer them fully, excitedly, and in detail. 
 * Never step on the escalator first. 
+* You will need a battery charging station. Buy many more rechargeable batteries than you think you will need.
 
 # Update with a 7yo and 4yo
+* Everything is easier than it was. 
 * Swiss army knifes are bizarrely useful. This week I've sharped pencils and cut out characters from paper in a cafe. Yesterday I used it to pick the lock of a toilet door. 
 * Almost all their clothes still come from car boot sales: in fact, most of their clothes Kat bought several years ago and stored in the loft for the right moment.  
+
 
 

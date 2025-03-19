@@ -8,15 +8,15 @@ I’ve previously written [Everything I watched on TV in 2016](http://joeredding
 Some tips:
 
 *   To find out what you watched on Netflix the address is: [https://www.netflix.com/viewingactivity](https://www.netflix.com/viewingactivity).
-*   To find out what you watched on Amazon Prime, you want: [this link][https://www.amazon.co.uk/gp/yourstore/iyr/ref=atv_unknown?ie=UTF8&collection=watched] which is much more complex to get data out of. 
+*   To find out what you watched on Amazon Prime, you want: [this link](https://www.amazon.co.uk/gp/yourstore/iyr/ref=atv_unknown?ie=UTF8&collection=watched) which is much more complex to get data out of. 
 
-Couple of notes:
+Notes:
 
 *   This is the first post on TV-watching since having a baby girl.  There’s a lot of Peppa Pig now in the stream.  That’s also how I found out that Amazon only counts the most recent watching of a program – we’ve watched Frozen daily since Nova was about six months old and Amazon is convinced we’ve only seen it once.
-*   I’ve taken the information from the end of the last post on the topic (that was September 2017, so this is an 18 month period).
+*   This is everything watched since the last post on the topic (that was September 2017, so this is an 18 month period).
 *   Both Amazon and Netflix include programs you clicked on accidentally or watched five minutes of, so I am unable to comment on the content of ‘Bleeding Steel’.  This turns out to be about 20% of the list.
 *   As before I’ve removed programs watched by my partner from Amazon Prime.
-*   Netflix and Amazon handle series’s differently: Amazon will tell you you watched a series (even if you only watched an episode, whereas Netflix will give you every episode as a separate line)
+*   Netflix and Amazon handle series differently: Amazon will tell you that you watched a series (even if you only watched an episode, whereas Netflix will give you every episode as a separate line)
 
 Things I’ve learned:
 
