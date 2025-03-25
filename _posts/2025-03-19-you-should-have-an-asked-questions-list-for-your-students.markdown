@@ -33,5 +33,5 @@ After a few iterations you have a document that:
 * means students with the same issue get an answer immediately
 
 
-IY3501 has had an 'Asked Questions' document for two years. It's nothing fancy - it's literally a Word document on OneDrive. The first year it had 18 entires, the second year I added only four. I'm not expecting to add many next year. 
+IY3501 has had an 'Asked Questions' document for two years. It's nothing fancy - it's literally a Word document on OneDrive. The first year it had 18 entires, the second year I added only four. I'm not expecting to add many next year. Obviously, you have to review the document at the start of each teaching term to check that things don't need to be updated.
 
