@@ -27,5 +27,7 @@ On the other hand I've also found it quite frustrating. Like a child, I expect a
 
 ...whereas the reality is a little more disappointing. I find myself wondering what sort of telescope Galileo was using in 1610 when he identified four distinct moons of Jupiter. I'll need to do some investigating of [sites like this](https://earthsky.org/astronomy-essentials/how-to-see-jupiters-moons/) 
 
+This is, of course, all done accompanied by my little stargazer.
 
+![Nova with hot chocolate](/assets/images/novastargaze.png) 
 

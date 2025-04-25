@@ -74,13 +74,40 @@ Here is the Javascript I used to generate a template.
       <label for="studentName">Student Name:</label>
       <input type="text" id="studentName" required>
     </div>
+
     <div class="form-group">
       <label for="courseName">Course Name:</label>
-      <input type="text" id="courseName" required>
+      <select id="courseName" required>
+        <option value="">Select Course</option>
+        <option>BSc Computer Science and Mathematics (GG41)</option>
+        <option>BSc Computer Science (Artificial Intelligence) (G4G7)</option>
+        <option>BSc Computer Science (Cyber Security) (G407)</option>
+        <option>BSc Computer Science (Software Engineering) (G464)</option>
+        <option>BSc Computer Science (G400)</option>
+        <option>MSci Computer Science (Cyber Security) (G500)</option>
+        <option>MSci Computer Science (Artificial Intelligence) (GG47)</option>
+        <option>MSci Computer Science (Software Engineering) (G461)</option>
+        <option>MSci Computer Science (G403)</option>
+        <option>Computer Science with Integrated Foundation Year (G40F)</option>
+        <option>BSc Computer Science with a Year in Industry (G402)</option>
+        <option>MSci Computer Science (Cyber Security) with a Year in Industry (G502)</option>
+        <option>BSc Computer Science (Software Engineering) with a Year in Industry (G462)</option>
+        <option>BSc Computer Science (Artificial Intelligence) with a Year in Industry (G4G8)</option>
+        <option>MSci Computer Science (Artificial Intelligence) with a Year in Industry (GG74)</option>
+        <option>BSc Computer Science (Cyber Security) with a Year in Industry (G406)</option>
+        <option>MSci Computer Science (Software Engineering) with a Year in Industry (G463)</option>
+        <option>MSci Computer Science with a Year in Industry</option>
+      </select>
     </div>
+
     <div class="form-group">
-      <label for="academicYear">Academic Year:</label>
-      <input type="text" id="academicYear" required>
+      <label for="academicYear">Graduating Year:</label>
+      <select id="academicYear" required>
+        <option value="">Select Year</option>
+        <option>2023</option>
+        <option>2024</option>
+        <option>2025</option>
+      </select>
     </div>
     <div class="form-group">
       <label>Asked for reference in advance?</label>
