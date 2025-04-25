@@ -193,7 +193,7 @@ Here is the Javascript I used to generate a template.
       return;
     }
 
-    let referenceText = `${studentName} attended my course on ${courseName} in the academic year ${academicYear}. They ${askedInAdvance === 'yes' ? 'did' : 'did not'} ask me in advance if I would provide a reference. They ${shareMarks === 'yes' ? 'have' : 'have not'} given me permission to share their marks`;
+    let referenceText = `${studentName} attended my module on Security Management as part of their ${courseName} degree in the academic year ${academicYear}. They ${askedInAdvance === 'yes' ? 'did' : 'did not'} ask me in advance if I would provide a reference. They ${shareMarks === 'yes' ? 'have' : 'have not'} given me permission to share their marks`;
 
     if (shareMarks === 'yes' && courseMark && yearAverage && finalProject) {
       referenceText += ` for the course (${courseMark}), their average for the year (${yearAverage}), and their final project (${finalProject}).`;
