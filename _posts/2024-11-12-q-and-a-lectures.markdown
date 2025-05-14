@@ -47,9 +47,17 @@ In the first session about 60% of the questions that students asked came from th
 
 # Conclusion 
 This was an excellent way of handing over power to the students and making sure they had grasped everything so far. It pairs nicely with things like Bingo and is a good step towards the culture I want to build. 
+¹² 
+³
+⁴
+⁵
+⁵ 
+⁴ 
+³ 
+² 
 
 # Update 
-I did a keynote for the [NMWP unconference](https://newmediawritingprize.co.uk/unconference/) and took the same approach. The conference was by zoom so I knocked up a quick php script (I literally ran 'php -S 0.0.0.0:8008' in the working directory on my desktop and sent them the ip address) that did the same 'suggested questions' approach.  To avoid people seeing all the questions I locked the question list to user-agents and only allowed a new set every few minutes. The USP was that some questions unlocked later questions which I had to do by hand - I would like to make that more automatic in future.  
+I did a keynote for the [NMWP unconference](https://newmediawritingprize.co.uk/unconference/) and took the same approach. The conference was by zoom so I knocked up a quick php script (I literally ran 'php -S 0.0.0.0:8008' in the working directory on my desktop and sent them the ip address⁶) that did the same 'suggested questions' approach.  To avoid people seeing all the questions I locked the question list to user-agents and only allowed a new set every few minutes. The USP was that some questions unlocked later questions which I had to do by hand - I would like to make that more automatic in future.  
 
 Certainly I'd be confident using the php script for a Teams Lecture in future. 
 
@@ -60,3 +68,4 @@ Certainly I'd be confident using the php script for a Teams Lecture in future.
 ⁴ There's an open debate about whether it's better for the students or the staff to set the content, but I think we can all agree we should know what the students _want_.  
 ⁵ Bluey, obviously.  
 ⁰ This was true both times I ran the Q&A lecture.
+⁶ I actually really liked running it from my desktop - I would normally put on something like Github Pages or my AWS server, but this was super quick to update and switch off at the end. Also there's something pleasant about knowing that the machine is literally just  over there.
