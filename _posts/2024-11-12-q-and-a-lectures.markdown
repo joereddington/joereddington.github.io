@@ -62,6 +62,7 @@ I did a keynote for the [NMWP unconference](https://newmediawritingprize.co.uk/u
 Certainly I'd be confident using the php script for a Teams Lecture in future. 
 
 
+# Notes
 ⁰ It's not really a flipped lecture, but it's close.  
 ² Except me.  
 ³ Probably. It's possible two students happened to get exactly the same selection, but the odds are against it.  
