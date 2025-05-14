@@ -8,7 +8,7 @@ I believe that lectures are better with student interaction and that any ways th
 
 For my teaching in Autumn 2024 I ran some full Question and Answer lectures.
 
-I have a two-hour Friday lecture, and on two selected days, I brought no slides and told the students that it would be a review lecture. For the next two hours, I would answer any questions about the material they'd been taught so far.
+I have a two-hour Friday lecture, and on two selected days, I brought no slides and told the students that it would be a review lecture. For the next two hours, I would answer any questions about the material they'd been taught so far (in practice, I am generally willing to answer any question even if not taught yet - particularly because I get to say 'I don't know, can you tell me more about it'). 
 
 Happily (I had no backup plan), they went with it. For two hours, we did nothing but Q&A for a class of about 70 students. We talked about exceptions to particular rules, boundary cases, real-life examples, complex thought experiments, and a wide range of other things.
 
@@ -44,12 +44,19 @@ In the first session about 60% of the questions that students asked came from th
 * I haven't got students to ask questions electronically very well. It's done well my some of the Law lectures, I'll remind myself how they do it. 
 * I want the students to get a lot better at answering each others questions. 
 
+
 # Conclusion 
 This was an excellent way of handing over power to the students and making sure they had grasped everything so far. It pairs nicely with things like Bingo and is a good step towards the culture I want to build. 
+
+# Update 
+I did a keynote for the [NMWP unconference](https://newmediawritingprize.co.uk/unconference/) and took the same approach. The conference was by zoom so I knocked up a quick php script (I literally ran 'php -S 0.0.0.0:8008' in the working directory on my desktop and sent them the ip address) that did the same 'suggested questions' approach.  To avoid people seeing all the questions I locked the question list to user-agents and only allowed a new set every few minutes. The USP was that some questions unlocked later questions which I had to do by hand - I would like to make that more automatic in future.  
+
+Certainly I'd be confident using the php script for a Teams Lecture in future. 
+
 
 ⁰ It's not really a flipped lecture, but it's close.  
 ² Except me.  
 ³ Probably. It's possible two students happened to get exactly the same selection, but the odds are against it.  
-⁴ There's an open debate about whether it's better for the students or the staff to set the addenda, but I think we can all agree we should know what the student addenda _is_.  
+⁴ There's an open debate about whether it's better for the students or the staff to set the content, but I think we can all agree we should know what the students _want_.  
 ⁵ Bluey, obviously.  
 ⁰ This was true both times I ran the Q&A lecture.
