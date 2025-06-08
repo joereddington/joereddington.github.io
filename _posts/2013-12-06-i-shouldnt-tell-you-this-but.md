@@ -13,5 +13,5 @@ It turns out, when I look back over the times that people shouldn't have told me
 
 So yes, if I had to pick one habit that's made my life better over the last few years it's that one. If you want information, go to Wikipedia.
 
-EDIT - two edits I need to make here, first of which is to clarify - this only happens about three times a year (I looks kind of 'high school' on first reading) and secondly it was pointed out to me that I only do this for social or personal matters - I'm all ears for industry gossip - I'll have to change that
+EDIT - two edits I need to make here, first of which is to clarify - this only happens about three times a year (It looks kind of 'high school' on first reading) and secondly it was pointed out to me that I only do this for social or personal matters - I'm all ears for industry gossip - I'll have to change that
 

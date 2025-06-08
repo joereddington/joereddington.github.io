@@ -18,10 +18,10 @@ Computer Science textbooks do their very best to explain it and generally don’
 It’s beautiful, it’s obvious, and even the most confused Computer Science student clicks fairly immediately. They can see why it works, they can see why it’s fast, and it only takes a little more reading to work out what is going on. 
 
 
-Why aren’t eBooks, full of this sort of illustration? (for irony points [Big Java](http://www.amazon.co.uk/Big-Java-Late-Objects-Horstmann/dp/1118087887/ref=sr_1_1?ie=UTF8&qid=1396189025&sr=8-1&keywords=big+java) includes instructions and exercises for students so that they can write such a demo, but doesn’t get it’s hands dirty). 
+Why aren’t eBooks, full of this sort of illustration? (for irony points [Big Java](http://www.amazon.co.uk/Big-Java-Late-Objects-Horstmann/dp/1118087887/ref=sr_1_1?ie=UTF8&qid=1396189025&sr=8-1&keywords=big+java) includes instructions and exercises for students so that they can write such a demo, but doesn’t get its hands dirty). 
 
 
-I know ebook formats don’t support it, but they should. This is an animated GIF, it’s not rocket science. The question that appears next is, of course: “Wait, why do we have ebook formats at all? Why aren’t ebook readers just using HTML?” (When publishing books for [https://www.whitewaterwriters.com/](https://www.whitewaterwriters.com/) to Kindle, I used to convert them to html first because it was more successful than writing the ebook format directly). 
+I know ebook formats don’t support it, but they should. This is an animated GIF, it’s not rocket science. The underlying format of an ebook is html and they are fine with it. 
 
 The second argument against allowing animated gifs is that “it’s a lot of effort for *only* the online version”, which is rather like saying “People don’t seem to want to pay us for this thing we’re doing badly, so why should we do it better?”. Computer Science may be the first example for this sort of thing, but it’s not the only one: it’s hard to think of a science (or even a history) field that wouldn't be made clearer with a moving image. 
 

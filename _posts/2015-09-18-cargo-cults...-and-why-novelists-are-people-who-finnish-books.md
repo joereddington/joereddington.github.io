@@ -4,17 +4,9 @@ layout: post
 ---
 
 
-Would you like to know what the most chilling aspect of working in a computer science department is?
-
 Computer science departments have a tendency to forgive their great figures certain oddities of behaviour. Sometimes this is because they genuinely have missed the cues and I have no problem with that. Some of them just enjoy being unpleasant, and I can understand that even while I deplore it. 
 
-The chilling problem is that people around these figures have a terrible tendency to assume that the more unpleasant a person is to deal with - the greater the intellectual calibre must be.
-
-When I was an undergraduate we had lecturers who were astonishingly bad at teaching; instead of demanding that we be given the basic respect of the department, we thought to ourselves <em>'wow he must be a really brilliant man'. </em> We were working on  the reasonable grounds that if he wasn't employed for his teaching he must have been employed for his research.  (In all cases it turns out that there is no such correlation - I have literally never seen a case where quality of teaching had ever had anything to do with a position being filled). 
-
-The bit that upsets me is when I see the <a href="http://en.wikipedia.org/wiki/Cargo_cult">cargo culting</a>. I see bright research students arrive: they are polite and friendly, nice and social.  Indeed, the ones that work with decent supervisors stay that way.  
-
-However, the ones that work with other supervisors clearly have the thought <em>'this person a brilliant scientist and also an awful human being. I want to be like them!'</em>.  Except that brilliant is hard to emulate and awful is easy, so you end up with with research students turning feral; picking up all the nasty habits for none of the good ones.  Unfortunately for them, dickishness does not actually confer intellectual greatness except in their own minds.
+The problem is that people around these figures have a terrible tendency to assume that the more unpleasant a person is to deal with, the greater the intellectual calibre must be.
 
 So that's upsetting. And avoiding this sort of thing is one of the minor goals of White Water Writers.
 
@@ -27,7 +19,6 @@ One of the things I find I say a lot when I'm running a writing camp is this:
 Not people who had an great idea, not people who really wanted to <em>be</em> a writer, but people who finish books.  Not curse books. Not talk about books, but who finish them.
 
 To their credit, one of the things that happens around day three of a writing project is that the crew start to see the words mount up and they let go of the other things they thought mattered. They lose all of the pretensions and they write better because of it.  I think that is one of the best things that the project teaches people. 
-
 
 For those that can't get to a White Water Writers camp I recommend having a read through <a href="http://www.amazon.co.uk/gp/product/B00DTUKK4O/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00DTUKK4O&linkCode=as2&tag=joeredd-21">Daily Rituals</a>. It's a lovely little book that chronicles the working habits of a massive range of creative people. And the major theme running through it is how little pretension there is: we have such wonderful examples as Anthony Trollope: 
 

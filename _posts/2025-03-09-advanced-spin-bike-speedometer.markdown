@@ -12,26 +12,33 @@ That doesn't work for my application (controlling video games via pedaling) so I
 
 I originally considered two designs.
 
-* Magnets around the rim and a hall effect sensor that pings every time a magnet passes. 
+* Magnets around the rim and a hall effect sensor that pings every time a magnet passes.⁰ 
 * Measuring the voltage of a dynamo attached to the wheel. 
 
 However, [some guy online](https://electronics.stackexchange.com/a/740571/308352) suggested I use an optical sensor because my flywheel has eight coloured segments. 
 
-I did a proof of concept test with my a photoresistor and an arduino microcontroller which worked well enough to convince me to buy some of [these IR sensors](https://www.amazon.co.uk/dp/B07L3NRTF7?ref=ppx_yo2ov_dt_b_fed_asin_title). 
+## Proof of concept
+I did a proof of concept test with my a photoresistor and an Arduino microcontroller. It worked well enough that I felt the basic idea had legs. 
+
 
 ![First attempt with breadboard](/assets/images/arduino1.png)
 
-With the IR sensor and a stand I put together in the garage, the setup looks like this.¹
+
+## IR sensors
+After the proof of concept I bought some of [these IR sensors](https://www.amazon.co.uk/dp/B07L3NRTF7?ref=ppx_yo2ov_dt_b_fed_asin_title), because I understood they would be a bit more accurate and effective.   
+
+I threw together a stand out of scrap wood in the garage¹ and built this: 
+
 
 ![I made a stand](/assets/images/arduino3.png)
 
-...and it works! 
+...and tested it on [my bike setup](https://joereddington.com/2023/02/28/bike.html) 
 
 ![In Place](/assets/images/arduino4.png)
 
 My partner as test pilot got it up to 7.5 rotations per second so it's working pretty well. It registers the speed accurately at very low speeds, which a consumer system doesn't do and detects acceleration and deceleration much earlier. 
 
-The code in the Arduino looks like this (this is an early version that only reports the speed every second) : 
+At this point the code in the Arduino looked like this: 
 
 ```
 int ldrPin = A0;
@@ -78,16 +85,37 @@ void loop() {
 }
 ```
 
-### Next actions: 
-* Benchmark the setup compared to both consumer sensor and the spin-bike's own sensor on a long ride. 
-* Add some code to detect if a segment change is missed (did I see black/red segment for more than twice as long as I expected to recently). 
-* Add a second sensor at one 16th a rotation offset from the first so I get 64 events a rotation rather than 8. 
-* Experiment with increasing the sample rate   
-* Add a seven segment display for debugging. 
+## Display 
+Next time I came back to the project. I 3d printed [a housing for a LCD display](https://www.thingiverse.com/thing:614241) and worked out how to display things with it.  
 
-However, all of those can wait. The next proper action is to [replicate my _Road Rash II_ setup](https://joereddington.com/2024/06/10/bike.html) with this new speed sensor setup so I can get a handle on what responsiveness I need/want. Then I can prioritise other things. 
+![Display](/assets/images/speedodisplay1.png)
+
+I obviously needed a much longer cable (the sensor is by the wheel and I want the display on the desk). Nova and I found an old Ethernet cable with four wires in it in the garage and I used that. I'm finally getting some use out of my soldering iron... 
+
+![soldaring](/assets/images/soldaring.png)
+
+I'm really impressed with how professional it ended up looking: 
+
+![speedobikeresult](/assets/images/speedobikeresult.png)
+
+While this was happening I also spray painted the mount I was using for the sensor to get a bit away from the 'GSCE student with scrap wood' vibe. It now looks like this: 
+
+![speedospraypaint](/assets/images/speedospraypaint.png) 
+
+## The original speedometer
+The spin bike came with a very basic speedometer attached, and I took a look at it to check I was benchmarking correctly. I found that when I sent pulses to the sensor with the Arduino I could manipulate the speedometer fairly easily. For every pulse in a second, the speedometer would register 10.5 on the speed measurement. I later used this when I wanted to display kilometers per hour and total kilometers.  
+
+![kk](/assets/images/speedooriginalmonitor.png)
+
+## Next actions
+These are next actions for the speedometer itself. There are different next actions for the project of using it to play video games. 
+* Add a very simple "Buzzer makes noise if cadence is less than X" 
+* Add a second sensor at one 16th a rotation offset from the first so I get 64 events a rotation rather than 8. 
+* Add some code defensive to detect if a segment change is missed (did I see black/red segment for more than twice as long as I expected to recently). 
+
 
 ⁰ I've actually got a set of suitable magnets so I might do a test another day.
+
 ¹ I am ridiculously proud of this and  I also know it looks very much of a bodge.  
 ² the sensor I tested saves power by not sending an update if there aren't events to tell you about. So you have to deduce you have stopped by the lack of updates that come every 0.76 seconds (and in practice, often skip random ones)
 
