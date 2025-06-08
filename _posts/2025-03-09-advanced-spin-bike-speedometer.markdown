@@ -88,6 +88,7 @@ void loop() {
 However, all of those can wait. The next proper action is to [replicate my _Road Rash II_ setup](https://joereddington.com/2024/06/10/bike.html) with this new speed sensor setup so I can get a handle on what responsiveness I need/want. Then I can prioritise other things. 
 
 ⁰ I've actually got a set of suitable magnets so I might do a test another day.
-¹ I am ridiculously proud of this t tand. I know it looks very much of a bodge.  
+¹ I am ridiculously proud of this and  I also know it looks very much of a bodge.  
 ² the sensor I tested saves power by not sending an update if there aren't events to tell you about. So you have to deduce you have stopped by the lack of updates that come every 0.76 seconds (and in practice, often skip random ones)
+
 ³ This is the result for the first design, I'm reasonably sure I can get it down to 0.03 seconds with some changes to the code, but it needs some testing.
