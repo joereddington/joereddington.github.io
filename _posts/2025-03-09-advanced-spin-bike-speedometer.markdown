@@ -18,7 +18,7 @@ I originally considered two designs.
 However, [some guy online](https://electronics.stackexchange.com/a/740571/308352) suggested I use an optical sensor because my flywheel has eight coloured segments. 
 
 ## Proof of concept
-I did a proof of concept test with my a photoresistor and an Arduino microcontroller. It worked well enough that I felt the basic idea had legs. 
+I did a proof of concept test with a photoresistor and an Arduino microcontroller. It worked well enough that I felt the basic idea had legs. 
 
 
 ![First attempt with breadboard](/assets/images/arduino1.png)
@@ -72,7 +72,7 @@ void loop() {
   }
   
   // Every second, calculate RPS
-  if (currentTime - lastCheckTime >= 1000) {//this can be a lot more sophositcated and take breaks differenctly. 
+  if (currentTime - lastCheckTime >= 1000) {//this can be a lot more sophisticated and take breaks differently. 
     rps = (float)changesInLastSecond / segments_per_revolution;
     changesInLastSecond = 0;
     lastCheckTime = currentTime;
@@ -86,32 +86,32 @@ void loop() {
 ```
 
 ## Display 
-Next time I came back to the project. I 3d printed [a housing for a LCD display](https://www.thingiverse.com/thing:614241) and worked out how to display things with it.  
+Next time I came back to the project. I 3D printed [a housing for an LCD display](https://www.thingiverse.com/thing:614241) and worked out how to display things with it.  
 
 ![Display](/assets/images/speedodisplay1.png)
 
-I obviously needed a much longer cable (the sensor is by the wheel and I want the display on the desk). Nova and I found an old Ethernet cable with four wires in it in the garage and I used that. I'm finally getting some use out of my soldering iron... 
+I obviously needed a much longer cable (the sensor is by the wheel and I want the display on the desk). Nova and I found an old Ethernet cable with four wires in the garage and I used that. I'm finally getting some use out of my soldering iron... 
 
-![soldaring](/assets/images/soldaring.png)
+![soldering](/assets/images/soldaring.png)
 
 I'm really impressed with how professional it ended up looking: 
 
 ![speedobikeresult](/assets/images/speedobikeresult.png)
 
-While this was happening I also spray painted the mount I was using for the sensor to get a bit away from the 'GSCE student with scrap wood' vibe. It now looks like this: 
+While this was happening I also spray painted the mount I was using for the sensor to get a bit away from the 'GCSE student with scrap wood' vibe. It now looks like this: 
 
 ![speedospraypaint](/assets/images/speedospraypaint.png) 
 
 ## The original speedometer
-The spin bike came with a very basic speedometer attached, and I took a look at it to check I was benchmarking correctly. I found that when I sent pulses to the sensor with the Arduino I could manipulate the speedometer fairly easily. For every pulse in a second, the speedometer would register 10.5 on the speed measurement. I later used this when I wanted to display kilometers per hour and total kilometers.  
+The spin bike came with a very basic speedometer attached, and I took a look at it to check I was benchmarking correctly. I found that when I sent pulses to the sensor with the Arduino I could manipulate the speedometer fairly easily. For every pulse in a second, the speedometer would register 10.5 on the speed measurement. I went on to use the speed calculation information when I wanted to display kilometers per hour and total kilometers.  
 
 ![kk](/assets/images/speedooriginalmonitor.png)
 
 ## Next actions
-These are next actions for the speedometer itself. There are different next actions for the project of using it to play video games. 
+These are next actions for the speedometer itself. There are different next actions for the 'use the spin bike to play computer games' project . 
 * Add a very simple "Buzzer makes noise if cadence is less than X" 
 * Add a second sensor at one 16th a rotation offset from the first so I get 64 events a rotation rather than 8. 
-* Add some code defensive to detect if a segment change is missed (did I see black/red segment for more than twice as long as I expected to recently). 
+* Add some defensive code to detect if a segment change is missed (did I see black/red segment for more than twice as long as I expected to recently). 
 
 
 ⁰ I've actually got a set of suitable magnets so I might do a test another day.
