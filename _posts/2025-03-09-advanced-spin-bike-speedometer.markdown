@@ -111,7 +111,10 @@ The spin bike came with a very basic speedometer attached, and I took a look at 
 These are next actions for the speedometer itself. There are different next actions for the 'use the spin bike to play computer games' project . 
 * Add a very simple "Buzzer makes noise if cadence is less than X" 
 * Add a second sensor at one 16th a rotation offset from the first so I get 64 events a rotation rather than 8. 
+    * No - first write some simple code to see how often the sensor is repeatedly seeing the same colour and do some maths on it. In fact, if we expect a cadence of 60 for simple maths, then that's eight changes of colour a second or 1 every 160 milliseconds - if the sensor is being read every 10 milliseconds we would expect 16 'same' events for every one change event at low speed down to 8 at very high speed.  We can use this and some code optimisation to work out how often I can reasonably read the sensor and from that we can work out how many more sensors I can use.  
 * Add some defensive code to detect if a segment change is missed (did I see black/red segment for more than twice as long as I expected to recently). 
+* Add some code that produces a histogram of the light levels - currently the system assumes 'red' if the value is over 35.  I don't believe we are getting false readings at the moment, but it's an interesting thing to check 
+* Refactor the code generally, bring in tests, create a proper way of testing it remotely. 
 
 
 ⁰ I've actually got a set of suitable magnets so I might do a test another day.
