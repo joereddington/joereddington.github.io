@@ -4,9 +4,9 @@ title: "My Bike Speedometer is eight times more accurate than yours"
 date: "Sun Mar 09 14:15:11 +0000 2025"
 ---
 
-A consumer bike speed detector knows when a wheel has made a complete rotation and it will use Bluetooth to send that information. It only uses whole numbers for the rotations and so you need 60 seconds data in order to get an accurate cadence reading.  If you stop (or start) suddenly, the controller for the sensors can be _sure_ you have stopped about three seconds later.² My notes (and complaints) on working with a consumer sensor are [here](https://joereddington.com/2024/06/10/bike.html). 
+A consumer bike speed detector knows when a wheel has made a complete rotation and it will use Bluetooth to send that information. If you stop (or start) suddenly, the controller for the sensors can be _sure_ you have stopped about three seconds later.² My notes (and complaints) on working with a consumer sensor are [here](https://joereddington.com/2024/06/10/bike.html). 
 
-I built my own speedometer that detects every time the wheel moves one eighth of a rotation. It can tell you an accurate cadence reading in 7.5 seconds rather than 60 and the controller knows a complete stop (or start) has happened within 0.1 seconds.³ This is fun, but also vital for my actual use case, which is using bike-speed as an input to computer gaming. 
+I built my own speedometer that detects every time the wheel moves one eighth of a rotation. It can tell you an accurate cadence reading in 1.8 seconds and the controller knows a complete stop (or start) has happened within 0.1 seconds.³ 
 
 (this is for a stationary exercise bike by the way, I'd build something different for general riding) 
 

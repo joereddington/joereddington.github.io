@@ -87,3 +87,27 @@ There are two other small issues with my particular unit:
 * If I stop for a moment and then speed up, the sensor sends a big update  like 9 revolutions in 7 seconds.  
 
 The bottom line is that these cadence sensors are good for their central use case (measuring cadence for cyclists over reasonably long periods, like several hours) but not worthwhile for my use-case (super-fast reaction times in video gaming), or even for people on a spin bike at home wondering what 90 RPM really feels like. 
+
+# The difference between cadence and bike speed
+My use-case is a stationary spin bike with a pedal-flywheel ratio of about 1:4.2 so in my case I could cheat by putting the cadence sensor on the flywheel rather than the pedals (effectively making it a speed sensor), that would mean I would be able to get accurate cadence data in 60/4.2=14.3 seconds, and also improve the detecting speed changes.  In fact the sensor table looks like this: 
+
+| Cadence (RPM) | Rotations per Second | 1st | 2nd | 3rd |
+|---------------|-----------------------|-----|-----|-----|
+| 30            | 2.1                   | 1   | 3   | 4   |
+| 60            | 4.2                   | 3   | 6   | 9   |
+| 90            | 6.3                   | 4   | 9   | 14  |
+| 0             | n/a                   | n/a | n/a | n/a |
+
+
+...and it's now possible to tell that the speed as changed within _just one_ sensor interval. That vastly improves responsiveness. It's still too unwieldy for my application in practice, but if I was a cyclist interested in getting a proper sense of how each cadence felt when peddling - I'd put the bike on a turbo trainer, put it in top gear, do the maths to work out how my desired cadence translated to speed and watch the more responsive speedometer rather than the slower cadence monitor. 
+
+Final note - if I were putting the sensor on the flywheel and detecting the speed changes that way, I would probably work backwards from what the sensor was most capable of to find the particular cadences. So I'd say "The target speeds are based on the flywheel rotating 1,3, and 5 times in the sensor interval".  This actually looks like this: 
+
+| Rotations Since Last Reading | Equivalent Flywheel RPM | Target Cadence |
+|------------------------------|--------------------------|----------------|
+| 1                            | 79                       | 18.8           |
+| 3                            | 237                      | 56.4           |
+| 5                            | 395                      | 94.0           |
+
+
+
