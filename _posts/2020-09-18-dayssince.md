@@ -5,7 +5,7 @@ title:  "I have about 16,000 days left before I die"
 
 It's nice for motivation reasons to pay attention to streaks (like 'How long have you been vegan?') or memories ('How much of your life have you spent with the woman you love?'). It's also nice for motivation to know how many more sunrises I will get to see ([Kevin Kelly](https://kk.org/ct2/my-life-countdown-1/) gives a much more well written set of reasons for this than I ever will), and how many more wonderful mornings I'll have with my kids before they move out.   
 
-The list below updates daily thanks to the wonders of Javascript. Some count up, some count down. 
+The list below updates daily thanks to the wonders of JavaScript. Some count up, some count down. 
 
 <script type="text/javascript">
 document.addEventListener('readystatechange', () => {    
