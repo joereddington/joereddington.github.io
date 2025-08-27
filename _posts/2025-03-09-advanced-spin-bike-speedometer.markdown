@@ -106,19 +106,25 @@ The spin bike came with a very basic speedometer attached, and I took a look at 
 * Most importantly I switched the Arduino Uno for a Leonardo. The Leonardo can emulate a keyboard and so it was suddenly super easy to use this as a game controller.  But all of that belongs on a different post. 
 * I put the code under version control. 
 
+# Version 4
+* I added a buzzer for when cadence got too low so I can now use that to keep my cadence up on PS4 games. However it's currently far too quiet so that will improve in the next big retool. 
+* General improvements to the code: mostly improving performance by letting the code follow the maths. 
+
 # Next version 
-    * Gentle improvements to the display - right now the numbers aren't even left padded and it would be good to cycle though various metrics.  
-    * A custom housing that mounts to the bike itself. 
+* Gentle improvements to the display - right now the numbers aren't even left padded and it would be good to cycle though various metrics.  
+* Improvements to the volume of the alarm. 
+* A custom housing that mounts to the bike itself (this is delayed by 3d printer problems)  
 
 ...but the return on investment is relatively low compared to working more on the gaming setup. 
 
 # Version after that. 
 
-* Adding a simple speaker that makes a noise if you aren't peddling fast enough (I am regretting only having four wires in the Ethernet cable, because I could have mounted it in the display) 
-* Increasing the number of segments on the flywheel - I currently get about 3 reading as a segment when pedaling quickly and that means there is some wriggle room. 
+* Increasing the number of segments on the flywheel - I currently get about 2.5 readings in a segment when pedaling quickly and that means there is some wriggle room. 
 
 
 ⁰ I've actually got a set of suitable magnets so I might do a test another day.
 ¹ I am ridiculously proud of this and  I also know it looks very much of a bodge.  
 
 ³ This is the result for the first design, I'm reasonably sure I can get it down to 0.03 seconds with some changes to the code, but it needs some testing.
+
+
