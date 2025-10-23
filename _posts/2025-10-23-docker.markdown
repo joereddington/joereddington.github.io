@@ -1,0 +1,112 @@
+---
+layout: post
+title: "Docker"
+date: "Thu Oct 23 10:47:19 +0100 2025"
+---
+
+About a decade after everybody else I'm trying out Docker to see if it's useful for things like 'executing code written by Cyber Security students on my laptop'. I'm using this post as a place to put my notes as I learn more about it. 
+
+I have a folder 'FYP' that contains each student repo (they use GitLab) in a separate folder 
+
+Also in that folder I have put a  Dockerfile: 
+
+```  
+FROM node:22-bullseye
+# Bullseye is Debian 11; the Docker on Mac runs Linux. I can check with "cat /etc/os-release" 
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git ca-certificates python3 python3-venv python3-pip \
+    openjdk-17-jre-headless build-essential curl \
+ && rm -rf /var/lib/apt/lists/*
+# Install extra tools we want available inside the container: TODO - consider if I really need Java for student projects
+
+#RUN executes a shell command during the image build
+# This creates an unprivileged user called "runner" with a home directory and bash shell.
+# (UID/GID are still overridden at 'docker run' so files are owned by you on the host.)
+# There is a syntax for running it with sudo options - in practice you don't run as root from here (because why would you add the root user(?), it automatically exists!) 
+RUN useradd -m -s /bin/bash runner
+
+# Set the default working directory inside the container; when you 'docker run -w /work'
+# (as we do), you’ll land here. It’s also where your host repo gets mounted (-v "$PWD":/work).
+WORKDIR /work
+
+# CMD defines the start up commmand - only the last one in the Dockerfile is executed
+CMD ["/bin/bash"]
+```
+
+With that Dockerfile visible I run the following to build the image. 
+
+``` 
+docker build -t student-runner . 
+```
+
+I can then see it in a list when I run the following. 
+
+``` 
+docker images
+```
+
+
+From the student repo I run: 
+``` 
+docker run --rm -it \
+  -u "$(id -u)":"$(id -g)" \
+  -v "$PWD":/work -w /work \
+  --cpus=2 --memory=2g --pids-limit=512 \
+  student-runner
+```
+ 
+...and that drops me into a command prompt with access to everything. 
+
+
+# First problem
+
+Within Docker, I don't have the .git_credentials file I'm used to using: 
+
+```
+I have NO name!@8e3781802994:/work/AS$ git pull
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint:
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint:
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --NO-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Username for 'https://gitlab.cim.rhul.ac.uk':
+```
+
+...but also I don't want credentials within the image. I understand that the way of handling this is to do one Docker run that includes the credentials file (below) to do the git pulls, and then another invocation without those files (and indeed possibly without network access) to actually execute the code. 
+
+
+```
+docker run --rm -it \
+  -u "$(id -u)":"$(id -g)" \
+  -e HOME=/home/runner \
+  -v "$HOME/.gitconfig":/home/runner/.gitconfig:ro \
+  -v "$HOME/.git-credentials":/home/runner/.git-credentials:ro \
+  -v "$PWD":/work -w /work \
+  student-runner
+
+```
+
+That's enough for my purposes this far in the project cycle (the students are reading papers and haven't started code in earnest yet). Later on I'll have to do lots of modifications to cope with various websites and servers and VMs-within-VMs and the list.  I'll add those as I go. 
+
+I definitely think I'm only scratching the surface of what I should do here. 
+
+# TODO 
+* look into running this on my tower PC rather than my laptop - there's a decent amount of CPU power needed. 
+* look into how I might be able to use some of this within the context of eQuality Time projects - particularly in terms of hosting projects.  
+* I've belatedly realised that if I'm going to have different docker runs for doing the git admin and the execution, then I could  do the git admin outside of Docker entirely. 
+
+
+
+
+
+
+
+

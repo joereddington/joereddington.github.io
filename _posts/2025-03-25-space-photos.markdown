@@ -15,7 +15,7 @@ This is Mars:
 
 ![Mars](/assets/images/Mars.png)    
 
-Taken with my Nikon D7000 via a T-mount and [this telescope](https://www.darkskytelescopehire.co.uk/telescopes-for-hire/200mm-revelation-dobsonian-reflector-telescope) that I hired from the excellent Dark Sky Telescope Hire (It seems also be called a Classic 200P Dobsonian). 
+Taken with my Nikon D7000 via a T-mount and [this telescope](https://www.darkskytelescopehire.co.uk/telescopes-for-hire/200mm-revelation-dobsonian-reflector-telescope) that I hired from the excellent Dark Sky Telescope Hire (It seems to be called a Classic 200P Dobsonian). 
 
 I've learned quite a lot about telescopes and the movements of planets (and that the ISS is very fast) from this adventure. 
 

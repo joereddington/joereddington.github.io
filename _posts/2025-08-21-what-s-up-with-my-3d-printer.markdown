@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "What's up with my 3d printer?"
+title: "What's up with my 3D printer?"
 date: "Thu Aug 21 15:05:22 +0100 2025"
 ---
-
 
 In May 2025 I got a 3d printer. This page lists everything I know about it and ongoing things I'm trying to solve.  It's the page I send people as background when I am having problems. 
 
@@ -11,7 +10,7 @@ The printer is second-hand, gifted by a lovely friend. It's a BCN3D Sigma from 2
 
 ![](/assets/images/sigmar17.png)
 
-The above image suggests I had a stock  r17. The firmware and the kit that came with the printer suggests that it has been upgraded to an r19 model and it has track marks on both sides of the filament after it went through the extruder, which seems to be the tell-tail sign. This matches what I was told when I was given the printer.  This page seems useful on the upgrade topic: https://support.bcn3d.com/knowledge/upgrade-bcn3d-sigma
+The above image suggests I had a stock  r17. The firmware and the kit that came with the printer suggests that it has been upgraded to an r19 model and it has track marks on both sides of the filament after it went through the extruder, which seems to be the tell-tale sign. This matches what I was told when I was given the printer.  This page seems useful on the upgrade topic: https://support.bcn3d.com/knowledge/upgrade-bcn3d-sigma
 
 Since getting it in about May 2025 I have printed the classics...
 

@@ -14,12 +14,12 @@ This week I'm grateful for:
 
 * a lovely walk in the woods with Kat  
 * my boss being cool when I arrive late and leave early from an important thing
-* nice chat's with Yvonne  
-* a lovely day in the garage - I sharped things, sanded things, put architraves up and generally had a nice potter.
+* nice chats with Yvonne  
+* a lovely day in the garage - I sharpened things, sanded things, put architraves up and generally had a nice potter.
 * a bit more time reading than the last few weeks. 
 * breakfast in bed 
 * everybody who volunteered photos for my social media project. 
-* the, like, eight people that ran easter activities in their house for my kids last weekend. There were water fights and Easter egg hunts, negotiation over chocolate, and baking of more chocolate. It was very idyllic. 
+* the, like, eight people that ran Easter activities in their house for my kids last weekend. There were water fights and Easter egg hunts, negotiation over chocolate, and baking of more chocolate. It was very idyllic. 
 * nice chats with students 
 * Leo and Nova both graduating to older gymnastics classes 
 

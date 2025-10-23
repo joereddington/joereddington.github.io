@@ -13,7 +13,7 @@ Now…
 
 Students, whatever you might think, don’t like emailing you for information: they do so only when they can’t find the answer in _a place they trust_. Every email you get that asks a question that a student can find in the documentation tells you two things:
 
- *  that the documentation is isn't good enough 
+ *  that the documentation isn't good enough 
  *  that this issue is important to the students.
 
 However, it’s also annoying to give a serious, thorough answer to a question you have answered four times.
@@ -33,5 +33,5 @@ After a few iterations you have a document that:
 * means students with the same issue get an answer immediately
 
 
-IY3501 has had an 'Asked Questions' document for two years. It's nothing fancy - it's literally a Word document on OneDrive. The first year it had 18 entires, the second year I added only four. I'm not expecting to add many next year. Obviously, you have to review the document at the start of each teaching term to check that things don't need to be updated.
+IY3501 has had an 'Asked Questions' document for two years. It's nothing fancy - it's literally a Word document on OneDrive. The first year it had 18 entries, the second year I added only four. I'm not expecting to add many next year. Obviously, you have to review the document at the start of each teaching term to check that things don't need to be updated.
 

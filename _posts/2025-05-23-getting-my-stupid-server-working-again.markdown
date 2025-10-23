@@ -4,11 +4,11 @@ title: "Getting my stupid server working again."
 date: "Fri May 23 09:26:10 +0100 2025"
 ---
 
-This is a stream-of-conciousness set of notes for next time I have to do this job. Completely lacking interest to anyone unless you are googling the exact same errors I had...  
+This is a stream-of-consciousness set of notes for next time I have to do this job. Completely lacking interest to anyone unless you are googling the exact same errors I had...  
 
 The website and IMPS writing platform for White Water Writers (https://www.whitewaterwriters.com/) is hosted on an EC2 instance.
 
-To save money over the winter I paused the instance and switched the website over to Github Pages. I now need to get it up and running again for a camp next week.  
+To save money over the winter I paused the instance and switched the website over to GitHub Pages. I now need to get it up and running again for a camp next week.  
 
 I rebooted the EC2 instance and  edited the A record in Route 53 to point to the correct IP address (13.40.0.39) and removed the CNAME record that github wanted.  I can now ssh into the server with `ssh www' rather than the more complex 
 
@@ -110,9 +110,9 @@ ps -eo pid,comm,user,%cpu,%mem,cmd --sort=-%cpu | grep python
 [ec2-user@ip-172-31-26-130 ~]$ 
 ```
 
-In particuarly the updating of books is a problem. 
+In particuar, the updating of books is a problem. 
 
-I kill those proceses and update manually.  Update_books.py does indeed take a long time. Currently (I've never needed to optimise for time before) whenever it updates a book it loads a database containing _every single previous book_ into memory, updates a book, and then saves it again.  It does that process for every book in the 'current books' list and it runs through the current books list every five minutes. 
+I kill those processes and update manually.  Update_books.py does indeed take a long time. Currently (I've never needed to optimise for time before) whenever it updates a book it loads a database containing _every single previous book_ into memory, updates a book, and then saves it again.  It does that process for every book in the 'current books' list and it runs through the current books list every five minutes. 
 
 I fixed the more obvious problems with that and commited the code (on production, which I'm a little worried about) 
 

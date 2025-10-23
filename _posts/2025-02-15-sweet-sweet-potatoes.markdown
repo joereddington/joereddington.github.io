@@ -23,7 +23,7 @@ I gave them 40 minutes keeping their temp between about 60 and 72 (this is incre
 
 (The control sweet potato is on the right, the test one on the left) 
 
-I assumed the experiment has failed, so I threw them into the baking oven for 20 minutes anyway so I could eat the evidence, but when I pulled them out they were literally leaking syrup: 
+I assumed the experiment had failed, so I threw them into the baking oven for 20 minutes anyway so I could eat the evidence, but when I pulled them out they were literally leaking syrup: 
 
 ![A fork with some cooked sugar on it](/assets/images/sweetpot4.png)
 

@@ -6,7 +6,7 @@ date: "Sat Jun 21 15:23:02 +0100 2025"
 
 <p>The Major System is a mnemonic device for converting numbers into memorable words. This trainer is designed to help you improve your speed and accuracy at decoding words into their numeric equivalents using the system.</p>
 
-I talk about it a lot in my book [Advanced Memory Palaces](https://www.amazon.co.uk/Joe-Reddington/dp/B09GJFZ6JM).  I (and Darren Brown - I originally found it in Brown's book _Trick of the Mind_) use the following lookup table:
+I talk about it a lot in my book [Advanced Memory Palaces](https://www.amazon.co.uk/Joe-Reddington/dp/B09GJFZ6JM).  I (and Derren Brown - I originally found it in Brown's book _Trick of the Mind_) use the following lookup table:
 
 | Letter    | Number | Explanation                                                |
 |-----------|--------|------------------------------------------------------------|

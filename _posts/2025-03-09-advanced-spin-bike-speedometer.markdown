@@ -9,7 +9,7 @@ There are four linked posts in this set:
 * [The actual setup of the bike and gaming equipment](https://joereddington.com/2023/02/28/bike.html)
 * [Problems with Cadence Sensors](https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html)
 * Making a much more effective speed/cadence sensor(this post)
-* [Using the sensor as a input for video games](https://joereddington.com/2024/06/10/bike.html)
+* [Using the sensor as an input for video games](https://joereddington.com/2024/06/10/bike.html)
 
 
 A consumer bike speed detector knows when a wheel has made a complete rotation and it will use Bluetooth to send that information. If you stop (or start) suddenly, the controller for the sensors can be _sure_ you have stopped about three seconds later.² My notes (and complaints) on working with a consumer sensor are [here](https://joereddington.com/2024/06/10/bike.html). 
@@ -45,7 +45,7 @@ I had to learn (and re-learn) an awful lot for this project. Before I started I 
 
 
 ## Equipment
-* Wood, glue, saw to the make the housing 
+* Wood, glue, and saw to make the housing 
 * Wires
 * Either crimping kit or soldering iron 
 
@@ -58,7 +58,7 @@ I considered two designs:
 
 However, [some guy online](https://electronics.stackexchange.com/a/740571/308352) suggested I use an optical sensor because my flywheel has eight coloured segments. 
 
-I did a proof of concept test with a photoresistor. It worked well enough that I was willing to buy an some of [these IR sensors](https://www.amazon.co.uk/dp/B07L3NRTF7?ref=ppx_yo2ov_dt_b_fed_asin_title), because I understood they would be a bit more accurate and effective.   
+I did a proof of concept test with a photoresistor. It worked well enough that I was willing to buy some of [these IR sensors](https://www.amazon.co.uk/dp/B07L3NRTF7?ref=ppx_yo2ov_dt_b_fed_asin_title), because I understood they would be a bit more accurate and effective.   
 
 ![First attempt with breadboard](/assets/images/arduino1.png)
 
@@ -94,14 +94,14 @@ I'm really impressed with how professional it ended up looking:
 
 <!--
 ## The original speedometer
-The spin bike came with a very basic speedometer attached, and I took a look at it to check I was benchmarking correctly. I found that when I sent pulses to the sensor with the Arduino I could manipulate the speedometer fairly easily. For every pulse in a second, the speedometer would register 10.5 on the speed measurement. I went on to use the speed calculation information when I wanted to display kilometers per hour and total kilometers.  
+The spin bike came with a very basic speedometer attached, and I took a look at it to check I was benchmarking correctly. I found that when I sent pulses to the sensor with the Arduino I could manipulate the speedometer fairly easily. For every pulse in a second, the speedometer would register 10.5 on the speed measurement. I went on to use the speed calculation information when I wanted to display kilometres per hour and total kilometres.  
 
 ![kk](/assets/images/speedooriginalmonitor.png)
 
 --> 
 
 # Version 3 
-* I wrote a diagnosing program for the sensor that gave me information on things like 'If I clock this as high as possible, how many times does the sensor read the same segment when I pedal as fast as I can" (16 - which means that I could certainly have a lot more segments), and "how should I change the threshold on the sensor to make sure there aren't false readings". (don't bother). 
+* I wrote a diagnostic program for the sensor that gave me information on things like 'If I clock this as high as possible, how many times does the sensor read the same segment when I pedal as fast as I can" (16 - which means that I could certainly have a lot more segments), and "how should I change the threshold on the sensor to make sure there aren't false readings". (don't bother). 
 * I also fine-tuned things like the gear ratio. 
 * Most importantly I switched the Arduino Uno for a Leonardo. The Leonardo can emulate a keyboard and so it was suddenly super easy to use this as a game controller.  But all of that belongs on a different post. 
 * I put the code under version control. 
@@ -119,7 +119,7 @@ The spin bike came with a very basic speedometer attached, and I took a look at 
 
 # Version after that. 
 
-* Increasing the number of segments on the flywheel - I currently get about 2.5 readings in a segment when pedaling quickly and that means there is some wriggle room. 
+* Increasing the number of segments on the flywheel - I currently get about 2.5 readings in a segment when pedalling quickly and that means there is some wriggle room. 
 
 
 ⁰ I've actually got a set of suitable magnets so I might do a test another day.
