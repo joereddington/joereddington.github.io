@@ -4,13 +4,13 @@ title: "CASPER: Improvements to Attendance Tracking"
 
 ## tl;dr
 
-By adding three questions to an online form, we improve the accuracy and usefulness of student attendance tracking. I piloted it in one module during Spring 2024 and implemented it properly in two modules in Autumn 2024.
+By adding three questions to an online form, we improve the accuracy and usefulness of student attendance tracking. I piloted it in one module during Spring 2024, implemented it properly in two modules in Autumn 2024, and then implemented it _much_ more properly in Autumn 2025. 
 
 ## The problem
 
 When I was an undergraduate, I would sign the names of friends on the paper attendance forms that were passed around. Periodically, I might ask them to do the same if I had a drastic emergency such as wanting to play a video game. 
 
-This tradition has continued to today and has survived the transition to digital: the official attendance for a random lecture in 23-24 was 181; I have never counted more than 50 humans in the room. 
+This tradition has continued to today and has survived the transition to digital: the official attendance for a random lecture in 23-24 was 181; I had never counted more than 50 humans in the room. 
 
 I require a new attendance tracking system that: 
 
@@ -28,6 +28,8 @@ It turns out that we can solve almost all the security problems with a QR code b
 2. How many people are sitting to your right?
 3. How many rows are in front of you?
 
+(Actually as the lecture size increases you also need some sophisticated error correction code under the hood). 
+
 Here's a screenshot of the form I used: 
 
 ![An example of the form](/assets/images/attendenceform.png)
@@ -39,7 +41,8 @@ This makes it easy to:
 - Identify people who are in the lecture but forgot to sign in (because they appear in the counts of everybody else in the row)
 - Identify people who aren’t in the lecture but have filled out the online form anyway (because a friend has sent them the QR code or link)  
 
-Let's look at an example. Let's say I have the following data for row 3: 
+
+For example, let's say I have the following data for row 3: 
 
 | Name      | 3 | Sitting Left  | Sitting Right | Sum     |
 |-----------|---|----------|------------|---------|
@@ -71,10 +74,8 @@ There is a missing person between Muffin and Lucky! It turns out Socks forgot to
 
 With these three simple questions, we completely fix accuracy problems in attendance tracking.
 
-
 # Proving a negative
 Occasionally a student will claim they have been at every lecture but forgot to sign in (examples might be during disciplinary action, following a student complaint about quality of teaching, or during coursework feedback). With my system, students that have forgotten to sign in are immediately obvious (you can literally say “Mr Heeler, I don’t think you have signed in” after glancing at the map) and it’s possible to show for most lectures that there was nobody who forgot to sign in because the number of students on a row matches the total of the row.
-
 
 ## Beneficial Effects
 There are several beneficial effects:
@@ -115,12 +116,14 @@ That took under two minutes minutes but it was clear to everybody in the room th
 
 ...and that sort of full review only needs to be done a once or twice before a culture is clearly established.   This particular example was in the second lecture I gave, and future maps in both my and other lecture's classes were extremely clean. 
 
-## Future work
-* I'd like to get the code to work on a proper sever so that the I could see the map being built up in real time as the students filled in their answers. That would tighten up the feedback loop considerably. I'd also like the interface with Moodle to be much more clean and automatic.   
-* The mapping code doesn't properly account for late people - if someone arrives _after_ everybody has counted then there should be a system to correctly insert them into the map.     
+# Notes in the 25-26 academic year. 
+My group size has increased from around 40 when I first implemented CASPER to about 85 now.  That's actually enough that STEM students can struggle(!) to count the number of people on their row. I've had to put in some quite complex code to separate out off-by-one-errors and other mistakes (like left-right confusion) from genuine issues.    On the other hand I've also very much upgraded the interface with university systems so it's a lot faster to update central systems. 
 
-## Random Extra Tips
-The current version of the Excel Script mapping code is in [this Github repo](https://github.com/joereddington/casper) 
+## Future work
+There are a few next steps: 
+* The output is currently very ascii-art - I'd like to give it a bit of a Javascript front-end so I can do various realtime fixes. 
+* I have a student working on rotating QR codes; that would be a nice addition (I don't think it would help at all, but it does charge up the theatre of it all) 
+* I've not got around to working on late arrivals simply because it doesn't often happen in the way that you would expect.
 
 ## Acknowledgements
 
