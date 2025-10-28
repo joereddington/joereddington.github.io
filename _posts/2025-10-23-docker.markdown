@@ -98,10 +98,12 @@ That's enough for my purposes this far in the project cycle (the students are re
 
 I definitely think I'm only scratching the surface of what I should do here. 
 
+# Updates
+* Runs extremely smoothly on my Linux Tower without any changes
+
 # TODO 
-* look into running this on my tower PC rather than my laptop - there's a decent amount of CPU power needed. 
 * look into how I might be able to use some of this within the context of eQuality Time projects - particularly in terms of hosting projects.  
-* I've belatedly realised that if I'm going to have different docker runs for doing the git admin and the execution, then I could  do the git admin outside of Docker entirely. 
+* I've belatedly realised that if I'm going to have different docker runs for doing the git admin and the execution, then I could  do the git admin outside of Docker entirely, so I don't need the fancy scripts.
 
 
 
