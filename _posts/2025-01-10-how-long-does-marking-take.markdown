@@ -2,6 +2,8 @@
 layout: post
 title: "How long does marking take?"
 date: "Fri Jan 10 16:40:51 +0000 2025"
+tags:
+- teaching
 ---
 
 It's an interactive one!  The default values are the last course I taught and my personal circumstances (I can barely read a menu after two hours reading essays) 

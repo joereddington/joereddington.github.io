@@ -2,6 +2,8 @@
 layout: post  
 title: "Q and A Lectures"  
 date: "Tue Nov 12 17:47:16 +0000 2024"  
+tags:
+- teaching
 ---
 
 I believe that lectures are better with student interaction and that any way that we can get students to control the flow and rhythms of the experience are worthwhile. 

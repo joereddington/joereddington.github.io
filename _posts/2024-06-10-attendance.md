@@ -1,5 +1,7 @@
 ---
 title: "CASPER: Improvements to Attendance Tracking"
+tags:
+- teaching
 ---
 
 ## tl;dr

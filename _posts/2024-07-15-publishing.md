@@ -1,5 +1,7 @@
 ---
 title: Publishing. Again. 
+tags:
+- teaching
 ---
 ![My laptop on a desk](/assets/images/booksinlibrary.png)
 

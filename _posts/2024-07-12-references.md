@@ -1,5 +1,7 @@
 ---
 title: References
+tags:
+- teaching
 ---
 
 At the end of an academic year, students often ask me to write them a reference. Sometimes I have never met them.  

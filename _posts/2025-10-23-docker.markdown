@@ -2,6 +2,8 @@
 layout: post
 title: "Docker"
 date: "Thu Oct 23 10:47:19 +0100 2025"
+tags:
+- teaching
 ---
 
 About a decade after everybody else I'm trying out Docker to see if it's useful for things like 'executing code written by Cyber Security students on my laptop'. I'm using this post as a place to put my notes as I learn more about it. 
