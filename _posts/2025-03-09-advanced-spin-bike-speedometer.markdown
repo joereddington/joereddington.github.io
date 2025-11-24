@@ -2,6 +2,8 @@
 layout: post
 title: "My Bike Speedometer is 60 times more accurate than yours"
 date: "Sun Mar 09 14:15:11 +0000 2025"
+tags: 
+ - bike
 ---
 
 There are four linked posts in this set: 

@@ -2,6 +2,8 @@
 layout: post
 title: "Examining Bluetooth Cadence Sensor"
 date: "Mon Jul 31 07:01:42 +0000 2024"
+tags: 
+ - bike
 ---
 
 

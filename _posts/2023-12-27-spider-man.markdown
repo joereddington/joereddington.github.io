@@ -2,6 +2,8 @@
 layout: post
 title: "Spider-Man"
 date: "Wed Dec 27 15:12:58 +0000 2023"
+tags: 
+ - bike
 ---
 
 ![The end credits of Spider-Man on PS4](/assets/images/spidermancredits.png)
