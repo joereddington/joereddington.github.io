@@ -8,6 +8,9 @@ tags:
 
 By adding three questions to an online form, we improve the accuracy and usefulness of student attendance tracking. I piloted it in one module during Spring 2024, implemented it properly in two modules in Autumn 2024, and then implemented it _much_ more properly in Autumn 2025. 
 
+# 2026 EDIT
+The content below is quite dated - CASPER has been almost completely rewritten every year to include increasingly sophisticated error-correction code (the basic system below only _really_ functions up to about 140 students in the room), along with improvements to UI and speed.  In general I should rewrite the whole post but I'm currently Googling "Can you die from marking too much?".   
+
 ## The problem
 
 When I was an undergraduate, I would sign the names of friends on the paper attendance forms that were passed around. Periodically, I might ask them to do the same if I had a drastic emergency such as wanting to play a video game. 
@@ -77,7 +80,7 @@ There is a missing person between Muffin and Lucky! It turns out Socks forgot to
 With these three simple questions, we completely fix accuracy problems in attendance tracking.
 
 # Proving a negative
-Occasionally a student will claim they have been at every lecture but forgot to sign in (examples might be during disciplinary action, following a student complaint about quality of teaching, or during coursework feedback). With my system, students that have forgotten to sign in are immediately obvious (you can literally say “Mr Heeler, I don’t think you have signed in” after glancing at the map) and it’s possible to show for most lectures that there was nobody who forgot to sign in because the number of students on a row matches the total of the row.
+Occasionally a student will claim they have been at every lecture but forgot to sign in (examples might be during disciplinary action, following a student complaint about quality of teaching, or during coursework feedback). With my system, students that have forgotten to sign in are immediately obvious (you can literally say “Mr Heeler, I don’t think you have signed in” after glancing at the map) and it’s possible to show for most lectures that there was nobody who forgot to sign in because the number of students on a row matches the total of the row (in essence, every student in the row is validating every other student in the row).
 
 ## Beneficial Effects
 There are several beneficial effects:
