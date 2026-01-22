@@ -4,52 +4,20 @@ tags:
 - teaching
 ---
 
-## tl;dr
+CASPER is a Python program I use for attendance tracking in lectures. It is quick, accurate, and secure. 
 
-By adding three questions to an online form, we improve the accuracy and usefulness of student attendance tracking. I piloted it in one module during Spring 2024, implemented it properly in two modules in Autumn 2024, and then implemented it _much_ more properly in Autumn 2025. 
-
-# 2026 EDIT
-The content below is quite dated - CASPER has been almost completely rewritten every year to include increasingly sophisticated error-correction code (the basic system below only _really_ functions up to about 140 students in the room), along with improvements to UI and speed.  In general I should rewrite the whole post but I'm currently Googling "Can you die from marking too much?".   
-
-## The problem
-
-When I was an undergraduate, I would sign the names of friends on the paper attendance forms that were passed around. Periodically, I might ask them to do the same if I had a drastic emergency such as wanting to play a video game. 
-
-This tradition has continued to today and has survived the transition to digital: the official attendance for a random lecture in 23-24 was 181; I had never counted more than 50 humans in the room. 
-
-I require a new attendance tracking system that: 
-
-* takes less than 60 seconds for students to mark themselves 'in'
-* requires little additional work from me (once implemented: there can be a fair amount of work while I'm building it)  
-* secure: it should only track students _actually_ in the lecture room 
-
-Most systems aren't effective: signing in with Moodle is not fit for purpose, paper registers are a lot of work for me and don’t stop people signing friends in, and QR codes are fast and easy, but again, don’t stop the students sharing the link in group chats and so on. 
-
-
-## My Solution
-It turns out that we can solve almost all the security problems with a QR code by asking three additional questions:
+During a lecture I show the students a QR code that contains a link to a form. The form asks:
 
 1. How many people are sitting to your left?
 2. How many people are sitting to your right?
 3. How many rows are in front of you?
 
-(Actually as the lecture size increases you also need some sophisticated error correction code under the hood). 
+...which is sufficient information for CASPER to build a map of the lecture room and note any anomalous results.  
 
-Here's a screenshot of the form I used: 
+# A Worked Example
+Consider the following data for row 3 of a fictional lecture: 
 
-![An example of the form](/assets/images/attendenceform.png)
-
-These questions are easy and fast (students take an average of 58 seconds over the last 1,000 responses), and they give enough information for my code to produce a map of where each student is sitting. 
-
-This makes it easy to:
-
-- Identify people who are in the lecture but forgot to sign in (because they appear in the counts of everybody else in the row)
-- Identify people who aren’t in the lecture but have filled out the online form anyway (because a friend has sent them the QR code or link)  
-
-
-For example, let's say I have the following data for row 3: 
-
-| Name      | 3 | Sitting Left  | Sitting Right | Sum     |
+| Name      | Row | Sitting Left  | Sitting Right | Total     |
 |-----------|---|----------|------------|---------|
 | Bluey     | 3 | 0        | 10         | 10      |
 | Bingo     | 3 | 1        | 9          | 10      |
@@ -63,55 +31,33 @@ For example, let's say I have the following data for row 3:
 | Chilli    | 3 | 3        | 7          | 10      |
 | Chloe     | 3 | 9        | 1          | 10      |
 
-Ten students have filled in the form, and if I look up from my notes I would see ten students in the room. 
+Ten students have filled in the form, and if I look up from my notes I would see ten students in the row. 
 
-However, Peppa has put in radically different numbers from the others and when I look up I probably won't see her. 
+However, Peppa has put in strange numbers! When I look up to check, I don't see their in the row... 
 
-
-Now let's look at the map: 
+Now let's sort the students (In this example it doesn't matter if we sort by 'sitting left' or 'sitting right')  
 
 | Seat 0 | Seat 1 | Seat 2 | Seat 3 | Seat 4 | Seat 5 | Seat 6 | Seat 7 | Seat 8 | Seat 9 | Seat 10 |
 | - | - | - | - | - | - | - | - | - | - | - |
 | Bluey | Bingo | Bandit | Chilli | Muffin | NOT FOUND | Lucky | Rusty | Mackenzie | Chloe | Coco |
 
-There is a missing person between Muffin and Lucky! It turns out Socks forgot to fill out her form (in practice, it normally turns out that someone brought their partner to the lecture).¹
+There is a missing person between Muffin and Lucky. It turns out Socks forgot to fill out their form (in practice, it normally turns out that someone brought their partner to the lecture).⁰
 
+# A real example
+This example was the second time that this group of students had used CASPER¹. I have replaced student names with fake ones but the actual numbers are as entered. 
 
-With these three simple questions, we completely fix accuracy problems in attendance tracking.
-
-# Proving a negative
-Occasionally a student will claim they have been at every lecture but forgot to sign in (examples might be during disciplinary action, following a student complaint about quality of teaching, or during coursework feedback). With my system, students that have forgotten to sign in are immediately obvious (you can literally say “Mr Heeler, I don’t think you have signed in” after glancing at the map) and it’s possible to show for most lectures that there was nobody who forgot to sign in because the number of students on a row matches the total of the row (in essence, every student in the row is validating every other student in the row).
-
-## Beneficial Effects
-There are several beneficial effects:
-
-1. During the pilot, once the students understood the system of attendance, the number of students in the room increased from 45 at the start of the course to consistently 50 or above during February, making this a rare case of a module where the attendance increases during the term.⁰  During the more serious implementation I maintained a much higher (real) percentage of student attendance than other (spot-checked) lectures. 
-2. The objective was to be able to find out which students were attending lectures so that I could tell (along with other sources of information) which groups of students were disengaging from the lectures. I was able to analyze the information and find several groups that I needed to contact, and I’ve put appropriate measures in place.  
-3. It's nice to contextualise emails from students: a regularly attending student might get a different response from a continually absent one (even if that's "This is a short version of the answer, come and see me after the lecture if it is unclear")  
-4. The most useful feature is this: you can have a laptop open in the lecture that shows a complete map with the names of the students where they are sitting. Suddenly it’s much easier to say “Okay, I’ll take the question from Stripe, and then the one from Nana” or “Muffin, do you have something you need to share?”
-
-
-# Real Examples 
-This is an example of the mapping code running on a set of fake data.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sb5s4rVPAe4?si=HfdSIhtJzPIg8rWp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-## How I run the session 
-In this example I showed the QR code for CASPER about 40 minutes² into a two-hour lecture, and go on with the lecture.  
-
-The next time the students had a small bit of thinking time I pressed the 'go' button on my laptop and got a map like this (this is a real map, but I have replaced all the student names): 
+After the students fill in their forms I press the 'go' button on my laptop and got a map like this (again, it's a real map with replaced names): 
 
 ![Example of a map](/assets/images/examplecasper2.png)
 
-(note that because the approach counts students rather than seats, the map shows everybody clumped up to one side) 
+The version of CASPER shown above is the prototype - it is now a much more user-friendly Python implementation.  You can see that because we are counting students rather than seats, everybody ends up clumped to one side. 
 
-With the map above I asked the following questions: 
+I looked at the map and asked the students the following questions: 
 
 * Is Betty Ross here? (I could see the front row, and it was empty: Betty Ross wasn't present) 
-* Is Happy Hogan here? (He had put himself in the wrong row; he is the missing person at the end of row eight)
+* Is Happy Hogan here? (He had put himself in the wrong row; they is the missing person at the end of row eight)
 * T'Challa and Sharon Carter where are you? Are you sitting on top of each other? (T'Challa had counted wrong, and should have been on the other side of Scott Lang)   
-* Justin Hammer - who is sitting to your left? (His friend was attending the lecture with them and didn't think she should have filled out the form)   
+* Justin Hammer - who is sitting to your left? (His friend was attending the lecture with them and didn't think they should have filled out the form)   
 
 That took under two minutes minutes but it was clear to everybody in the room that: 
 
@@ -119,23 +65,42 @@ That took under two minutes minutes but it was clear to everybody in the room th
 * I can detect unexpected people
 * I can detect errors or attacks quickly.  
 
-...and that sort of full review only needs to be done a once or twice before a culture is clearly established.   This particular example was in the second lecture I gave, and future maps in both my and other lecture's classes were extremely clean. 
+...and that sort of full review  (four questions!) only needs to be done a once or twice before a culture is clearly established. This particular example also predates changes I've made both to the student forms (students are more accurate now) and the code (there is much stronger error correcting code in place: Happy Hogan would have been placed correctly, as would T'Challa and Sharon Carter)   
 
-# Notes in the 25-26 academic year. 
-My group size has increased from around 40 when I first implemented CASPER to about 85 now.  That's actually enough that STEM students can struggle(!) to count the number of people on their row. I've had to put in some quite complex code to separate out off-by-one-errors and other mistakes (like left-right confusion) from genuine issues.    On the other hand I've also very much upgraded the interface with university systems so it's a lot faster to update central systems. 
+# Scaling 
+Students make mistakes (particularly early on). It turns out that the number of students that miscount (either the students on the row or the row itself) doesn't rise linearly with the total number of students: 40 students in a room will make 4 mistakes, but 80 students in a room will make 16 mistakes. There is a certain threshold of mistakes beyond which it is hard to be _certain_ about who is in the room (although you can still be a lot more certain than most other methods of attendance taking) because the structure breaks down.
 
-## Future work
-There are a few next steps: 
-* The output is currently very ascii-art - I'd like to give it a bit of a Javascript front-end so I can do various realtime fixes. 
-* I have a student working on rotating QR codes; that would be a nice addition (I don't think it would help at all, but it does charge up the theatre of it all) 
-* I've not got around to working on late arrivals simply because it doesn't often happen in the way that you would expect.
+CASPER compensates for this with various types of error detection and correction. As the modules have grown in size I've increased the sophistication of the algorithms, but how well they continue to function as numbers' rise is an open question. 
+
+# History
+CASPER was piloted casually in Spring 2024 and implemented fully in two modules in Autumn 2024. It was converted to Python for the Autumn 2025 term for a module with 170 students and during that term it was significantly upgraded.  It is currently (Spring 2026) being used in a 270 student module.  
+
+# Future Plans 
+* Most of the plans for this iteration focus on improving flexibility in terms of rooms (simply because I'm teaching in more of them and it's also a source of technical debt). 
+* The long term plans would be to move off the command line (but I love it!) and onto the Web. The initial steps of that are quite simple and I may do them this iteration. 
+* I am debating adding code to change the QR code every few seconds. I have a project student working on a similar system and it's been used reasonably successfully elsewhere (See the references below), but it wouldn't add anything to the security. It would however, look _cool_.   
+* I will be watching scaling carefully 
+
+
+# Discussion 
+The main objective is to be able to find out which students are attending lectures so that I can tell (along with other sources of information) which groups of students were disengaging from the lectures. We have had several successes in terms of being able to check in with particular groups and make changes to accommodate them.
+
+When framed as the above, CASPER is very popular with a predicable group of the students (the ones in the lecture), but very unpopular with a different predicable group of students. 
+
+###  Proving a negative
+A unexpected benefit is that you can prove _absence_. Occasionally a student will claim they have been at every lecture but forgot to sign in (examples might be: during disciplinary action; following a student complaint about quality of teaching; or during coursework feedback). With this system, students that have forgotten to sign in are immediately obvious (you can literally say “Mr Heeler, I don’t think you have signed in” after glancing at the map) and it’s possible to show for most lectures that there was nobody who forgot to sign in because the number of students on a row matches the total of the row (in essence, every student in the row is validating every other student in the row).
+
+
+### Benefits
+It's also nice to contextualise emails from students: a regularly attending student might get a different response from a continually absent one (In the sense of I can point them in the direction of the lecture recording, or make a note that something should be covered more in the materials and less orally). 
 
 ## Acknowledgements
 
-This work was made possible by guidance from Professor Peter Komisarczuk, my academic mentor, and Professor Adrian Johnstone, who provided a historical view. Angelina Bianchi provided wonderfully detailed answers to my queries, and the admin staff at EMPS put up with my continuing strange questions.
+This work was made possible by guidance from Professor Peter Komisarczuk, my academic mentor, and Professor Adrian Johnstone, who provided a historical view. Angelina Bianchi provided wonderfully detailed answers to my queries, and the admin staff at EMPS put up with my continuing strange questions. 
 
-⁰ In a recent presentation I also claimed that the increase in attendance was due to me making my lectures very interactive so I probably need to get a bit more evidence for that... 
 
-¹ Worst. Date. Ever.
+# References
+Mohammed, M.S. and Zidan, K.A., 2023. Enhancing attendance tracking using animated QR codes: a case study. *Indonesian Journal of Electrical Engineering and Computer Science*, 31(3), p.1716.
 
-² As with all such attendance systems, it's unwise to do them close to the start of the lecture.
+Imanullah, M. and Reswan, Y., 2022. Randomized QR-code scanning for a low-cost secured attendance system. *International Journal of Electrical and Computer Engineering*, 12(4), pp.3762-3769.
+
