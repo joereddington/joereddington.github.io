@@ -1,0 +1,33 @@
+---
+layout: post
+title: "zsh history"
+date: "Fri Jan 30 14:10:54 +0000 2026"
+---
+
+I've been learning about command-line history. Here are a few things I learned:
+
+* In zsh, `history` and `fc` both work with the same underlying history system. (`fc` stands for “fix command”) the man page says that fc -l is "same as" history, other sources suggest they are different programs.
+* `sudo !!` (which I knew about from [Explain xkcd](https://www.explainxkcd.com/wiki/index.php/Talk:149:_Sandwich)) isn’t particularly unique — there are also expansions like `!^`, `!$`, and `!#` (I still don’t have good intuition for `!#`).
+* `fc` lets me edit and re-run the last command (or a specific command by number).
+* Typing `fc` with a range of commands feels **dangerous**: it opens a temporary file containing those commands, and when you exit the editor successfully, it executes whatever is in that file. I’ve had a couple of odd results and it might just be me hitting the wrong buttons.
+* There are lots and lots of history-related `setopt`s. Here are the ones I’ve gone with:
+
+```
+# --- History: keep lots, share across sessions, append (don’t clobber) ---
+export HISTFILE="$HOME/.zsh_history"
+export HISTSIZE=1000000
+export SAVEHIST=1000000
+
+setopt APPEND_HISTORY          # append, don’t overwrite
+setopt INC_APPEND_HISTORY      # write to $HISTFILE as commands are entered
+setopt SHARE_HISTORY           # share history across all zsh sessions
+setopt HIST_IGNORE_DUPS        # ignore immediate duplicates
+setopt HIST_IGNORE_SPACE       # commands starting with a space aren't saved
+setopt HIST_REDUCE_BLANKS      # tidy whitespace
+setopt EXTENDED_HISTORY        # record timestamps in history
+setopt HIST_VERIFY             # show history expansion before executing
+
+# Optional: more aggressive de-dupe across sessions
+setopt HIST_SAVE_NO_DUPS
+setopt HIST_EXPIRE_DUPS_FIRST
+```
