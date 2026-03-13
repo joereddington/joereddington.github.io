@@ -98,7 +98,7 @@ vim  # Some testing
 cd
 ```
 
-Remember to add a symbolic link to the .bashrc and .bash_profile
+Remember to add a symbolic link to the .bashrc and .bash_profile (update possibly this is a good time to properly convert to zsh) 
 
 ```bash
 cd
