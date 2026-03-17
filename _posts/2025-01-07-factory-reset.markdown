@@ -208,7 +208,34 @@ git clone https://github.com/fboender/multi-git-status
 * I believe I've fixed the ongoing audio issue
 
 
+
 ## Next time 
 * Put all the ```sudo apt install``` and ```git clone --depth``` commands and put them in a little script in blackbox. Some of them take a while. 
 * Keep a stronger eye on which system config files I edit. 
 * I will remember to set up dual-boot to windows: it was periodically useful to have that option
+
+
+# 2026 version 
+I'm dual booting Windows and Ubuntu this time and so the drives that I'm sharing should be in exFAT. I could copy everything off, reformat, and then copy back, but I thought it would be more interesting to have two partitions and gradually move things over.  I used the following commands: 
+
+sudo umount mvme1n1
+
+...at which point I found out that one can only mount partitions rather than drives. I should have known that.
+
+sudo umount /dev/nvme1n1p1
+
+...I also discovered that the name nvme1n1p1 is broken down into 'nvme1' (given my manufacturer of the drive) 'n1' (assigned at runtime, which is why there was a switch last year) and 'p1' the partition number.  
+
+sudo e2fsck -f /dev/nvme1n1p1
+
+That's the  'e2 filesystem check'
+
+sudo resize2fs /dev/nvme1n1p1 600G
+This resizes the filesystem without changing the partition 
+
+sudo parted /dev/nvme1n1
+'parted' is an interpreter of some sort where you type things to change the partitions. I successfully changed the existing partition down, but I nearly messed up adding one because I thought was defining the size while I was actually defining the start point(!) 
+
+sudo mkfs.exfat /dev/nvme1n1p2
+
+I turn out not to have the suitable commands to format in exFAT 
