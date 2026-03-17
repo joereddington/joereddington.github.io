@@ -17,6 +17,3 @@ Lots of nice things happened recently!
 * Over the last few days I've had two different articles on the front page of Wikipedia. 
 * Most of all, it was Mother's day, so thank you to my wonderful mum, and to Kat for being amazing every day. 
 
-
-
-
