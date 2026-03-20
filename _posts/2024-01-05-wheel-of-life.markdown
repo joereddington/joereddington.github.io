@@ -37,12 +37,12 @@ I'm two and a bit months into the three month period, so let's see how I'm doing
 * Love
   * Partner and Children - 8/10 - Everybody is doing pretty well. We had a good Christmas, Holidays are booked, Kat and I have been finding time to go on little dates. Honestly really good.  
   * Scarisbrick Family - 8/10 - we've had some lovely visits from my parents, but didn't managed to organise one from Richard before 1st Feb. I've been emailing various cousins and so on. 
-  * Friends - 8/10  - I have a general feeling of 'I should see friends more' but we've been a lot more social since the summer, so I think we're definately doing better. I'd like to be so much more organised about this. 
+  * Friends - 8/10  - I have a general feeling of 'I should see friends more' but we've been a lot more social since the summer, so I think we're definitely doing better. I'd like to be so much more organised about this. 
 
 * Adventure
   * TMC - 5/10 - struggling to get anything to work. 
   * Work (EQT) - 4/10 - I'm in the middle of a real run of 'things NOT working'. I remain optimistic, but this needs a change. 
-  * Play - 8.3/10 - I was conflicted about this one because I don't _feel_ that playful, but actually: I'm reading a lot more; watching more challenging films; doing judo; and I fitted in some PS4 time over Christmas.  I'm definately making more use of my leisure time. On the other hand - I'm going to have much less lesuire time over the next year, and I'd like to have done a lot more photography and cookery. 
+  * Play - 8.3/10 - I was conflicted about this one because I don't _feel_ that playful, but actually: I'm reading a lot more; watching more challenging films; doing judo; and I fitted in some PS4 time over Christmas.  I'm definitely making more use of my leisure time. On the other hand - I'm going to have much less leisure time over the next year, and I'd like to have done a lot more photography and cookery. 
   * Work (RHUL)-  I didn't set any goals for this one. 
 
 

@@ -4,9 +4,9 @@ title: "How many sublists?"
 date: "Wed Nov 22 11:55:36 +0000 2023"
 ---
 
-_This was one of those posts were I wrote a long version first; realised that it was full of filler and wrote a much shorter version afterwards.  It also won't make much sense to people who haven't read [my book](https://www.amazon.co.uk/Advanced-Memory-Palaces-second-should/dp/B09GJFZ6JM)_ 
+_This was one of those posts where I wrote a long version first; realised that it was full of filler and wrote a much shorter version afterwards. It also won't make much sense to people who haven't read [my book](https://www.amazon.co.uk/Advanced-Memory-Palaces-second-should/dp/B09GJFZ6JM)._ 
 
-I published a book several years ago and recently I got an nice email full of praise⁰ that had a question.  The person asking the question (We'll call them `Bob') was happy for me to put my answer online.¹
+I published a book several years ago and recently I got a nice email full of praise⁰ that had a question. The person asking the question (we'll call them `Bob`) was happy for me to put my answer online.¹
 
 The question was:
 
@@ -15,18 +15,18 @@ The question was:
 
 The question was related to this situation: Bob had the excellent idea of using the list of Pokemon as their main index² and was wondering how much to categorize.  The natural options are: 
 
-* Every new thing they put into their memory palace is assigned a Pokemon and kept seperate from old stuff.  
-* We create a full hierachy - Bulbasaur leads to a list of 'courses I took at college' and then those lists lead to 'things I want to remember from Cybersecurity' and then those lists are the `payload' lists.   
+* Every new thing they put into their memory palace is assigned a Pokemon and kept separate from old stuff.  
+* We create a full hierarchy - Bulbasaur leads to a list of 'courses I took at college' and then those lists lead to 'things I want to remember from Cybersecurity' and then those lists are the `payload' lists.   
 * Somewhere in-between. 
 
-...and Bob would like to know if there's an restrictions they should be aware of if they choose the first option. 
+...and Bob would like to know if there are any restrictions they should be aware of if they choose the first option. 
 
 In short: there is no limit³ and I'll show you how by stopping you thinking about lists and getting you to think about links. 
 
 'How many nested sublists are possible?' is really the same question as 'how many links am I willing to follow to get to this stuff when I review?'⁸
 
 
-When I review I follow all the links to the end of the Piccadilly line. That's 53 links long, which suggests that I would also be  willing to follow 53 links down through sublists to get where I want to go.  That's a extremely high number of categories and I can't imagine any human needing to go that deep.  
+When I review I follow all the links to the end of the Piccadilly line. That's 53 links long, which suggests that I would also be willing to follow 53 links down through sublists to get where I want to go. That's an extremely high number of categories and I can't imagine any human needing to go that deep.  
 
 That said: I don't think you should do it. I think it's very tempting to spend a long time designing the perfect memory palace but I'm against adding any friction at all to your process. I'd far prefer 
 
@@ -63,5 +63,4 @@ Eventually, when you've got all the way to Abra⁹, you might say to yourself "i
 ⁸ It doesn't matter how far away it is when you use it in everyday life because you'll skip right to the root of that section.
 
 ⁹ Pokemon number 61.
-
 

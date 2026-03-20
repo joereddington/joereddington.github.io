@@ -4,7 +4,7 @@ title: "From email: todo.txt"
 date: "Wed Jan 10 13:22:07 +0000 2024"
 ---
 
-In 2016 I [published my todo list publicly](https://joereddington.com/2016/08/26/my-to-do-list-is-now-public-and-its-the-most-useful-thing-ive-done-in-years/html) and I still get the occasional email about it. This was today's: 
+In 2016 I [published my todo list publicly](https://joereddington.com/2016/08/26/my-to-do-list-is-now-public-and-its-the-most-useful-thing-ive-done-in-years.html) and I still get the occasional email about it. This was today's: 
 
 > I recently came across your todo.txt repository on Github (https://github.com/joereddington/todo.txt). I'm also an enthusiast of the todo.txt format, every time I tried to adopt another framework I ended up returning. Simple is always the most efficient.
 > 
