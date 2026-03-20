@@ -36,7 +36,7 @@ I have some things I'm trying to work out that I don't understand.
 I produced the above two models directly after each other - the black is the left extruder and the white is the right extruder. The white has odd layers that have clearly gone wrong. I'd like to work out why. 
 
 #### Upside down
-When I download stl files they are often in an orientation that matches how the final object will be used, but in a really unsuitable orientation for printing. I can understand why but I'm slightly suprised there isn't a handy file that says 'btw for best strength print it this way up'. I have at least one file that fails repeatedly in the 'correct' orientation but works fine upside down (by which I mean, it fails completely, long before there is any structural reason for it to fail)   
+When I download stl files they are often in an orientation that matches how the final object will be used, but in a really unsuitable orientation for printing. I can understand why but I'm slightly surprised there isn't a handy file that says 'btw for best strength print it this way up'. I have at least one file that fails repeatedly in the 'correct' orientation but works fine upside down (by which I mean, it fails completely, long before there is any structural reason for it to fail)   
 
 ### Some prints work and some don't
 I'm having an odd problem that some prints fail immediately and some don't.  For a while I've been blaming the printer and getting quite frustrated, but it seems like there is something in the software toolchain that is causing problems.  The current behaviour is that some models print really really well (well, sometimes I get one of the issues above) and some fail basically on the first layer. This is what my log looks like after a week of tracking.  
@@ -51,6 +51,31 @@ I'm having an odd problem that some prints fail immediately and some don't.  For
 | 26/8/25 | PS4 holder inverted | [Link](https://www.printables.com/model/345321-dualshock-ps4-controler-under-desk-mount) | Left       | Black  | Success |                                                   |               |
 
 I need a bunch more data to investigate - particularly "Here are ten files that didn't print and ten that did" so I can look at them properly.  
+
+# Grams 
+
+If I slice a print in Statos, I get a time and grams like this: 
+
+![statos1](/assets/images/statos1.png)
+
+but when I move that to the printer the grams read as zero. 
+
+![statos2](/assets/images/statos2.png)
+
+What's happening there? 
+
+
+# Solved problems 
+
+* For a long time one of the print heads was making a funny noise when it tried to move. You can see/hear it making the funny noise [here](https://www.youtube.com/shorts/bfZnrtGzAPY). Eventually it got bad enough that it wasn't working for prints and then it got bad enough that the bed leveling wasn't working. The solution turned out to be 'oil the motor' - although I'm I suspect this is treating the symptom rather than the cause.
+* I had what I thought was a blocked nozzle because nothing was coming out. Actually there was a break in the filament that wasn't passing through the filament feeder. I think in actual fact the issue was that the break had broken 'square' and actually the thing needs to be cut at an angle to pass through. 
+
+
+
+
+
+
+
 
 # Before each print
 
