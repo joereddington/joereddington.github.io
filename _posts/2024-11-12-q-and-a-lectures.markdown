@@ -61,7 +61,11 @@ I did a keynote for the [NMWP unconference](https://newmediawritingprize.co.uk/u
 
 Certainly I'd be confident using the PHP script for a Teams Lecture in future. 
 
-# Foodnotes
+
+# Update for the second years
+in 25/26 I helped out with teaching a larger second year module and we did the process again. This cohort hadn't been warmed up with bingo or indeed, with any lecturing from me. However the exercise (only for one hour in this instance) was a success. I will say the questions tended towards the nontechnical - I don't know if that's because it was the context that the students were looking for or because it's awkward to put your hand up and get a technical thing explained to you. 
+
+# Footnotes
 ⁰ It's _close_ to a flipped lecture, but it's either more or less aggressive depending on definition.
 ² Except me.  
 ⁴ There's an open debate about whether it's better for the students or the staff to set the content, but I think we can all agree we should know what the students _want_.  

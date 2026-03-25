@@ -96,7 +96,7 @@ It's also nice to contextualise emails from students: a regularly attending stud
 
 ## Acknowledgements
 
-This work was made possible by guidance from Professor Peter Komisarczuk, my academic mentor, and Professor Adrian Johnstone, who provided a historical view. Angelina Bianchi provided wonderfully detailed answers to my queries, and the admin staff at EMPS put up with my continuing strange questions. 
+This work was made possible by guidance from Professor Peter Komisarczuk, my academic mentor, and Professor Adrian Johnstone, who provided a historical view. Angelina Bianchi provided wonderfully detailed answers to my queries, and the admin staff at EMPS put up with my continuing strange questions. Many other staff have also assisted with the scaling. 
 
 
 # References
