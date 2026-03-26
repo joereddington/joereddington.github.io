@@ -1,0 +1,39 @@
+---
+layout: post
+title: "WOMBAT"
+date: "Thu Mar 26 12:56:33 +0000 2026"
+---
+
+This year I tried something in IY3501 that I am tentatively calling WOMBAT.
+
+The problem it was meant to address was simple enough. Generative AI makes it much easier for students to produce plausible-looking references that are incomplete, inaccurate, or simply invented. The more subtle problem is that students  assume that staff are too busy to check the references in reports. 
+
+
+Instead of submitting a list of sources at the end of their coursework, students submit a spreadsheet. In practice that file can be CSV, XLSX, Numbers, or BibTeX⁰, but the core idea is the same. For each source, they provide the link and the quotation from that source that supports the way they are using it.
+
+
+Here's an example table I gave the students. It has four columns: reference number, title, URL or DOI, and quote. Here is the same structure in Markdown:
+
+| Ref# | Title | URL/DOI | Quote |
+|---|---|---|---|
+| 1 | ICO – action we’ve taken – BA | https://ico.org.uk/media/action-weve-taken/mpns/2618421/ba-penalty-20201016.pdf | "The compromised account did NOT have multi-factor authentication enabled." |
+| 2 | ICO – action we’ve taken – BA | https://ico.org.uk/media/action-weve-taken/mpns/2618421/ba-penalty-20201016.pdf | "The attacker was able to login as an administrator after finding an administrator password stored in plaintext on the server." |
+| 3 | ICO – action we’ve taken – BA | https://ico.org.uk/media/action-weve-taken/mpns/2618421/ba-penalty-20201016.pdf | "The details of approximately 108,000 payment cards were potentially available to the Attacker." |
+| 4 | A simple fix could have saved British Airways from its £183m fine | https://www.wired.com/story/british-airways-data-breach-gdpr-fine/ | "British Airways’ website used a JavaScript library called Modernizr, which had NOT been updated since 2012." |
+| 5 | A simple fix could have saved British Airways from its £183m fine | https://www.wired.com/story/british-airways-data-breach-gdpr-fine/ | "While inside the network, the attacker redirected customer information to a fake domain, 'baways.com'." |
+| 6 | BA apologizes after 380,000 customers hit in cyber attack | https://www.reuters.com/article/us-iag-cybercrime-british-airways/ba-apologizes-after-380000-customers-hit-in-cyber-attack-idUSKCN1LM2P6 | "BA said the attack affected bookings from Aug. 21 until Sept. 5, and involved around 380,000 payment cards." |
+| 7 | BA apologizes after 380,000 customers hit in cyber attack | https://www.reuters.com/article/us-iag-cybercrime-british-airways/ba-apologizes-after-380000-customers-hit-in-cyber-attack-idUSKCN1LM2P6 | "The attackers obtained names, street addresses, email addresses, credit card numbers, expiration dates and card security codes." |
+| 8 | BA investigation into website hack reveals more victims | https://www.bbc.com/news/technology-45953237 | "77,000 customers had their name, address, email address and detailed payment information taken." |
+| 9 | British Airways fined £20m over data breach | https://www.bbc.com/news/technology-54568784 | "The Information Commissioner’s Office has fined British Airways £20m for a data breach which affected more than 400,000 customers." |
+| 10 | British Airways data-breach compensation claim settled | https://www.bbc.co.uk/news/technology-57734946 | "British Airways has settled a legal claim brought by customers whose personal and financial details were compromised." |
+
+
+I have a bit of python that goes through the csv files, downloads the page, extracts title and text and arguments the csv file with labels saying for example if the source 404s (because it’s fake), the title isn’t there, or the quote is misleading). 
+
+When I mark the case studies I have the pdf on one side of the screen and the sources spreadsheet on the other - I can see at a glance if the source supports the statement it is being used for.  I can also see at a glance if the work is an AI-hallucination. 
+
+Relevantly here are some results from a survey I gave the IY3501 cohort. 
+ 
+![survayiy3501](/assets/images/survayiy3501.png)
+
+⁰ I am aware BibTeX isn't a spreadsheet, but these are CS students and they can put a 'quote' field in a bibtex quite reasonably
