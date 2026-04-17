@@ -232,6 +232,7 @@ That's the  'e2 filesystem check'
 
 sudo resize2fs /dev/nvme1n1p1 600G
 This resizes the filesystem without changing the partition 
+Question - how can I tell how big the filesystem is? because it doesn't show on lsblk
 
 sudo parted /dev/nvme1n1
 'parted' is an interpreter of some sort where you type things to change the partitions. I successfully changed the existing partition down, but I nearly messed up adding one because I thought was defining the size while I was actually defining the start point(!) 

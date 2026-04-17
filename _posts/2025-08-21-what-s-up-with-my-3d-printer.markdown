@@ -69,6 +69,7 @@ What's happening there?
 
 * For a long time one of the print heads was making a funny noise when it tried to move. You can see/hear it making the funny noise [here](https://www.youtube.com/shorts/bfZnrtGzAPY). Eventually it got bad enough that it wasn't working for prints and then it got bad enough that the bed leveling wasn't working. The solution turned out to be 'oil the motor' - although I'm I suspect this is treating the symptom rather than the cause.
 * I had what I thought was a blocked nozzle because nothing was coming out. Actually there was a break in the filament that wasn't passing through the filament feeder. I think in actual fact the issue was that the break had broken 'square' and actually the thing needs to be cut at an angle to pass through. 
+* Prints were failing regularly until I started taking off the filament each time and storing it in an airtight container with some desiccant
 
 
 
