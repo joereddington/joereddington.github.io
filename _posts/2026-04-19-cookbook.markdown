@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Reddington Family Cookbook"
+date: "Sun Apr 19 07:33:51 +0100 2026"
+---
+
+When I started using cookbooks⁰ I would try to annotate the cookbook with my notes on the process: "too much for two people - reduce by 25%" or I'd change weights to volumes and that sort of thing. 
+
+Some years ago I bought a notebook for the kitchen: 
+
+![cookbook1](/assets/images/cookbook1.png)
+
+We started transferring the recipes we used a lot into the notebook (literally cutting them out of books or printing them from websites) along with various other notes for family recipes. You can see Kat's neat handwriting but causal relationship with amounts next to my unreadable yet precise recordings.  We call it the family cookbook. 
+
+![](/assets/images/cookbook2.png)
+
+It's been both extremely useful¹ use and also wonderful to see on the shelf it's all of our favourite foods.  
+
+
+However, we'd reached a point that the cookbook was getting difficult to use and I was constantly flipping through it looking for a nugget that I knew was in there somewhere. Recently I sat down to properly write it up as "Family Cookbook version 2. It's now properly organised it into sections with a table of contents, pictures, references, and all of the things that make it a document rather than a collection of notes. 
+
+![cookbook3](/assets/images/cookbook3.png)
+
+When I printed it out, it ended up about 40 pages long. It's got lots of space to be covered in more notes, and lots of space to have more things inserted into it and I look forward to making the next version in a year or so. It's already had Nova's first proper experiments with pancakes
+
+![](/assets/images/cookbook4.png)
+
+⁰ This was itself quite a leveling up - cookbooks are inherently for people who can already do quite a lot of cooking.
+¹ I can also use it to lookup the tempturareus of the ovens, the weights of various kitchen containers and so on.
