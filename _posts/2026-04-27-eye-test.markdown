@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Eye test"
+date: "Mon Apr 27 16:29:27 +0100 2026"
+---
+
+I have had an eye test. The last one I have a record of is 2020 so there has been some failure in my record keeping there. 
+
+![](/assets/images/eye-test.png)
+
+I may as well record it here to see if there is much change over the years. 
+
+## Historical records
+
+These are the older prescriptions I found in my SelectSpecs account.
+
+### 2020
+
+| Eye | SPH | CYL | AXIS | Inter. ADD | Near ADD | PD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Right | -0.75 | -0.50 | 80 | 0.00 | 0.00 | 63 |
+| Left | -1.50 | -0.50 | 115 | 0.00 | 0.00 |  |
+
+| Eye | Horizontal Prism | Base Direction | Vertical Prism | Base Direction |
+| --- | --- | --- | --- | --- |
+| Right (OD) | NONE | IN | NONE | UP |
+| Left (OS) | NONE | IN | NONE | UP |
+
+### 2013
+
+| Eye | SPH | CYL | AXIS | Inter. ADD | Near ADD | PD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Right | -1.00 | -0.50 | 80 | 0.00 | 0.00 | 63 |
+| Left | -1.50 | -0.25 | 107 | 0.00 | 0.00 |  |
+
+| Eye | Horizontal Prism | Base Direction | Vertical Prism | Base Direction |
+| --- | --- | --- | --- | --- |
+| Right (OD) | NONE | IN | NONE | UP |
+| Left (OS) | NONE | IN | NONE | UP |
+
+### 2011
+
+| Eye | SPH | CYL | AXIS | Inter. ADD | Near ADD | PD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Right | -0.50 | -0.25 | 80 | 0.00 | 0.00 | 63 |
+| Left | -1.00 | 0.00 | 0.00 | 0.00 | 0.00 |  |
+
+| Eye | Horizontal Prism | Base Direction | Vertical Prism | Base Direction |
+| --- | --- | --- | --- | --- |
+| Right (OD) | NONE | IN | NONE | UP |
+| Left (OS) | NONE | IN | NONE | UP |
