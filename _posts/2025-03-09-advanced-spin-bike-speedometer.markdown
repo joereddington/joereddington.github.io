@@ -20,17 +20,31 @@ I built my own speedometer that detects every time the wheel moves 1/60th of a r
 
 (this is for a stationary spin bike, I'd build something different for general riding) 
 
+Here is the sensor:  
+
+TODO
+
+Which I am extremely proud of.  It connects up to this Arduino (this is an Uno, but the final version is a Leonardo): 
+
+TODO 
+
+It works because I've put an alternating pattern of black and white segments onto the wheel. At the moment there are 60 segments. You can see the setup here:
+
+TODO ![A bike wheel as described](/assets/images/version3overview.png)
+
+It sends data (currently cadence, speed, and distance, even if two of these are arbitrary on a spin bike) to this unit that we have on the desk:  
+
+TODO
+
+...which is less attractive, but will get a housing shortly.  
+
+
+
+![Display unit](/assets/images/sensorblack2.png)
+
 Here is the rig: 
 
 ![](/assets/images/sensorblack1.png)
-
-It's an IR sensor hooked up to an Arduino Leonardo (actually the picture is an Uno, I've since replaced it).  It works because I've put an alternating pattern of black and white segments onto the wheel. At the moment there are 60 segments. You can see the setup here:
-
-![A bike wheel as described](/assets/images/version3overview.png)
-
-It sends data (currently cadence, speed, and distance, even if two of these are arbitrary on a spin bike) to this display that we have on the desk:  
-
-![Display unit](/assets/images/sensorblack2.png)
 
 I had to learn (and re-learn) an awful lot for this project. Before I started I didn't know anything about 3D printing (the sensor cover and the display cover are both 3D printed designs), soldering (all the wires on the display), or even what crimping was (it's getting wires the right size and using odd tools to lock them into holders). I didn't know anything about an Arduino other than I could make it blink an LED at me and all my electronics was roughly remembered teenage taking-things-apart.  I did at least know the maths and the C++ one needs to program an Arduino, but everything else has been a serious upskilling.  
 
@@ -44,12 +58,7 @@ I had to learn (and re-learn) an awful lot for this project. Before I started I 
 | Magnetic segment pattern printing                                                                       | £20.00   | 1                | 1                |
 | **Total**                                                                                                | **£51.93** |                  |                  |
 
-
-
-## Equipment
-* Wood, glue, and saw to make the housing 
-* Wires
-* Either crimping kit or soldering iron 
+This parts list is now hilariously out of date because I keep buying all manner of wires and tools and stripping down old things and then buying things on the off chance.  Right now it's missing buttons, a speaker, and some perfboard but... 
 
 
 # History 
@@ -72,7 +81,7 @@ I made a simple stand out of scrap wood in the garage¹ and built this:
 
 ![In Place](/assets/images/arduino4.png)
 
-My test pilot got it up to 7.5 rotations per second so was functioning. It registers the speed accurately at low speeds, which a consumer system doesn't do and detects acceleration and deceleration much earlier. 
+My test pilot got it up to 7.5 rotations per second so was functioning. It registered the speed accurately at low speeds, which a consumer system doesn't do and detects acceleration and deceleration much earlier. 
 
 
 ## Version 2 
@@ -80,7 +89,7 @@ I took it apart and spray painted the stand.
 
 ![speedospraypaint](/assets/images/speedospraypaint.png) 
 
-I refitted the IR sensor, screwed it on properly rather than using an elastic band, and 3D printed a simple cover for it.  I bought myself a [crimping kit](https://www.amazon.co.uk/dp/B07S1SDKSC?ref=ppx_yo2ov_dt_b_fed_asin_title) and tidied up all the wires. 
+I refitted the IR sensor, screwed it on properly rather than using an elastic band, and then 3D printed a simple cover for it.  I bought myself a [crimping kit](https://www.amazon.co.uk/dp/B07S1SDKSC?ref=ppx_yo2ov_dt_b_fed_asin_title) and tidied up all the wires. 
  
 The previous version required the laptop there all the time. That was fine for me but my partner is training for a triathlon. I 3D printed [a housing for an LCD display](https://www.thingiverse.com/thing:614241) and worked out how to display things with it.  
 
@@ -112,16 +121,44 @@ The spin bike came with a very basic speedometer attached, and I took a look at 
 * I added a buzzer for when cadence got too low so I can now use that to keep my cadence up on PS4 games. However it's currently far too quiet so that will improve in the next big retool. 
 * General improvements to the code: mostly improving performance by letting the code follow the maths. 
 
+
+# Version 5 - ground-up rebuild. 
+There is now a version 5 of the Vicious Cycle Sensor and Software. 
+
+Compared to the previous version, the main upgrades are: 
+* A (loud) alarm that goes off when the user's cadence drops below a certain level. 
+* Controls to switch the alarm on and off and change the levels.
+* much more reliable sensor input  
+
+The system is also now in two distinct parts. A sensor unit that magnetically attaches to the frame and a user-unit that sits on the desk. 
+
+...and that's it. But it was really a lot of work. Adding four components (three buttons and a speaker) enormously complicated things for me. 
+
+Usability has improved greatly. I don't have to bring my laptop in when I want to change any settings, the system doesn't go wrong anything like as often, and the cadence alarm is extremely good at keeping me on track. 
+
+At the moment, the control centre looks ugly, and that will need to be addressed, but I want to do some other projects and upskill before coming back to it.   
+
+One of the things I'm most proud of is form factor for the sensor.  It used to look like this: 
+
+
+Which is to say it was a bit of wood leaning vaguely against the wheel and would frequently be knocked about or have to be propped up by something.  I took a design from Thingverse, did some design work in blender: 
+
+
+
+produced a bunch of prototypes, 
+
+
+
+...and eventually came up with this, which attaches to the frame with magnets and can use the bolts to minutely adjust the distance (and angle, although I didn't design for that) between the sensor and the wheel. I love it. 
+
+
+# Version 6 
+Version 6 is right now looking quite 'next spring'.  There are also other bike related things that I want to look at before making Version 6. I want to look at (adjustable) magnetic resistance (hell, if I want to be super ambitious I could look at controlling it automatically, setting up a Raspberry Pi for [making my retro gaming more directly controllable].  There are various gaming setup things to spend time on (A Steam box, a bigger screen)    
+
+That said, there is a 5b version which involves putting the main unit in a proper housing, redoing some of the poor quality soldering on the sensor unit and generally making it look more pretty.  
+
 # Next version 
-* Gentle improvements to the display - right now the numbers aren't even left padded and it would be good to cycle though various metrics.  
-* Improvements to the volume of the alarm. 
-* A custom housing that mounts to the bike itself (this is delayed by 3d printer problems)  
-
-...but the return on investment is relatively low compared to working more on the gaming setup. 
-
-# Version after that. 
-
-* Increasing the number of segments on the flywheel - I currently get about 2.5 readings in a segment when pedalling quickly and that means there is some wriggle room. 
+The stuff in Version 6 is already quite dreamy.  At somepoint I will admit I've taken this particular spin bike as far as it can go (I didn't mention that I had replaced the pedals). I should probably upgrade to a more study frame with a heavier flywheel. I've also long wondered about the effectiveness of having more than one sensor on the wheel (I don't think it would be any use for the user, but it would be fun) or even going as far as a full TODO system.  There's also a version of this that would work on a seated bike, which would be more comfortable but I don't know. If I wanted to jjjj
 
 
 ⁰ I've actually got a set of suitable magnets so I might do a test another day.
