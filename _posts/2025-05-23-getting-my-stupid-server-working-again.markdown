@@ -4,13 +4,13 @@ title: "Getting my stupid server working again."
 date: "Fri May 23 09:26:10 +0100 2025"
 ---
 
-This is a stream-of-consciousness set of notes for next time I have to do this job. Completely lacking interest to anyone unless you are googling the exact same errors I had...  
+This is a stream-of-consciousness set of notes for next time I have to do this job. Completely lacking interest to anyone unless you are googling the exact same errors I had...
 
 The website and IMPS writing platform for White Water Writers (https://www.whitewaterwriters.com/) is hosted on an EC2 instance.
 
-To save money over the winter I paused the instance and switched the website over to GitHub Pages. I now need to get it up and running again for a camp next week.  
+To save money over the winter I paused the instance and switched the website over to GitHub Pages. I now need to get it up and running again for a camp next week.
 
-I rebooted the EC2 instance and  edited the A record in Route 53 to point to the correct IP address (13.40.0.39) and removed the CNAME record that github wanted.  I can now ssh into the server with `ssh www' rather than the more complex 
+I rebooted the EC2 instance and  edited the A record in Route 53 to point to the correct IP address (13.40.0.39) and removed the CNAME record that github wanted.  I can now ssh into the server with `ssh www' rather than the more complex
 
 
 
@@ -18,7 +18,7 @@ I rebooted the EC2 instance and  edited the A record in Route 53 to point to the
 ssh -i ~/.ssh/Webserver1-keypair.pem ec2-user@13.40.0.39
 ```
 
-The nginx server is running: 
+The nginx server is running:
 
 ```
 [ec2-user@ip-172-31-26-130 ~]$ sudo systemctl status nginx
@@ -37,12 +37,12 @@ May 23 08:22:38 ip-172-31-26-130.eu-west-2.compute.internal nginx[5711]: nginx: 
 May 23 08:22:38 ip-172-31-26-130.eu-west-2.compute.internal nginx[5711]: nginx: configuration file /etc/nginx/nginx.co...ul
 May 23 08:22:38 ip-172-31-26-130.eu-west-2.compute.internal systemd[1]: Started The nginx HTTP and reverse proxy server.
 Hint: Some lines were ellipsized, use -l to show in full.
-[ec2-user@ip-172-31-26-130 ~]$ 
+[ec2-user@ip-172-31-26-130 ~]$
 ```
 
 ...but it is not showing me a website at https://whitewaterwriters.com
 
-I have done some checking: 
+I have done some checking:
 
 ```
 joe@JoeTower:~$ curl -I http://13.40.0.39
@@ -68,7 +68,7 @@ verify return:1
 
 
 ```
-and on the server: 
+and on the server:
 
 
 ```
@@ -84,13 +84,13 @@ and on the server:
 /etc/nginx/nginx.conf:        root /usr/share/nginx/html/whitewaterwriters-site/_site/;
 ```
 
-Okay, it turned out that the answer was: 
+Okay, it turned out that the answer was:
 
-"You need to create a cname from www.whitewaterwriters.com to whitewaterwriters.com" 
+"You need to create a cname from www.whitewaterwriters.com to whitewaterwriters.com"
 
-...which is fine. 
+...which is fine.
 
-Okay, the site is up and running. Great.  However, Etherpad seems really slow.  I investigate and python is using a lot of resources: 
+Okay, the site is up and running. Great.  However, Etherpad seems really slow.  I investigate and python is using a lot of resources:
 
 ```
 ps -eo pid,comm,user,%cpu,%mem,cmd --sort=-%cpu | grep python
@@ -107,19 +107,18 @@ ps -eo pid,comm,user,%cpu,%mem,cmd --sort=-%cpu | grep python
  2883 gunicorn        ec2-user  0.0  1.1 /usr/share/nginx/html/supertitle/venv/bin/python3 /usr/share/nginx/html/supertitle/venv/bin/gunicorn -b localhost:8000 main:app
  3119 gunicorn        ec2-user  0.0  1.4 /usr/share/nginx/html/supertitle/venv/bin/python3 /usr/share/nginx/html/supertitle/venv/bin/gunicorn -b localhost:8000 main:app
 26133 grep            ec2-user  0.0  0.0 grep --color=auto python
-[ec2-user@ip-172-31-26-130 ~]$ 
+[ec2-user@ip-172-31-26-130 ~]$
 ```
 
-In particuar, the updating of books is a problem. 
+In particular, the updating of books is a problem.
 
-I kill those processes and update manually.  Update_books.py does indeed take a long time. Currently (I've never needed to optimise for time before) whenever it updates a book it loads a database containing _every single previous book_ into memory, updates a book, and then saves it again.  It does that process for every book in the 'current books' list and it runs through the current books list every five minutes. 
+I kill those processes and update manually.  Update_books.py does indeed take a long time. Currently (I've never needed to optimise for time before) whenever it updates a book it loads a database containing _every single previous book_ into memory, updates a book, and then saves it again.  It does that process for every book in the 'current books' list and it runs through the current books list every five minutes.
 
-I fixed the more obvious problems with that and commited the code (on production, which I'm a little worried about) 
+I fixed the more obvious problems with that and commited the code (on production, which I'm a little worried about)
 
 
 
-  After I put in some print statements (I should have profiled properly but now isn't the time) I discover that there is a big delay opening the 'books.json' database.  Part of the problem appeared to be the 6.0M books.json file (I feel like that is too small to cause a problem but I should probably check the code. 
-
+  After I put in some print statements (I should have profiled properly but now isn't the time) I discovered that there is a big delay opening the 'books.json' database. Part of the problem appeared to be the 6.0M `books.json` file (I feel like that is too small to cause a problem, but I should probably check the code).
 
 
 

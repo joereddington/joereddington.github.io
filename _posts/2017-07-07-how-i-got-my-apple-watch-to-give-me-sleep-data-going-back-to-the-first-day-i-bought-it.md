@@ -9,7 +9,7 @@ So that's the problem.  Now let me show you my a week of my Google Calendar fro
 
 &nbsp;
 
-![Alt text](http://joereddington.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-21-at-16.13.20.png) 
+![Alt text](http://joereddington.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-21-at-16.13.20.png)
 
 The green events are when I'm asleep, the purple ones are when I'm cycling, and the pink ones are when I'm using public transport.
 
@@ -17,7 +17,7 @@ That week I was working in Bounds Green on a very tiring project for [whitewate
 
 Here's the cool thing - I didn't collect any of that data on purpose.  I wasn't tracking my sleep, or my movement, or anything else at this sort of detail. All of those events where automatically generated for me, after the fact.
 
-The cycling appears on the calendar via the wonderful [StravaICAL](http://stravical.appspot.com/), and the other transport information comes in via some other code I wrote that imports [my Oyster records](http://joereddington.com/4462/2014/11/12/importing-oyster-card-records-into-google-calendar/). I'm going to use this post to tell you about how I managed to us my Apple Watch to give me sleep data going back more than a year to the first day  bought the watch.  This post is going to talk about how I did it, how you can do it, and what I learned from the process.
+The cycling appears on the calendar via the wonderful [StravaICAL](http://stravical.appspot.com/), and the other transport information comes in via some other code I wrote that imports [my Oyster records](http://joereddington.com/4462/2014/11/12/importing-oyster-card-records-into-google-calendar/). I'm going to use this post to tell you about how I managed to use my Apple Watch to give me sleep data going back more than a year to the first day I bought the watch.  This post is going to talk about how I did it, how you can do it, and what I learned from the process.
 
 ## How I got the old information
 
@@ -33,7 +33,7 @@ I tried to see if there was any way I could regularly export the 'lock' and 'unl
 
 No luck there either.
 
-However, I did discover something I could export.  My heart rate data.  Every ten minutes the watch takes a measurement of my heartrate. If it's not on my wrist, then there is no measurement.
+However, I did discover something I could export.  My heart rate data.  Every ten minutes the watch takes a measurement of my heart rate. If it's not on my wrist, then there is no measurement.
 
 I used the app [QS Access](https://itunes.apple.com/gb/app/qs-access/id920297614?mt=8) (app store link) to give me the file.  The process is: open app, press the 'i' by 'heart rate', choose 'tabulate all samples' and export the file to Dropbox.   It saved as 'Heart rate.csv'.
 
