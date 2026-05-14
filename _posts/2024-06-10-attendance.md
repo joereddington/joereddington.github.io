@@ -103,3 +103,7 @@ This work was made possible by guidance from Professor Peter Komisarczuk, my aca
 Mohammed, M.S. and Zidan, K.A., 2023. Enhancing attendance tracking using animated QR codes: a case study. *Indonesian Journal of Electrical Engineering and Computer Science*, 31(3), p.1716.
 
 Imanullah, M. and Reswan, Y., 2022. Randomized QR-code scanning for a low-cost secured attendance system. *International Journal of Electrical and Computer Engineering*, 12(4), pp.3762-3769.
+
+⁰ In a recent presentation I also claimed that the increase in attendance was due to me making my lectures very interactive so I probably need to get a bit more evidence for that...
+
+¹ Worst. Date. Ever.
