@@ -69,6 +69,8 @@ What's happening there?
 I have this issue when I try and use the duplication mode.
 ![duplicaitonomde](/assets/images/duplicaitonomde.png)
 
+...and when I investigate it I can see that the left is lower than the right. Actually I can see that there is a significant gap on the left side, I know one of the hotheads was replaced before I got it so perhaps something went wrong there. 
+
 # Solved problems 
 
 * For a long time one of the print heads was making a funny noise when it tried to move. You can see/hear it making the funny noise [here](https://www.youtube.com/shorts/bfZnrtGzAPY). Eventually it got bad enough that it wasn't working for prints and then it got bad enough that the bed leveling wasn't working. The solution turned out to be 'oil the motor' - although I'm I suspect this is treating the symptom rather than the cause.
