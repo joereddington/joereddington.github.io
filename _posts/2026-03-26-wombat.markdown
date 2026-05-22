@@ -6,10 +6,13 @@ date: "Thu Mar 26 12:56:33 +0000 2026"
 
 This year I tried something in IY3501 that I am tentatively calling WOMBAT.
 
-The problem it was meant to address was simple enough. Generative AI makes it much easier for students to produce plausible-looking references that are incomplete, inaccurate, or simply invented. The more subtle problem is that students  assume that staff are too busy to check the references in reports. 
 
+# Problems I'm trying to solve
+* Generative AI makes it much easier for students to produce plausible-looking references that are incomplete, inaccurate, or simply invented. 
+* More subtly problem is that students  assume that staff are too busy to check the references in reports, regardless if they are genAI or just randomly put in. 
 
-Instead of submitting a list of sources at the end of their coursework, students submit a spreadsheet. In practice that file can be CSV, XLSX, Numbers, or BibTeX⁰, but the core idea is the same. For each source, they provide the link and the quotation from that source that supports the way they are using it.
+# The process
+Instead of submitting a list of sources at the end of their coursework, students submit a spreadsheet. In practice, that file can be CSV, XLSX, Numbers, or BibTeX⁰, but the core idea is the same. For each source, they provide the link and a quotation from that source that supports the way they are using it.
 
 
 Here's an example table I gave the students. It has four columns: reference number, title, URL or DOI, and quote. Here is the same structure in Markdown:
@@ -28,7 +31,7 @@ Here's an example table I gave the students. It has four columns: reference numb
 | 10 | British Airways data-breach compensation claim settled | https://www.bbc.co.uk/news/technology-57734946 | "British Airways has settled a legal claim brought by customers whose personal and financial details were compromised." |
 
 
-I have a bit of python that goes through the csv files, downloads the page, extracts title and text and arguments the csv file with labels saying for example if the source 404s (because it’s fake), the title isn’t there, or the quote is misleading). 
+I have a Python script that goes through the CSV files, downloads the page, extracts title and text and then creates a new CSV file that includes the original content, augmented with labels saying for example if the source 404s (because it’s fake), the title isn’t there, or the quote is misleading). 
 
 When I mark the case studies I have the pdf on one side of the screen and the sources spreadsheet on the other - I can see at a glance if the source supports the statement it is being used for.  I can also see at a glance if the work is an AI-hallucination. 
 
