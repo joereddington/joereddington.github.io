@@ -40,3 +40,14 @@ Relevantly here are some results from a survey I gave the IY3501 cohort.
 ![survayiy3501](/assets/images/survayiy3501.png)
 
 ⁰ I am aware BibTeX isn't a spreadsheet, but these are CS students and they can put a 'quote' field in a bibtex quite reasonably
+
+# LaTeX example
+
+For students who wanted to use LaTeX, I provided an example with the references in BibTeX and a bibliography style for WOMBAT. The files are here:
+
+* [LaTeX source](/assets/latexexample-rhul.tex)
+* [BibTeX references](/assets/refs.bib)
+* [Bibliography style](/assets/rhul.bst)
+* [Compiled PDF](/assets/latexexample-rhul.pdf)
+
+Keep the three source files in the same folder if you want to try it yourself.
