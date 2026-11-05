@@ -9,7 +9,7 @@ This year I tried something in IY3501 that I am tentatively calling WOMBAT.
 
 # Problems I'm trying to solve
 * Generative AI makes it much easier for students to produce plausible-looking references that are incomplete, inaccurate, or simply invented. 
-* More subtly problem is that students  assume that staff are too busy to check the references in reports, regardless if they are genAI or just randomly put in. 
+* More subtly, the problem is that students  assume that staff are too busy to check the references in reports, regardless if they are genAI or just randomly put in. 
 
 # The process
 Instead of submitting a list of sources at the end of their coursework, students submit a spreadsheet. In practice, that file can be CSV, XLSX, Numbers, or BibTeX⁰, but the core idea is the same. For each source, they provide the link and a quotation from that source that supports the way they are using it.

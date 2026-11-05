@@ -12,7 +12,8 @@ During a lecture I show the students a QR code that contains a link to a form. T
 2. How many people are sitting to your right?
 3. How many rows are in front of you?
 
-...which is sufficient information for CASPER to build a map of the lecture room and note any anomalous results.
+...which is sufficient information for CASPER to build a map of the lecture room and note any anomalous results⁰
+
 
 # A Worked Example
 Consider the following data for row 3 of a fictional lecture:
@@ -107,3 +108,4 @@ Imanullah, M. and Reswan, Y., 2022. Randomized QR-code scanning for a low-cost s
 ⁰ In a recent presentation I also claimed that the increase in attendance was due to me making my lectures very interactive so I probably need to get a bit more evidence for that...
 
 ¹ Worst. Date. Ever.
+⁰ The algorithm for doing so is extremely subtle and complex and hasn't been shared anywhere yet. It's easy to do naively, but very hard to do for large groups where you have to compensate for many errors and also identify anomolous results.
